@@ -21,36 +21,19 @@ Documentacao: https://datajud-wiki.cnj.jus.br/api-publica/
 
 import argparse
 import json
-import os
 import re
-import sys
 import time
 from datetime import datetime
 from pathlib import Path
 
 import requests
-from dotenv import load_dotenv
-
-# Carrega as variaveis do arquivo .env (se existir) para o ambiente
-load_dotenv()
 
 # ===============================
-# CONFIG (variaveis de ambiente)
+# CONFIG
 # ===============================
-# A chave da API NAO fica hardcoded aqui: vem de DATAJUD_API_KEY no .env
-# (ou nas variaveis de ambiente do sistema).
-API_KEY = os.getenv("DATAJUD_API_KEY")
-TRIBUNAL_ALIAS = os.getenv("DATAJUD_TRIBUNAL_ALIAS", "api_publica_tjsp")  # TJSP - Tribunal de Justica de Sao Paulo
-BASE_URL = os.getenv(
-    "DATAJUD_BASE_URL",
-    f"https://api-publica.datajud.cnj.jus.br/{TRIBUNAL_ALIAS}/_search",
-)
-
-if not API_KEY:
-    print("[ERRO] Variavel DATAJUD_API_KEY nao definida.")
-    print("       Copie .env.example para .env e preencha com sua chave, ou")
-    print("       exporte a variavel no ambiente do sistema.")
-    sys.exit(1)
+API_KEY = "cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw=="
+TRIBUNAL_ALIAS = "api_publica_tjsp"  # TJSP - Tribunal de Justica de Sao Paulo
+BASE_URL = f"https://api-publica.datajud.cnj.jus.br/{TRIBUNAL_ALIAS}/_search"
 
 OUTPUT_DIR = Path("outputs_json")
 CHECKPOINT_DIR = Path("checkpoints")
