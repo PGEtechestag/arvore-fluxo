@@ -1,0 +1,461 @@
+{
+    "took": 10195,
+    "timed_out": false,
+    "_shards": {
+        "total": 20,
+        "successful": 20,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 1,
+            "relation": "eq"
+        },
+        "max_score": 14.654409,
+        "hits": [
+            {
+                "_index": "api_publica_tjsp",
+                "_id": "TJSP_G1_10046481220218260053",
+                "_score": 14.654409,
+                "_source": {
+                    "numeroProcesso": "10046481220218260053",
+                    "classe": {
+                        "codigo": 156,
+                        "nome": "Cumprimento de sentença"
+                    },
+                    "sistema": {
+                        "codigo": 3,
+                        "nome": "SAJ"
+                    },
+                    "formato": {
+                        "codigo": 1,
+                        "nome": "Eletrônico"
+                    },
+                    "tribunal": "TJSP",
+                    "dataHoraUltimaAtualizacao": "2026-04-15T11:05:45.963000Z",
+                    "grau": "G1",
+                    "@timestamp": "2026-04-15T11:05:45.963000Z",
+                    "dataAjuizamento": "20210128120949",
+                    "movimentos": [
+                        {
+                            "complementosTabelados": [
+                                {
+                                    "codigo": 2,
+                                    "valor": 4,
+                                    "nome": "dependência",
+                                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                                }
+                            ],
+                            "codigo": 26,
+                            "nome": "Distribuição",
+                            "dataHora": "2021-01-28T13:35:09.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "complementosTabelados": [
+                                {
+                                    "codigo": 3,
+                                    "valor": 6,
+                                    "nome": "para decisão",
+                                    "descricao": "tipo_de_conclusao"
+                                }
+                            ],
+                            "codigo": 51,
+                            "nome": "Conclusão",
+                            "dataHora": "2021-01-28T14:00:31.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 272,
+                            "nome": "A depender do julgamento de outra causa, de outro juízo ou declaração incidente",
+                            "dataHora": "2021-01-29T15:40:11.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "complementosTabelados": [
+                                {
+                                    "codigo": 4,
+                                    "valor": 107,
+                                    "nome": "Certidão",
+                                    "descricao": "tipo_de_documento"
+                                }
+                            ],
+                            "codigo": 60,
+                            "nome": "Expedição de documento",
+                            "dataHora": "2021-05-04T21:11:13.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2021-05-05T19:14:31.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "complementosTabelados": [
+                                {
+                                    "codigo": 4,
+                                    "valor": 107,
+                                    "nome": "Certidão",
+                                    "descricao": "tipo_de_documento"
+                                }
+                            ],
+                            "codigo": 60,
+                            "nome": "Expedição de documento",
+                            "dataHora": "2021-05-05T19:14:50.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "complementosTabelados": [
+                                {
+                                    "codigo": 4,
+                                    "valor": 107,
+                                    "nome": "Certidão",
+                                    "descricao": "tipo_de_documento"
+                                }
+                            ],
+                            "codigo": 60,
+                            "nome": "Expedição de documento",
+                            "dataHora": "2021-05-17T17:02:10.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "complementosTabelados": [
+                                {
+                                    "codigo": 18,
+                                    "valor": 40,
+                                    "nome": "outros motivos",
+                                    "descricao": "motivo_da_remessa"
+                                }
+                            ],
+                            "codigo": 123,
+                            "nome": "Remessa",
+                            "dataHora": "2021-05-18T09:59:22.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 92,
+                            "nome": "Publicação",
+                            "dataHora": "2021-05-19T22:07:46.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 272,
+                            "nome": "A depender do julgamento de outra causa, de outro juízo ou declaração incidente",
+                            "dataHora": "2022-12-07T15:37:11.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "complementosTabelados": [
+                                {
+                                    "codigo": 18,
+                                    "valor": 40,
+                                    "nome": "outros motivos",
+                                    "descricao": "motivo_da_remessa"
+                                }
+                            ],
+                            "codigo": 123,
+                            "nome": "Remessa",
+                            "dataHora": "2022-12-08T02:31:47.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 92,
+                            "nome": "Publicação",
+                            "dataHora": "2022-12-09T05:00:56.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2023-05-26T16:17:37.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2023-10-24T02:41:55.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2023-11-28T01:52:50.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2023-12-13T03:37:06.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2024-02-18T19:27:56.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2024-05-07T22:08:19.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2024-05-22T03:02:58.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "complementosTabelados": [
+                                {
+                                    "codigo": 18,
+                                    "valor": 40,
+                                    "nome": "outros motivos",
+                                    "descricao": "motivo_da_remessa"
+                                }
+                            ],
+                            "codigo": 123,
+                            "nome": "Remessa",
+                            "dataHora": "2024-05-22T05:37:54.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 92,
+                            "nome": "Publicação",
+                            "dataHora": "2024-05-23T11:26:00.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2024-11-01T22:36:05.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2025-02-23T23:00:47.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2025-06-26T16:39:00.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "complementosTabelados": [
+                                {
+                                    "codigo": 3,
+                                    "valor": 6,
+                                    "nome": "para decisão",
+                                    "descricao": "tipo_de_conclusao"
+                                }
+                            ],
+                            "codigo": 51,
+                            "nome": "Conclusão",
+                            "dataHora": "2025-08-22T12:58:40.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 12164,
+                            "nome": "Outras Decisões",
+                            "dataHora": "2025-08-22T15:04:07.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "complementosTabelados": [
+                                {
+                                    "codigo": 18,
+                                    "valor": 40,
+                                    "nome": "outros motivos",
+                                    "descricao": "motivo_da_remessa"
+                                }
+                            ],
+                            "codigo": 123,
+                            "nome": "Remessa",
+                            "dataHora": "2025-08-22T16:39:21.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 92,
+                            "nome": "Publicação",
+                            "dataHora": "2025-08-25T07:51:10.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2025-09-28T14:40:04.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2025-10-26T05:00:11.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 11383,
+                            "nome": "Ato ordinatório",
+                            "dataHora": "2026-01-16T21:09:50.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "complementosTabelados": [
+                                {
+                                    "codigo": 4,
+                                    "valor": 107,
+                                    "nome": "Certidão",
+                                    "descricao": "tipo_de_documento"
+                                }
+                            ],
+                            "codigo": 60,
+                            "nome": "Expedição de documento",
+                            "dataHora": "2026-03-11T15:31:01.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "complementosTabelados": [
+                                {
+                                    "codigo": 4,
+                                    "valor": 107,
+                                    "nome": "Certidão",
+                                    "descricao": "tipo_de_documento"
+                                }
+                            ],
+                            "codigo": 60,
+                            "nome": "Expedição de documento",
+                            "dataHora": "2026-03-11T16:54:07.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        },
+                        {
+                            "codigo": 245,
+                            "nome": "Provisório",
+                            "dataHora": "2026-03-11T16:54:10.000Z",
+                            "orgaoJulgador": {
+                                "codigo": "10564",
+                                "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                            }
+                        }
+                    ],
+                    "id": "TJSP_G1_10046481220218260053",
+                    "nivelSigilo": 0,
+                    "orgaoJulgador": {
+                        "codigoMunicipioIBGE": null,
+                        "codigo": 10564,
+                        "nome": "13 FAZENDA PUBLICA DE CENTRAL"
+                    },
+                    "assuntos": [
+                        {
+                            "codigo": 10671,
+                            "nome": "Obrigação de Fazer / Não Fazer"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
