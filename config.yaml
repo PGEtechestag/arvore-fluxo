@@ -1,0 +1,17 @@
+tribunal: TJSP
+anos:
+  - 2023
+  - 2024
+  - 2025
+  - 2026
+entrada: "C:/Users/marli/Downloads/8ª Vara de Fazenda Pública-20260807T113247Z-1-001/8ª Vara de Fazenda Pública" # pode ser substituída por --entrada
+saida: "C:/Users/marli/Downloads/8ª Vara de Fazenda Pública-20260807T113247Z-1-001/Outputs" # pode ser substituída por --saida
+
+datajud:
+  # Configurar via variável de ambiente DATAJUD_API_KEY (recomendado por segurança)
+  api_key_env: DATAJUD_API_KEY
+  base_url: "https://api-publica.datajud.cnj.jus.br"
+  page_size: 100
+  timeout_seconds: 30
+  max_attempts: 5
+  retry_seconds: 3
