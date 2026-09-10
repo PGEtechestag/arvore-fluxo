@@ -1,0 +1,8501 @@
+{
+  "Anulação de Débito Fiscal": {
+    "n_processos": 261,
+    "media_posicoes": 22.9,
+    "mediana_posicoes": 20,
+    "primeiro_movimento": {
+      "Execução/Cumprimento de Sentença Iniciada (o)": 71,
+      "Distribuição": 69,
+      "Recebimento": 53,
+      "Conclusão + Execução/Cumprimento de Sentença Iniciada (o)": 18,
+      "Conclusão + Distribuição": 10,
+      "Outras Decisões + Conclusão + Distribuição": 6,
+      "Conclusão + Recebimento": 3,
+      "Petição + Distribuição": 3,
+      "Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o)": 3,
+      "Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Recebimento": 2,
+      "Conclusão + Expedição de documento + Distribuição": 2,
+      "Liminar + Conclusão + Distribuição": 2
+    },
+    "ultimo_movimento": {
+      "Publicação": 53,
+      "Expedição de documento": 52,
+      "Ato ordinatório": 47,
+      "Petição": 21,
+      "Conclusão": 17,
+      "Remessa + Expedição de documento": 15,
+      "Definitivo + Expedição de documento": 11,
+      "Remessa": 8,
+      "Execução/Cumprimento de Sentença Iniciada (o)": 6,
+      "Expedição de documento + Ato ordinatório": 6,
+      "Expedição de documento + Trânsito em julgado": 6,
+      "Conclusão + Decurso de Prazo": 4
+    },
+    "transicoes_top": [
+      [
+        [
+          "Remessa",
+          "Publicação"
+        ],
+        506
+      ],
+      [
+        [
+          "Publicação",
+          "Expedição de documento"
+        ],
+        416
+      ],
+      [
+        [
+          "Expedição de documento",
+          "Petição"
+        ],
+        219
+      ],
+      [
+        [
+          "Publicação",
+          "Petição"
+        ],
+        200
+      ],
+      [
+        [
+          "Expedição de documento",
+          "Expedição de documento"
+        ],
+        138
+      ],
+      [
+        [
+          "Petição",
+          "Conclusão"
+        ],
+        123
+      ],
+      [
+        [
+          "Petição",
+          "Expedição de documento"
+        ],
+        120
+      ],
+      [
+        [
+          "Expedição de documento",
+          "Ato ordinatório"
+        ],
+        104
+      ],
+      [
+        [
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa"
+        ],
+        102
+      ],
+      [
+        [
+          "Expedição de documento + Remessa",
+          "Publicação"
+        ],
+        86
+      ],
+      [
+        [
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        85
+      ],
+      [
+        [
+          "Expedição de documento + Outras Decisões",
+          "Remessa"
+        ],
+        77
+      ],
+      [
+        [
+          "Expedição de documento",
+          "Conclusão"
+        ],
+        57
+      ],
+      [
+        [
+          "Petição",
+          "Ato ordinatório"
+        ],
+        56
+      ],
+      [
+        [
+          "Conclusão",
+          "Expedição de documento + Outras Decisões"
+        ],
+        56
+      ],
+      [
+        [
+          "Petição",
+          "Expedição de documento + Outras Decisões + Conclusão"
+        ],
+        54
+      ],
+      [
+        [
+          "Petição",
+          "Petição"
+        ],
+        50
+      ],
+      [
+        [
+          "Expedição de documento",
+          "Conclusão + Petição"
+        ],
+        42
+      ],
+      [
+        [
+          "Ato ordinatório",
+          "Remessa"
+        ],
+        40
+      ],
+      [
+        [
+          "Publicação",
+          "Expedição de documento + Ato ordinatório"
+        ],
+        40
+      ],
+      [
+        [
+          "Publicação",
+          "Ato ordinatório"
+        ],
+        36
+      ],
+      [
+        [
+          "Ato ordinatório",
+          "Petição"
+        ],
+        36
+      ],
+      [
+        [
+          "Remessa + Expedição de documento + Outras Decisões",
+          "Publicação"
+        ],
+        33
+      ],
+      [
+        [
+          "Petição + Remessa",
+          "Publicação"
+        ],
+        33
+      ],
+      [
+        [
+          "Expedição de documento + Ato ordinatório",
+          "Remessa"
+        ],
+        30
+      ]
+    ],
+    "caminhos_top": [
+      {
+        "seq": [
+          "Execução/Cumprimento de Sentença Iniciada (o)",
+          "Expedição de documento + Mero expediente + Petição + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Definitivo + Expedição de documento"
+        ],
+        "n": 4,
+        "pct": 1.5
+      },
+      {
+        "seq": [
+          "Execução/Cumprimento de Sentença Iniciada (o)"
+        ],
+        "n": 4,
+        "pct": 1.5
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Protocolo de Petição",
+          "Expedição de documento",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 2,
+        "pct": 0.8
+      },
+      {
+        "seq": [
+          "Execução/Cumprimento de Sentença Iniciada (o)",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Petição",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Ato ordinatório",
+          "Expedição de documento",
+          "Recebimento",
+          "Ato ordinatório",
+          "Conclusão + Expedição de documento",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Conclusão + Expedição de documento",
+          "Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença",
+          "Publicação",
+          "Expedição de documento"
+        ],
+        "n": 2,
+        "pct": 0.8
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Petição",
+          "Expedição de precatório/rpv + Conclusão",
+          "Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa",
+          "Publicação",
+          "Expedição de documento + Ato ordinatório",
+          "Petição",
+          "Expedição de documento + Ato ordinatório",
+          "Expedição de documento",
+          "Petição"
+        ],
+        "n": 2,
+        "pct": 0.8
+      },
+      {
+        "seq": [
+          "Expedição de documento + Mero expediente + Petição + Conclusão + Execução/Cumprimento de Sentença Iniciada (o)",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Definitivo + Expedição de documento"
+        ],
+        "n": 2,
+        "pct": 0.8
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Conclusão + Expedição de documento + Documento",
+          "Protocolo de Petição + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Remessa",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Petição",
+          "Remessa + Expedição de documento + Ato ordinatório",
+          "Publicação",
+          "Ato ordinatório",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Conclusão",
+          "Enviada ao Tribunal + Expedição de documento + Outras Decisões",
+          "Protocolo de Petição",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Ato ordinatório",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Remessa",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Recebimento",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Remessa",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Petição",
+          "Ato ordinatório",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv + Conclusão",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Ato ordinatório",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão",
+          "Protocolo de Petição + Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Remessa",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Conclusão + Expedição de documento + Documento",
+          "Protocolo de Petição + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Ato ordinatório + Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Execução/Cumprimento de Sentença Iniciada (o)",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Petição",
+          "Conclusão",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Recebimento",
+          "Conclusão + Expedição de documento",
+          "Expedição de documento + Outras Decisões",
+          "Publicação + Remessa",
+          "Ato ordinatório",
+          "Expedição de documento",
+          "Petição",
+          "Ato ordinatório",
+          "Petição",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Definitivo + Expedição de documento + Trânsito em julgado",
+          "Remessa + Reativação"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Conclusão",
+          "Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Protocolo de Petição",
+          "Petição",
+          "Expedição de documento + deferimento + Conclusão",
+          "Retificado + Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Remessa",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Ato ordinatório + Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Petição",
+          "Ato ordinatório",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Remessa + Outras Decisões + Conclusão",
+          "Publicação",
+          "Petição",
+          "Conclusão",
+          "Protocolo de Petição + Expedição de documento + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Ato ordinatório",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Expedição de precatório/rpv + Conclusão + Recebimento",
+          "Remessa",
+          "Publicação",
+          "Protocolo de Petição + Enviada ao Tribunal + Expedição de documento",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Ato ordinatório",
+          "Ato ordinatório + Expedição de documento",
+          "Petição + Expedição de documento",
+          "Ato ordinatório",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Petição + Publicação",
+          "Expedição de documento",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Enviada ao Tribunal + Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Protocolo de Petição",
+          "Expedição de documento",
+          "Reativação",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Expedição de documento",
+          "Publicação",
+          "Ato ordinatório",
+          "Expedição de documento + Documento",
+          "Conclusão",
+          "Remessa + Expedição de documento + Outras Decisões",
+          "Publicação",
+          "Ato ordinatório",
+          "Expedição de documento",
+          "Ato ordinatório + Expedição de documento",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Expedição de documento",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Protocolo de Petição",
+          "Expedição de documento",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Ato ordinatório",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Conclusão",
+          "Outras Decisões",
+          "Publicação + Remessa",
+          "Expedição de documento",
+          "Protocolo de Petição + Enviada ao Tribunal",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Expedição de documento + Ato ordinatório",
+          "Remessa",
+          "Publicação",
+          "Ato ordinatório",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 1,
+        "pct": 0.4
+      }
+    ],
+    "funil_por_posicao": [
+      {
+        "posicao": 1,
+        "n_alcance": 261,
+        "pct_retencao": 100.0,
+        "top_movimentos": [
+          [
+            "Execução/Cumprimento de Sentença Iniciada (o)",
+            71,
+            27.2
+          ],
+          [
+            "Distribuição",
+            69,
+            26.4
+          ],
+          [
+            "Recebimento",
+            53,
+            20.3
+          ],
+          [
+            "Conclusão + Execução/Cumprimento de Sentença Iniciada (o)",
+            18,
+            6.9
+          ],
+          [
+            "Conclusão + Distribuição",
+            10,
+            3.8
+          ],
+          [
+            "Outras Decisões + Conclusão + Distribuição",
+            6,
+            2.3
+          ]
+        ]
+      },
+      {
+        "posicao": 2,
+        "n_alcance": 256,
+        "pct_retencao": 98.1,
+        "top_movimentos": [
+          [
+            "Conclusão",
+            37,
+            14.5
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            30,
+            11.7
+          ],
+          [
+            "Remessa",
+            16,
+            6.2
+          ],
+          [
+            "Outras Decisões + Conclusão",
+            10,
+            3.9
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            9,
+            3.5
+          ],
+          [
+            "Expedição de precatório/rpv + Conclusão",
+            8,
+            3.1
+          ]
+        ]
+      },
+      {
+        "posicao": 3,
+        "n_alcance": 256,
+        "pct_retencao": 98.1,
+        "top_movimentos": [
+          [
+            "Remessa",
+            85,
+            33.2
+          ],
+          [
+            "Publicação",
+            47,
+            18.4
+          ],
+          [
+            "Petição",
+            9,
+            3.5
+          ],
+          [
+            "Expedição de documento",
+            8,
+            3.1
+          ],
+          [
+            "Expedição de documento + Remessa",
+            6,
+            2.3
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            6,
+            2.3
+          ]
+        ]
+      },
+      {
+        "posicao": 4,
+        "n_alcance": 252,
+        "pct_retencao": 96.6,
+        "top_movimentos": [
+          [
+            "Publicação",
+            103,
+            40.9
+          ],
+          [
+            "Petição",
+            30,
+            11.9
+          ],
+          [
+            "Remessa",
+            26,
+            10.3
+          ],
+          [
+            "Expedição de documento",
+            20,
+            7.9
+          ],
+          [
+            "Petição + Publicação",
+            5,
+            2.0
+          ],
+          [
+            "Ato ordinatório",
+            5,
+            2.0
+          ]
+        ]
+      },
+      {
+        "posicao": 5,
+        "n_alcance": 250,
+        "pct_retencao": 95.8,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            47,
+            18.8
+          ],
+          [
+            "Petição",
+            42,
+            16.8
+          ],
+          [
+            "Publicação",
+            40,
+            16.0
+          ],
+          [
+            "Expedição de documento + Ato ordinatório",
+            19,
+            7.6
+          ],
+          [
+            "Remessa",
+            11,
+            4.4
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            11,
+            4.4
+          ]
+        ]
+      },
+      {
+        "posicao": 6,
+        "n_alcance": 242,
+        "pct_retencao": 92.7,
+        "top_movimentos": [
+          [
+            "Petição",
+            42,
+            17.4
+          ],
+          [
+            "Expedição de documento",
+            37,
+            15.3
+          ],
+          [
+            "Ato ordinatório",
+            21,
+            8.7
+          ],
+          [
+            "Publicação",
+            19,
+            7.9
+          ],
+          [
+            "Remessa",
+            18,
+            7.4
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            10,
+            4.1
+          ]
+        ]
+      },
+      {
+        "posicao": 7,
+        "n_alcance": 231,
+        "pct_retencao": 88.5,
+        "top_movimentos": [
+          [
+            "Petição",
+            40,
+            17.3
+          ],
+          [
+            "Publicação",
+            31,
+            13.4
+          ],
+          [
+            "Remessa",
+            28,
+            12.1
+          ],
+          [
+            "Expedição de documento",
+            21,
+            9.1
+          ],
+          [
+            "Ato ordinatório",
+            19,
+            8.2
+          ],
+          [
+            "Conclusão",
+            17,
+            7.4
+          ]
+        ]
+      },
+      {
+        "posicao": 8,
+        "n_alcance": 228,
+        "pct_retencao": 87.4,
+        "top_movimentos": [
+          [
+            "Publicação",
+            37,
+            16.2
+          ],
+          [
+            "Expedição de documento",
+            29,
+            12.7
+          ],
+          [
+            "Remessa",
+            26,
+            11.4
+          ],
+          [
+            "Petição",
+            23,
+            10.1
+          ],
+          [
+            "Ato ordinatório",
+            15,
+            6.6
+          ],
+          [
+            "Conclusão",
+            12,
+            5.3
+          ]
+        ]
+      },
+      {
+        "posicao": 9,
+        "n_alcance": 224,
+        "pct_retencao": 85.8,
+        "top_movimentos": [
+          [
+            "Publicação",
+            39,
+            17.4
+          ],
+          [
+            "Remessa",
+            33,
+            14.7
+          ],
+          [
+            "Expedição de documento",
+            32,
+            14.3
+          ],
+          [
+            "Petição",
+            24,
+            10.7
+          ],
+          [
+            "Ato ordinatório",
+            15,
+            6.7
+          ],
+          [
+            "Conclusão",
+            14,
+            6.2
+          ]
+        ]
+      },
+      {
+        "posicao": 10,
+        "n_alcance": 215,
+        "pct_retencao": 82.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            37,
+            17.2
+          ],
+          [
+            "Publicação",
+            37,
+            17.2
+          ],
+          [
+            "Petição",
+            29,
+            13.5
+          ],
+          [
+            "Remessa",
+            24,
+            11.2
+          ],
+          [
+            "Ato ordinatório",
+            12,
+            5.6
+          ],
+          [
+            "Conclusão",
+            7,
+            3.3
+          ]
+        ]
+      },
+      {
+        "posicao": 11,
+        "n_alcance": 209,
+        "pct_retencao": 80.1,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            35,
+            16.7
+          ],
+          [
+            "Publicação",
+            31,
+            14.8
+          ],
+          [
+            "Petição",
+            25,
+            12.0
+          ],
+          [
+            "Ato ordinatório",
+            21,
+            10.0
+          ],
+          [
+            "Remessa",
+            18,
+            8.6
+          ],
+          [
+            "Conclusão",
+            11,
+            5.3
+          ]
+        ]
+      },
+      {
+        "posicao": 12,
+        "n_alcance": 202,
+        "pct_retencao": 77.4,
+        "top_movimentos": [
+          [
+            "Petição",
+            38,
+            18.8
+          ],
+          [
+            "Expedição de documento",
+            28,
+            13.9
+          ],
+          [
+            "Publicação",
+            28,
+            13.9
+          ],
+          [
+            "Remessa",
+            19,
+            9.4
+          ],
+          [
+            "Conclusão",
+            19,
+            9.4
+          ],
+          [
+            "Ato ordinatório",
+            17,
+            8.4
+          ]
+        ]
+      },
+      {
+        "posicao": 13,
+        "n_alcance": 200,
+        "pct_retencao": 76.6,
+        "top_movimentos": [
+          [
+            "Petição",
+            31,
+            15.5
+          ],
+          [
+            "Expedição de documento",
+            30,
+            15.0
+          ],
+          [
+            "Publicação",
+            25,
+            12.5
+          ],
+          [
+            "Ato ordinatório",
+            21,
+            10.5
+          ],
+          [
+            "Conclusão",
+            15,
+            7.5
+          ],
+          [
+            "Remessa",
+            13,
+            6.5
+          ]
+        ]
+      },
+      {
+        "posicao": 14,
+        "n_alcance": 193,
+        "pct_retencao": 73.9,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            36,
+            18.7
+          ],
+          [
+            "Publicação",
+            25,
+            13.0
+          ],
+          [
+            "Petição",
+            23,
+            11.9
+          ],
+          [
+            "Remessa",
+            17,
+            8.8
+          ],
+          [
+            "Ato ordinatório",
+            16,
+            8.3
+          ],
+          [
+            "Conclusão",
+            13,
+            6.7
+          ]
+        ]
+      },
+      {
+        "posicao": 15,
+        "n_alcance": 184,
+        "pct_retencao": 70.5,
+        "top_movimentos": [
+          [
+            "Publicação",
+            33,
+            17.9
+          ],
+          [
+            "Expedição de documento",
+            20,
+            10.9
+          ],
+          [
+            "Conclusão",
+            19,
+            10.3
+          ],
+          [
+            "Remessa",
+            19,
+            10.3
+          ],
+          [
+            "Petição",
+            17,
+            9.2
+          ],
+          [
+            "Ato ordinatório",
+            16,
+            8.7
+          ]
+        ]
+      },
+      {
+        "posicao": 16,
+        "n_alcance": 175,
+        "pct_retencao": 67.0,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            32,
+            18.3
+          ],
+          [
+            "Publicação",
+            25,
+            14.3
+          ],
+          [
+            "Ato ordinatório",
+            24,
+            13.7
+          ],
+          [
+            "Remessa",
+            16,
+            9.1
+          ],
+          [
+            "Conclusão",
+            11,
+            6.3
+          ],
+          [
+            "Petição",
+            11,
+            6.3
+          ]
+        ]
+      },
+      {
+        "posicao": 17,
+        "n_alcance": 168,
+        "pct_retencao": 64.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            35,
+            20.8
+          ],
+          [
+            "Publicação",
+            23,
+            13.7
+          ],
+          [
+            "Remessa",
+            21,
+            12.5
+          ],
+          [
+            "Conclusão",
+            14,
+            8.3
+          ],
+          [
+            "Petição",
+            11,
+            6.5
+          ],
+          [
+            "Ato ordinatório",
+            10,
+            6.0
+          ]
+        ]
+      },
+      {
+        "posicao": 18,
+        "n_alcance": 154,
+        "pct_retencao": 59.0,
+        "top_movimentos": [
+          [
+            "Publicação",
+            34,
+            22.1
+          ],
+          [
+            "Expedição de documento",
+            18,
+            11.7
+          ],
+          [
+            "Ato ordinatório",
+            14,
+            9.1
+          ],
+          [
+            "Petição",
+            12,
+            7.8
+          ],
+          [
+            "Conclusão",
+            11,
+            7.1
+          ],
+          [
+            "Remessa",
+            10,
+            6.5
+          ]
+        ]
+      },
+      {
+        "posicao": 19,
+        "n_alcance": 145,
+        "pct_retencao": 55.6,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            39,
+            26.9
+          ],
+          [
+            "Remessa",
+            21,
+            14.5
+          ],
+          [
+            "Publicação",
+            17,
+            11.7
+          ],
+          [
+            "Petição",
+            12,
+            8.3
+          ],
+          [
+            "Conclusão",
+            12,
+            8.3
+          ],
+          [
+            "Ato ordinatório",
+            6,
+            4.1
+          ]
+        ]
+      },
+      {
+        "posicao": 20,
+        "n_alcance": 140,
+        "pct_retencao": 53.6,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            27,
+            19.3
+          ],
+          [
+            "Publicação",
+            25,
+            17.9
+          ],
+          [
+            "Petição",
+            19,
+            13.6
+          ],
+          [
+            "Ato ordinatório",
+            11,
+            7.9
+          ],
+          [
+            "Remessa",
+            8,
+            5.7
+          ],
+          [
+            "Conclusão",
+            6,
+            4.3
+          ]
+        ]
+      },
+      {
+        "posicao": 21,
+        "n_alcance": 127,
+        "pct_retencao": 48.7,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            25,
+            19.7
+          ],
+          [
+            "Petição",
+            18,
+            14.2
+          ],
+          [
+            "Publicação",
+            16,
+            12.6
+          ],
+          [
+            "Remessa",
+            14,
+            11.0
+          ],
+          [
+            "Conclusão",
+            10,
+            7.9
+          ],
+          [
+            "Expedição de documento + Ato ordinatório",
+            4,
+            3.1
+          ]
+        ]
+      },
+      {
+        "posicao": 22,
+        "n_alcance": 118,
+        "pct_retencao": 45.2,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            21,
+            17.8
+          ],
+          [
+            "Publicação",
+            19,
+            16.1
+          ],
+          [
+            "Petição",
+            17,
+            14.4
+          ],
+          [
+            "Remessa",
+            10,
+            8.5
+          ],
+          [
+            "Conclusão",
+            10,
+            8.5
+          ],
+          [
+            "Ato ordinatório",
+            7,
+            5.9
+          ]
+        ]
+      },
+      {
+        "posicao": 23,
+        "n_alcance": 112,
+        "pct_retencao": 42.9,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            19,
+            17.0
+          ],
+          [
+            "Petição",
+            14,
+            12.5
+          ],
+          [
+            "Remessa",
+            13,
+            11.6
+          ],
+          [
+            "Publicação",
+            12,
+            10.7
+          ],
+          [
+            "Conclusão",
+            8,
+            7.1
+          ],
+          [
+            "Ato ordinatório",
+            7,
+            6.2
+          ]
+        ]
+      },
+      {
+        "posicao": 24,
+        "n_alcance": 100,
+        "pct_retencao": 38.3,
+        "top_movimentos": [
+          [
+            "Publicação",
+            19,
+            19.0
+          ],
+          [
+            "Expedição de documento",
+            17,
+            17.0
+          ],
+          [
+            "Remessa",
+            15,
+            15.0
+          ],
+          [
+            "Ato ordinatório",
+            6,
+            6.0
+          ],
+          [
+            "Conclusão",
+            6,
+            6.0
+          ],
+          [
+            "Petição",
+            5,
+            5.0
+          ]
+        ]
+      },
+      {
+        "posicao": 25,
+        "n_alcance": 94,
+        "pct_retencao": 36.0,
+        "top_movimentos": [
+          [
+            "Publicação",
+            20,
+            21.3
+          ],
+          [
+            "Expedição de documento",
+            16,
+            17.0
+          ],
+          [
+            "Remessa",
+            11,
+            11.7
+          ],
+          [
+            "Petição",
+            10,
+            10.6
+          ],
+          [
+            "Ato ordinatório",
+            4,
+            4.3
+          ],
+          [
+            "Conclusão",
+            4,
+            4.3
+          ]
+        ]
+      },
+      {
+        "posicao": 26,
+        "n_alcance": 89,
+        "pct_retencao": 34.1,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            24,
+            27.0
+          ],
+          [
+            "Publicação",
+            15,
+            16.9
+          ],
+          [
+            "Petição",
+            9,
+            10.1
+          ],
+          [
+            "Remessa",
+            9,
+            10.1
+          ],
+          [
+            "Ato ordinatório",
+            6,
+            6.7
+          ],
+          [
+            "Conclusão",
+            4,
+            4.5
+          ]
+        ]
+      },
+      {
+        "posicao": 27,
+        "n_alcance": 80,
+        "pct_retencao": 30.7,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            18,
+            22.5
+          ],
+          [
+            "Publicação",
+            14,
+            17.5
+          ],
+          [
+            "Petição",
+            10,
+            12.5
+          ],
+          [
+            "Conclusão",
+            5,
+            6.2
+          ],
+          [
+            "Ato ordinatório",
+            3,
+            3.8
+          ],
+          [
+            "Remessa",
+            3,
+            3.8
+          ]
+        ]
+      },
+      {
+        "posicao": 28,
+        "n_alcance": 74,
+        "pct_retencao": 28.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            14,
+            18.9
+          ],
+          [
+            "Remessa",
+            12,
+            16.2
+          ],
+          [
+            "Publicação",
+            8,
+            10.8
+          ],
+          [
+            "Petição",
+            5,
+            6.8
+          ],
+          [
+            "Remessa + Expedição de documento",
+            5,
+            6.8
+          ],
+          [
+            "Conclusão",
+            5,
+            6.8
+          ]
+        ]
+      },
+      {
+        "posicao": 29,
+        "n_alcance": 65,
+        "pct_retencao": 24.9,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            11,
+            16.9
+          ],
+          [
+            "Publicação",
+            11,
+            16.9
+          ],
+          [
+            "Petição",
+            6,
+            9.2
+          ],
+          [
+            "Remessa",
+            6,
+            9.2
+          ],
+          [
+            "Conclusão",
+            3,
+            4.6
+          ],
+          [
+            "Outras Decisões",
+            3,
+            4.6
+          ]
+        ]
+      },
+      {
+        "posicao": 30,
+        "n_alcance": 60,
+        "pct_retencao": 23.0,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            11,
+            18.3
+          ],
+          [
+            "Publicação",
+            7,
+            11.7
+          ],
+          [
+            "Remessa",
+            7,
+            11.7
+          ],
+          [
+            "Petição",
+            6,
+            10.0
+          ],
+          [
+            "Ato ordinatório",
+            4,
+            6.7
+          ],
+          [
+            "Conclusão",
+            3,
+            5.0
+          ]
+        ]
+      },
+      {
+        "posicao": 31,
+        "n_alcance": 56,
+        "pct_retencao": 21.5,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            12,
+            21.4
+          ],
+          [
+            "Publicação",
+            10,
+            17.9
+          ],
+          [
+            "Remessa",
+            8,
+            14.3
+          ],
+          [
+            "Petição",
+            5,
+            8.9
+          ],
+          [
+            "Conclusão",
+            5,
+            8.9
+          ],
+          [
+            "Ato ordinatório",
+            3,
+            5.4
+          ]
+        ]
+      },
+      {
+        "posicao": 32,
+        "n_alcance": 48,
+        "pct_retencao": 18.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            13,
+            27.1
+          ],
+          [
+            "Publicação",
+            8,
+            16.7
+          ],
+          [
+            "Petição",
+            6,
+            12.5
+          ],
+          [
+            "Remessa",
+            2,
+            4.2
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            2,
+            4.2
+          ],
+          [
+            "Petição + Publicação",
+            2,
+            4.2
+          ]
+        ]
+      },
+      {
+        "posicao": 33,
+        "n_alcance": 46,
+        "pct_retencao": 17.6,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            11,
+            23.9
+          ],
+          [
+            "Publicação",
+            6,
+            13.0
+          ],
+          [
+            "Petição",
+            6,
+            13.0
+          ],
+          [
+            "Conclusão",
+            6,
+            13.0
+          ],
+          [
+            "Remessa",
+            5,
+            10.9
+          ],
+          [
+            "Ato ordinatório",
+            2,
+            4.3
+          ]
+        ]
+      },
+      {
+        "posicao": 34,
+        "n_alcance": 44,
+        "pct_retencao": 16.9,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            14,
+            31.8
+          ],
+          [
+            "Petição",
+            7,
+            15.9
+          ],
+          [
+            "Publicação",
+            6,
+            13.6
+          ],
+          [
+            "Conclusão",
+            2,
+            4.5
+          ],
+          [
+            "Expedição de documento + Remessa",
+            2,
+            4.5
+          ],
+          [
+            "Remessa + Expedição de documento",
+            1,
+            2.3
+          ]
+        ]
+      },
+      {
+        "posicao": 35,
+        "n_alcance": 41,
+        "pct_retencao": 15.7,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            5,
+            12.2
+          ],
+          [
+            "Ato ordinatório",
+            5,
+            12.2
+          ],
+          [
+            "Publicação",
+            5,
+            12.2
+          ],
+          [
+            "Remessa",
+            3,
+            7.3
+          ],
+          [
+            "Petição",
+            3,
+            7.3
+          ],
+          [
+            "Conclusão",
+            2,
+            4.9
+          ]
+        ]
+      },
+      {
+        "posicao": 36,
+        "n_alcance": 36,
+        "pct_retencao": 13.8,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            5,
+            13.9
+          ],
+          [
+            "Publicação",
+            5,
+            13.9
+          ],
+          [
+            "Remessa",
+            3,
+            8.3
+          ],
+          [
+            "Expedição de documento + Remessa",
+            3,
+            8.3
+          ],
+          [
+            "Petição",
+            3,
+            8.3
+          ],
+          [
+            "Ato ordinatório",
+            2,
+            5.6
+          ]
+        ]
+      },
+      {
+        "posicao": 37,
+        "n_alcance": 33,
+        "pct_retencao": 12.6,
+        "top_movimentos": [
+          [
+            "Publicação",
+            10,
+            30.3
+          ],
+          [
+            "Expedição de documento",
+            6,
+            18.2
+          ],
+          [
+            "Remessa",
+            2,
+            6.1
+          ],
+          [
+            "Petição",
+            2,
+            6.1
+          ],
+          [
+            "Conclusão + Decurso de Prazo",
+            1,
+            3.0
+          ],
+          [
+            "Ato ordinatório + Documento",
+            1,
+            3.0
+          ]
+        ]
+      },
+      {
+        "posicao": 38,
+        "n_alcance": 30,
+        "pct_retencao": 11.5,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            9,
+            30.0
+          ],
+          [
+            "Remessa",
+            5,
+            16.7
+          ],
+          [
+            "Publicação",
+            4,
+            13.3
+          ],
+          [
+            "Petição",
+            3,
+            10.0
+          ],
+          [
+            "Remessa + Expedição de documento + Outras Decisões + Conclusão",
+            1,
+            3.3
+          ],
+          [
+            "Documento + Expedição de documento",
+            1,
+            3.3
+          ]
+        ]
+      },
+      {
+        "posicao": 39,
+        "n_alcance": 30,
+        "pct_retencao": 11.5,
+        "top_movimentos": [
+          [
+            "Publicação",
+            5,
+            16.7
+          ],
+          [
+            "Expedição de documento",
+            5,
+            16.7
+          ],
+          [
+            "Remessa",
+            4,
+            13.3
+          ],
+          [
+            "Remessa + Expedição de documento",
+            3,
+            10.0
+          ],
+          [
+            "Petição",
+            2,
+            6.7
+          ],
+          [
+            "Ato ordinatório",
+            2,
+            6.7
+          ]
+        ]
+      },
+      {
+        "posicao": 40,
+        "n_alcance": 26,
+        "pct_retencao": 10.0,
+        "top_movimentos": [
+          [
+            "Petição",
+            7,
+            26.9
+          ],
+          [
+            "Expedição de documento",
+            5,
+            19.2
+          ],
+          [
+            "Publicação",
+            4,
+            15.4
+          ],
+          [
+            "Conclusão",
+            2,
+            7.7
+          ],
+          [
+            "Publicação + Petição",
+            1,
+            3.8
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão + Recebimento",
+            1,
+            3.8
+          ]
+        ]
+      },
+      {
+        "posicao": 41,
+        "n_alcance": 26,
+        "pct_retencao": 10.0,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            5,
+            19.2
+          ],
+          [
+            "Conclusão",
+            4,
+            15.4
+          ],
+          [
+            "Publicação",
+            3,
+            11.5
+          ],
+          [
+            "Petição",
+            2,
+            7.7
+          ],
+          [
+            "Remessa",
+            2,
+            7.7
+          ],
+          [
+            "Extinção da execução ou do cumprimento da sentença",
+            1,
+            3.8
+          ]
+        ]
+      },
+      {
+        "posicao": 42,
+        "n_alcance": 25,
+        "pct_retencao": 9.6,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            4,
+            16.0
+          ],
+          [
+            "Petição",
+            4,
+            16.0
+          ],
+          [
+            "Conclusão",
+            3,
+            12.0
+          ],
+          [
+            "Ato ordinatório",
+            2,
+            8.0
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            2,
+            8.0
+          ],
+          [
+            "Remessa",
+            2,
+            8.0
+          ]
+        ]
+      },
+      {
+        "posicao": 43,
+        "n_alcance": 25,
+        "pct_retencao": 9.6,
+        "top_movimentos": [
+          [
+            "Remessa",
+            4,
+            16.0
+          ],
+          [
+            "Expedição de documento",
+            4,
+            16.0
+          ],
+          [
+            "Publicação",
+            3,
+            12.0
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            2,
+            8.0
+          ],
+          [
+            "Petição",
+            2,
+            8.0
+          ],
+          [
+            "Expedição de documento + Renúncia ao direito pelo autor",
+            1,
+            4.0
+          ]
+        ]
+      },
+      {
+        "posicao": 44,
+        "n_alcance": 22,
+        "pct_retencao": 8.4,
+        "top_movimentos": [
+          [
+            "Publicação",
+            6,
+            27.3
+          ],
+          [
+            "Remessa",
+            3,
+            13.6
+          ],
+          [
+            "Expedição de documento",
+            2,
+            9.1
+          ],
+          [
+            "Petição",
+            2,
+            9.1
+          ],
+          [
+            "Publicação + Petição",
+            1,
+            4.5
+          ],
+          [
+            "Expedição de documento + Conclusão",
+            1,
+            4.5
+          ]
+        ]
+      },
+      {
+        "posicao": 45,
+        "n_alcance": 21,
+        "pct_retencao": 8.0,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            6,
+            28.6
+          ],
+          [
+            "Publicação",
+            4,
+            19.0
+          ],
+          [
+            "Petição",
+            2,
+            9.5
+          ],
+          [
+            "Expedição de documento + Remessa + Outras Decisões",
+            2,
+            9.5
+          ],
+          [
+            "Remessa + Expedição de documento + Ato ordinatório",
+            1,
+            4.8
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            1,
+            4.8
+          ]
+        ]
+      },
+      {
+        "posicao": 46,
+        "n_alcance": 20,
+        "pct_retencao": 7.7,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            4,
+            20.0
+          ],
+          [
+            "Publicação",
+            3,
+            15.0
+          ],
+          [
+            "Expedição de documento + Ato ordinatório",
+            2,
+            10.0
+          ],
+          [
+            "Petição",
+            2,
+            10.0
+          ],
+          [
+            "Remessa",
+            2,
+            10.0
+          ],
+          [
+            "Conclusão + Petição",
+            2,
+            10.0
+          ]
+        ]
+      },
+      {
+        "posicao": 47,
+        "n_alcance": 19,
+        "pct_retencao": 7.3,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            7,
+            36.8
+          ],
+          [
+            "Petição",
+            3,
+            15.8
+          ],
+          [
+            "Publicação",
+            3,
+            15.8
+          ],
+          [
+            "Ato ordinatório",
+            1,
+            5.3
+          ],
+          [
+            "Remessa",
+            1,
+            5.3
+          ],
+          [
+            "Conclusão + Petição",
+            1,
+            5.3
+          ]
+        ]
+      },
+      {
+        "posicao": 48,
+        "n_alcance": 17,
+        "pct_retencao": 6.5,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            5,
+            29.4
+          ],
+          [
+            "Petição",
+            3,
+            17.6
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            1,
+            5.9
+          ],
+          [
+            "Conclusão",
+            1,
+            5.9
+          ],
+          [
+            "Documento",
+            1,
+            5.9
+          ],
+          [
+            "Remessa + Expedição de documento + Procedência",
+            1,
+            5.9
+          ]
+        ]
+      },
+      {
+        "posicao": 49,
+        "n_alcance": 16,
+        "pct_retencao": 6.1,
+        "top_movimentos": [
+          [
+            "Petição",
+            3,
+            18.8
+          ],
+          [
+            "Remessa",
+            2,
+            12.5
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            2,
+            12.5
+          ],
+          [
+            "Publicação",
+            2,
+            12.5
+          ],
+          [
+            "Expedição de documento",
+            2,
+            12.5
+          ],
+          [
+            "Remessa + Ato ordinatório",
+            1,
+            6.2
+          ]
+        ]
+      },
+      {
+        "posicao": 50,
+        "n_alcance": 15,
+        "pct_retencao": 5.7,
+        "top_movimentos": [
+          [
+            "Publicação",
+            2,
+            13.3
+          ],
+          [
+            "Remessa",
+            2,
+            13.3
+          ],
+          [
+            "Conclusão",
+            2,
+            13.3
+          ],
+          [
+            "Conclusão + Petição",
+            2,
+            13.3
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            1,
+            6.7
+          ],
+          [
+            "Ato ordinatório",
+            1,
+            6.7
+          ]
+        ]
+      },
+      {
+        "posicao": 51,
+        "n_alcance": 14,
+        "pct_retencao": 5.4,
+        "top_movimentos": [
+          [
+            "Publicação",
+            3,
+            21.4
+          ],
+          [
+            "Conclusão",
+            2,
+            14.3
+          ],
+          [
+            "Outras Decisões",
+            2,
+            14.3
+          ],
+          [
+            "Petição",
+            1,
+            7.1
+          ],
+          [
+            "Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão",
+            1,
+            7.1
+          ],
+          [
+            "Remessa",
+            1,
+            7.1
+          ]
+        ]
+      },
+      {
+        "posicao": 52,
+        "n_alcance": 14,
+        "pct_retencao": 5.4,
+        "top_movimentos": [
+          [
+            "Remessa",
+            4,
+            28.6
+          ],
+          [
+            "Expedição de documento",
+            3,
+            21.4
+          ],
+          [
+            "Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão",
+            1,
+            7.1
+          ],
+          [
+            "Remessa + Expedição de documento + Outras Decisões",
+            1,
+            7.1
+          ],
+          [
+            "Publicação",
+            1,
+            7.1
+          ],
+          [
+            "Petição + Publicação",
+            1,
+            7.1
+          ]
+        ]
+      },
+      {
+        "posicao": 53,
+        "n_alcance": 14,
+        "pct_retencao": 5.4,
+        "top_movimentos": [
+          [
+            "Publicação",
+            4,
+            28.6
+          ],
+          [
+            "Expedição de documento",
+            4,
+            28.6
+          ],
+          [
+            "Remessa",
+            1,
+            7.1
+          ],
+          [
+            "Ato ordinatório",
+            1,
+            7.1
+          ],
+          [
+            "Petição + Publicação",
+            1,
+            7.1
+          ],
+          [
+            "Expedição de documento + Remessa",
+            1,
+            7.1
+          ]
+        ]
+      },
+      {
+        "posicao": 54,
+        "n_alcance": 13,
+        "pct_retencao": 5.0,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            6,
+            46.2
+          ],
+          [
+            "Publicação",
+            2,
+            15.4
+          ],
+          [
+            "Petição",
+            1,
+            7.7
+          ],
+          [
+            "Conclusão + Petição",
+            1,
+            7.7
+          ],
+          [
+            "Remessa",
+            1,
+            7.7
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            1,
+            7.7
+          ]
+        ]
+      },
+      {
+        "posicao": 55,
+        "n_alcance": 13,
+        "pct_retencao": 5.0,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            5,
+            38.5
+          ],
+          [
+            "Conclusão",
+            2,
+            15.4
+          ],
+          [
+            "Petição",
+            2,
+            15.4
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            1,
+            7.7
+          ],
+          [
+            "Outras Decisões + Conclusão + Petição",
+            1,
+            7.7
+          ],
+          [
+            "Publicação",
+            1,
+            7.7
+          ]
+        ]
+      },
+      {
+        "posicao": 56,
+        "n_alcance": 13,
+        "pct_retencao": 5.0,
+        "top_movimentos": [
+          [
+            "Petição",
+            5,
+            38.5
+          ],
+          [
+            "Remessa",
+            2,
+            15.4
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            2,
+            15.4
+          ],
+          [
+            "Conclusão",
+            1,
+            7.7
+          ],
+          [
+            "Outras Decisões + Conclusão",
+            1,
+            7.7
+          ],
+          [
+            "Expedição de documento",
+            1,
+            7.7
+          ]
+        ]
+      },
+      {
+        "posicao": 57,
+        "n_alcance": 11,
+        "pct_retencao": 4.2,
+        "top_movimentos": [
+          [
+            "Remessa",
+            2,
+            18.2
+          ],
+          [
+            "Remessa + Expedição de documento + Ato ordinatório",
+            2,
+            18.2
+          ],
+          [
+            "Outras Decisões",
+            1,
+            9.1
+          ],
+          [
+            "Remessa + Expedição de documento",
+            1,
+            9.1
+          ],
+          [
+            "Publicação",
+            1,
+            9.1
+          ],
+          [
+            "Expedição de documento + Remessa",
+            1,
+            9.1
+          ]
+        ]
+      },
+      {
+        "posicao": 58,
+        "n_alcance": 10,
+        "pct_retencao": 3.8,
+        "top_movimentos": [
+          [
+            "Publicação",
+            4,
+            40.0
+          ],
+          [
+            "Remessa",
+            2,
+            20.0
+          ],
+          [
+            "Execução/Cumprimento de Sentença Iniciada (o) + Publicação",
+            1,
+            10.0
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão + Recebimento",
+            1,
+            10.0
+          ],
+          [
+            "Expedição de documento",
+            1,
+            10.0
+          ],
+          [
+            "Expedição de documento + Remessa + Outras Decisões",
+            1,
+            10.0
+          ]
+        ]
+      },
+      {
+        "posicao": 59,
+        "n_alcance": 10,
+        "pct_retencao": 3.8,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            3,
+            30.0
+          ],
+          [
+            "Publicação",
+            2,
+            20.0
+          ],
+          [
+            "Expedição de documento + Publicação",
+            1,
+            10.0
+          ],
+          [
+            "Remessa",
+            1,
+            10.0
+          ],
+          [
+            "Petição",
+            1,
+            10.0
+          ],
+          [
+            "Outras Decisões + Conclusão + Petição",
+            1,
+            10.0
+          ]
+        ]
+      },
+      {
+        "posicao": 60,
+        "n_alcance": 9,
+        "pct_retencao": 3.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            5,
+            55.6
+          ],
+          [
+            "Petição",
+            2,
+            22.2
+          ],
+          [
+            "Publicação",
+            1,
+            11.1
+          ],
+          [
+            "Conclusão + Petição",
+            1,
+            11.1
+          ]
+        ]
+      },
+      {
+        "posicao": 61,
+        "n_alcance": 8,
+        "pct_retencao": 3.1,
+        "top_movimentos": [
+          [
+            "Petição",
+            2,
+            25.0
+          ],
+          [
+            "Outras Decisões + Conclusão",
+            1,
+            12.5
+          ],
+          [
+            "Expedição de documento + Ato ordinatório",
+            1,
+            12.5
+          ],
+          [
+            "Conclusão",
+            1,
+            12.5
+          ],
+          [
+            "Documento",
+            1,
+            12.5
+          ],
+          [
+            "Outras Decisões",
+            1,
+            12.5
+          ]
+        ]
+      },
+      {
+        "posicao": 62,
+        "n_alcance": 8,
+        "pct_retencao": 3.1,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            2,
+            25.0
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            1,
+            12.5
+          ],
+          [
+            "Expedição de documento + Remessa",
+            1,
+            12.5
+          ],
+          [
+            "Remessa + Expedição de documento",
+            1,
+            12.5
+          ],
+          [
+            "Remessa + Outras Decisões",
+            1,
+            12.5
+          ],
+          [
+            "Remessa",
+            1,
+            12.5
+          ]
+        ]
+      },
+      {
+        "posicao": 63,
+        "n_alcance": 7,
+        "pct_retencao": 2.7,
+        "top_movimentos": [
+          [
+            "Publicação",
+            2,
+            28.6
+          ],
+          [
+            "Expedição de documento",
+            2,
+            28.6
+          ],
+          [
+            "Petição + Publicação",
+            1,
+            14.3
+          ],
+          [
+            "Outras Decisões + Conclusão + Recebimento",
+            1,
+            14.3
+          ],
+          [
+            "Remessa + Outras Decisões + Conclusão",
+            1,
+            14.3
+          ]
+        ]
+      },
+      {
+        "posicao": 64,
+        "n_alcance": 7,
+        "pct_retencao": 2.7,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            2,
+            28.6
+          ],
+          [
+            "Documento + Expedição de documento",
+            2,
+            28.6
+          ],
+          [
+            "Remessa",
+            1,
+            14.3
+          ],
+          [
+            "Petição + Expedição de documento",
+            1,
+            14.3
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação",
+            1,
+            14.3
+          ]
+        ]
+      },
+      {
+        "posicao": 65,
+        "n_alcance": 7,
+        "pct_retencao": 2.7,
+        "top_movimentos": [
+          [
+            "Conclusão + Petição",
+            2,
+            28.6
+          ],
+          [
+            "Publicação",
+            1,
+            14.3
+          ],
+          [
+            "Expedição de documento + Remessa",
+            1,
+            14.3
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            1,
+            14.3
+          ],
+          [
+            "Expedição de documento",
+            1,
+            14.3
+          ],
+          [
+            "Ato ordinatório",
+            1,
+            14.3
+          ]
+        ]
+      },
+      {
+        "posicao": 66,
+        "n_alcance": 7,
+        "pct_retencao": 2.7,
+        "top_movimentos": [
+          [
+            "Remessa + Expedição de documento + Outras Decisões",
+            1,
+            14.3
+          ],
+          [
+            "Expedição de documento",
+            1,
+            14.3
+          ],
+          [
+            "Remessa + Outras Decisões",
+            1,
+            14.3
+          ],
+          [
+            "Publicação",
+            1,
+            14.3
+          ],
+          [
+            "Outras Decisões",
+            1,
+            14.3
+          ],
+          [
+            "Conclusão + Petição",
+            1,
+            14.3
+          ]
+        ]
+      },
+      {
+        "posicao": 67,
+        "n_alcance": 7,
+        "pct_retencao": 2.7,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            2,
+            28.6
+          ],
+          [
+            "Publicação",
+            1,
+            14.3
+          ],
+          [
+            "Expedição de documento + Publicação",
+            1,
+            14.3
+          ],
+          [
+            "Petição",
+            1,
+            14.3
+          ],
+          [
+            "Outras Decisões",
+            1,
+            14.3
+          ],
+          [
+            "Remessa",
+            1,
+            14.3
+          ]
+        ]
+      },
+      {
+        "posicao": 68,
+        "n_alcance": 6,
+        "pct_retencao": 2.3,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            2,
+            33.3
+          ],
+          [
+            "Expedição de documento + Ato ordinatório + Documento",
+            1,
+            16.7
+          ],
+          [
+            "Conclusão + Petição",
+            1,
+            16.7
+          ],
+          [
+            "Expedição de documento + Remessa + Petição",
+            1,
+            16.7
+          ],
+          [
+            "Publicação",
+            1,
+            16.7
+          ]
+        ]
+      },
+      {
+        "posicao": 69,
+        "n_alcance": 6,
+        "pct_retencao": 2.3,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            3,
+            50.0
+          ],
+          [
+            "Documento",
+            1,
+            16.7
+          ],
+          [
+            "Publicação",
+            1,
+            16.7
+          ],
+          [
+            "Petição",
+            1,
+            16.7
+          ]
+        ]
+      },
+      {
+        "posicao": 70,
+        "n_alcance": 6,
+        "pct_retencao": 2.3,
+        "top_movimentos": [
+          [
+            "Conclusão + Petição",
+            2,
+            33.3
+          ],
+          [
+            "Remessa",
+            1,
+            16.7
+          ],
+          [
+            "Expedição de documento + Remessa + Outras Decisões",
+            1,
+            16.7
+          ],
+          [
+            "Documento",
+            1,
+            16.7
+          ],
+          [
+            "Expedição de documento",
+            1,
+            16.7
+          ]
+        ]
+      },
+      {
+        "posicao": 71,
+        "n_alcance": 5,
+        "pct_retencao": 1.9,
+        "top_movimentos": [
+          [
+            "Publicação",
+            2,
+            40.0
+          ],
+          [
+            "Petição",
+            1,
+            20.0
+          ],
+          [
+            "Expedição de documento",
+            1,
+            20.0
+          ],
+          [
+            "Conclusão",
+            1,
+            20.0
+          ]
+        ]
+      },
+      {
+        "posicao": 72,
+        "n_alcance": 5,
+        "pct_retencao": 1.9,
+        "top_movimentos": [
+          [
+            "Petição",
+            2,
+            40.0
+          ],
+          [
+            "Ato ordinatório",
+            1,
+            20.0
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            1,
+            20.0
+          ],
+          [
+            "Expedição de documento + Improcedência",
+            1,
+            20.0
+          ]
+        ]
+      },
+      {
+        "posicao": 73,
+        "n_alcance": 5,
+        "pct_retencao": 1.9,
+        "top_movimentos": [
+          [
+            "Remessa",
+            2,
+            40.0
+          ],
+          [
+            "Expedição de documento",
+            1,
+            20.0
+          ],
+          [
+            "Ato ordinatório + Expedição de documento",
+            1,
+            20.0
+          ],
+          [
+            "Remessa + Ato ordinatório + Documento",
+            1,
+            20.0
+          ]
+        ]
+      },
+      {
+        "posicao": 74,
+        "n_alcance": 5,
+        "pct_retencao": 1.9,
+        "top_movimentos": [
+          [
+            "Publicação",
+            2,
+            40.0
+          ],
+          [
+            "Documento",
+            1,
+            20.0
+          ],
+          [
+            "Remessa",
+            1,
+            20.0
+          ],
+          [
+            "Outras Decisões + Conclusão + Petição + Publicação",
+            1,
+            20.0
+          ]
+        ]
+      },
+      {
+        "posicao": 75,
+        "n_alcance": 5,
+        "pct_retencao": 1.9,
+        "top_movimentos": [
+          [
+            "Conclusão + Petição",
+            1,
+            20.0
+          ],
+          [
+            "Publicação",
+            1,
+            20.0
+          ],
+          [
+            "Outras Decisões + Conclusão + Expedição de documento",
+            1,
+            20.0
+          ],
+          [
+            "Petição",
+            1,
+            20.0
+          ],
+          [
+            "Remessa",
+            1,
+            20.0
+          ]
+        ]
+      },
+      {
+        "posicao": 76,
+        "n_alcance": 4,
+        "pct_retencao": 1.5,
+        "top_movimentos": [
+          [
+            "Remessa + Outras Decisões",
+            1,
+            25.0
+          ],
+          [
+            "Expedição de documento",
+            1,
+            25.0
+          ],
+          [
+            "Remessa",
+            1,
+            25.0
+          ],
+          [
+            "Expedição de documento + Publicação",
+            1,
+            25.0
+          ]
+        ]
+      },
+      {
+        "posicao": 77,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Petição + Expedição de documento + Publicação",
+            1,
+            33.3
+          ],
+          [
+            "Publicação",
+            1,
+            33.3
+          ],
+          [
+            "Expedição de documento",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 78,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Outras Decisões + Conclusão + Petição",
+            1,
+            33.3
+          ],
+          [
+            "Documento + Expedição de documento",
+            1,
+            33.3
+          ],
+          [
+            "Conclusão + Petição",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 79,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Expedição de documento + Remessa",
+            1,
+            33.3
+          ],
+          [
+            "Expedição de documento",
+            1,
+            33.3
+          ],
+          [
+            "Expedição de documento + Remessa + Outras Decisões",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 80,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Conclusão + Petição + Publicação",
+            1,
+            33.3
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            1,
+            33.3
+          ],
+          [
+            "Publicação",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 81,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Expedição de documento + Outras Decisões",
+            1,
+            33.3
+          ],
+          [
+            "Petição",
+            1,
+            33.3
+          ],
+          [
+            "Expedição de documento",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 82,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Remessa",
+            1,
+            33.3
+          ],
+          [
+            "Remessa + Outras Decisões",
+            1,
+            33.3
+          ],
+          [
+            "Petição",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 83,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Publicação",
+            2,
+            66.7
+          ],
+          [
+            "Conclusão",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 84,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            3,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 85,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            2,
+            66.7
+          ],
+          [
+            "Petição + Expedição de documento + Acolhimento de Embargos de Declaração",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 86,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Outras Decisões + Conclusão + Petição",
+            1,
+            33.3
+          ],
+          [
+            "Outras Decisões + Conclusão + Expedição de documento",
+            1,
+            33.3
+          ],
+          [
+            "Remessa + Conclusão",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 87,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Remessa",
+            1,
+            33.3
+          ],
+          [
+            "Documento + Expedição de documento + Remessa",
+            1,
+            33.3
+          ],
+          [
+            "Publicação",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 88,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Publicação",
+            2,
+            66.7
+          ],
+          [
+            "Expedição de documento + Remessa + Outras Decisões",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 89,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Documento + Expedição de documento",
+            1,
+            33.3
+          ],
+          [
+            "Petição",
+            1,
+            33.3
+          ],
+          [
+            "Publicação",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 90,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Remessa + Outras Decisões + Conclusão + Petição",
+            1,
+            33.3
+          ],
+          [
+            "Expedição de documento + Remessa + Outras Decisões + Conclusão",
+            1,
+            33.3
+          ],
+          [
+            "Expedição de documento + Ato ordinatório + Petição",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 91,
+        "n_alcance": 2,
+        "pct_retencao": 0.8,
+        "top_movimentos": [
+          [
+            "Publicação",
+            1,
+            50.0
+          ],
+          [
+            "Remessa + Documento + Expedição de documento + Ato ordinatório + Publicação",
+            1,
+            50.0
+          ]
+        ]
+      },
+      {
+        "posicao": 92,
+        "n_alcance": 2,
+        "pct_retencao": 0.8,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            1,
+            50.0
+          ],
+          [
+            "Publicação",
+            1,
+            50.0
+          ]
+        ]
+      },
+      {
+        "posicao": 93,
+        "n_alcance": 2,
+        "pct_retencao": 0.8,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            2,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 94,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 95,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Remessa + Outras Decisões + Conclusão + Petição",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 96,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Publicação",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 97,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Documento + Expedição de documento",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 98,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Remessa + Outras Decisões + Conclusão + Petição",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 99,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Publicação",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 100,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 101,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 102,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 103,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Conclusão + Expedição de documento",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 104,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento + Remessa + Outras Decisões",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 105,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Conclusão + Petição + Publicação",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 106,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Outras Decisões",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 107,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Remessa",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 108,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 109,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Publicação",
+            1,
+            100.0
+          ]
+        ]
+      }
+    ]
+  },
+  "Multas e demais Sanções": {
+    "n_processos": 404,
+    "media_posicoes": 14.1,
+    "mediana_posicoes": 11.0,
+    "primeiro_movimento": {
+      "Distribuição": 168,
+      "Execução/Cumprimento de Sentença Iniciada (o)": 68,
+      "Conclusão + Expedição de documento + Distribuição": 59,
+      "Recebimento": 32,
+      "Expedição de documento + Outras Decisões + Conclusão + Distribuição": 27,
+      "Conclusão + Execução/Cumprimento de Sentença Iniciada (o)": 24,
+      "Conclusão + Distribuição": 10,
+      "Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o)": 5,
+      "Outras Decisões + Conclusão + Distribuição": 2,
+      "Expedição de documento + Antecipação de tutela + Conclusão + Distribuição": 1,
+      "Outras Decisões + Conclusão + Expedição de documento + Distribuição": 1,
+      "Antecipação de tutela + Conclusão + Distribuição": 1
+    },
+    "ultimo_movimento": {
+      "Expedição de documento": 156,
+      "Petição": 65,
+      "Publicação": 57,
+      "Ato ordinatório": 38,
+      "Conclusão": 27,
+      "Remessa": 12,
+      "Expedição de documento + Ato ordinatório": 5,
+      "Conclusão + Expedição de documento": 5,
+      "Conclusão + Petição": 5,
+      "Expedição de documento + Trânsito em julgado": 5,
+      "Execução/Cumprimento de Sentença Iniciada (o)": 5,
+      "Definitivo + Expedição de documento + Trânsito em julgado": 3
+    },
+    "transicoes_top": [
+      [
+        [
+          "Remessa",
+          "Publicação"
+        ],
+        654
+      ],
+      [
+        [
+          "Publicação",
+          "Expedição de documento"
+        ],
+        505
+      ],
+      [
+        [
+          "Expedição de documento",
+          "Petição"
+        ],
+        235
+      ],
+      [
+        [
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa"
+        ],
+        220
+      ],
+      [
+        [
+          "Expedição de documento + Outras Decisões",
+          "Remessa"
+        ],
+        198
+      ],
+      [
+        [
+          "Publicação",
+          "Petição"
+        ],
+        165
+      ],
+      [
+        [
+          "Petição",
+          "Conclusão"
+        ],
+        158
+      ],
+      [
+        [
+          "Conclusão",
+          "Expedição de documento + Outras Decisões"
+        ],
+        89
+      ],
+      [
+        [
+          "Expedição de documento",
+          "Expedição de documento"
+        ],
+        80
+      ],
+      [
+        [
+          "Expedição de documento",
+          "Ato ordinatório"
+        ],
+        79
+      ],
+      [
+        [
+          "Petição",
+          "Expedição de documento + Outras Decisões + Conclusão"
+        ],
+        78
+      ],
+      [
+        [
+          "Petição",
+          "Expedição de documento"
+        ],
+        73
+      ],
+      [
+        [
+          "Distribuição",
+          "Expedição de documento + Outras Decisões + Conclusão"
+        ],
+        63
+      ],
+      [
+        [
+          "Conclusão + Expedição de documento",
+          "Expedição de documento + Outras Decisões"
+        ],
+        56
+      ],
+      [
+        [
+          "Petição",
+          "Petição"
+        ],
+        55
+      ],
+      [
+        [
+          "Outras Decisões",
+          "Remessa"
+        ],
+        54
+      ],
+      [
+        [
+          "Distribuição",
+          "Conclusão + Expedição de documento"
+        ],
+        54
+      ],
+      [
+        [
+          "Remessa + Expedição de documento + Outras Decisões",
+          "Publicação"
+        ],
+        53
+      ],
+      [
+        [
+          "Expedição de documento + Mero expediente",
+          "Remessa"
+        ],
+        48
+      ],
+      [
+        [
+          "Expedição de documento + Remessa",
+          "Publicação"
+        ],
+        44
+      ],
+      [
+        [
+          "Remessa",
+          "Conclusão + Expedição de documento + Publicação"
+        ],
+        39
+      ],
+      [
+        [
+          "Publicação",
+          "Expedição de documento + Ato ordinatório"
+        ],
+        38
+      ],
+      [
+        [
+          "Ato ordinatório",
+          "Petição"
+        ],
+        34
+      ],
+      [
+        [
+          "Execução/Cumprimento de Sentença Iniciada (o)",
+          "Expedição de documento + Outras Decisões + Conclusão"
+        ],
+        33
+      ],
+      [
+        [
+          "Conclusão + Expedição de documento + Publicação",
+          "Expedição de documento + Mero expediente"
+        ],
+        33
+      ]
+    ],
+    "caminhos_top": [
+      {
+        "seq": [
+          "Distribuição",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Conclusão + Expedição de documento + Publicação",
+          "Expedição de documento + Mero expediente",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento"
+        ],
+        "n": 30,
+        "pct": 7.4
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Conclusão + Expedição de documento",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento"
+        ],
+        "n": 17,
+        "pct": 4.2
+      },
+      {
+        "seq": [
+          "Conclusão + Expedição de documento + Distribuição",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento"
+        ],
+        "n": 12,
+        "pct": 3.0
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Petição",
+          "Conclusão",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Petição"
+        ],
+        "n": 7,
+        "pct": 1.7
+      },
+      {
+        "seq": [
+          "Expedição de documento + Outras Decisões + Conclusão + Distribuição",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento"
+        ],
+        "n": 5,
+        "pct": 1.2
+      },
+      {
+        "seq": [
+          "Execução/Cumprimento de Sentença Iniciada (o)"
+        ],
+        "n": 5,
+        "pct": 1.2
+      },
+      {
+        "seq": [
+          "Expedição de documento + Outras Decisões + Conclusão + Distribuição",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Petição",
+          "Conclusão",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Petição"
+        ],
+        "n": 4,
+        "pct": 1.0
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento"
+        ],
+        "n": 4,
+        "pct": 1.0
+      },
+      {
+        "seq": [
+          "Conclusão + Expedição de documento + Distribuição",
+          "Remessa + Expedição de documento + Outras Decisões",
+          "Publicação",
+          "Expedição de documento",
+          "Petição",
+          "Conclusão",
+          "Remessa + Expedição de documento + Outras Decisões",
+          "Publicação"
+        ],
+        "n": 3,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Conclusão + Expedição de documento + Distribuição",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório"
+        ],
+        "n": 3,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Conclusão + Expedição de documento + Distribuição",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Petição",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento"
+        ],
+        "n": 3,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Execução/Cumprimento de Sentença Iniciada (o)",
+          "Expedição de documento + Outras Decisões + Conclusão"
+        ],
+        "n": 3,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Execução/Cumprimento de Sentença Iniciada (o)",
+          "Conclusão",
+          "Emenda à Inicial",
+          "Remessa",
+          "Publicação",
+          "Petição",
+          "Conclusão",
+          "Remessa + Expedição de documento + Emenda a inicial",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento"
+        ],
+        "n": 2,
+        "pct": 0.5
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Conclusão + Expedição de documento",
+          "Remessa + Expedição de documento + Outras Decisões",
+          "Publicação",
+          "Expedição de documento",
+          "Petição",
+          "Conclusão",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Petição"
+        ],
+        "n": 2,
+        "pct": 0.5
+      },
+      {
+        "seq": [
+          "Conclusão + Expedição de documento + Distribuição",
+          "Remessa + Outras Decisões",
+          "Expedição de documento + Ato ordinatório + Publicação",
+          "Petição + Expedição de documento",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Petição"
+        ],
+        "n": 2,
+        "pct": 0.5
+      },
+      {
+        "seq": [
+          "Expedição de documento + Outras Decisões + Conclusão + Distribuição",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Conclusão + Petição",
+          "Conclusão",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Petição"
+        ],
+        "n": 2,
+        "pct": 0.5
+      },
+      {
+        "seq": [
+          "Conclusão + Expedição de documento + Distribuição",
+          "Remessa + Expedição de documento + Outras Decisões",
+          "Publicação",
+          "Expedição de documento",
+          "Petição",
+          "Conclusão",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Petição",
+          "Expedição de documento"
+        ],
+        "n": 2,
+        "pct": 0.5
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Conclusão + Expedição de documento",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento + Outras Decisões + Conclusão + Petição",
+          "Expedição de documento + Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Petição"
+        ],
+        "n": 2,
+        "pct": 0.5
+      },
+      {
+        "seq": [
+          "Expedição de documento + Outras Decisões + Conclusão + Distribuição",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Conclusão + Petição"
+        ],
+        "n": 2,
+        "pct": 0.5
+      },
+      {
+        "seq": [
+          "Expedição de documento + Outras Decisões + Conclusão + Distribuição",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Petição",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Publicação"
+        ],
+        "n": 2,
+        "pct": 0.5
+      }
+    ],
+    "funil_por_posicao": [
+      {
+        "posicao": 1,
+        "n_alcance": 404,
+        "pct_retencao": 100.0,
+        "top_movimentos": [
+          [
+            "Distribuição",
+            168,
+            41.6
+          ],
+          [
+            "Execução/Cumprimento de Sentença Iniciada (o)",
+            68,
+            16.8
+          ],
+          [
+            "Conclusão + Expedição de documento + Distribuição",
+            59,
+            14.6
+          ],
+          [
+            "Recebimento",
+            32,
+            7.9
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão + Distribuição",
+            27,
+            6.7
+          ],
+          [
+            "Conclusão + Execução/Cumprimento de Sentença Iniciada (o)",
+            24,
+            5.9
+          ]
+        ]
+      },
+      {
+        "posicao": 2,
+        "n_alcance": 399,
+        "pct_retencao": 98.8,
+        "top_movimentos": [
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            96,
+            24.1
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            54,
+            13.5
+          ],
+          [
+            "Conclusão",
+            45,
+            11.3
+          ],
+          [
+            "Remessa",
+            37,
+            9.3
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            35,
+            8.8
+          ],
+          [
+            "Remessa + Expedição de documento + Outras Decisões",
+            20,
+            5.0
+          ]
+        ]
+      },
+      {
+        "posicao": 3,
+        "n_alcance": 395,
+        "pct_retencao": 97.8,
+        "top_movimentos": [
+          [
+            "Remessa",
+            160,
+            40.5
+          ],
+          [
+            "Publicação",
+            72,
+            18.2
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            46,
+            11.6
+          ],
+          [
+            "Outras Decisões",
+            30,
+            7.6
+          ],
+          [
+            "Petição",
+            7,
+            1.8
+          ],
+          [
+            "Expedição de documento",
+            7,
+            1.8
+          ]
+        ]
+      },
+      {
+        "posicao": 4,
+        "n_alcance": 394,
+        "pct_retencao": 97.5,
+        "top_movimentos": [
+          [
+            "Publicação",
+            133,
+            33.8
+          ],
+          [
+            "Remessa",
+            83,
+            21.1
+          ],
+          [
+            "Expedição de documento",
+            55,
+            14.0
+          ],
+          [
+            "Conclusão + Expedição de documento + Publicação",
+            42,
+            10.7
+          ],
+          [
+            "Petição",
+            19,
+            4.8
+          ],
+          [
+            "Petição + Publicação",
+            6,
+            1.5
+          ]
+        ]
+      },
+      {
+        "posicao": 5,
+        "n_alcance": 384,
+        "pct_retencao": 95.0,
+        "top_movimentos": [
+          [
+            "Publicação",
+            88,
+            22.9
+          ],
+          [
+            "Expedição de documento",
+            76,
+            19.8
+          ],
+          [
+            "Petição",
+            64,
+            16.7
+          ],
+          [
+            "Expedição de documento + Mero expediente",
+            33,
+            8.6
+          ],
+          [
+            "Remessa",
+            15,
+            3.9
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            15,
+            3.9
+          ]
+        ]
+      },
+      {
+        "posicao": 6,
+        "n_alcance": 359,
+        "pct_retencao": 88.9,
+        "top_movimentos": [
+          [
+            "Petição",
+            75,
+            20.9
+          ],
+          [
+            "Remessa",
+            62,
+            17.3
+          ],
+          [
+            "Expedição de documento",
+            45,
+            12.5
+          ],
+          [
+            "Conclusão",
+            32,
+            8.9
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            25,
+            7.0
+          ],
+          [
+            "Ato ordinatório",
+            23,
+            6.4
+          ]
+        ]
+      },
+      {
+        "posicao": 7,
+        "n_alcance": 331,
+        "pct_retencao": 81.9,
+        "top_movimentos": [
+          [
+            "Publicação",
+            71,
+            21.5
+          ],
+          [
+            "Conclusão",
+            36,
+            10.9
+          ],
+          [
+            "Remessa",
+            36,
+            10.9
+          ],
+          [
+            "Petição",
+            29,
+            8.8
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            29,
+            8.8
+          ],
+          [
+            "Expedição de documento",
+            22,
+            6.6
+          ]
+        ]
+      },
+      {
+        "posicao": 8,
+        "n_alcance": 320,
+        "pct_retencao": 79.2,
+        "top_movimentos": [
+          [
+            "Remessa",
+            63,
+            19.7
+          ],
+          [
+            "Expedição de documento",
+            58,
+            18.1
+          ],
+          [
+            "Publicação",
+            51,
+            15.9
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            29,
+            9.1
+          ],
+          [
+            "Petição",
+            27,
+            8.4
+          ],
+          [
+            "Conclusão",
+            17,
+            5.3
+          ]
+        ]
+      },
+      {
+        "posicao": 9,
+        "n_alcance": 272,
+        "pct_retencao": 67.3,
+        "top_movimentos": [
+          [
+            "Publicação",
+            76,
+            27.9
+          ],
+          [
+            "Remessa",
+            50,
+            18.4
+          ],
+          [
+            "Expedição de documento",
+            44,
+            16.2
+          ],
+          [
+            "Petição",
+            25,
+            9.2
+          ],
+          [
+            "Ato ordinatório",
+            12,
+            4.4
+          ],
+          [
+            "Conclusão",
+            10,
+            3.7
+          ]
+        ]
+      },
+      {
+        "posicao": 10,
+        "n_alcance": 251,
+        "pct_retencao": 62.1,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            59,
+            23.5
+          ],
+          [
+            "Publicação",
+            55,
+            21.9
+          ],
+          [
+            "Petição",
+            35,
+            13.9
+          ],
+          [
+            "Remessa",
+            27,
+            10.8
+          ],
+          [
+            "Conclusão",
+            13,
+            5.2
+          ],
+          [
+            "Recebimento",
+            8,
+            3.2
+          ]
+        ]
+      },
+      {
+        "posicao": 11,
+        "n_alcance": 228,
+        "pct_retencao": 56.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            54,
+            23.7
+          ],
+          [
+            "Petição",
+            46,
+            20.2
+          ],
+          [
+            "Publicação",
+            33,
+            14.5
+          ],
+          [
+            "Remessa",
+            14,
+            6.1
+          ],
+          [
+            "Conclusão",
+            13,
+            5.7
+          ],
+          [
+            "Ato ordinatório",
+            12,
+            5.3
+          ]
+        ]
+      },
+      {
+        "posicao": 12,
+        "n_alcance": 193,
+        "pct_retencao": 47.8,
+        "top_movimentos": [
+          [
+            "Petição",
+            44,
+            22.8
+          ],
+          [
+            "Expedição de documento",
+            33,
+            17.1
+          ],
+          [
+            "Publicação",
+            19,
+            9.8
+          ],
+          [
+            "Remessa",
+            17,
+            8.8
+          ],
+          [
+            "Ato ordinatório",
+            14,
+            7.3
+          ],
+          [
+            "Conclusão",
+            12,
+            6.2
+          ]
+        ]
+      },
+      {
+        "posicao": 13,
+        "n_alcance": 161,
+        "pct_retencao": 39.9,
+        "top_movimentos": [
+          [
+            "Petição",
+            26,
+            16.1
+          ],
+          [
+            "Publicação",
+            25,
+            15.5
+          ],
+          [
+            "Ato ordinatório",
+            19,
+            11.8
+          ],
+          [
+            "Expedição de documento",
+            19,
+            11.8
+          ],
+          [
+            "Remessa",
+            19,
+            11.8
+          ],
+          [
+            "Conclusão",
+            10,
+            6.2
+          ]
+        ]
+      },
+      {
+        "posicao": 14,
+        "n_alcance": 145,
+        "pct_retencao": 35.9,
+        "top_movimentos": [
+          [
+            "Publicação",
+            24,
+            16.6
+          ],
+          [
+            "Expedição de documento",
+            23,
+            15.9
+          ],
+          [
+            "Remessa",
+            20,
+            13.8
+          ],
+          [
+            "Petição",
+            18,
+            12.4
+          ],
+          [
+            "Ato ordinatório",
+            10,
+            6.9
+          ],
+          [
+            "Conclusão",
+            8,
+            5.5
+          ]
+        ]
+      },
+      {
+        "posicao": 15,
+        "n_alcance": 132,
+        "pct_retencao": 32.7,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            27,
+            20.5
+          ],
+          [
+            "Publicação",
+            24,
+            18.2
+          ],
+          [
+            "Remessa",
+            18,
+            13.6
+          ],
+          [
+            "Petição",
+            13,
+            9.8
+          ],
+          [
+            "Conclusão",
+            12,
+            9.1
+          ],
+          [
+            "Ato ordinatório",
+            6,
+            4.5
+          ]
+        ]
+      },
+      {
+        "posicao": 16,
+        "n_alcance": 124,
+        "pct_retencao": 30.7,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            24,
+            19.4
+          ],
+          [
+            "Publicação",
+            21,
+            16.9
+          ],
+          [
+            "Petição",
+            20,
+            16.1
+          ],
+          [
+            "Ato ordinatório",
+            12,
+            9.7
+          ],
+          [
+            "Remessa",
+            11,
+            8.9
+          ],
+          [
+            "Conclusão",
+            6,
+            4.8
+          ]
+        ]
+      },
+      {
+        "posicao": 17,
+        "n_alcance": 114,
+        "pct_retencao": 28.2,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            19,
+            16.7
+          ],
+          [
+            "Remessa",
+            17,
+            14.9
+          ],
+          [
+            "Publicação",
+            15,
+            13.2
+          ],
+          [
+            "Petição",
+            15,
+            13.2
+          ],
+          [
+            "Conclusão",
+            12,
+            10.5
+          ],
+          [
+            "Ato ordinatório",
+            5,
+            4.4
+          ]
+        ]
+      },
+      {
+        "posicao": 18,
+        "n_alcance": 108,
+        "pct_retencao": 26.7,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            20,
+            18.5
+          ],
+          [
+            "Publicação",
+            19,
+            17.6
+          ],
+          [
+            "Remessa",
+            12,
+            11.1
+          ],
+          [
+            "Petição",
+            12,
+            11.1
+          ],
+          [
+            "Conclusão",
+            8,
+            7.4
+          ],
+          [
+            "Ato ordinatório",
+            7,
+            6.5
+          ]
+        ]
+      },
+      {
+        "posicao": 19,
+        "n_alcance": 102,
+        "pct_retencao": 25.2,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            16,
+            15.7
+          ],
+          [
+            "Publicação",
+            14,
+            13.7
+          ],
+          [
+            "Petição",
+            13,
+            12.7
+          ],
+          [
+            "Remessa",
+            9,
+            8.8
+          ],
+          [
+            "Conclusão",
+            7,
+            6.9
+          ],
+          [
+            "Recebimento",
+            5,
+            4.9
+          ]
+        ]
+      },
+      {
+        "posicao": 20,
+        "n_alcance": 96,
+        "pct_retencao": 23.8,
+        "top_movimentos": [
+          [
+            "Remessa",
+            18,
+            18.8
+          ],
+          [
+            "Publicação",
+            17,
+            17.7
+          ],
+          [
+            "Expedição de documento",
+            15,
+            15.6
+          ],
+          [
+            "Conclusão",
+            9,
+            9.4
+          ],
+          [
+            "Petição",
+            7,
+            7.3
+          ],
+          [
+            "Ato ordinatório",
+            6,
+            6.2
+          ]
+        ]
+      },
+      {
+        "posicao": 21,
+        "n_alcance": 92,
+        "pct_retencao": 22.8,
+        "top_movimentos": [
+          [
+            "Publicação",
+            22,
+            23.9
+          ],
+          [
+            "Expedição de documento",
+            15,
+            16.3
+          ],
+          [
+            "Ato ordinatório",
+            8,
+            8.7
+          ],
+          [
+            "Remessa",
+            7,
+            7.6
+          ],
+          [
+            "Conclusão",
+            4,
+            4.3
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            4,
+            4.3
+          ]
+        ]
+      },
+      {
+        "posicao": 22,
+        "n_alcance": 81,
+        "pct_retencao": 20.0,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            22,
+            27.2
+          ],
+          [
+            "Remessa",
+            15,
+            18.5
+          ],
+          [
+            "Petição",
+            12,
+            14.8
+          ],
+          [
+            "Publicação",
+            6,
+            7.4
+          ],
+          [
+            "Conclusão",
+            5,
+            6.2
+          ],
+          [
+            "Ato ordinatório",
+            3,
+            3.7
+          ]
+        ]
+      },
+      {
+        "posicao": 23,
+        "n_alcance": 75,
+        "pct_retencao": 18.6,
+        "top_movimentos": [
+          [
+            "Publicação",
+            18,
+            24.0
+          ],
+          [
+            "Expedição de documento",
+            13,
+            17.3
+          ],
+          [
+            "Petição",
+            10,
+            13.3
+          ],
+          [
+            "Ato ordinatório",
+            7,
+            9.3
+          ],
+          [
+            "Conclusão",
+            5,
+            6.7
+          ],
+          [
+            "Remessa",
+            4,
+            5.3
+          ]
+        ]
+      },
+      {
+        "posicao": 24,
+        "n_alcance": 64,
+        "pct_retencao": 15.8,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            13,
+            20.3
+          ],
+          [
+            "Conclusão",
+            9,
+            14.1
+          ],
+          [
+            "Petição",
+            8,
+            12.5
+          ],
+          [
+            "Publicação",
+            6,
+            9.4
+          ],
+          [
+            "Remessa",
+            6,
+            9.4
+          ],
+          [
+            "Ato ordinatório",
+            5,
+            7.8
+          ]
+        ]
+      },
+      {
+        "posicao": 25,
+        "n_alcance": 53,
+        "pct_retencao": 13.1,
+        "top_movimentos": [
+          [
+            "Petição",
+            10,
+            18.9
+          ],
+          [
+            "Remessa",
+            8,
+            15.1
+          ],
+          [
+            "Conclusão",
+            5,
+            9.4
+          ],
+          [
+            "Publicação",
+            5,
+            9.4
+          ],
+          [
+            "Ato ordinatório",
+            4,
+            7.5
+          ],
+          [
+            "Expedição de documento",
+            4,
+            7.5
+          ]
+        ]
+      },
+      {
+        "posicao": 26,
+        "n_alcance": 50,
+        "pct_retencao": 12.4,
+        "top_movimentos": [
+          [
+            "Remessa",
+            11,
+            22.0
+          ],
+          [
+            "Publicação",
+            10,
+            20.0
+          ],
+          [
+            "Expedição de documento",
+            8,
+            16.0
+          ],
+          [
+            "Conclusão",
+            4,
+            8.0
+          ],
+          [
+            "Petição",
+            2,
+            4.0
+          ],
+          [
+            "Expedição de documento + Ato ordinatório",
+            2,
+            4.0
+          ]
+        ]
+      },
+      {
+        "posicao": 27,
+        "n_alcance": 46,
+        "pct_retencao": 11.4,
+        "top_movimentos": [
+          [
+            "Publicação",
+            11,
+            23.9
+          ],
+          [
+            "Expedição de documento",
+            9,
+            19.6
+          ],
+          [
+            "Petição",
+            8,
+            17.4
+          ],
+          [
+            "Remessa",
+            4,
+            8.7
+          ],
+          [
+            "Conclusão",
+            3,
+            6.5
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            2,
+            4.3
+          ]
+        ]
+      },
+      {
+        "posicao": 28,
+        "n_alcance": 43,
+        "pct_retencao": 10.6,
+        "top_movimentos": [
+          [
+            "Publicação",
+            9,
+            20.9
+          ],
+          [
+            "Expedição de documento",
+            7,
+            16.3
+          ],
+          [
+            "Petição",
+            7,
+            16.3
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            4,
+            9.3
+          ],
+          [
+            "Ato ordinatório",
+            3,
+            7.0
+          ],
+          [
+            "Remessa",
+            3,
+            7.0
+          ]
+        ]
+      },
+      {
+        "posicao": 29,
+        "n_alcance": 36,
+        "pct_retencao": 8.9,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            11,
+            30.6
+          ],
+          [
+            "Publicação",
+            5,
+            13.9
+          ],
+          [
+            "Remessa",
+            4,
+            11.1
+          ],
+          [
+            "Petição",
+            4,
+            11.1
+          ],
+          [
+            "Expedição de documento + Extinção da execução ou do cumprimento da sentença",
+            2,
+            5.6
+          ],
+          [
+            "Conclusão",
+            2,
+            5.6
+          ]
+        ]
+      },
+      {
+        "posicao": 30,
+        "n_alcance": 32,
+        "pct_retencao": 7.9,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            9,
+            28.1
+          ],
+          [
+            "Remessa",
+            6,
+            18.8
+          ],
+          [
+            "Publicação",
+            3,
+            9.4
+          ],
+          [
+            "Conclusão",
+            3,
+            9.4
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            3,
+            9.4
+          ],
+          [
+            "Petição",
+            2,
+            6.2
+          ]
+        ]
+      },
+      {
+        "posicao": 31,
+        "n_alcance": 29,
+        "pct_retencao": 7.2,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            5,
+            17.2
+          ],
+          [
+            "Publicação",
+            5,
+            17.2
+          ],
+          [
+            "Remessa",
+            4,
+            13.8
+          ],
+          [
+            "Ato ordinatório",
+            2,
+            6.9
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            2,
+            6.9
+          ],
+          [
+            "Petição",
+            1,
+            3.4
+          ]
+        ]
+      },
+      {
+        "posicao": 32,
+        "n_alcance": 26,
+        "pct_retencao": 6.4,
+        "top_movimentos": [
+          [
+            "Publicação",
+            6,
+            23.1
+          ],
+          [
+            "Expedição de documento",
+            6,
+            23.1
+          ],
+          [
+            "Conclusão",
+            2,
+            7.7
+          ],
+          [
+            "Remessa",
+            2,
+            7.7
+          ],
+          [
+            "Petição",
+            2,
+            7.7
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            1,
+            3.8
+          ]
+        ]
+      },
+      {
+        "posicao": 33,
+        "n_alcance": 21,
+        "pct_retencao": 5.2,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            4,
+            19.0
+          ],
+          [
+            "Publicação",
+            3,
+            14.3
+          ],
+          [
+            "Remessa",
+            2,
+            9.5
+          ],
+          [
+            "Remessa + Expedição de documento + Sem efeito suspensivo",
+            1,
+            4.8
+          ],
+          [
+            "Expedição de documento + Procedência em Parte",
+            1,
+            4.8
+          ],
+          [
+            "Petição",
+            1,
+            4.8
+          ]
+        ]
+      },
+      {
+        "posicao": 34,
+        "n_alcance": 16,
+        "pct_retencao": 4.0,
+        "top_movimentos": [
+          [
+            "Publicação",
+            4,
+            25.0
+          ],
+          [
+            "Expedição de documento",
+            3,
+            18.8
+          ],
+          [
+            "Petição",
+            2,
+            12.5
+          ],
+          [
+            "Remessa",
+            2,
+            12.5
+          ],
+          [
+            "Conclusão",
+            1,
+            6.2
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            1,
+            6.2
+          ]
+        ]
+      },
+      {
+        "posicao": 35,
+        "n_alcance": 12,
+        "pct_retencao": 3.0,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            6,
+            50.0
+          ],
+          [
+            "Remessa",
+            2,
+            16.7
+          ],
+          [
+            "Expedição de documento + Decisão Interlocutória de Mérito + Conclusão",
+            1,
+            8.3
+          ],
+          [
+            "Conclusão",
+            1,
+            8.3
+          ],
+          [
+            "Publicação",
+            1,
+            8.3
+          ],
+          [
+            "Remessa + Expedição de documento + Outras Decisões",
+            1,
+            8.3
+          ]
+        ]
+      },
+      {
+        "posicao": 36,
+        "n_alcance": 10,
+        "pct_retencao": 2.5,
+        "top_movimentos": [
+          [
+            "Petição",
+            2,
+            20.0
+          ],
+          [
+            "Expedição de documento",
+            2,
+            20.0
+          ],
+          [
+            "Publicação",
+            2,
+            20.0
+          ],
+          [
+            "Remessa",
+            1,
+            10.0
+          ],
+          [
+            "Documento + Expedição de documento + Publicação",
+            1,
+            10.0
+          ],
+          [
+            "Outras Decisões + Conclusão + Petição",
+            1,
+            10.0
+          ]
+        ]
+      },
+      {
+        "posicao": 37,
+        "n_alcance": 10,
+        "pct_retencao": 2.5,
+        "top_movimentos": [
+          [
+            "Petição",
+            2,
+            20.0
+          ],
+          [
+            "Remessa + Expedição de documento",
+            1,
+            10.0
+          ],
+          [
+            "Publicação",
+            1,
+            10.0
+          ],
+          [
+            "Conclusão",
+            1,
+            10.0
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            1,
+            10.0
+          ],
+          [
+            "Expedição de documento + Improcedência + Conclusão + Petição",
+            1,
+            10.0
+          ]
+        ]
+      },
+      {
+        "posicao": 38,
+        "n_alcance": 9,
+        "pct_retencao": 2.2,
+        "top_movimentos": [
+          [
+            "Remessa + Expedição de documento",
+            2,
+            22.2
+          ],
+          [
+            "Remessa",
+            2,
+            22.2
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            1,
+            11.1
+          ],
+          [
+            "Expedição de documento",
+            1,
+            11.1
+          ],
+          [
+            "Conclusão",
+            1,
+            11.1
+          ],
+          [
+            "Remessa + Expedição de documento + Outras Decisões + Conclusão",
+            1,
+            11.1
+          ]
+        ]
+      },
+      {
+        "posicao": 39,
+        "n_alcance": 9,
+        "pct_retencao": 2.2,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            4,
+            44.4
+          ],
+          [
+            "Publicação",
+            2,
+            22.2
+          ],
+          [
+            "Recebimento + Documento",
+            1,
+            11.1
+          ],
+          [
+            "Remessa",
+            1,
+            11.1
+          ],
+          [
+            "Expedição de documento + Remessa",
+            1,
+            11.1
+          ]
+        ]
+      },
+      {
+        "posicao": 40,
+        "n_alcance": 8,
+        "pct_retencao": 2.0,
+        "top_movimentos": [
+          [
+            "Publicação",
+            3,
+            37.5
+          ],
+          [
+            "Expedição de documento",
+            2,
+            25.0
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            1,
+            12.5
+          ],
+          [
+            "Petição",
+            1,
+            12.5
+          ],
+          [
+            "Remessa + Expedição de documento + Outras Decisões",
+            1,
+            12.5
+          ]
+        ]
+      },
+      {
+        "posicao": 41,
+        "n_alcance": 7,
+        "pct_retencao": 1.7,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            3,
+            42.9
+          ],
+          [
+            "Petição",
+            2,
+            28.6
+          ],
+          [
+            "Expedição de documento + Emenda à Inicial",
+            1,
+            14.3
+          ],
+          [
+            "Petição + Publicação",
+            1,
+            14.3
+          ]
+        ]
+      },
+      {
+        "posicao": 42,
+        "n_alcance": 6,
+        "pct_retencao": 1.5,
+        "top_movimentos": [
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            2,
+            33.3
+          ],
+          [
+            "Petição + Remessa",
+            1,
+            16.7
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            1,
+            16.7
+          ],
+          [
+            "Expedição de documento",
+            1,
+            16.7
+          ],
+          [
+            "Conclusão",
+            1,
+            16.7
+          ]
+        ]
+      },
+      {
+        "posicao": 43,
+        "n_alcance": 6,
+        "pct_retencao": 1.5,
+        "top_movimentos": [
+          [
+            "Remessa",
+            2,
+            33.3
+          ],
+          [
+            "Publicação",
+            1,
+            16.7
+          ],
+          [
+            "Expedição de documento + Não Acolhimento de Embargos de Declaração",
+            1,
+            16.7
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            1,
+            16.7
+          ],
+          [
+            "Expedição de documento",
+            1,
+            16.7
+          ]
+        ]
+      },
+      {
+        "posicao": 44,
+        "n_alcance": 5,
+        "pct_retencao": 1.2,
+        "top_movimentos": [
+          [
+            "Publicação",
+            2,
+            40.0
+          ],
+          [
+            "Conclusão",
+            1,
+            20.0
+          ],
+          [
+            "Remessa",
+            1,
+            20.0
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            1,
+            20.0
+          ]
+        ]
+      },
+      {
+        "posicao": 45,
+        "n_alcance": 5,
+        "pct_retencao": 1.2,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            2,
+            40.0
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            1,
+            20.0
+          ],
+          [
+            "Expedição de documento + Publicação",
+            1,
+            20.0
+          ],
+          [
+            "Remessa",
+            1,
+            20.0
+          ]
+        ]
+      },
+      {
+        "posicao": 46,
+        "n_alcance": 4,
+        "pct_retencao": 1.0,
+        "top_movimentos": [
+          [
+            "Expedição de documento + Decisão Interlocutória de Mérito + Conclusão",
+            1,
+            25.0
+          ],
+          [
+            "Remessa",
+            1,
+            25.0
+          ],
+          [
+            "Expedição de documento",
+            1,
+            25.0
+          ],
+          [
+            "Publicação",
+            1,
+            25.0
+          ]
+        ]
+      },
+      {
+        "posicao": 47,
+        "n_alcance": 4,
+        "pct_retencao": 1.0,
+        "top_movimentos": [
+          [
+            "Remessa",
+            1,
+            25.0
+          ],
+          [
+            "Publicação",
+            1,
+            25.0
+          ],
+          [
+            "Conclusão + Petição",
+            1,
+            25.0
+          ],
+          [
+            "Expedição de documento",
+            1,
+            25.0
+          ]
+        ]
+      },
+      {
+        "posicao": 48,
+        "n_alcance": 4,
+        "pct_retencao": 1.0,
+        "top_movimentos": [
+          [
+            "Publicação",
+            1,
+            25.0
+          ],
+          [
+            "Expedição de documento",
+            1,
+            25.0
+          ],
+          [
+            "Outras Decisões",
+            1,
+            25.0
+          ],
+          [
+            "Petição",
+            1,
+            25.0
+          ]
+        ]
+      },
+      {
+        "posicao": 49,
+        "n_alcance": 4,
+        "pct_retencao": 1.0,
+        "top_movimentos": [
+          [
+            "Petição",
+            1,
+            25.0
+          ],
+          [
+            "Expedição de documento",
+            1,
+            25.0
+          ],
+          [
+            "Remessa",
+            1,
+            25.0
+          ],
+          [
+            "Documento",
+            1,
+            25.0
+          ]
+        ]
+      },
+      {
+        "posicao": 50,
+        "n_alcance": 4,
+        "pct_retencao": 1.0,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            1,
+            25.0
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão + Documento",
+            1,
+            25.0
+          ],
+          [
+            "Petição + Publicação",
+            1,
+            25.0
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            1,
+            25.0
+          ]
+        ]
+      },
+      {
+        "posicao": 51,
+        "n_alcance": 4,
+        "pct_retencao": 1.0,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            1,
+            25.0
+          ],
+          [
+            "Remessa",
+            1,
+            25.0
+          ],
+          [
+            "Expedição de documento + Remessa",
+            1,
+            25.0
+          ],
+          [
+            "Outras Decisões",
+            1,
+            25.0
+          ]
+        ]
+      },
+      {
+        "posicao": 52,
+        "n_alcance": 4,
+        "pct_retencao": 1.0,
+        "top_movimentos": [
+          [
+            "Mandado + Documento",
+            1,
+            25.0
+          ],
+          [
+            "Publicação",
+            1,
+            25.0
+          ],
+          [
+            "Expedição de documento",
+            1,
+            25.0
+          ],
+          [
+            "Remessa",
+            1,
+            25.0
+          ]
+        ]
+      },
+      {
+        "posicao": 53,
+        "n_alcance": 2,
+        "pct_retencao": 0.5,
+        "top_movimentos": [
+          [
+            "Petição",
+            1,
+            50.0
+          ],
+          [
+            "Expedição de documento",
+            1,
+            50.0
+          ]
+        ]
+      },
+      {
+        "posicao": 54,
+        "n_alcance": 2,
+        "pct_retencao": 0.5,
+        "top_movimentos": [
+          [
+            "Expedição de documento + Ato ordinatório",
+            1,
+            50.0
+          ],
+          [
+            "Petição",
+            1,
+            50.0
+          ]
+        ]
+      },
+      {
+        "posicao": 55,
+        "n_alcance": 1,
+        "pct_retencao": 0.2,
+        "top_movimentos": [
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 56,
+        "n_alcance": 1,
+        "pct_retencao": 0.2,
+        "top_movimentos": [
+          [
+            "Remessa",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 57,
+        "n_alcance": 1,
+        "pct_retencao": 0.2,
+        "top_movimentos": [
+          [
+            "Publicação",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 58,
+        "n_alcance": 1,
+        "pct_retencao": 0.2,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 59,
+        "n_alcance": 1,
+        "pct_retencao": 0.2,
+        "top_movimentos": [
+          [
+            "Petição",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 60,
+        "n_alcance": 1,
+        "pct_retencao": 0.2,
+        "top_movimentos": [
+          [
+            "Conclusão",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 61,
+        "n_alcance": 1,
+        "pct_retencao": 0.2,
+        "top_movimentos": [
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 62,
+        "n_alcance": 1,
+        "pct_retencao": 0.2,
+        "top_movimentos": [
+          [
+            "Remessa",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 63,
+        "n_alcance": 1,
+        "pct_retencao": 0.2,
+        "top_movimentos": [
+          [
+            "Publicação",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 64,
+        "n_alcance": 1,
+        "pct_retencao": 0.2,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            1,
+            100.0
+          ]
+        ]
+      }
+    ]
+  },
+  "Valor da Execução / Cálculo / Atualização": {
+    "n_processos": 284,
+    "media_posicoes": 12.0,
+    "mediana_posicoes": 10.0,
+    "primeiro_movimento": {
+      "Distribuição": 143,
+      "Recebimento": 61,
+      "Expedição de documento + Outras Decisões + Conclusão + Distribuição": 15,
+      "Conclusão + Expedição de documento + Distribuição": 11,
+      "Conclusão + Distribuição": 9,
+      "Execução/Cumprimento de Sentença Iniciada (o)": 8,
+      "Ato ordinatório + Distribuição": 6,
+      "Remessa + Ato ordinatório + Distribuição": 6,
+      "A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão + Distribuição": 4,
+      "Outras Decisões + Conclusão + Distribuição": 3,
+      "Expedição de documento + Mero expediente + Conclusão + Distribuição": 2,
+      "Redistribuição + Remessa + Outras Decisões + Conclusão + Distribuição": 2
+    },
+    "ultimo_movimento": {
+      "Ato ordinatório": 68,
+      "Publicação": 64,
+      "Petição": 56,
+      "Expedição de documento": 36,
+      "Conclusão": 22,
+      "Expedição de documento + Ato ordinatório": 10,
+      "Recebimento": 8,
+      "Remessa": 2,
+      "Definitivo + Expedição de documento": 2,
+      "Conclusão + Expedição de documento": 2,
+      "Petição + Publicação": 2,
+      "Expedição de documento + Trânsito em julgado": 2
+    },
+    "transicoes_top": [
+      [
+        [
+          "Remessa",
+          "Publicação"
+        ],
+        369
+      ],
+      [
+        [
+          "Publicação",
+          "Expedição de documento"
+        ],
+        222
+      ],
+      [
+        [
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        146
+      ],
+      [
+        [
+          "Publicação",
+          "Petição"
+        ],
+        127
+      ],
+      [
+        [
+          "Expedição de documento",
+          "Ato ordinatório"
+        ],
+        121
+      ],
+      [
+        [
+          "Expedição de documento",
+          "Petição"
+        ],
+        91
+      ],
+      [
+        [
+          "Petição",
+          "Conclusão"
+        ],
+        89
+      ],
+      [
+        [
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa"
+        ],
+        68
+      ],
+      [
+        [
+          "Expedição de documento + Outras Decisões",
+          "Remessa"
+        ],
+        64
+      ],
+      [
+        [
+          "Conclusão",
+          "Expedição de documento + Outras Decisões"
+        ],
+        62
+      ],
+      [
+        [
+          "Petição",
+          "Expedição de documento"
+        ],
+        60
+      ],
+      [
+        [
+          "Publicação",
+          "Ato ordinatório"
+        ],
+        52
+      ],
+      [
+        [
+          "Publicação",
+          "Expedição de documento + Ato ordinatório"
+        ],
+        38
+      ],
+      [
+        [
+          "Petição",
+          "Petição"
+        ],
+        36
+      ],
+      [
+        [
+          "Expedição de documento",
+          "Conclusão"
+        ],
+        35
+      ],
+      [
+        [
+          "Remessa + Expedição de documento + Ato ordinatório",
+          "Publicação"
+        ],
+        30
+      ],
+      [
+        [
+          "Ato ordinatório",
+          "Conclusão"
+        ],
+        29
+      ],
+      [
+        [
+          "Distribuição",
+          "Conclusão"
+        ],
+        29
+      ],
+      [
+        [
+          "Ato ordinatório",
+          "Petição"
+        ],
+        28
+      ],
+      [
+        [
+          "Petição",
+          "Ato ordinatório"
+        ],
+        28
+      ],
+      [
+        [
+          "Distribuição",
+          "Expedição de documento + Outras Decisões + Conclusão"
+        ],
+        28
+      ],
+      [
+        [
+          "Expedição de documento + Ato ordinatório",
+          "Remessa"
+        ],
+        26
+      ],
+      [
+        [
+          "Ato ordinatório",
+          "Remessa + Expedição de documento + Ato ordinatório"
+        ],
+        24
+      ],
+      [
+        [
+          "Expedição de documento + Ato ordinatório",
+          "Petição"
+        ],
+        23
+      ],
+      [
+        [
+          "Expedição de documento + Mero expediente + Conclusão",
+          "Remessa"
+        ],
+        23
+      ]
+    ],
+    "caminhos_top": [
+      {
+        "seq": [
+          "Distribuição",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Publicação"
+        ],
+        "n": 19,
+        "pct": 6.7
+      },
+      {
+        "seq": [
+          "Expedição de documento + Outras Decisões + Conclusão + Distribuição",
+          "Remessa",
+          "Publicação",
+          "Petição"
+        ],
+        "n": 14,
+        "pct": 4.9
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Remessa + Ato ordinatório",
+          "Publicação",
+          "Ato ordinatório",
+          "Remessa + Expedição de documento + Ato ordinatório",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 8,
+        "pct": 2.8
+      },
+      {
+        "seq": [
+          "Recebimento"
+        ],
+        "n": 8,
+        "pct": 2.8
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Conclusão"
+        ],
+        "n": 6,
+        "pct": 2.1
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Ato ordinatório",
+          "Expedição de documento + Mero expediente + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Petição"
+        ],
+        "n": 5,
+        "pct": 1.8
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Outras Decisões + Conclusão + Expedição de documento",
+          "Remessa",
+          "Publicação",
+          "Petição"
+        ],
+        "n": 4,
+        "pct": 1.4
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Remessa",
+          "Publicação",
+          "Petição"
+        ],
+        "n": 4,
+        "pct": 1.4
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Emenda à Inicial + Conclusão + Expedição de documento",
+          "Remessa",
+          "Publicação",
+          "Petição"
+        ],
+        "n": 3,
+        "pct": 1.1
+      },
+      {
+        "seq": [
+          "Ato ordinatório + Distribuição",
+          "Remessa",
+          "Publicação",
+          "Ato ordinatório",
+          "Remessa + Expedição de documento + Ato ordinatório",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 2,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Remessa + Ato ordinatório + Distribuição",
+          "Publicação",
+          "Ato ordinatório",
+          "Remessa + Expedição de documento + Ato ordinatório",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 2,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Remessa + Ato ordinatório",
+          "Publicação",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Remessa + Expedição de documento + Ato ordinatório",
+          "Publicação",
+          "Ato ordinatório",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 2,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Conclusão + Distribuição",
+          "A depender do julgamento de outra causa, de outro juízo ou declaração incidente",
+          "Remessa",
+          "Publicação",
+          "Ato ordinatório + Expedição de documento",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Ato ordinatório",
+          "Ato ordinatório",
+          "Ato ordinatório"
+        ],
+        "n": 2,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Conclusão + Expedição de documento",
+          "Expedição de documento + Mero expediente",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Petição",
+          "Conclusão"
+        ],
+        "n": 2,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Conclusão",
+          "Petição"
+        ],
+        "n": 2,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão",
+          "Remessa",
+          "Publicação"
+        ],
+        "n": 2,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Outras Decisões + Conclusão + Expedição de documento + Distribuição",
+          "Remessa",
+          "Publicação",
+          "Petição"
+        ],
+        "n": 2,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Distribuição",
+          "Expedição de documento + Outras Decisões + Conclusão",
+          "Petição + Remessa",
+          "Publicação"
+        ],
+        "n": 2,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Remessa + Expedição de documento + Outras Decisões + Conclusão + Distribuição",
+          "Publicação"
+        ],
+        "n": 2,
+        "pct": 0.7
+      },
+      {
+        "seq": [
+          "Recebimento",
+          "Conclusão",
+          "Remessa + Expedição de documento + Expedição de precatório/rpv",
+          "Enviada ao Tribunal + Publicação",
+          "Expedição de documento + Protocolo de Petição",
+          "Expedição de documento",
+          "Expedição de documento + Ato ordinatório",
+          "Petição",
+          "Conclusão",
+          "Conclusão",
+          "Expedição de documento + Outras Decisões",
+          "Remessa",
+          "Publicação",
+          "Expedição de documento",
+          "Expedição de documento",
+          "Conclusão",
+          "Remessa + Expedição de documento + Outras Decisões",
+          "Publicação",
+          "Expedição de documento",
+          "Petição"
+        ],
+        "n": 1,
+        "pct": 0.4
+      }
+    ],
+    "funil_por_posicao": [
+      {
+        "posicao": 1,
+        "n_alcance": 284,
+        "pct_retencao": 100.0,
+        "top_movimentos": [
+          [
+            "Distribuição",
+            143,
+            50.4
+          ],
+          [
+            "Recebimento",
+            61,
+            21.5
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão + Distribuição",
+            15,
+            5.3
+          ],
+          [
+            "Conclusão + Expedição de documento + Distribuição",
+            11,
+            3.9
+          ],
+          [
+            "Conclusão + Distribuição",
+            9,
+            3.2
+          ],
+          [
+            "Execução/Cumprimento de Sentença Iniciada (o)",
+            8,
+            2.8
+          ]
+        ]
+      },
+      {
+        "posicao": 2,
+        "n_alcance": 273,
+        "pct_retencao": 96.1,
+        "top_movimentos": [
+          [
+            "Conclusão",
+            47,
+            17.2
+          ],
+          [
+            "Remessa",
+            33,
+            12.1
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            33,
+            12.1
+          ],
+          [
+            "Ato ordinatório",
+            16,
+            5.9
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            14,
+            5.1
+          ],
+          [
+            "Remessa + Ato ordinatório",
+            13,
+            4.8
+          ]
+        ]
+      },
+      {
+        "posicao": 3,
+        "n_alcance": 263,
+        "pct_retencao": 92.6,
+        "top_movimentos": [
+          [
+            "Remessa",
+            95,
+            36.1
+          ],
+          [
+            "Publicação",
+            59,
+            22.4
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            12,
+            4.6
+          ],
+          [
+            "Conclusão",
+            7,
+            2.7
+          ],
+          [
+            "Expedição de documento + Mero expediente",
+            6,
+            2.3
+          ],
+          [
+            "Expedição de documento",
+            5,
+            1.9
+          ]
+        ]
+      },
+      {
+        "posicao": 4,
+        "n_alcance": 256,
+        "pct_retencao": 90.1,
+        "top_movimentos": [
+          [
+            "Publicação",
+            103,
+            40.2
+          ],
+          [
+            "Remessa",
+            40,
+            15.6
+          ],
+          [
+            "Ato ordinatório",
+            23,
+            9.0
+          ],
+          [
+            "Petição",
+            22,
+            8.6
+          ],
+          [
+            "Expedição de documento",
+            21,
+            8.2
+          ],
+          [
+            "Conclusão",
+            4,
+            1.6
+          ]
+        ]
+      },
+      {
+        "posicao": 5,
+        "n_alcance": 214,
+        "pct_retencao": 75.4,
+        "top_movimentos": [
+          [
+            "Publicação",
+            49,
+            22.9
+          ],
+          [
+            "Expedição de documento",
+            42,
+            19.6
+          ],
+          [
+            "Petição",
+            32,
+            15.0
+          ],
+          [
+            "Ato ordinatório",
+            19,
+            8.9
+          ],
+          [
+            "Expedição de documento + Ato ordinatório",
+            15,
+            7.0
+          ],
+          [
+            "Remessa + Expedição de documento + Ato ordinatório",
+            11,
+            5.1
+          ]
+        ]
+      },
+      {
+        "posicao": 6,
+        "n_alcance": 192,
+        "pct_retencao": 67.6,
+        "top_movimentos": [
+          [
+            "Petição",
+            41,
+            21.4
+          ],
+          [
+            "Expedição de documento",
+            29,
+            15.1
+          ],
+          [
+            "Ato ordinatório",
+            25,
+            13.0
+          ],
+          [
+            "Publicação",
+            22,
+            11.5
+          ],
+          [
+            "Conclusão",
+            12,
+            6.2
+          ],
+          [
+            "Remessa",
+            11,
+            5.7
+          ]
+        ]
+      },
+      {
+        "posicao": 7,
+        "n_alcance": 180,
+        "pct_retencao": 63.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            42,
+            23.3
+          ],
+          [
+            "Petição",
+            28,
+            15.6
+          ],
+          [
+            "Ato ordinatório",
+            22,
+            12.2
+          ],
+          [
+            "Publicação",
+            22,
+            12.2
+          ],
+          [
+            "Remessa",
+            16,
+            8.9
+          ],
+          [
+            "Expedição de documento + Ato ordinatório",
+            8,
+            4.4
+          ]
+        ]
+      },
+      {
+        "posicao": 8,
+        "n_alcance": 169,
+        "pct_retencao": 59.5,
+        "top_movimentos": [
+          [
+            "Ato ordinatório",
+            34,
+            20.1
+          ],
+          [
+            "Publicação",
+            23,
+            13.6
+          ],
+          [
+            "Expedição de documento",
+            20,
+            11.8
+          ],
+          [
+            "Remessa",
+            18,
+            10.7
+          ],
+          [
+            "Petição",
+            17,
+            10.1
+          ],
+          [
+            "Conclusão",
+            14,
+            8.3
+          ]
+        ]
+      },
+      {
+        "posicao": 9,
+        "n_alcance": 155,
+        "pct_retencao": 54.6,
+        "top_movimentos": [
+          [
+            "Ato ordinatório",
+            36,
+            23.2
+          ],
+          [
+            "Publicação",
+            27,
+            17.4
+          ],
+          [
+            "Expedição de documento",
+            20,
+            12.9
+          ],
+          [
+            "Remessa",
+            14,
+            9.0
+          ],
+          [
+            "Conclusão",
+            10,
+            6.5
+          ],
+          [
+            "Expedição de documento + Ato ordinatório",
+            10,
+            6.5
+          ]
+        ]
+      },
+      {
+        "posicao": 10,
+        "n_alcance": 147,
+        "pct_retencao": 51.8,
+        "top_movimentos": [
+          [
+            "Ato ordinatório",
+            39,
+            26.5
+          ],
+          [
+            "Petição",
+            20,
+            13.6
+          ],
+          [
+            "Remessa",
+            18,
+            12.2
+          ],
+          [
+            "Publicação",
+            15,
+            10.2
+          ],
+          [
+            "Expedição de documento",
+            11,
+            7.5
+          ],
+          [
+            "Conclusão",
+            10,
+            6.8
+          ]
+        ]
+      },
+      {
+        "posicao": 11,
+        "n_alcance": 131,
+        "pct_retencao": 46.1,
+        "top_movimentos": [
+          [
+            "Ato ordinatório",
+            36,
+            27.5
+          ],
+          [
+            "Publicação",
+            23,
+            17.6
+          ],
+          [
+            "Petição",
+            16,
+            12.2
+          ],
+          [
+            "Expedição de documento",
+            15,
+            11.5
+          ],
+          [
+            "Conclusão",
+            11,
+            8.4
+          ],
+          [
+            "Remessa",
+            10,
+            7.6
+          ]
+        ]
+      },
+      {
+        "posicao": 12,
+        "n_alcance": 114,
+        "pct_retencao": 40.1,
+        "top_movimentos": [
+          [
+            "Ato ordinatório",
+            26,
+            22.8
+          ],
+          [
+            "Petição",
+            17,
+            14.9
+          ],
+          [
+            "Remessa",
+            14,
+            12.3
+          ],
+          [
+            "Expedição de documento",
+            14,
+            12.3
+          ],
+          [
+            "Publicação",
+            13,
+            11.4
+          ],
+          [
+            "Conclusão",
+            13,
+            11.4
+          ]
+        ]
+      },
+      {
+        "posicao": 13,
+        "n_alcance": 101,
+        "pct_retencao": 35.6,
+        "top_movimentos": [
+          [
+            "Ato ordinatório",
+            19,
+            18.8
+          ],
+          [
+            "Publicação",
+            17,
+            16.8
+          ],
+          [
+            "Expedição de documento",
+            12,
+            11.9
+          ],
+          [
+            "Remessa",
+            11,
+            10.9
+          ],
+          [
+            "Petição",
+            10,
+            9.9
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            8,
+            7.9
+          ]
+        ]
+      },
+      {
+        "posicao": 14,
+        "n_alcance": 90,
+        "pct_retencao": 31.7,
+        "top_movimentos": [
+          [
+            "Remessa",
+            20,
+            22.2
+          ],
+          [
+            "Expedição de documento",
+            15,
+            16.7
+          ],
+          [
+            "Ato ordinatório",
+            11,
+            12.2
+          ],
+          [
+            "Publicação",
+            10,
+            11.1
+          ],
+          [
+            "Conclusão",
+            7,
+            7.8
+          ],
+          [
+            "Petição",
+            7,
+            7.8
+          ]
+        ]
+      },
+      {
+        "posicao": 15,
+        "n_alcance": 84,
+        "pct_retencao": 29.6,
+        "top_movimentos": [
+          [
+            "Publicação",
+            22,
+            26.2
+          ],
+          [
+            "Expedição de documento",
+            11,
+            13.1
+          ],
+          [
+            "Remessa",
+            10,
+            11.9
+          ],
+          [
+            "Ato ordinatório",
+            9,
+            10.7
+          ],
+          [
+            "Petição",
+            8,
+            9.5
+          ],
+          [
+            "Conclusão",
+            6,
+            7.1
+          ]
+        ]
+      },
+      {
+        "posicao": 16,
+        "n_alcance": 75,
+        "pct_retencao": 26.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            20,
+            26.7
+          ],
+          [
+            "Publicação",
+            16,
+            21.3
+          ],
+          [
+            "Petição",
+            9,
+            12.0
+          ],
+          [
+            "Remessa",
+            9,
+            12.0
+          ],
+          [
+            "Ato ordinatório",
+            6,
+            8.0
+          ],
+          [
+            "Conclusão",
+            4,
+            5.3
+          ]
+        ]
+      },
+      {
+        "posicao": 17,
+        "n_alcance": 70,
+        "pct_retencao": 24.6,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            13,
+            18.6
+          ],
+          [
+            "Ato ordinatório",
+            12,
+            17.1
+          ],
+          [
+            "Petição",
+            12,
+            17.1
+          ],
+          [
+            "Publicação",
+            11,
+            15.7
+          ],
+          [
+            "Conclusão",
+            8,
+            11.4
+          ],
+          [
+            "Remessa",
+            5,
+            7.1
+          ]
+        ]
+      },
+      {
+        "posicao": 18,
+        "n_alcance": 61,
+        "pct_retencao": 21.5,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            8,
+            13.1
+          ],
+          [
+            "Petição",
+            8,
+            13.1
+          ],
+          [
+            "Publicação",
+            7,
+            11.5
+          ],
+          [
+            "Conclusão",
+            7,
+            11.5
+          ],
+          [
+            "Ato ordinatório",
+            6,
+            9.8
+          ],
+          [
+            "Remessa",
+            6,
+            9.8
+          ]
+        ]
+      },
+      {
+        "posicao": 19,
+        "n_alcance": 56,
+        "pct_retencao": 19.7,
+        "top_movimentos": [
+          [
+            "Remessa",
+            10,
+            17.9
+          ],
+          [
+            "Publicação",
+            9,
+            16.1
+          ],
+          [
+            "Expedição de documento",
+            7,
+            12.5
+          ],
+          [
+            "Petição",
+            5,
+            8.9
+          ],
+          [
+            "Conclusão",
+            5,
+            8.9
+          ],
+          [
+            "Ato ordinatório",
+            4,
+            7.1
+          ]
+        ]
+      },
+      {
+        "posicao": 20,
+        "n_alcance": 53,
+        "pct_retencao": 18.7,
+        "top_movimentos": [
+          [
+            "Publicação",
+            16,
+            30.2
+          ],
+          [
+            "Petição",
+            6,
+            11.3
+          ],
+          [
+            "Expedição de documento",
+            6,
+            11.3
+          ],
+          [
+            "Ato ordinatório",
+            5,
+            9.4
+          ],
+          [
+            "Remessa",
+            5,
+            9.4
+          ],
+          [
+            "Conclusão",
+            4,
+            7.5
+          ]
+        ]
+      },
+      {
+        "posicao": 21,
+        "n_alcance": 47,
+        "pct_retencao": 16.5,
+        "top_movimentos": [
+          [
+            "Remessa",
+            10,
+            21.3
+          ],
+          [
+            "Conclusão",
+            7,
+            14.9
+          ],
+          [
+            "Expedição de documento",
+            7,
+            14.9
+          ],
+          [
+            "Publicação",
+            6,
+            12.8
+          ],
+          [
+            "Ato ordinatório",
+            5,
+            10.6
+          ],
+          [
+            "Petição",
+            5,
+            10.6
+          ]
+        ]
+      },
+      {
+        "posicao": 22,
+        "n_alcance": 40,
+        "pct_retencao": 14.1,
+        "top_movimentos": [
+          [
+            "Publicação",
+            12,
+            30.0
+          ],
+          [
+            "Expedição de documento",
+            9,
+            22.5
+          ],
+          [
+            "Conclusão",
+            6,
+            15.0
+          ],
+          [
+            "Petição",
+            3,
+            7.5
+          ],
+          [
+            "Remessa",
+            3,
+            7.5
+          ],
+          [
+            "Ato ordinatório",
+            2,
+            5.0
+          ]
+        ]
+      },
+      {
+        "posicao": 23,
+        "n_alcance": 37,
+        "pct_retencao": 13.0,
+        "top_movimentos": [
+          [
+            "Petição",
+            7,
+            18.9
+          ],
+          [
+            "Expedição de documento",
+            7,
+            18.9
+          ],
+          [
+            "Ato ordinatório",
+            5,
+            13.5
+          ],
+          [
+            "Remessa",
+            4,
+            10.8
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            3,
+            8.1
+          ],
+          [
+            "Publicação",
+            3,
+            8.1
+          ]
+        ]
+      },
+      {
+        "posicao": 24,
+        "n_alcance": 31,
+        "pct_retencao": 10.9,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            6,
+            19.4
+          ],
+          [
+            "Petição",
+            5,
+            16.1
+          ],
+          [
+            "Publicação",
+            4,
+            12.9
+          ],
+          [
+            "Remessa",
+            3,
+            9.7
+          ],
+          [
+            "Ato ordinatório",
+            3,
+            9.7
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            2,
+            6.5
+          ]
+        ]
+      },
+      {
+        "posicao": 25,
+        "n_alcance": 29,
+        "pct_retencao": 10.2,
+        "top_movimentos": [
+          [
+            "Conclusão",
+            6,
+            20.7
+          ],
+          [
+            "Publicação",
+            6,
+            20.7
+          ],
+          [
+            "Petição",
+            5,
+            17.2
+          ],
+          [
+            "Remessa",
+            5,
+            17.2
+          ],
+          [
+            "Expedição de documento + Outras Decisões + Conclusão",
+            3,
+            10.3
+          ],
+          [
+            "Remessa + A depender do julgamento de outra causa, de outro juízo ou declaração incidente",
+            1,
+            3.4
+          ]
+        ]
+      },
+      {
+        "posicao": 26,
+        "n_alcance": 28,
+        "pct_retencao": 9.9,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            7,
+            25.0
+          ],
+          [
+            "Publicação",
+            5,
+            17.9
+          ],
+          [
+            "Remessa",
+            4,
+            14.3
+          ],
+          [
+            "Petição",
+            2,
+            7.1
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            2,
+            7.1
+          ],
+          [
+            "Conclusão",
+            2,
+            7.1
+          ]
+        ]
+      },
+      {
+        "posicao": 27,
+        "n_alcance": 26,
+        "pct_retencao": 9.2,
+        "top_movimentos": [
+          [
+            "Publicação",
+            6,
+            23.1
+          ],
+          [
+            "Conclusão",
+            4,
+            15.4
+          ],
+          [
+            "Ato ordinatório",
+            4,
+            15.4
+          ],
+          [
+            "Petição",
+            4,
+            15.4
+          ],
+          [
+            "Remessa",
+            3,
+            11.5
+          ],
+          [
+            "Expedição de documento",
+            2,
+            7.7
+          ]
+        ]
+      },
+      {
+        "posicao": 28,
+        "n_alcance": 25,
+        "pct_retencao": 8.8,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            7,
+            28.0
+          ],
+          [
+            "Publicação",
+            4,
+            16.0
+          ],
+          [
+            "Conclusão",
+            3,
+            12.0
+          ],
+          [
+            "Ato ordinatório",
+            3,
+            12.0
+          ],
+          [
+            "Outras Decisões",
+            2,
+            8.0
+          ],
+          [
+            "Remessa",
+            2,
+            8.0
+          ]
+        ]
+      },
+      {
+        "posicao": 29,
+        "n_alcance": 23,
+        "pct_retencao": 8.1,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            4,
+            17.4
+          ],
+          [
+            "Petição",
+            4,
+            17.4
+          ],
+          [
+            "Remessa",
+            3,
+            13.0
+          ],
+          [
+            "Conclusão",
+            3,
+            13.0
+          ],
+          [
+            "Publicação",
+            2,
+            8.7
+          ],
+          [
+            "Ato ordinatório",
+            2,
+            8.7
+          ]
+        ]
+      },
+      {
+        "posicao": 30,
+        "n_alcance": 20,
+        "pct_retencao": 7.0,
+        "top_movimentos": [
+          [
+            "Publicação",
+            5,
+            25.0
+          ],
+          [
+            "Conclusão",
+            5,
+            25.0
+          ],
+          [
+            "Expedição de documento",
+            4,
+            20.0
+          ],
+          [
+            "Petição",
+            2,
+            10.0
+          ],
+          [
+            "Remessa",
+            1,
+            5.0
+          ],
+          [
+            "Expedição de documento + Remessa + Outras Decisões",
+            1,
+            5.0
+          ]
+        ]
+      },
+      {
+        "posicao": 31,
+        "n_alcance": 18,
+        "pct_retencao": 6.3,
+        "top_movimentos": [
+          [
+            "Publicação",
+            4,
+            22.2
+          ],
+          [
+            "Petição",
+            3,
+            16.7
+          ],
+          [
+            "Conclusão",
+            2,
+            11.1
+          ],
+          [
+            "Republicação",
+            1,
+            5.6
+          ],
+          [
+            "Remessa + Expedição de documento + Outras Decisões",
+            1,
+            5.6
+          ],
+          [
+            "Expedição de documento + Extinção da execução ou do cumprimento da sentença",
+            1,
+            5.6
+          ]
+        ]
+      },
+      {
+        "posicao": 32,
+        "n_alcance": 15,
+        "pct_retencao": 5.3,
+        "top_movimentos": [
+          [
+            "Conclusão",
+            4,
+            26.7
+          ],
+          [
+            "Remessa",
+            3,
+            20.0
+          ],
+          [
+            "Petição",
+            3,
+            20.0
+          ],
+          [
+            "Publicação",
+            2,
+            13.3
+          ],
+          [
+            "Expedição de documento",
+            2,
+            13.3
+          ],
+          [
+            "Ato ordinatório",
+            1,
+            6.7
+          ]
+        ]
+      },
+      {
+        "posicao": 33,
+        "n_alcance": 15,
+        "pct_retencao": 5.3,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            6,
+            40.0
+          ],
+          [
+            "Publicação",
+            3,
+            20.0
+          ],
+          [
+            "Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão",
+            1,
+            6.7
+          ],
+          [
+            "Petição",
+            1,
+            6.7
+          ],
+          [
+            "Ato ordinatório",
+            1,
+            6.7
+          ],
+          [
+            "Expedição de documento + Remessa + Improcedência",
+            1,
+            6.7
+          ]
+        ]
+      },
+      {
+        "posicao": 34,
+        "n_alcance": 14,
+        "pct_retencao": 4.9,
+        "top_movimentos": [
+          [
+            "Ato ordinatório",
+            2,
+            14.3
+          ],
+          [
+            "Conclusão",
+            2,
+            14.3
+          ],
+          [
+            "Remessa",
+            2,
+            14.3
+          ],
+          [
+            "Expedição de documento",
+            2,
+            14.3
+          ],
+          [
+            "Outras Decisões + Conclusão + Expedição de documento",
+            1,
+            7.1
+          ],
+          [
+            "Conclusão + Expedição de documento",
+            1,
+            7.1
+          ]
+        ]
+      },
+      {
+        "posicao": 35,
+        "n_alcance": 13,
+        "pct_retencao": 4.6,
+        "top_movimentos": [
+          [
+            "Petição",
+            3,
+            23.1
+          ],
+          [
+            "Remessa",
+            2,
+            15.4
+          ],
+          [
+            "Publicação",
+            2,
+            15.4
+          ],
+          [
+            "Ato ordinatório",
+            1,
+            7.7
+          ],
+          [
+            "Remessa + Expedição de documento + Outras Decisões",
+            1,
+            7.7
+          ],
+          [
+            "Conclusão",
+            1,
+            7.7
+          ]
+        ]
+      },
+      {
+        "posicao": 36,
+        "n_alcance": 11,
+        "pct_retencao": 3.9,
+        "top_movimentos": [
+          [
+            "Petição",
+            2,
+            18.2
+          ],
+          [
+            "Remessa",
+            2,
+            18.2
+          ],
+          [
+            "Expedição de documento + Publicação",
+            1,
+            9.1
+          ],
+          [
+            "Expedição de documento + Ato ordinatório",
+            1,
+            9.1
+          ],
+          [
+            "Remessa + Expedição de documento + Outras Decisões",
+            1,
+            9.1
+          ],
+          [
+            "Publicação",
+            1,
+            9.1
+          ]
+        ]
+      },
+      {
+        "posicao": 37,
+        "n_alcance": 10,
+        "pct_retencao": 3.5,
+        "top_movimentos": [
+          [
+            "Conclusão",
+            3,
+            30.0
+          ],
+          [
+            "Expedição de documento",
+            2,
+            20.0
+          ],
+          [
+            "Publicação",
+            2,
+            20.0
+          ],
+          [
+            "Remessa",
+            1,
+            10.0
+          ],
+          [
+            "Petição + Publicação",
+            1,
+            10.0
+          ],
+          [
+            "Expedição de documento + Extinção da execução ou do cumprimento da sentença",
+            1,
+            10.0
+          ]
+        ]
+      },
+      {
+        "posicao": 38,
+        "n_alcance": 8,
+        "pct_retencao": 2.8,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            2,
+            25.0
+          ],
+          [
+            "Conclusão",
+            2,
+            25.0
+          ],
+          [
+            "Publicação",
+            1,
+            12.5
+          ],
+          [
+            "Remessa",
+            1,
+            12.5
+          ],
+          [
+            "Expedição de documento + Outras Decisões",
+            1,
+            12.5
+          ],
+          [
+            "Outras Decisões + Expedição de documento + Conclusão",
+            1,
+            12.5
+          ]
+        ]
+      },
+      {
+        "posicao": 39,
+        "n_alcance": 5,
+        "pct_retencao": 1.8,
+        "top_movimentos": [
+          [
+            "Remessa + Expedição de documento + Outras Decisões",
+            1,
+            20.0
+          ],
+          [
+            "Publicação",
+            1,
+            20.0
+          ],
+          [
+            "Trânsito em julgado",
+            1,
+            20.0
+          ],
+          [
+            "Petição + Remessa",
+            1,
+            20.0
+          ],
+          [
+            "Remessa",
+            1,
+            20.0
+          ]
+        ]
+      },
+      {
+        "posicao": 40,
+        "n_alcance": 5,
+        "pct_retencao": 1.8,
+        "top_movimentos": [
+          [
+            "Publicação",
+            2,
+            40.0
+          ],
+          [
+            "Petição + Publicação",
+            1,
+            20.0
+          ],
+          [
+            "Expedição de documento",
+            1,
+            20.0
+          ],
+          [
+            "Petição",
+            1,
+            20.0
+          ]
+        ]
+      },
+      {
+        "posicao": 41,
+        "n_alcance": 4,
+        "pct_retencao": 1.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            2,
+            50.0
+          ],
+          [
+            "Ato ordinatório",
+            1,
+            25.0
+          ],
+          [
+            "Remessa + Ato ordinatório",
+            1,
+            25.0
+          ]
+        ]
+      },
+      {
+        "posicao": 42,
+        "n_alcance": 4,
+        "pct_retencao": 1.4,
+        "top_movimentos": [
+          [
+            "Conclusão",
+            3,
+            75.0
+          ],
+          [
+            "Publicação",
+            1,
+            25.0
+          ]
+        ]
+      },
+      {
+        "posicao": 43,
+        "n_alcance": 3,
+        "pct_retencao": 1.1,
+        "top_movimentos": [
+          [
+            "Ato ordinatório",
+            1,
+            33.3
+          ],
+          [
+            "Conclusão",
+            1,
+            33.3
+          ],
+          [
+            "Petição",
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "posicao": 44,
+        "n_alcance": 2,
+        "pct_retencao": 0.7,
+        "top_movimentos": [
+          [
+            "Remessa + Extinção",
+            1,
+            50.0
+          ],
+          [
+            "Ato ordinatório",
+            1,
+            50.0
+          ]
+        ]
+      },
+      {
+        "posicao": 45,
+        "n_alcance": 2,
+        "pct_retencao": 0.7,
+        "top_movimentos": [
+          [
+            "Publicação",
+            1,
+            50.0
+          ],
+          [
+            "Conclusão",
+            1,
+            50.0
+          ]
+        ]
+      },
+      {
+        "posicao": 46,
+        "n_alcance": 2,
+        "pct_retencao": 0.7,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            1,
+            50.0
+          ],
+          [
+            "Ato ordinatório",
+            1,
+            50.0
+          ]
+        ]
+      },
+      {
+        "posicao": 47,
+        "n_alcance": 2,
+        "pct_retencao": 0.7,
+        "top_movimentos": [
+          [
+            "Conclusão + Petição",
+            1,
+            50.0
+          ],
+          [
+            "Conclusão",
+            1,
+            50.0
+          ]
+        ]
+      },
+      {
+        "posicao": 48,
+        "n_alcance": 2,
+        "pct_retencao": 0.7,
+        "top_movimentos": [
+          [
+            "Expedição de documento + Remessa + Outras Decisões",
+            1,
+            50.0
+          ],
+          [
+            "Outras Decisões",
+            1,
+            50.0
+          ]
+        ]
+      },
+      {
+        "posicao": 49,
+        "n_alcance": 2,
+        "pct_retencao": 0.7,
+        "top_movimentos": [
+          [
+            "Conclusão + Petição + Expedição de documento + Publicação",
+            1,
+            50.0
+          ],
+          [
+            "Remessa",
+            1,
+            50.0
+          ]
+        ]
+      },
+      {
+        "posicao": 50,
+        "n_alcance": 2,
+        "pct_retencao": 0.7,
+        "top_movimentos": [
+          [
+            "Conclusão",
+            1,
+            50.0
+          ],
+          [
+            "Publicação",
+            1,
+            50.0
+          ]
+        ]
+      },
+      {
+        "posicao": 51,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Ato ordinatório",
+            1,
+            100.0
+          ]
+        ]
+      },
+      {
+        "posicao": 52,
+        "n_alcance": 1,
+        "pct_retencao": 0.4,
+        "top_movimentos": [
+          [
+            "Expedição de documento",
+            1,
+            100.0
+          ]
+        ]
+      }
+    ]
+  }
+}

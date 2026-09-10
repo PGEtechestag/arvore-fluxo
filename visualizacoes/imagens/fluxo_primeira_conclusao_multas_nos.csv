@@ -1,0 +1,23 @@
+﻿posicao,movimento,processos
+0,Início do processo,396
+1,Distribuição,168
+1,Execução/Cumprimento de Sentença Iniciada (o),61
+1,Conclusão + Expedição de documento + Distribuição,59
+1,Recebimento,31
+1,Expedição de documento + Outras Decisões + Conclusão + Distribuição,27
+1,Conclusão + Execução/Cumprimento de Sentença Iniciada (o),24
+1,Conclusão + Distribuição,10
+1,Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),5
+1,Outras Decisões + Conclusão + Distribuição,2
+2,Expedição de documento + Outras Decisões + Conclusão,96
+2,Conclusão + Expedição de documento,54
+2,Conclusão,36
+2,Outras Decisões + Conclusão + Expedição de documento,10
+2,Outras Decisões + Conclusão,10
+2,Expedição de precatório/rpv + Conclusão,9
+2,Remessa + Expedição de documento + Ato ordinatório,5
+2,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,4
+2,Remessa + Expedição de documento + Outras Decisões + Conclusão,4
+2,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,3
+2,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2
+2,Remessa + Outras Decisões + Conclusão + Expedição de documento,2

@@ -1,0 +1,26 @@
+﻿pos_pai,mov_pai,pos_filho,mov_filho,processos
+0,Início do processo,1,Distribuição,168
+0,Início do processo,1,Execução/Cumprimento de Sentença Iniciada (o),61
+0,Início do processo,1,Conclusão + Expedição de documento + Distribuição,59
+0,Início do processo,1,Recebimento,31
+0,Início do processo,1,Expedição de documento + Outras Decisões + Conclusão + Distribuição,27
+0,Início do processo,1,Conclusão + Execução/Cumprimento de Sentença Iniciada (o),24
+0,Início do processo,1,Conclusão + Distribuição,10
+0,Início do processo,1,Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),5
+0,Início do processo,1,Outras Decisões + Conclusão + Distribuição,2
+1,Execução/Cumprimento de Sentença Iniciada (o),2,Expedição de documento + Outras Decisões + Conclusão,33
+1,Recebimento,2,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,4
+1,Recebimento,2,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2
+1,Distribuição,2,Conclusão,20
+1,Distribuição,2,Outras Decisões + Conclusão + Expedição de documento,9
+1,Execução/Cumprimento de Sentença Iniciada (o),2,Conclusão,16
+1,Recebimento,2,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,3
+1,Distribuição,2,Conclusão + Expedição de documento,54
+1,Distribuição,2,Outras Decisões + Conclusão,6
+1,Distribuição,2,Remessa + Outras Decisões + Conclusão + Expedição de documento,2
+1,Distribuição,2,Expedição de documento + Outras Decisões + Conclusão,63
+1,Execução/Cumprimento de Sentença Iniciada (o),2,Remessa + Expedição de documento + Outras Decisões + Conclusão,4
+1,Execução/Cumprimento de Sentença Iniciada (o),2,Outras Decisões + Conclusão,4
+1,Recebimento,2,Remessa + Expedição de documento + Ato ordinatório,5
+1,Recebimento,2,Expedição de precatório/rpv + Conclusão,9
+1,Execução/Cumprimento de Sentença Iniciada (o),2,Outras Decisões + Conclusão + Expedição de documento,1

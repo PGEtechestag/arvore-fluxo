@@ -1,0 +1,1060 @@
+﻿posicao,movimento,ocorrencias
+1,Distribuição,168
+1,Execução/Cumprimento de Sentença Iniciada (o),68
+1,Conclusão + Expedição de documento + Distribuição,59
+1,Recebimento,32
+1,Expedição de documento + Outras Decisões + Conclusão + Distribuição,27
+1,Conclusão + Execução/Cumprimento de Sentença Iniciada (o),24
+1,Conclusão + Distribuição,10
+1,Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),5
+1,Outras Decisões + Conclusão + Distribuição,2
+1,Expedição de documento + Antecipação de tutela + Conclusão + Distribuição,1
+1,Outras Decisões + Conclusão + Expedição de documento + Distribuição,1
+1,Antecipação de tutela + Conclusão + Distribuição,1
+1,Conclusão + Recebimento,1
+1,Remessa + Expedição de documento + Ato ordinatório + Recebimento,1
+1,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Recebimento,1
+1,Liminar + Conclusão + Distribuição,1
+1,Petição + Outras Decisões + Conclusão + Ato ordinatório + Distribuição,1
+1,Publicação + Remessa + Outras Decisões + Conclusão + Expedição de documento + Distribuição,1
+2,Expedição de documento + Outras Decisões + Conclusão,96
+2,Conclusão + Expedição de documento,54
+2,Conclusão,45
+2,Remessa,37
+2,Expedição de documento + Outras Decisões,35
+2,Remessa + Expedição de documento + Outras Decisões,20
+2,Outras Decisões + Conclusão + Expedição de documento,10
+2,Outras Decisões + Conclusão,10
+2,Expedição de precatório/rpv + Conclusão,9
+2,Expedição de documento + Mero expediente,7
+2,Outras Decisões,5
+2,Remessa + Outras Decisões,5
+2,Remessa + Expedição de documento + Ato ordinatório,5
+2,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,4
+2,Remessa + Expedição de documento + Outras Decisões + Conclusão,4
+2,Petição,4
+2,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,3
+2,Expedição de documento + Ato ordinatório,3
+2,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2
+2,Mero expediente,2
+2,Remessa + Outras Decisões + Conclusão + Expedição de documento,2
+2,Expedição de documento + Antecipação de tutela + Conclusão,2
+2,Antecipação de tutela,2
+2,Remessa + Liminar,2
+2,Ato ordinatório,2
+2,Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1
+2,Ato ordinatório + Documento,1
+2,Expedição de documento + Emenda à Inicial,1
+2,Expedição de documento + Extinção da execução ou do cumprimento da sentença,1
+2,Remessa + Expedição de documento + Mero expediente,1
+2,Remessa + Outras Decisões + Conclusão,1
+2,Petição + Conclusão,1
+2,Conclusão + Outras Decisões + Expedição de documento,1
+2,Remessa + Ato ordinatório + Expedição de documento,1
+2,Enviada ao Tribunal + Expedição de precatório/rpv,1
+2,Expedição de documento + Remessa + Ato ordinatório,1
+2,Petição + Publicação,1
+2,Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1
+2,Petição + Remessa,1
+2,Antecipação de Tutela + Conclusão,1
+2,Emenda à Inicial,1
+2,Liminar,1
+2,Remessa + Antecipação de tutela,1
+2,Liminar + Conclusão,1
+2,Mero expediente + Conclusão,1
+2,Conclusão + Petição + Emenda à Inicial,1
+2,Remessa + Expedição de documento,1
+2,Outras Decisões + Conclusão + Ato ordinatório,1
+2,Conclusão + Expedição de documento + Redistribuição + Remessa,1
+2,Publicação + Remessa + Ato ordinatório + Expedição de documento,1
+2,Expedição de documento,1
+2,Remessa + Expedição de precatório/rpv + Conclusão,1
+2,Emenda à Inicial + Conclusão + Expedição de documento,1
+2,Liminar + Conclusão + Expedição de documento,1
+3,Remessa,160
+3,Publicação,72
+3,Expedição de documento + Outras Decisões,46
+3,Outras Decisões,30
+3,Petição,7
+3,Expedição de documento,7
+3,Expedição de documento + Remessa,6
+3,Remessa + Expedição de documento + Outras Decisões,5
+3,Expedição de documento + Ato ordinatório + Publicação,5
+3,Publicação + Remessa,4
+3,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,4
+3,Remessa + Expedição de documento + Mero expediente,3
+3,Expedição de documento + Mero expediente,3
+3,Remessa + Mero expediente,3
+3,Emenda à Inicial,3
+3,Remessa + Petição,3
+3,Expedição de documento + Protocolo de Petição + Remessa,2
+3,Expedição de documento + Protocolo de Petição,2
+3,Conclusão,2
+3,Remessa + Outras Decisões,2
+3,Remessa + Expedição de documento,2
+3,Remessa + Liminar,2
+3,Redistribuição + Remessa + Publicação,2
+3,Enviada ao Tribunal + Remessa,2
+3,Ato ordinatório,2
+3,Publicação + Redistribuição + Remessa,1
+3,Petição + Remessa,1
+3,Redistribuição + Remessa + Expedição de documento + Mero expediente,1
+3,Expedição de documento + Ato ordinatório,1
+3,Expedição de documento + Antecipação de tutela + Conclusão + Redistribuição + Remessa + Publicação,1
+3,Petição + Publicação,1
+3,Remessa + Expedição de documento + Ato ordinatório + Republicação,1
+3,Outras Decisões + Conclusão + Petição + Remessa,1
+3,Remessa + Ato ordinatório + Publicação,1
+3,Indeferimento da petição inicial + Remessa,1
+3,Remessa + Ato ordinatório + Expedição de documento + Documento + Redistribuição + Recebimento,1
+3,Liminar,1
+3,Expedição de precatório/rpv + Conclusão,1
+3,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,1
+3,Expedição de documento + Outras Decisões + Conclusão + Petição,1
+3,Redistribuição + Remessa,1
+4,Publicação,133
+4,Remessa,83
+4,Expedição de documento,55
+4,Conclusão + Expedição de documento + Publicação,42
+4,Petição,19
+4,Petição + Publicação,6
+4,Expedição de documento + Ato ordinatório,4
+4,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,4
+4,Remessa + Publicação,3
+4,Expedição de documento + Publicação,3
+4,Conclusão,2
+4,Redistribuição + Remessa + Publicação,2
+4,Petição + Expedição de documento,2
+4,Conclusão + Petição,2
+4,Outras Decisões + Conclusão + Expedição de documento,2
+4,Expedição de documento + Outras Decisões + Conclusão,2
+4,Publicação + Expedição de documento + Protocolo de Petição,2
+4,Petição + Remessa,1
+4,Expedição de documento + Mero expediente,1
+4,Emenda à Inicial,1
+4,Outras Decisões,1
+4,Conclusão + Expedição de documento + Redistribuição + Remessa,1
+4,Remessa + Expedição de documento + Ato ordinatório + Petição,1
+4,Expedição de documento + Outras Decisões + Conclusão + Petição,1
+4,Remessa + Expedição de documento,1
+4,Outras Decisões + Conclusão + Redistribuição + Remessa,1
+4,Conclusão + Expedição de documento,1
+4,Republicação,1
+4,Conclusão + Petição + Publicação,1
+4,Conclusão + Redistribuição + Remessa + Publicação,1
+4,Conclusão + Redistribuição + Remessa,1
+4,Publicação + Remessa + Ato ordinatório,1
+4,Expedição de documento + Mero expediente + Conclusão + Petição + Publicação,1
+4,Redistribuição + Remessa,1
+4,Expedição de documento + Remessa,1
+4,Remessa + Expedição de documento + Outras Decisões + Conclusão,1
+4,Petição + Redistribuição + Remessa + Publicação,1
+4,Redistribuição + Remessa + Decurso de Prazo,1
+4,Publicação + Remessa,1
+4,Liminar + Conclusão + Expedição de documento,1
+4,Outras Decisões + Conclusão,1
+4,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,1
+4,Enviada ao Tribunal + Publicação,1
+4,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,1
+4,Liminar + Conclusão + Expedição de documento + Publicação,1
+5,Publicação,88
+5,Expedição de documento,76
+5,Petição,64
+5,Expedição de documento + Mero expediente,33
+5,Remessa,15
+5,Expedição de documento + Outras Decisões + Conclusão,15
+5,Expedição de documento + Ato ordinatório,14
+5,Conclusão + Expedição de documento,7
+5,Conclusão + Petição,7
+5,Ato ordinatório,6
+5,Expedição de documento + Outras Decisões,5
+5,Conclusão,4
+5,Redistribuição,3
+5,Petição + Expedição de documento + Mero expediente,3
+5,Protocolo de Petição,2
+5,Expedição de documento + Remessa,2
+5,Expedição de documento + Outras Decisões + Petição,2
+5,Expedição de documento + Ato ordinatório + Petição + Mandado,2
+5,Expedição de documento + Ato ordinatório + Decurso de Prazo,2
+5,Mandado + Documento,2
+5,Conclusão + Publicação,1
+5,Redistribuição + Remessa + Expedição de documento,1
+5,Remessa + Expedição de documento + Outras Decisões,1
+5,Expedição de documento + Mero expediente + Conclusão + Petição,1
+5,Expedição de documento + Mero expediente + Conclusão,1
+5,Remessa + Petição,1
+5,Redistribuição + Remessa + Publicação,1
+5,Conclusão + Expedição de documento + Redistribuição,1
+5,Emenda a inicial + Conclusão + Expedição de documento,1
+5,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1
+5,Conclusão + Expedição de documento + Redistribuição + Remessa + Publicação,1
+5,Expedição de documento + Ato ordinatório + Petição,1
+5,Expedição de documento + Ato ordinatório + Publicação,1
+5,Expedição de documento + Outras Decisões + Conclusão + Petição,1
+5,Petição + Ato ordinatório,1
+5,Documento + Mandado + Petição,1
+5,Expedição de documento + Publicação,1
+5,Publicação + Expedição de documento + Remessa,1
+5,Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,1
+5,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1
+5,Outras Decisões,1
+5,Remessa + Outras Decisões,1
+5,Conclusão + Redistribuição + Remessa + Expedição de documento + Outras Decisões,1
+5,Expedição de documento + Antecipação de tutela + Publicação,1
+5,Publicação + Petição + Remessa,1
+5,Emenda à Inicial,1
+5,Remessa + Outras Decisões + Conclusão + Expedição de documento,1
+5,Redistribuição + Remessa,1
+5,Liminar + Conclusão + Expedição de documento + Redistribuição + Remessa,1
+5,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,1
+5,Expedição de documento + Protocolo de Petição,1
+5,Mero expediente + Conclusão + Decurso de Prazo,1
+6,Petição,75
+6,Remessa,62
+6,Expedição de documento,45
+6,Conclusão,32
+6,Expedição de documento + Outras Decisões + Conclusão,25
+6,Ato ordinatório,23
+6,Publicação,17
+6,Expedição de documento + Ato ordinatório,7
+6,Conclusão + Petição,6
+6,Conclusão + Expedição de documento,5
+6,Expedição de documento + Outras Decisões,5
+6,Conclusão + Expedição de documento + Redistribuição + Remessa,4
+6,Outras Decisões,4
+6,Petição + Remessa,3
+6,Remessa + Expedição de documento,3
+6,Expedição de documento + Outras Decisões + Conclusão + Petição,3
+6,Redistribuição + Remessa,2
+6,Expedição de documento + Remessa,2
+6,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Expedição de documento,2
+6,Outras Decisões + Conclusão,2
+6,Remessa + Ato ordinatório,2
+6,Expedição de documento + Publicação,2
+6,Remessa + Expedição de documento + Outras Decisões,1
+6,Conclusão + Redistribuição + Remessa + Expedição de documento,1
+6,Remessa + Ato ordinatório + Mandado,1
+6,Mero expediente,1
+6,Remessa + Petição,1
+6,Outras Decisões + Expedição de documento + Conclusão + Redistribuição,1
+6,Petição + Conclusão + Expedição de documento + Redistribuição,1
+6,Conclusão + Expedição de documento + Redistribuição,1
+6,Mero expediente + Conclusão + Expedição de documento + Redistribuição + Remessa,1
+6,Remessa + Expedição de documento + Mero expediente,1
+6,Conclusão + Expedição de documento + Documento + Redistribuição + Remessa,1
+6,Outras Decisões + Conclusão + Expedição de documento,1
+6,Petição + Mandado + Documento,1
+6,Expedição de documento + Remessa + Outras Decisões,1
+6,Petição + Ato ordinatório,1
+6,Ato ordinatório + Documento,1
+6,Remessa + Expedição de documento + Protocolo de Petição,1
+6,Publicação + Remessa + Antecipação de tutela,1
+6,Conclusão + Decurso de Prazo,1
+6,Redistribuição + Recebimento,1
+6,Conclusão + Petição + Remessa,1
+6,Publicação + Remessa + Liminar,1
+6,Remessa + Expedição de documento + Outras Decisões + Conclusão,1
+6,Publicação + Expedição de documento + Remessa,1
+6,Recebimento,1
+6,Expedição de precatório/rpv + Conclusão,1
+6,Petição + Remessa + Expedição de documento + Outras Decisões + Conclusão + Redistribuição,1
+6,Expedição de documento + Ato ordinatório + Petição + Documento,1
+7,Publicação,71
+7,Conclusão,36
+7,Remessa,36
+7,Petição,29
+7,Expedição de documento + Outras Decisões,29
+7,Expedição de documento,22
+7,Expedição de documento + Outras Decisões + Conclusão,20
+7,Ato ordinatório,14
+7,Conclusão + Expedição de documento,6
+7,Expedição de documento + Remessa,5
+7,Outras Decisões,3
+7,Remessa + Expedição de documento + Outras Decisões,3
+7,Petição + Remessa,3
+7,Conclusão + Petição,3
+7,Remessa + Ato ordinatório,2
+7,Conclusão + Expedição de documento + Redistribuição,2
+7,Redistribuição + Remessa + Expedição de documento,2
+7,Expedição de documento + Ato ordinatório,2
+7,Publicação + Expedição de documento,2
+7,Petição + Ato ordinatório,2
+7,Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,2
+7,Outras Decisões + Conclusão + Petição,2
+7,Outras Decisões + Conclusão,2
+7,Recebimento,2
+7,Recebimento + Expedição de documento,2
+7,Remessa + Expedição de documento + Antecipação de tutela,1
+7,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,1
+7,Outras Decisões + Conclusão + Documento + Petição,1
+7,Remessa + Expedição de documento + Mero expediente,1
+7,Remessa + Expedição de documento + Emenda a inicial,1
+7,Documento + Petição,1
+7,Remessa + Mero expediente,1
+7,Expedição de documento +  + Conclusão + Redistribuição,1
+7,Remessa + Outras Decisões + Conclusão + Expedição de documento,1
+7,Mero expediente,1
+7,Petição + Publicação,1
+7,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1
+7,Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,1
+7,Petição + Protocolo de Petição + Expedição de documento + Remessa,1
+7,Enviada ao Tribunal + Expedição de precatório/rpv + Expedição de documento,1
+7,Enviada ao Tribunal + Expedição de precatório/rpv,1
+7,Expedição de documento + Protocolo de Petição,1
+7,Ato ordinatório + Petição,1
+7,Outras Decisões + Conclusão + Redistribuição,1
+7,Remessa + Outras Decisões,1
+7,Remessa + Petição + Ato ordinatório + Publicação,1
+7,Expedição de documento + Decisão Interlocutória de Mérito,1
+7,Publicação + Remessa + Ato ordinatório + Expedição de documento,1
+7,Outras Decisões + Conclusão + Petição + Remessa,1
+7,Documento,1
+7,Enviada ao Tribunal + Remessa,1
+7,Recebimento + Publicação,1
+7,Conclusão + Documento + Petição,1
+7,Remessa + Emenda à Inicial + Conclusão + Publicação,1
+8,Remessa,63
+8,Expedição de documento,58
+8,Publicação,51
+8,Expedição de documento + Outras Decisões,29
+8,Petição,27
+8,Conclusão,17
+8,Ato ordinatório,11
+8,Expedição de documento + Outras Decisões + Conclusão,11
+8,Outras Decisões,5
+8,Expedição de documento + Remessa,4
+8,Remessa + Expedição de documento + Outras Decisões,3
+8,Conclusão + Expedição de documento,3
+8,Petição + Publicação,3
+8,Expedição de documento + Ato ordinatório,3
+8,Remessa + Expedição de documento + Emenda a inicial,3
+8,Expedição de documento + Publicação,3
+8,Remessa + Ato ordinatório,3
+8,Conclusão + Petição,2
+8,Recebimento,2
+8,Redistribuição + Remessa,1
+8,Emenda à Inicial + Conclusão + Expedição de documento,1
+8,Expedição de documento + Mero expediente,1
+8,Petição + Ato ordinatório,1
+8,Conclusão + Publicação,1
+8,Petição + Remessa,1
+8,Enviada ao Tribunal + Expedição de precatório/rpv,1
+8,Petição + Remessa + Expedição de documento + Outras Decisões,1
+8,Protocolo de Petição + Expedição de documento,1
+8,Expedição de documento + Protocolo de Petição + Remessa,1
+8,Liminar + Conclusão + Redistribuição + Recebimento,1
+8,Outras Decisões + Conclusão + Petição + Remessa,1
+8,Expedição de documento + Remessa + Incompetência,1
+8,Publicação + Remessa,1
+8,Publicação + Remessa + Ato ordinatório,1
+8,Petição + Expedição de documento,1
+8,Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,1
+8,Remessa + Expedição de documento + Mero expediente + Conclusão,1
+8,Conclusão + Decurso de Prazo,1
+9,Publicação,76
+9,Remessa,50
+9,Expedição de documento,44
+9,Petição,25
+9,Ato ordinatório,12
+9,Conclusão,10
+9,Expedição de documento + Outras Decisões + Conclusão,9
+9,Expedição de documento + Outras Decisões,8
+9,Outras Decisões,5
+9,Expedição de documento + Ato ordinatório,3
+9,Outras Decisões + Conclusão,3
+9,Conclusão + Petição,2
+9,Conclusão + Expedição de documento,2
+9,Remessa + Expedição de documento + Outras Decisões,2
+9,Recebimento,2
+9,Expedição de documento + Remessa,2
+9,Expedição de documento + Mero expediente + Conclusão,1
+9,Remessa + Expedição de documento + Impugnação ao cumprimento de sentença,1
+9,Remessa + Expedição de documento + Publicação,1
+9,,1
+9,Expedição de documento + Ato ordinatório + Petição + Documento + Mandado,1
+9,Expedição de documento + Outras Decisões + Conclusão + Ato ordinatório,1
+9,Conclusão + Publicação,1
+9,Expedição de documento + Protocolo de Petição + Remessa,1
+9,Petição + Publicação,1
+9,Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1
+9,Publicação + Remessa,1
+9,Remessa + Ato ordinatório,1
+9,Liminar + Conclusão + Expedição de documento,1
+9,Redistribuição + Remessa + Publicação,1
+9,Expedição de documento + Protocolo de Petição,1
+9,Ato ordinatório + Documento + Petição,1
+9,Petição + Expedição de documento,1
+10,Expedição de documento,59
+10,Publicação,55
+10,Petição,35
+10,Remessa,27
+10,Conclusão,13
+10,Recebimento,8
+10,Ato ordinatório,6
+10,Expedição de documento + Ato ordinatório,5
+10,Expedição de documento + Outras Decisões,4
+10,Expedição de documento + Outras Decisões + Conclusão,4
+10,Conclusão + Expedição de documento,2
+10,Remessa + Expedição de documento + Outras Decisões,2
+10,Expedição de documento + Remessa,2
+10,,2
+10,Expedição de documento + Mero expediente + Conclusão,2
+10,Petição + Expedição de documento,2
+10,Expedição de documento + Publicação,2
+10,Remessa + deferimento + Conclusão,1
+10,Remessa + Expedição de documento + Emenda a inicial,1
+10,Outras Decisões,1
+10,Redistribuição + Remessa + Outras Decisões + Conclusão,1
+10,Conclusão + Remessa + Expedição de documento,1
+10,Outras Decisões + Conclusão,1
+10,Remessa + Expedição de documento + Outras Decisões + Conclusão,1
+10,Mandado + Documento,1
+10,Petição + Remessa,1
+10,Expedição de documento + Remessa + Outras Decisões,1
+10,Outras Decisões + Conclusão + Petição,1
+10,Remessa + Segurança,1
+10,Petição + Recebimento,1
+10,Publicação + Remessa + Ato ordinatório + Expedição de documento,1
+10,Conclusão + Documento,1
+10,Mandado,1
+10,Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,1
+10,Conclusão + Decurso de Prazo,1
+10,Expedição de documento + Mero expediente,1
+10,Remessa + Ato ordinatório,1
+10,Outras Decisões + Conclusão + Decurso de Prazo,1
+11,Expedição de documento,54
+11,Petição,46
+11,Publicação,33
+11,Remessa,14
+11,Conclusão,13
+11,Ato ordinatório,12
+11,Recebimento,8
+11,Expedição de documento + Outras Decisões + Conclusão,7
+11,Expedição de documento + Outras Decisões,4
+11,Expedição de documento + Ato ordinatório,4
+11,Conclusão + Expedição de documento,3
+11,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,2
+11,,2
+11,Extinção da execução ou do cumprimento da sentença + Conclusão,2
+11,Expedição de documento + Publicação,2
+11,Conclusão + Petição,2
+11,Petição + Remessa + Expedição de documento + Outras Decisões,1
+11,Remessa + Expedição de documento + Publicação,1
+11,Expedição de documento + Remessa,1
+11,Remessa + Expedição de documento + Mero expediente,1
+11,Expedição de documento + Liminar,1
+11,Petição + Publicação,1
+11,Outras Decisões + Conclusão,1
+11,Petição + Remessa,1
+11,Extinção da execução ou do cumprimento da sentença,1
+11,Remessa + Expedição de documento + Outras Decisões,1
+11,Ato ordinatório + Petição,1
+11,Outras Decisões + Conclusão + Petição,1
+11,Remessa + Ato ordinatório + Petição,1
+11,Conclusão + Petição + Publicação,1
+11,Expedição de documento + Ato ordinatório + Documento,1
+11,Documento + Expedição de documento + Mero expediente + Conclusão,1
+11,Remessa + Expedição de documento,1
+11,Conclusão + Expedição de documento + Redistribuição + Recebimento,1
+11,Expedição de documento + Ato ordinatório + Petição + Documento,1
+11,Expedição de documento + Mero expediente,1
+12,Petição,44
+12,Expedição de documento,33
+12,Publicação,19
+12,Remessa,17
+12,Ato ordinatório,14
+12,Conclusão,12
+12,Expedição de documento + Outras Decisões + Conclusão,8
+12,Recebimento,5
+12,Expedição de documento + Outras Decisões,5
+12,Conclusão + Petição,4
+12,Expedição de documento + Remessa,4
+12,Remessa + Expedição de documento + Outras Decisões + Conclusão,2
+12,Expedição de documento + Ato ordinatório,2
+12,Conclusão + Expedição de documento,2
+12,Petição + Remessa,2
+12,Expedição de documento + Mero expediente + Conclusão,2
+12,Recebimento + Ato ordinatório,1
+12,Conclusão + Publicação,1
+12,Remessa + Expedição de documento + Mero expediente,1
+12,Recebimento + Expedição de documento,1
+12,Expedição de documento + Publicação,1
+12,Expedição de documento + Segurança,1
+12,Extinção da execução ou do cumprimento da sentença + Conclusão,1
+12,Provisório + Expedição de documento,1
+12,Outras Decisões + Conclusão,1
+12,Expedição de documento + Extinção da execução ou do cumprimento da sentença,1
+12,Outras Decisões,1
+12,Mandado + Documento,1
+12,Expedição de documento + Remessa + Outras Decisões,1
+12,Petição + Expedição de documento + Ato ordinatório,1
+12,Liminar + Conclusão,1
+12,Remessa + Liminar,1
+12,Ato ordinatório + Expedição de documento,1
+12,Publicação + Petição + Remessa,1
+13,Petição,26
+13,Publicação,25
+13,Ato ordinatório,19
+13,Expedição de documento,19
+13,Remessa,19
+13,Conclusão,10
+13,Expedição de documento + Outras Decisões + Conclusão,4
+13,Expedição de documento + Outras Decisões,3
+13,Expedição de documento + Ato ordinatório,3
+13,Outras Decisões,3
+13,Recebimento,2
+13,Expedição de documento + Mero expediente + Conclusão,2
+13,Conclusão + Expedição de documento,2
+13,Expedição de documento + Remessa,2
+13,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,2
+13,Conclusão + Petição,2
+13,Outras Decisões + Conclusão,1
+13,Expedição de documento + Mero expediente,1
+13,Mandado + Documento,1
+13,Remessa + Expedição de documento + Outras Decisões,1
+13,Petição + Publicação,1
+13,,1
+13,Expedição de documento + Remessa + Outras Decisões,1
+13,Expedição de documento + Procedência em Parte,1
+13,Publicação + Remessa + Improcedência,1
+13,Expedição de documento + Publicação,1
+13,Expedição de documento + Remessa + Extinção da execução ou do cumprimento da sentença,1
+13,Mandado + Petição,1
+13,Remessa + Outras Decisões,1
+13,Mero expediente,1
+13,Petição + Expedição de documento + Outras Decisões + Conclusão,1
+13,Remessa + Ato ordinatório,1
+13,Ato ordinatório + Expedição de documento,1
+13,Petição + Remessa,1
+14,Publicação,24
+14,Expedição de documento,23
+14,Remessa,20
+14,Petição,18
+14,Ato ordinatório,10
+14,Conclusão,8
+14,Expedição de documento + Outras Decisões + Conclusão,8
+14,Expedição de documento + Outras Decisões,4
+14,Expedição de documento + Ato ordinatório,4
+14,Conclusão + Expedição de documento,2
+14,Remessa + Expedição de documento + Outras Decisões,2
+14,Conclusão + Decurso de Prazo,2
+14,Outras Decisões,2
+14,Expedição de documento + Publicação,2
+14,Petição + Remessa,1
+14,Petição + Expedição de documento + Ato ordinatório,1
+14,Recebimento,1
+14,Remessa + Expedição de documento + Outras Decisões + Conclusão,1
+14,,1
+14,Extinção da execução ou do cumprimento da sentença + Conclusão,1
+14,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1
+14,Petição + Expedição de documento + Remessa,1
+14,Remessa + Expedição de documento + Ato ordinatório,1
+14,Expedição de documento + Remessa + Outras Decisões,1
+14,Expedição de documento + Remessa,1
+14,Conclusão + Petição,1
+14,Remessa + ,1
+14,Remessa + Outras Decisões,1
+14,Remessa + Ato ordinatório,1
+14,Expedição de documento + Segurança,1
+15,Expedição de documento,27
+15,Publicação,24
+15,Remessa,18
+15,Petição,13
+15,Conclusão,12
+15,Ato ordinatório,6
+15,Expedição de documento + Outras Decisões,4
+15,Expedição de documento + Outras Decisões + Conclusão,2
+15,Expedição de documento + Publicação,2
+15,Recebimento,2
+15,Conclusão + Petição,2
+15,Conclusão + Expedição de documento,1
+15,Conclusão + Publicação,1
+15,Por decisão judicial + Publicação,1
+15,,1
+15,Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,1
+15,Remessa + Expedição de documento + Ato ordinatório,1
+15,Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,1
+15,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1
+15,Expedição de documento + Ato ordinatório,1
+15,Expedição de documento + Extinção da execução ou do cumprimento da sentença,1
+15,Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,1
+15,Conclusão + Petição + Publicação,1
+15,Expedição de documento + Remessa,1
+15,Remessa + Ato ordinatório,1
+15,Documento + Expedição de documento,1
+15,Petição + Remessa,1
+15,Ato ordinatório + Expedição de documento,1
+15,Remessa + Expedição de documento + Acolhimento de Embargos de Declaração,1
+15,Remessa + Ato ordinatório + Expedição de documento + Documento,1
+15,Expedição de documento + Outras Decisões + Conclusão + Documento,1
+16,Expedição de documento,24
+16,Publicação,21
+16,Petição,20
+16,Ato ordinatório,12
+16,Remessa,11
+16,Conclusão,6
+16,Expedição de documento + Outras Decisões + Conclusão,5
+16,Conclusão + Expedição de documento,4
+16,Expedição de documento + Outras Decisões,3
+16,Expedição de documento + Ato ordinatório,2
+16,Expedição de documento + Procedência,2
+16,Documento,2
+16,Expedição de documento +  + Conclusão,1
+16,Remessa + Expedição de documento + Ato ordinatório + Documento,1
+16,Remessa + Expedição de documento + Ato ordinatório,1
+16,Expedição de documento + Remessa,1
+16,Remessa + Expedição de documento + Outras Decisões,1
+16,Expedição de documento + Publicação,1
+16,Expedição de documento + Trânsito em julgado,1
+16,Outras Decisões + Conclusão + Mandado + Documento + Petição,1
+16,Conclusão + Petição,1
+16,Expedição de documento + Mero expediente,1
+16,Conclusão + Decurso de Prazo,1
+16,Conclusão + Decurso de Prazo + Documento,1
+17,Expedição de documento,19
+17,Remessa,17
+17,Publicação,15
+17,Petição,15
+17,Conclusão,12
+17,Ato ordinatório,5
+17,Expedição de documento + Outras Decisões + Conclusão,4
+17,Conclusão + Expedição de documento,3
+17,Publicação + Remessa,2
+17,Conclusão + Petição,2
+17,Outras Decisões,2
+17,Expedição de documento + Outras Decisões + Documento,1
+17,Expedição de documento + Emenda à Inicial,1
+17,Documento,1
+17,Remessa + Expedição de documento + Outras Decisões + Conclusão,1
+17,Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,1
+17,Mandado + Documento,1
+17,Expedição de documento + Extinção da execução ou do cumprimento da sentença,1
+17,Petição + Publicação,1
+17,Outras Decisões + Conclusão,1
+17,Improcedência,1
+17,Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,1
+17,Remessa + Expedição de documento + Outras Decisões,1
+17,Expedição de documento + Publicação,1
+17,Outras Decisões + Conclusão + Expedição de documento,1
+17,Ato ordinatório + Documento,1
+17,Remessa + Expedição de documento + Acolhimento de Embargos de Declaração,1
+17,Remessa + Ato ordinatório,1
+17,Expedição de documento + Acolhimento de Embargos de Declaração,1
+18,Expedição de documento,20
+18,Publicação,19
+18,Remessa,12
+18,Petição,12
+18,Conclusão,8
+18,Ato ordinatório,7
+18,Expedição de documento + Outras Decisões,3
+18,Conclusão + Expedição de documento,3
+18,Expedição de documento + Ato ordinatório,2
+18,Expedição de documento + Mero expediente,1
+18,Expedição de documento + Improcedência,1
+18,Outras Decisões + Conclusão,1
+18,Remessa + Expedição de documento + Outras Decisões,1
+18,Expedição de documento + Ato ordinatório + Petição,1
+18,Petição + Expedição de documento,1
+18,Expedição de documento + Extinção da execução ou do cumprimento da sentença,1
+18,Extinção da execução ou do cumprimento da sentença + Conclusão,1
+18,Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,1
+18,Publicação + Expedição de documento + Remessa,1
+18,Expedição de documento + Outras Decisões + Conclusão,1
+18,Expedição de documento + Remessa,1
+18,Conclusão + Trânsito em julgado,1
+18,Outras Decisões,1
+18,Expedição de documento + Publicação,1
+18,Petição + Remessa,1
+18,Conclusão + Petição,1
+18,Outras Decisões + Conclusão + Petição,1
+18,Publicação + Remessa + Ato ordinatório,1
+18,Mandado + Documento,1
+18,Publicação + Petição,1
+18,Recebimento,1
+19,Expedição de documento,16
+19,Publicação,14
+19,Petição,13
+19,Remessa,9
+19,Conclusão,7
+19,Recebimento,5
+19,Expedição de documento + Outras Decisões,5
+19,Expedição de documento + Outras Decisões + Conclusão,5
+19,Ato ordinatório,4
+19,Expedição de documento + Ato ordinatório,3
+19,Remessa + Expedição de documento + Outras Decisões,2
+19,Conclusão + Expedição de documento,2
+19,Petição + Remessa,2
+19,Expedição de documento + Remessa,2
+19,Petição + Expedição de documento + Outras Decisões,2
+19,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1
+19,Petição + Publicação,1
+19,Expedição de documento + Ato ordinatório + Petição + Remessa,1
+19,Expedição de documento + Procedência do Pedido - Reconhecimento pelo réu,1
+19,Expedição de documento + Remessa + Outras Decisões,1
+19,Documento + Remessa,1
+19,Remessa + Ato ordinatório,1
+19,Petição + Expedição de documento + Outras Decisões + Conclusão,1
+19,Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,1
+19,Definitivo + Expedição de documento + Decurso de Prazo,1
+19,Ato ordinatório + Publicação,1
+20,Remessa,18
+20,Publicação,17
+20,Expedição de documento,15
+20,Conclusão,9
+20,Petição,7
+20,Ato ordinatório,6
+20,Expedição de documento + Procedência em Parte,2
+20,Execução/Cumprimento de Sentença Iniciada (o),2
+20,Expedição de documento + Acolhimento de Embargos de Declaração,1
+20,Publicação + Remessa,1
+20,Expedição de documento + Conclusão,1
+20,Expedição de documento + Outras Decisões + Conclusão + Documento,1
+20,Redistribuição + Remessa,1
+20,Conclusão + Redistribuição + Remessa,1
+20,Conclusão + Redistribuição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1
+20,Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,1
+20,Expedição de documento + Trânsito em julgado,1
+20,Remessa + Expedição de documento,1
+20,Conclusão + Expedição de documento,1
+20,Expedição de documento + Outras Decisões + Conclusão,1
+20,Remessa + Expedição de documento + Ato ordinatório,1
+20,Expedição de documento + Petição + Publicação,1
+20,Expedição de documento + Ato ordinatório + Petição,1
+20,Remessa + Expedição de documento + Outras Decisões,1
+20,Documento,1
+20,Expedição de documento + Ato ordinatório + Decurso de Prazo,1
+20,Expedição de documento + Procedência,1
+20,Petição + Remessa,1
+21,Publicação,22
+21,Expedição de documento,15
+21,Ato ordinatório,8
+21,Remessa,7
+21,Conclusão,4
+21,Expedição de documento + Outras Decisões,4
+21,Petição,3
+21,Expedição de documento + Outras Decisões + Conclusão,3
+21,Recebimento,2
+21,Expedição de documento + Mero expediente,2
+21,Conclusão + Redistribuição + Remessa,2
+21,Conclusão + Expedição de documento,2
+21,Conclusão + Petição,2
+21,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1
+21,Expedição de documento + Procedência em Parte,1
+21,Outras Decisões + Conclusão,1
+21,Segurança,1
+21,Outras Decisões + Conclusão + Documento,1
+21,Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,1
+21,Remessa + Ato ordinatório,1
+21,Outras Decisões + Conclusão + Petição,1
+21,Conclusão + Publicação,1
+21,Ato ordinatório + Documento,1
+21,Petição + Expedição de documento,1
+21,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1
+21,Documento + Expedição de documento,1
+21,Conclusão + Decurso de Prazo,1
+21,Expedição de documento + Procedência,1
+21,Ato ordinatório + Decurso de Prazo,1
+22,Expedição de documento,22
+22,Remessa,15
+22,Petição,12
+22,Publicação,6
+22,Conclusão,5
+22,Ato ordinatório,3
+22,Expedição de documento + Remessa,3
+22,Expedição de documento + Outras Decisões,2
+22,Emenda à Inicial + Conclusão,1
+22,Conclusão + Redistribuição + Remessa,1
+22,Conclusão + Redistribuição + Remessa + Expedição de documento + Mero expediente,1
+22,Expedição de documento + Trânsito em julgado,1
+22,Expedição de documento + Outras Decisões + Conclusão,1
+22,Recebimento,1
+22,Conclusão + Petição,1
+22,Remessa + Ato ordinatório,1
+22,Mandado + Documento,1
+22,Conclusão + Expedição de documento,1
+22,Documento,1
+22,Expedição de documento + Segurança,1
+22,Decurso de Prazo,1
+23,Publicação,18
+23,Expedição de documento,13
+23,Petição,10
+23,Ato ordinatório,7
+23,Conclusão,5
+23,Remessa,4
+23,Expedição de documento + Outras Decisões,3
+23,Expedição de documento + Procedência em Parte,2
+23,Conclusão + Petição,2
+23,Remessa + Expedição de documento + Outras Decisões,2
+23,Petição + Conclusão,1
+23,Petição + Remessa,1
+23,Conclusão + Expedição de documento,1
+23,Expedição de documento + Trânsito em julgado,1
+23,Conclusão + Documento,1
+23,Expedição de documento + Outras Decisões + Conclusão,1
+23,Expedição de documento + Improcedência,1
+23,Expedição de documento + Ato ordinatório + Petição,1
+23,Remessa + Expedição de documento + Mandado + Documento,1
+24,Expedição de documento,13
+24,Conclusão,9
+24,Petição,8
+24,Publicação,6
+24,Remessa,6
+24,Ato ordinatório,5
+24,Outras Decisões,3
+24,Expedição de documento + Outras Decisões,2
+24,Conclusão + Expedição de documento,2
+24,Expedição de documento + Trânsito em julgado,2
+24,Conclusão + Petição,2
+24,Definitivo + Expedição de documento,1
+24,Expedição de documento + Mero expediente,1
+24,Conclusão + Publicação,1
+24,Expedição de documento + Outras Decisões + Conclusão + Documento,1
+24,Expedição de documento + Outras Decisões + Conclusão,1
+24,Expedição de documento + Remessa,1
+25,Petição,10
+25,Remessa,8
+25,Conclusão,5
+25,Publicação,5
+25,Ato ordinatório,4
+25,Expedição de documento,4
+25,Expedição de documento + Outras Decisões + Conclusão,3
+25,Expedição de documento + Outras Decisões,2
+25,Expedição de documento + Extinção da execução ou do cumprimento da sentença,2
+25,Remessa + Petição,1
+25,Expedição de documento + Procedência em Parte,1
+25,Redistribuição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1
+25,Conclusão + Expedição de documento,1
+25,Expedição de documento + Ato ordinatório,1
+25,Conclusão + Petição,1
+25,Outras Decisões,1
+25,Remessa + Ato ordinatório,1
+25,Remessa + Expedição de documento + Ato ordinatório,1
+25,Petição + Expedição de documento + Outras Decisões,1
+26,Remessa,11
+26,Publicação,10
+26,Expedição de documento,8
+26,Conclusão,4
+26,Petição,2
+26,Expedição de documento + Ato ordinatório,2
+26,Segurança,2
+26,Remessa + Expedição de documento + Outras Decisões,1
+26,Expedição de documento + Outras Decisões + Conclusão + Documento,1
+26,Conclusão + Remessa,1
+26,Remessa + Expedição de documento,1
+26,Conclusão + Expedição de documento,1
+26,Expedição de documento + Outras Decisões,1
+26,Expedição de documento + Outras Decisões + Conclusão,1
+26,Expedição de documento + Trânsito em julgado,1
+26,Ato ordinatório,1
+26,Expedição de documento + Conclusão + Petição + Publicação,1
+26,Expedição de documento + Remessa,1
+27,Publicação,11
+27,Expedição de documento,9
+27,Petição,8
+27,Remessa,4
+27,Conclusão,3
+27,Expedição de documento + Outras Decisões + Conclusão,2
+27,Expedição de documento + Remessa,2
+27,Remessa + Expedição de documento + Outras Decisões,1
+27,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1
+27,Expedição de documento + Trânsito em julgado,1
+27,Conclusão + Petição,1
+27,Segurança,1
+27,Ato ordinatório,1
+27,Petição + Expedição de documento,1
+28,Publicação,9
+28,Expedição de documento,7
+28,Petição,7
+28,Conclusão + Expedição de documento,4
+28,Ato ordinatório,3
+28,Remessa,3
+28,Outras Decisões,2
+28,Petição + Remessa,1
+28,Expedição de documento + Procedência em Parte,1
+28,Expedição de documento + Trânsito em julgado,1
+28,Remessa + Expedição de documento + Ato ordinatório,1
+28,Conclusão,1
+28,Execução/Cumprimento de Sentença Iniciada (o),1
+28,Expedição de documento + Outras Decisões + Conclusão,1
+28,Conclusão + Decurso de Prazo,1
+29,Expedição de documento,11
+29,Publicação,5
+29,Remessa,4
+29,Petição,4
+29,Expedição de documento + Extinção da execução ou do cumprimento da sentença,2
+29,Conclusão,2
+29,Outras Decisões,2
+29,Conclusão + Redistribuição + Remessa,1
+29,Expedição de documento + Mero expediente,1
+29,Ato ordinatório,1
+29,Conclusão + Expedição de documento,1
+29,Definitivo + Expedição de documento + Trânsito em julgado,1
+29,Conclusão + de Instrução e Julgamento,1
+30,Expedição de documento,9
+30,Remessa,6
+30,Publicação,3
+30,Conclusão,3
+30,Expedição de documento + Outras Decisões + Conclusão,3
+30,Petição,2
+30,Emenda à Inicial + Conclusão,1
+30,Remessa + Expedição de documento + Outras Decisões,1
+30,Ato ordinatório,1
+30,Remessa + Expedição de documento,1
+30,Remessa + Outras Decisões,1
+30,Conclusão + Petição,1
+31,Expedição de documento,5
+31,Publicação,5
+31,Remessa,4
+31,Ato ordinatório,2
+31,Expedição de documento + Outras Decisões,2
+31,Petição,1
+31,Remessa + Expedição de documento + Outras Decisões,1
+31,Definitivo + Expedição de documento + Trânsito em julgado,1
+31,Conclusão + Recebimento,1
+31,Expedição de documento + Publicação,1
+31,Conclusão + Petição,1
+31,Expedição de documento + Ato ordinatório,1
+31,Outras Decisões + Conclusão + Petição,1
+31,Conclusão + Expedição de documento,1
+31,Expedição de documento + Conclusão + Petição + Publicação,1
+31,Remessa + Ato ordinatório + Petição + Publicação,1
+32,Publicação,6
+32,Expedição de documento,6
+32,Conclusão,2
+32,Remessa,2
+32,Petição,2
+32,Conclusão + Expedição de documento,1
+32,Expedição de documento + Outras Decisões + Conclusão + Documento,1
+32,Ato ordinatório,1
+32,Conclusão + Petição,1
+32,Remessa + Expedição de documento + Outras Decisões,1
+32,Outras Decisões + Conclusão + Petição + Remessa,1
+32,Outras Decisões + Conclusão + Petição,1
+32,Expedição de documento + Remessa,1
+33,Expedição de documento,4
+33,Publicação,3
+33,Remessa,2
+33,Remessa + Expedição de documento + Sem efeito suspensivo,1
+33,Expedição de documento + Procedência em Parte,1
+33,Petição,1
+33,Ato ordinatório,1
+33,Definitivo + Expedição de documento + Trânsito em julgado,1
+33,Outras Decisões + Expedição de documento,1
+33,Conclusão + Expedição de documento,1
+33,Execução/Cumprimento de Sentença Iniciada (o) + Publicação,1
+33,Conclusão + Petição,1
+33,Expedição de documento + Remessa + Publicação,1
+33,Remessa + Expedição de documento + Outras Decisões,1
+33,Conclusão + Decurso de Prazo,1
+34,Publicação,4
+34,Expedição de documento,3
+34,Petição,2
+34,Remessa,2
+34,Conclusão,1
+34,Expedição de documento + Outras Decisões,1
+34,Outras Decisões + Conclusão + Expedição de documento,1
+34,Expedição de documento + Conclusão + Petição,1
+34,Expedição de documento + Publicação,1
+35,Expedição de documento,6
+35,Remessa,2
+35,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1
+35,Conclusão,1
+35,Publicação,1
+35,Remessa + Expedição de documento + Outras Decisões,1
+36,Petição,2
+36,Expedição de documento,2
+36,Publicação,2
+36,Remessa,1
+36,Documento + Expedição de documento + Publicação,1
+36,Outras Decisões + Conclusão + Petição,1
+36,Conclusão + Petição,1
+37,Petição,2
+37,Remessa + Expedição de documento,1
+37,Publicação,1
+37,Conclusão,1
+37,Expedição de documento + Outras Decisões + Conclusão,1
+37,Expedição de documento + Improcedência + Conclusão + Petição,1
+37,Expedição de documento,1
+37,Expedição de documento + Remessa,1
+37,Outras Decisões + Expedição de documento,1
+38,Remessa + Expedição de documento,2
+38,Remessa,2
+38,Expedição de documento + Outras Decisões + Conclusão,1
+38,Expedição de documento,1
+38,Conclusão,1
+38,Remessa + Expedição de documento + Outras Decisões + Conclusão,1
+38,Publicação,1
+39,Expedição de documento,4
+39,Publicação,2
+39,Recebimento + Documento,1
+39,Remessa,1
+39,Expedição de documento + Remessa,1
+40,Publicação,3
+40,Expedição de documento,2
+40,Conclusão + Expedição de documento,1
+40,Petição,1
+40,Remessa + Expedição de documento + Outras Decisões,1
+41,Expedição de documento,3
+41,Petição,2
+41,Expedição de documento + Emenda à Inicial,1
+41,Petição + Publicação,1
+42,Expedição de documento + Outras Decisões + Conclusão,2
+42,Petição + Remessa,1
+42,Conclusão + Expedição de documento,1
+42,Expedição de documento,1
+42,Conclusão,1
+43,Remessa,2
+43,Publicação,1
+43,Expedição de documento + Não Acolhimento de Embargos de Declaração,1
+43,Conclusão + Expedição de documento,1
+43,Expedição de documento,1
+44,Publicação,2
+44,Conclusão,1
+44,Remessa,1
+44,Expedição de documento + Outras Decisões,1
+45,Expedição de documento,2
+45,Expedição de documento + Outras Decisões + Conclusão,1
+45,Expedição de documento + Publicação,1
+45,Remessa,1
+46,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1
+46,Remessa,1
+46,Expedição de documento,1
+46,Publicação,1
+47,Remessa,1
+47,Publicação,1
+47,Conclusão + Petição,1
+47,Expedição de documento,1
+48,Publicação,1
+48,Expedição de documento,1
+48,Outras Decisões,1
+48,Petição,1
+49,Petição,1
+49,Expedição de documento,1
+49,Remessa,1
+49,Documento,1
+50,Expedição de documento,1
+50,Expedição de documento + Outras Decisões + Conclusão + Documento,1
+50,Petição + Publicação,1
+50,Conclusão + Expedição de documento,1
+51,Expedição de documento,1
+51,Remessa,1
+51,Expedição de documento + Remessa,1
+51,Outras Decisões,1
+52,Mandado + Documento,1
+52,Publicação,1
+52,Expedição de documento,1
+52,Remessa,1
+53,Petição,1
+53,Expedição de documento,1
+54,Expedição de documento + Ato ordinatório,1
+54,Petição,1
+55,Expedição de documento + Outras Decisões + Conclusão,1
+56,Remessa,1
+57,Publicação,1
+58,Expedição de documento,1
+59,Petição,1
+60,Conclusão,1
+61,Expedição de documento + Outras Decisões + Conclusão,1
+62,Remessa,1
+63,Publicação,1
+64,Expedição de documento,1

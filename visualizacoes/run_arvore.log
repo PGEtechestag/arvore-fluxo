@@ -1,0 +1,12 @@
+[1] Assunto 'Multas e demais Sanções': 404 processos.
+[2] Árvore de prefixos montada (origem completa rastreada; rotas com < 2 processos agregadas em 'Outros').
+[3] Tempo início → 1ª Conclusão (n=396): média=8.1d | mediana=1d | mín=0d | máx=155d
+[4] Principais gatilhos pré-conclusão (andamento → n | μ dias | pos.):
+    - Petição: 312 | μ 20.2d | pos. 12.8
+    - Distribuição: 166 | μ 5.3d | pos. 2.0
+    - Expedição de documento: 128 | μ 31.4d | pos. 16.8
+    - Publicação: 63 | μ 24.6d | pos. 12.3
+    - Execução/Cumprimento de Sentença Iniciada (o): 58 | μ 15.5d | pos. 2.0
+    - Conclusão: 51 | μ 24.3d | pos. 17.1
+[5] Árvore: 504 nós, 503 arestas.
+[6] Saídas: C:\Users\Íris\Desktop\api-cnj - Copia\visualizacoes\imagens\arvore_fluxo_multas.png/.svg + C:\Users\Íris\Desktop\api-cnj - Copia\visualizacoes\imagens\arvore_fluxo_multas_dados.csv
