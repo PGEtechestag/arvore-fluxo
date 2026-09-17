@@ -1,0 +1,52 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+ENV/
+
+# ===============================
+# Variaveis de ambiente
+# ===============================
+.env
+.env.local
+.env.*.local
+
+# ===============================
+# Dados gerados pelo script
+# ===============================
+outputs_json/
+checkpoints/
+erros.log
+
+# ===============================
+# Sistema operacional / editor
+# ===============================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ===============================
+# Dados lidos pelo app/scripts (fora do git)
+# ===============================
+# Os JSONs do DataJud e as tabelas derivadas ficam em "outputs_json/"
+# (ja cobertos pela regra acima).
+# Cache em disco do app Streamlit (arvore por assunto).
+visualizacoes/.cache_arvore/
+.cache_arvore/
