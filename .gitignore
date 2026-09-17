@@ -41,3 +41,12 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+
+# ===============================
+# Dados lidos pelo app/scripts (fora do git)
+# ===============================
+# Os JSONs do DataJud e as tabelas derivadas ficam em "outputs_json/"
+# (ja cobertos pela regra acima).
+# Cache em disco do app Streamlit (arvore por assunto).
+visualizacoes/.cache_arvore/
+.cache_arvore/

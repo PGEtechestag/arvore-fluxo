@@ -228,12 +228,12 @@ def montar_grafo(raiz, x_step=6.5):  # Aumentado para dar mais espaço lateral e
 
 
 def desenhar(G, pos, tempo, media_pos, total, png, svg, gatilhos=None,
-             min_dias_label=3):
+             min_dias_label=3, dpi=150):
     prof_max = max(n[0] for n in G.nodes)
     folhas = sum(1 for n in G.nodes if G.out_degree(n) == 0)
     
     # Figura com largura proporcional muito maior para acomodar o novo x_step
-    fig, ax = plt.subplots(figsize=(max(30, 2.5 * folhas + 16), 6.0 + 3.0 * prof_max), dpi=150)
+    fig, ax = plt.subplots(figsize=(max(30, 2.5 * folhas + 16), 6.0 + 3.0 * prof_max), dpi=dpi)
     # Restante da função continua igual...
     # --- caminho dominante (segue sempre o filho mais volumoso até a folha) ---
     raiz_id = [n for n in G.nodes if n[0] == 0][0]

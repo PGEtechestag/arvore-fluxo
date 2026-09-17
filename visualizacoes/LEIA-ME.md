@@ -22,6 +22,22 @@ Análise das sequências reais de movimentações processuais (ponta a ponta) a 
 - `gera_relatorio.py` — monta `relatorio_arvores.html` e `relatorio_arvores.pdf`.
 - `diagnostico.py` — diagnóstico estrutural da árvore (níveis, nós, arestas, cobertura).
 
+## App interativo (Streamlit) — árvore por assunto direto dos JSONs
+
+Lê os JSONs brutos de `outputs_json`, separa por assunto e recria a árvore com
+filtros na tela (escolhe o assunto, ajusta `min-n`/`max-depth`) e download de PNG/SVG/CSV.
+
+```powershell
+py -m streamlit run visualizacoes/app_streamlit.py
+```
+
+- `app_streamlit.py` — a interface (Streamlit).
+- `arvore_fluxo_top3.py` — mesma lógica em linha de comando (gera as árvores dos
+  assuntos mais comuns). Ex.: `py visualizacoes/arvore_fluxo_top3.py --top 5`
+  ou `--assuntos "Garantias Constitucionais;Pagamento"`.
+- `.cache_arvore/` — cache em disco (evita reler os 3753 JSONs a cada abertura).
+  Pode ser apagado; o app o reconstrói. O botão "Recarregar dados" também limpa.
+
 ## Reproduzir
 
 ```powershell
