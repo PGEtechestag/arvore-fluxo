@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Árvore de Fluxo Processual — Caminhos mais comuns</title>
+
+  <!-- Tailwind CSS (CDN) -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { sans: ['Inter', 'system-ui', 'Segoe UI', 'sans-serif'] },
+          colors: {
+            brand: {
+              50: '#FFF7ED', 100: '#FFEDD5', 200: '#FED7AA', 300: '#FDBA74',
+              400: '#FB923C', 500: '#F97316', 600: '#EA580C', 700: '#C2410C',
+              800: '#9A3412', 900: '#7C2D12'
+            }
+          }
+        }
+      }
+    };
+  </script>
+
+  <!-- vis-network (CDN) -->
+  <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+
+  <style>
+    body { background: linear-gradient(160deg, #FFFBF5 0%, #FFF1E0 45%, #FFE8D2 100%); }
+
+    /* --- rodinha de carregamento (spinner) em tons de laranja --- */
+    .spinner {
+      width: 68px; height: 68px; border-radius: 9999px;
+      border: 6px solid #FFEDD5; border-top-color: #EA580C;
+      border-right-color: #FB923C;
+      animation: spin 0.9s linear infinite;
+    }
+    .spinner-sm {
+      width: 18px; height: 18px; border-radius: 9999px;
+      border: 3px solid rgba(255,255,255,.45); border-top-color: #fff;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes pulse-soft { 0%,100% { opacity: .55 } 50% { opacity: 1 } }
+    .pulse-soft { animation: pulse-soft 1.5s ease-in-out infinite; }
+
+    /* --- rede --- */
+    #rede { width: 100%; height: 74vh; min-height: 460px; }
+    #rede .vis-network:focus { outline: none; }
+
+    /* --- barras de rolagem laranja --- */
+    .scroll-orange::-webkit-scrollbar { width: 10px; height: 10px; }
+    .scroll-orange::-webkit-scrollbar-track { background: #FFF7ED; border-radius: 8px; }
+    .scroll-orange::-webkit-scrollbar-thumb { background: #FDBA74; border-radius: 8px; }
+    .scroll-orange::-webkit-scrollbar-thumb:hover { background: #FB923C; }
+
+    /* --- sliders laranja --- */
+    input[type="range"] { -webkit-appearance: none; appearance: none; height: 8px;
+      background: #FFEDD5; border-radius: 9999px; outline: none; }
+    input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; appearance: none;
+      width: 20px; height: 20px; border-radius: 9999px; background: #EA580C;
+      border: 3px solid #fff; box-shadow: 0 1px 4px rgba(234,88,12,.45); cursor: pointer; }
+    input[type="range"]::-moz-range-thumb { width: 16px; height: 16px; border-radius: 9999px;
+      background: #EA580C; border: 3px solid #ffffff; cursor: pointer; }
+
+    @keyframes fade-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    .fade-in { animation: fade-in .35s ease-out both; }
+
+    /* --- tooltip dos nós (sobrescreve o padrão feio do vis-network) --- */
+    div.vis-tooltip {
+      background: #ffffff !important;
+      border: 1px solid #FED7AA !important;
+      border-radius: 10px !important;
+      box-shadow: 0 6px 18px rgba(154, 52, 18, .18) !important;
+      padding: 10px 12px !important;
+      max-width: 260px;
+      white-space: normal !important;
+      font-family: 'Inter', system-ui, sans-serif !important;
+      color: #44403C !important;
+      z-index: 60 !important;
+    }
+    .tooltip-no { font-size: 12px; line-height: 1.5; }
+    .tooltip-no b { color: #9A3412; }
+  </style>
+</head>
+
+<body class="font-sans text-stone-700 min-h-screen">
+
+  <!-- ===================== SPINNER / OVERLAY DE CARREGAMENTO ===================== -->
+  <div id="overlay" class="fixed inset-0 z-50 hidden items-center justify-center
+                            bg-orange-50/80 backdrop-blur-sm">
+    <div class="flex flex-col items-center gap-4">
+      <div class="spinner"></div>
+      <p id="overlay-texto" class="pulse-soft font-semibold text-brand-700">
+        Processando os caminhos…
+      </p>
+    </div>
+  </div>
+
+  <!-- ===================== CABEÇALHO ===================== -->
+  <header class="bg-white/85 backdrop-blur border-b border-brand-100 shadow-sm sticky top-0 z-40">
+    <div class="max-w-[1600px] mx-auto px-6 py-4 flex items-center gap-4">
+      <div class="w-11 h-11 rounded-xl bg-gradient-to-br from-brand-400 to-brand-600
+                  flex items-center justify-center shadow-lg shadow-brand-200 shrink-0">
+        <svg class="w-6 h-6 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="4" r="2.2"/><circle cx="5" cy="19" r="2.2"/><circle cx="19" cy="19" r="2.2"/>
+          <path d="M12 6.2v5.3M12 11.5l-5.6 5.4M12 11.5l5.6 5.4"/>
+        </svg>
+      </div>
+      <div class="min-w-0">
+        <h1 class="text-lg sm:text-xl font-bold text-stone-800 leading-tight truncate">
+          Árvore de Fluxo Processual
+        </h1>
+        <p class="text-xs sm:text-sm text-stone-500 truncate">
+          Caminhos mais comuns por assunto — zoom e arraste os nós
+        </p>
+      </div>
+      <span id="badge-dados" class="ml-auto hidden sm:inline-flex items-center gap-2
+             text-xs font-medium px-3 py-1.5 rounded-full bg-brand-50 text-brand-700
+             border border-brand-200"></span>
+    </div>
+  </header>
+
+  <main class="max-w-[1600px] mx-auto px-6 py-6 space-y-5">
+
+    <!-- ===================== PAINEL DE CONTROLE ===================== -->
+    <section class="bg-white rounded-2xl border border-brand-100 shadow-sm shadow-brand-50 p-5 fade-in">
+      <div class="grid grid-cols-1 md:grid-cols-12 gap-4 items-end">
+
+        <!-- assunto -->
+        <div class="md:col-span-6">
+          <label for="assunto" class="block text-xs font-semibold text-stone-600 mb-1.5">Assunto</label>
+          <div class="relative">
+            <select id="assunto"
+              class="w-full appearance-none rounded-xl border border-brand-200 bg-white
+                     px-3.5 py-2.5 pr-10 text-sm text-stone-700 font-medium
+                     focus:outline-none focus:ring-2 focus:ring-brand-400 focus:border-brand-400
+                     cursor-pointer disabled:opacity-60">
+              <option value="">Carregando assuntos…</option>
+            </select>
+            <svg class="w-4 h-4 text-brand-500 absolute right-3.5 top-1/2 -translate-y-1/2 pointer-events-none"
+                 viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <path d="m6 9 6 6 6-6"/>
+            </svg>
+          </div>
+        </div>
+
+        <!-- min-n -->
+        <div class="md:col-span-3">
+          <label class="flex items-center justify-between text-xs font-semibold text-stone-600 mb-1.5">
+            <span>min-n <span class="font-normal text-stone-400">(poda)</span></span>
+            <span id="min-n-val" class="px-2 py-0.5 rounded-md bg-brand-50 text-brand-700 border border-brand-200">3</span>
+          </label>
+          <input id="min-n" type="range" min="1" max="20" value="3" class="w-full cursor-pointer" />
+        </div>
+
+        <!-- max-depth -->
+        <div class="md:col-span-3">
+          <label class="flex items-center justify-between text-xs font-semibold text-stone-600 mb-1.5">
+            <span>max-depth <span class="font-normal text-stone-400">(0 = todas)</span></span>
+            <span id="max-depth-val" class="px-2 py-0.5 rounded-md bg-brand-50 text-brand-700 border border-brand-200">0</span>
+          </label>
+          <input id="max-depth" type="range" min="0" max="30" value="0" class="w-full cursor-pointer" />
+        </div>
+      </div>
+
+      <!-- botões + info: linha própria, com mais respiro -->
+      <div class="mt-5 pt-4 border-t border-brand-100 flex flex-wrap items-center justify-between gap-4">
+        <div class="flex flex-wrap items-center gap-3">
+          <button id="btn-gerar"
+            class="inline-flex items-center justify-center gap-2 rounded-xl px-5 py-2.5 text-sm font-semibold
+                   text-white bg-gradient-to-br from-brand-500 to-brand-600
+                   shadow-lg shadow-brand-200 hover:from-brand-600 hover:to-brand-700
+                   active:scale-[.98] transition disabled:opacity-60">
+            <span id="btn-gerar-spin" class="spinner-sm hidden"></span>
+            <span id="btn-gerar-txt">Gerar árvore</span>
+          </button>
+
+          <button id="btn-dominante"
+            class="inline-flex items-center gap-1.5 rounded-xl px-4 py-2.5 text-sm font-semibold
+                   text-brand-700 bg-brand-100 border border-brand-200
+                   hover:bg-brand-200 active:scale-[.98] transition">
+            Focar dominante
+          </button>
+
+          <button id="btn-recarregar"
+            class="inline-flex items-center gap-1.5 rounded-xl px-4 py-2.5 text-sm font-semibold
+                   text-stone-600 bg-stone-100 border border-stone-200
+                   hover:bg-stone-200 active:scale-[.98] transition">
+            Recarregar dados
+          </button>
+        </div>
+
+        <div class="flex flex-wrap items-center gap-x-5 gap-y-2 text-xs text-stone-500">
+          <span id="info-assunto" class="font-medium text-stone-600"></span>
+          <label class="inline-flex items-center gap-2 cursor-pointer select-none">
+            <input id="chk-dominante" type="checkbox"
+                   class="w-4 h-4 rounded border-brand-300 text-brand-600 accent-brand-600" />
+            Destacar somente o caminho dominante
+          </label>
+        </div>
+      </div>
+    </section>
+<!-- ===================== CARTÕES DE MÉTRICAS ===================== -->
+    <section id="metricas" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3 hidden">
+      <div class="bg-white rounded-xl border border-brand-100 p-3.5 shadow-sm">
+        <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">Processos</p>
+        <p id="m-processos" class="text-xl font-bold text-stone-800">—</p>
+      </div>
+      <div class="bg-white rounded-xl border border-brand-100 p-3.5 shadow-sm">
+        <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">Nós</p>
+        <p id="m-nos" class="text-xl font-bold text-stone-800">—</p>
+      </div>
+      <div class="bg-white rounded-xl border border-brand-100 p-3.5 shadow-sm">
+        <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">Profundidade</p>
+        <p id="m-profundidade" class="text-xl font-bold text-stone-800">—</p>
+      </div>
+      <div class="bg-white rounded-xl border border-brand-100 p-3.5 shadow-sm">
+        <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">Posições (média)</p>
+        <p id="m-posicoes" class="text-xl font-bold text-stone-800">—</p>
+      </div>
+      <div class="bg-white rounded-xl border border-brand-100 p-3.5 shadow-sm">
+        <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">1ª conclusão (μ dias)</p>
+        <p id="m-tempo" class="text-xl font-bold text-brand-600">—</p>
+      </div>
+    </section>
+    <!-- ===================== ÁRVORE + PAINEL LATERAL ===================== -->
+    <section class="grid grid-cols-1 xl:grid-cols-12 gap-5">
+
+      <!-- rede -->
+      <div class="xl:col-span-9 bg-white rounded-2xl border border-brand-100 shadow-sm p-3 relative">
+        <div id="rede"></div>
+
+        <!-- estado vazio -->
+        <div id="vazio" class="absolute inset-0 flex flex-col items-center justify-center gap-3 text-center p-8">
+          <div class="w-14 h-14 rounded-2xl bg-brand-50 border border-brand-200
+                      flex items-center justify-center">
+            <svg class="w-7 h-7 text-brand-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="4" r="2.2"/><circle cx="5" cy="19" r="2.2"/><circle cx="19" cy="19" r="2.2"/>
+              <path d="M12 6.2v5.3M12 11.5l-5.6 5.4M12 11.5l5.6 5.4"/>
+            </svg>
+          </div>
+          <p class="text-sm font-semibold text-stone-600">Escolha um assunto e clique em “Gerar árvore”</p>
+          <p class="text-xs text-stone-400 max-w-sm">
+            A árvore mostra os caminhos de andamentos mais comuns. Dá para dar zoom,
+            arrastar os nós e clicar em qualquer nó para ver os detalhes.
+          </p>
+        </div>
+
+        <!-- mini barra de ferramentas da rede -->
+        <div class="absolute top-4 left-4 flex items-center gap-1.5 bg-white/95 border border-brand-100
+                    rounded-lg shadow-sm px-1.5 py-1">
+          <button id="btn-zoom-in" title="Aproximar"
+            class="w-7 h-7 rounded-md text-brand-600 hover:bg-brand-50 font-bold">+</button>
+          <button id="btn-zoom-out" title="Afastar"
+            class="w-7 h-7 rounded-md text-brand-600 hover:bg-brand-50 font-bold">−</button>
+          <button id="btn-fit" title="Ajustar à tela"
+            class="w-7 h-7 rounded-md text-brand-600 hover:bg-brand-50 text-xs font-bold">⤢</button>
+          <span id="legenda-dominante" class="hidden sm:inline-flex items-center gap-1 pl-1.5 pr-1
+                text-[11px] font-semibold text-brand-700 border-l border-brand-100 ml-0.5">
+            <span class="w-3 h-1 rounded-full bg-brand-500 inline-block"></span>
+            caminho dominante
+          </span>
+        </div>
+      </div>
+
+      <!-- ===================== PAINEL LATERAL ===================== -->
+      <aside class="xl:col-span-3 space-y-4">
+
+        <!-- detalhes do nó selecionado -->
+        <div class="bg-white rounded-2xl border border-brand-100 shadow-sm p-4">
+          <h2 class="text-sm font-bold text-stone-700 mb-3 flex items-center gap-2">
+            <span class="w-1.5 h-4 rounded-full bg-brand-500"></span> Detalhes do nó
+          </h2>
+          <div id="detalhe" class="text-xs text-stone-500 leading-relaxed">
+            Clique em um nó da árvore para ver os detalhes.
+          </div>
+        </div>
+
+        <!-- legenda -->
+        <div class="bg-white rounded-2xl border border-brand-100 shadow-sm p-4">
+          <h2 class="text-sm font-bold text-stone-700 mb-3 flex items-center gap-2">
+            <span class="w-1.5 h-4 rounded-full bg-brand-500"></span> Legenda
+          </h2>
+          <ul class="space-y-2.5 text-xs text-stone-600">
+            <li class="flex items-center gap-2.5">
+              <span class="w-4 h-4 rounded shrink-0" style="background:#37474F"></span> Início do processo
+            </li>
+            <li class="flex items-center gap-2.5">
+              <span class="w-4 h-4 rounded shrink-0" style="background:#FDBA74"></span>
+              Andamento — quanto mais escuro, mais adiante no fluxo
+            </li>
+            <li class="flex items-center gap-2.5">
+              <span class="w-4 h-4 rounded shrink-0 rotate-45" style="background:#DC2626"></span>
+              Conclusão (gatilho em vermelho)
+            </li>
+            <li class="flex items-center gap-2.5">
+              <span class="w-4 h-4 rounded shrink-0 border-4" style="background:#FFEDD5;border-color:#15803D"></span>
+              Desfecho (último movimento)
+            </li>
+            <li class="flex items-center gap-2.5">
+              <span class="w-4 h-4 rounded shrink-0" style="background:#D6D3D1"></span>
+              Outros (rotas raras agregadas)
+            </li>
+            <li class="flex items-center gap-2.5">
+              <span class="w-6 h-1.5 rounded-full shrink-0" style="background:#EA580C"></span>
+              Caminho dominante (maior volume)
+            </li>
+            <li class="flex items-center gap-2.5">
+              <span class="text-stone-400 shrink-0">largura ∝ volume da transição</span>
+            </li>
+          </ul>
+        </div>
+
+        <!-- gatilhos -->
+        <div class="bg-white rounded-2xl border border-brand-100 shadow-sm p-4">
+          <h2 class="text-sm font-bold text-stone-700 mb-1 flex items-center gap-2">
+            <span class="w-1.5 h-4 rounded-full bg-brand-500"></span> Gatilhos pré-conclusão
+          </h2>
+          <p class="text-[11px] text-stone-400 mb-2.5">andamento anterior → volume | μ dias</p>
+          <ul id="gatilhos" class="space-y-2 text-xs text-stone-600">
+            <li class="text-stone-400">—</li>
+          </ul>
+        </div>
+      </aside>
+    </section>
+
+    <footer class="pt-2 pb-10 text-center text-xs text-stone-400">
+      Fonte: JSONs de processos em
+      <code class="px-1.5 py-0.5 rounded bg-brand-50 text-brand-700">outputs_json/</code>
+      · Backend Flask · Visualização vis-network
+    </footer>
+  </main>
+
+  <script>
+    /* =====================================================================
+       Árvore de fluxo interativa — cliente (vis-network + Fetch API)
+       ===================================================================== */
+    const API = {
+      assuntos: '/api/assuntos',
+      arvore: '/api/arvore',
+      recarregar: '/api/recarregar',
+    };
+
+    // ------------------------------- estado -------------------------------
+    let network = null;        // instância do vis-network
+    let nodesDS = null;        // DataSet de nós
+    let edgesDS = null;        // DataSet de arestas
+    let dados = null;          // payload atual da API
+    let nosDominantes = new Set();
+
+    const $ = (id) => document.getElementById(id);
+
+    // --------------------------- paleta (laranja) --------------------------
+    const LARANJA = ['#FFEDD5', '#FED7AA', '#FDBA74', '#FB923C',
+                     '#F97316', '#EA580C', '#C2410C', '#9A3412'];
+    const COR = {
+      inicioBg: '#37474F', inicioBorda: '#263238',
+      conclusaoBg: '#DC2626', conclusaoBorda: '#991B1B',
+      desfechoBorda: '#15803D',
+      outrosBg: '#D6D3D1', outrosBorda: '#A8A29E',
+      dominante: '#EA580C', normal: '#FDBA74', gatilho: '#DC2626',
+      fonteClara: '#FFFFFF', fonteEscura: '#431407',
+    };
+
+    // ----------------------------- utilidades -----------------------------
+    function corPorNivel(depth, dmax) {
+      const t = dmax > 0 ? depth / dmax : 0;
+      const i = Math.round(t * (LARANJA.length - 1));
+      return LARANJA[Math.min(LARANJA.length - 1, Math.max(1, i))];
+    }
+
+    function truncar(txt, max) {
+      txt = String(txt || '').trim();
+      return txt.length > max ? txt.slice(0, max - 1).trim() + '…' : txt;
+    }
+
+    function fmtPct(v) {
+      return (Number.isInteger(v) ? v.toFixed(0) : v.toFixed(1)) + '%';
+    }
+
+    function mostrarOverlay(mostrar, texto) {
+      const ov = $('overlay');
+      ov.classList.toggle('hidden', !mostrar);
+      ov.classList.toggle('flex', mostrar);
+      if (texto) $('overlay-texto').textContent = texto;
+    }
+
+    // --------------------------- carga de dados ---------------------------
+    async function carregarAssuntos() {
+      const sel = $('assunto');
+      try {
+        const r = await fetch(API.assuntos);
+        if (!r.ok) throw new Error('falha ao listar os assuntos');
+        const j = await r.json();
+        sel.innerHTML = j.assuntos.map((a) =>
+          '<option value="' + a.assunto.replace(/"/g, '&quot;') + '">' +
+          a.assunto + ' — ' + a.processos + ' processo(s)</option>'
+        ).join('');
+        sel.disabled = false;
+        $('badge-dados').textContent =
+          j.lidos + ' processos · ' + j.assuntos.length + ' assuntos';
+      } catch (e) {
+        sel.innerHTML = '<option value="">Erro ao carregar assuntos</option>';
+        console.error(e);
+      }
+    }
+
+    // --------------------------- gerar a árvore ---------------------------
+    async function gerarArvore() {
+      const assunto = $('assunto').value;
+      if (!assunto) return;
+
+      const btn = $('btn-gerar');
+      btn.disabled = true;
+      $('btn-gerar-spin').classList.remove('hidden');
+      $('btn-gerar-txt').textContent = 'Processando…';
+      mostrarOverlay(true, 'Processando os caminhos mais comuns…');
+
+      try {
+        const url = API.arvore
+          + '?assunto=' + encodeURIComponent(assunto)
+          + '&min_n=' + $('min-n').value
+          + '&max_depth=' + $('max-depth').value;
+
+        const r = await fetch(url);
+        const j = await r.json();
+        if (!r.ok) throw new Error(j.erro || ('HTTP ' + r.status));
+
+        dados = j;
+        renderizar(j);
+      } catch (e) {
+        alert('Não foi possível gerar a árvore:\n' + e.message);
+        console.error(e);
+      } finally {
+        mostrarOverlay(false);
+        btn.disabled = false;
+        $('btn-gerar-spin').classList.add('hidden');
+        $('btn-gerar-txt').textContent = 'Gerar árvore';
+      }
+    }
+
+    // ------------------------- desenhar a árvore --------------------------
+    function renderizar(j) {
+      const dmax = j.profundidade_max || 1;
+      const maxPeso = j.edges.reduce((m, e) => Math.max(m, e.peso), 1);
+
+      // nós que pertencem ao caminho dominante
+      nosDominantes = new Set([0]);
+      j.edges.forEach((e) => {
+        if (e.dominante) { nosDominantes.add(e.from); nosDominantes.add(e.to); }
+      });
+
+      const nos = j.nodes.map((n) => {
+        const nivel = n.depth === 0 ? COR.inicioBg : corPorNivel(n.depth, dmax);
+        const fundo = n.conclusao ? COR.conclusaoBg : (n.outros ? COR.outrosBg : nivel);
+        const borda = n.conclusao ? COR.conclusaoBorda
+                    : n.desfecho ? COR.desfechoBorda
+                    : n.outros ? COR.outrosBorda : '#ff8400';
+        
+        const fonte = (n.depth === 0 || n.conclusao) ? COR.fonteClara
+                    : (n.outros ? '#57534E' : COR.fonteEscura);
+
+        let rotulo = (n.conclusao ? '◆ ' : '') + truncar(n.label, 30)
+                   + '\n' + n.n + ' · ' + fmtPct(n.pct);
+        if (n.desfecho) rotulo += ' ◆';
+        if (n.truncado) rotulo += ' ⋯';
+
+        return {
+          id: n.id,
+          label: rotulo,
+          title: tooltipEl(tooltipNo(n)),
+          shape: 'box',
+          level: n.depth,
+          color: {
+            background: fundo,
+            border: borda,
+            highlight: { background: '#FB923C', border: '#C2410C' },
+            hover: { background: '#FDBA74', border: '#EA580C' },
+          },
+          font: {
+            color: fonte, size: n.depth === 0 ? 14 : 12,
+            face: 'Inter, system-ui, sans-serif',
+          },
+          borderWidth: n.desfecho ? 4 : (n.depth === 0 || n.conclusao ? 2.5 : 1.5),
+          borderWidthSelected: 4,
+          shapeProperties: { borderRadius: 9 },
+          margin: { top: 8, bottom: 8, left: 12, right: 12 },
+          widthConstraint: { maximum: 215 },
+        };
+      });
+
+      const arestas = j.edges.map((e) => {
+        const frac = e.peso / maxPeso;
+        let largura = 1 + 7 * Math.pow(frac, 0.7);
+        let cor = COR.normal;
+        if (e.gatilho) cor = COR.gatilho;
+        if (e.dominante) { cor = COR.dominante; largura *= 1.7; }
+        const destaque = e.dominante || e.gatilho;
+        return {
+          id: e.from + '-' + e.to,
+          from: e.from, to: e.to,
+          width: largura,
+          color: {
+            color: cor, highlight: '#C2410C', hover: '#EA580C',
+            opacity: destaque ? 0.95 : 0.5,
+          },
+          arrows: { to: { enabled: true, scaleFactor: 0.5 } },
+          smooth: {
+            enabled: true, type: 'cubicBezier',
+            forceDirection: 'vertical', roundness: 0.45,
+          },
+        };
+      });
+
+      nodesDS = new vis.DataSet(nos);
+      edgesDS = new vis.DataSet(arestas);
+
+      const opcoes = {
+        layout: {
+          hierarchical: {
+            enabled: true, direction: 'UD', sortMethod: 'directed',
+            levelSeparation: 150, nodeSpacing: 190, treeSpacing: 240,
+            blockShifting: true, edgeMinimization: true,
+            parentCentralization: true,
+          },
+        },
+        physics: false,
+        interaction: {
+          hover: true, zoomView: true, dragView: true, dragNodes: true,
+          tooltipDelay: 120, keyboard: true,
+        },
+        nodes: {
+          shape: 'box',
+          shadow: { enabled: true, color: 'rgba(234,88,12,.13)', size: 8, x: 0, y: 3 },
+        },
+        edges: { selectionWidth: 2 },
+      };
+
+      network = new vis.Network($('rede'), { nodes: nodesDS, edges: edgesDS }, opcoes);
+
+      network.on('click', (p) => {
+        if (p.nodes.length) mostrarDetalhe(p.nodes[0]);
+        else limparDetalhe();
+      });
+      network.once('afterDrawing', () => {
+        network.fit({ animation: { duration: 600, easingFunction: 'easeInOutQuad' } });
+      });
+
+      $('vazio').classList.add('hidden');
+      $('metricas').classList.remove('hidden');
+      atualizarMetricas(j);
+      atualizarGatilhos(j);
+      $('info-assunto').textContent =
+        j.assunto + ' · min-n ' + $('min-n').value +
+        ' · max-depth ' + ($('max-depth').value === '0' ? 'todas' : $('max-depth').value);
+      aplicarModoDominante($('chk-dominante').checked);
+      limparDetalhe();
+    }
+
+    // ------------------------------ helpers -------------------------------
+    function acharNo(id) {
+      return ((dados && dados.nodes) || []).find((n) => n.id === id) || null;
+    }
+
+    function arestaEntrada(id) {
+      return ((dados && dados.edges) || []).find((e) => e.to === id) || null;
+    }
+
+    // vis-network só interpreta HTML no tooltip se `title` for um elemento
+    // DOM de verdade — se for string, ele escapa as tags e mostra o texto
+    // cru (foi o que estava acontecendo). Por isso montamos um <div>.
+    function tooltipEl(html) {
+      const div = document.createElement('div');
+      div.className = 'tooltip-no';
+      div.innerHTML = html;
+      return div;
+    }
+
+    function tooltipNo(n) {
+      const a = arestaEntrada(n.id);
+      const linhas = [
+        '<b>' + n.label + '</b>',
+        'Processos: <b>' + n.n + '</b> (' + fmtPct(n.pct) + ')',
+        'Profundidade: ' + n.depth,
+      ];
+      if (a && a.dias !== null && a.dias !== undefined) {
+        linhas.push('μ ' + a.dias + ' dia(s) desde o andamento anterior');
+      }
+      if (n.conclusao) linhas.push('• Conclusão (gatilho)');
+      if (n.desfecho) linhas.push('• Desfecho (último movimento)');
+      if (n.outros) linhas.push('• Rotas raras agregadas');
+      if (n.truncado) linhas.push('• Continua além da profundidade exibida');
+      return linhas.join('<br>');
+    }
+
+    function chip(texto, classes) {
+      return '<span class="inline-block px-2 py-0.5 rounded-md text-[11px] font-semibold '
+             + classes + '">' + texto + '</span>';
+    }
+
+    function mostrarDetalhe(id) {
+      const n = acharNo(id);
+      if (!n) return;
+      const a = arestaEntrada(id);
+      const chips = [];
+      if (n.conclusao) chips.push(chip('Conclusão', 'bg-red-100 text-red-700'));
+      if (n.desfecho) chips.push(chip('Desfecho', 'bg-green-100 text-green-700'));
+      if (n.outros) chips.push(chip('Rotas raras', 'bg-stone-200 text-stone-600'));
+      if (n.truncado) chips.push(chip('Continua…', 'bg-brand-100 text-brand-700'));
+      if (nosDominantes.has(n.id) && n.id !== 0) {
+        chips.push(chip('Caminho dominante', 'bg-brand-100 text-brand-700'));
+      }
+
+      $('detalhe').innerHTML =
+        '<p class="font-semibold text-stone-700 text-sm mb-2">' + n.label + '</p>' +
+        (chips.length ? '<div class="flex flex-wrap gap-1.5 mb-3">' + chips.join('') + '</div>' : '') +
+        '<dl class="space-y-1.5">' +
+          '<div class="flex justify-between gap-3"><dt class="text-stone-400">Processos</dt>' +
+            '<dd class="font-semibold text-stone-700">' + n.n + ' (' + fmtPct(n.pct) + ')</dd></div>' +
+          '<div class="flex justify-between gap-3"><dt class="text-stone-400">Posição (profundidade)</dt>' +
+            '<dd class="font-semibold text-stone-700">' + n.depth + '</dd></div>' +
+          '<div class="flex justify-between gap-3"><dt class="text-stone-400">μ dias da transição</dt>' +
+            '<dd class="font-semibold text-stone-700">' +
+            (a && a.dias !== null && a.dias !== undefined ? a.dias + ' d' : '—') + '</dd></div>' +
+        '</dl>';
+    }
+
+    function limparDetalhe() {
+      $('detalhe').innerHTML =
+        '<span class="text-stone-400">Clique em um nó da árvore para ver os detalhes.</span>';
+    }
+
+function atualizarMetricas(j) {
+      $('m-processos').textContent = j.total;
+      $('m-nos').textContent = j.nodes.length;
+      $('m-profundidade').textContent = j.profundidade_max;
+      $('m-posicoes').textContent = j.media_pos;
+      $('m-tempo').textContent = (j.tempo && j.tempo.n)
+        ? j.tempo.media.toFixed(1) + ' d (n=' + j.tempo.n + ')' : '—';
+    }
+
+    function atualizarGatilhos(j) {
+      const ul = $('gatilhos');
+      if (!j.gatilhos || !j.gatilhos.length) {
+        ul.innerHTML = '<li class="text-stone-400">Nenhum gatilho detectado.</li>';
+        return;
+      }
+      ul.innerHTML = j.gatilhos.map((g) => {
+        const d = (g.dias === null || g.dias === undefined) ? '—' : g.dias.toFixed(1) + ' d';
+        return '<li class="flex items-start gap-2">' +
+          '<span class="mt-1.5 w-1.5 h-1.5 rounded-full bg-brand-500 shrink-0"></span>' +
+          '<span><span class="font-medium text-stone-700">' + truncar(g.movimento, 48) + '</span>' +
+          '<br><span class="text-stone-400">' + g.n + ' processos · μ ' + d +
+          ' · pos. ' + g.prof.toFixed(1) + '</span></span></li>';
+      }).join('');
+    }
+
+    function aplicarModoDominante(ativo) {
+      if (!nodesDS || !edgesDS || !dados) return;
+      nodesDS.update(dados.nodes.map((n) => {
+        const dentro = !ativo || nosDominantes.has(n.id);
+        return { id: n.id, color: { opacity: dentro ? 1 : 0.16 } };
+      }));
+      edgesDS.update(dados.edges.map((e) => {
+        const dentro = !ativo || (nosDominantes.has(e.from) && nosDominantes.has(e.to));
+        const base = e.dominante ? COR.dominante : (e.gatilho ? COR.gatilho : COR.normal);
+        const opac = dentro ? ((e.dominante || e.gatilho) ? 0.95 : 0.5) : 0.06;
+        return { id: e.from + '-' + e.to, color: { color: base, opacity: opac } };
+      }));
+    }
+
+    // ------------------------------ eventos -------------------------------
+    function ligarEventos() {
+      $('btn-gerar').addEventListener('click', gerarArvore);
+      $('assunto').addEventListener('change', gerarArvore);
+
+      $('min-n').addEventListener('input', (e) => {
+        $('min-n-val').textContent = e.target.value;
+      });
+      $('max-depth').addEventListener('input', (e) => {
+        $('max-depth-val').textContent = e.target.value;
+      });
+
+      $('btn-dominante').addEventListener('click', () => {
+        const chk = $('chk-dominante');
+        chk.checked = !chk.checked;
+        aplicarModoDominante(chk.checked);
+      });
+      $('chk-dominante').addEventListener('change', (e) => {
+        aplicarModoDominante(e.target.checked);
+      });
+
+      $('btn-zoom-in').addEventListener('click', () => {
+        if (network) network.moveTo({ scale: network.getScale() * 1.25, animation: true });
+      });
+      $('btn-zoom-out').addEventListener('click', () => {
+        if (network) network.moveTo({ scale: network.getScale() / 1.25, animation: true });
+      });
+      $('btn-fit').addEventListener('click', () => {
+        if (network) network.fit({ animation: { duration: 500 } });
+      });
+
+      $('btn-recarregar').addEventListener('click', async () => {
+        mostrarOverlay(true, 'Relendo os dados…');
+        try {
+          await fetch(API.recarregar, { method: 'POST' });
+          await carregarAssuntos();
+          if ($('assunto').value) await gerarArvore();
+        } catch (e) {
+          alert('Erro ao recarregar: ' + e.message);
+        } finally {
+          mostrarOverlay(false);
+        }
+      });
+    }
+
+    // ------------------------------ inicial -------------------------------
+    (async function init() {
+      ligarEventos();
+      mostrarOverlay(true, 'Carregando os assuntos…');
+      await carregarAssuntos();
+      mostrarOverlay(false);
+      if ($('assunto').value) gerarArvore();
+    })();
+  </script>
+</body>
+</html>
