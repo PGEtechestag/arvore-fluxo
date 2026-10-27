@@ -27,11 +27,24 @@ ENV/
 .env.*.local
 
 # ===============================
-# Dados gerados pelo script
+# Dados brutos do DataJud (gerados pelo coletor)
 # ===============================
 outputs_json/
 checkpoints/
 erros.log
+
+# ===============================
+# Logs e resultados de execucao
+# ===============================
+logs/
+resultados/
+
+# Artefatos temporarios de execucao
+_*.txt
+_*.csv
+_*.log
+_*.err
+*.pyc_check
 
 # ===============================
 # Sistema operacional / editor
@@ -43,10 +56,11 @@ Thumbs.db
 *.swp
 
 # ===============================
-# Dados lidos pelo app/scripts (fora do git)
+# Cache em disco dos apps
 # ===============================
-# Os JSONs do DataJud e as tabelas derivadas ficam em "outputs_json/"
-# (ja cobertos pela regra acima).
-# Cache em disco do app Streamlit (arvore por assunto).
+# Cache do app Streamlit (arvore por assunto).
 visualizacoes/.cache_arvore/
 .cache_arvore/
+
+# Cache em disco do backend Flask (webapp/app.py).
+webapp/.cache/

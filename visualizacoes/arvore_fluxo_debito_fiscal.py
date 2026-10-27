@@ -49,7 +49,8 @@ except (AttributeError, ValueError):
     pass
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_PATH = os.path.join(BASE_DIR, "..", "outputs_json", "tabela_posicao_tempo_processos.csv")
+CSV_PATH = os.path.join(BASE_DIR, "..", "outputs_json", "tabelas",
+                    "tabela_posicao_tempo_processos.csv")
 OUT_IMG = os.path.join(BASE_DIR, "imagens")
 ASSUNTO_ALVO = "Anulação de Débito Fiscal"
 
@@ -187,9 +188,44 @@ def construir_arvore(trilhas, min_n=2, max_depth=None):
 
 
 # ----------------------------------------------------------------------------
+# 1b) PROBABILIDADES DE TRANSIÇÃO — Cadeia de Markov de 1ª ordem
+# ----------------------------------------------------------------------------
+def anotar_probabilidades(G):
+    """Anota P(v|u) nas arestas e as taxas de saída/parada nos nós.
+
+    Modelo: cada andamento (movimento) é um ESTADO do processo e a decisão de
+    seguir para o próximo depende apenas do estado atual — propriedade de
+    Markov de 1ª ordem. Assim, para o nó pai u por onde passam N_u processos
+    (``G.nodes[u]["n"]``), a probabilidade condicional de a transição ir para o
+    filho v de peso P_{u -> v} (``peso`` da aresta) é:
+
+        P(v | u) = P_{u -> v} / N_u
+
+    Por nó u ainda são anotados:
+
+        p_saida  = Σ_v P(v | u)   -> chance de o processo CONTINUAR adiante
+        p_parada = 1 - p_saida    -> chance de ENCERRAR aqui (desfecho,
+                                     ausência de novo movimento ou truncamento)
+
+    Ou seja, para todo nó vale Σ_v P(v|u) + p_parada(u) = 1, como no modelo.
+    """
+    for u, v, d in G.edges(data=True):
+        n_u = G.nodes[u]["n"] or 0
+        p = (d["peso"] / n_u) if n_u else 0.0
+        d["prob"] = min(1.0, max(0.0, p))
+        d["prob_pct"] = round(100.0 * d["prob"], 1)
+    for u in G.nodes:
+        n_u = G.nodes[u]["n"] or 0
+        saida = sum(d["peso"] for _, _, d in G.out_edges(u, data=True))
+        p_saida = min(1.0, saida / n_u) if n_u else 0.0
+        G.nodes[u]["p_saida"] = p_saida
+        G.nodes[u]["p_parada"] = max(0.0, 1.0 - p_saida)
+
+
+# ----------------------------------------------------------------------------
 # 2) GRAFO networkx com LAYOUT DE ÁRVORE (x por ordenação de folhas, y = prof.)
 # ----------------------------------------------------------------------------
-def montar_grafo(raiz, x_step=1.0):
+def montar_grafo(raiz, x_step=5.5):  # Espaçamento horizontal generoso para evitar colisão lateral
     """Converte a trie em DiGraph; cada nó = (profundidade, movimento, id)."""
     G = nx.DiGraph()
     pos = {}
@@ -214,26 +250,27 @@ def montar_grafo(raiz, x_step=1.0):
 
     raiz_id = registrar(raiz, "Início do processo", None, 0, None)
 
-    # x das folhas por DFS (colunas sequenciais); pais = média dos filhos
+    # x das folhas por DFS; y multiplicado por 2.5 para descer mais os níveis
     def calcular_x(nid):
         filhos = list(G.successors(nid))
         if not filhos:
-            pos[nid] = (contador[0] * x_step, -nid[0])
+            pos[nid] = (contador[0] * x_step, -nid[0] * 2.5)
             contador[0] += 1
         else:
             for f in filhos:
                 calcular_x(f)
-            pos[nid] = (sum(pos[f][0] for f in filhos) / len(filhos), -nid[0])
+            pos[nid] = (sum(pos[f][0] for f in filhos) / len(filhos), -nid[0] * 2.5)
     calcular_x(raiz_id)
+    anotar_probabilidades(G)   # P(v|u) nas arestas + p_saida/p_parada nos nós
     return G, pos
-
 
 def desenhar(G, pos, tempo, media_pos, total, png, svg, gatilhos=None,
              min_dias_label=3):
     prof_max = max(n[0] for n in G.nodes)
     folhas = sum(1 for n in G.nodes if G.out_degree(n) == 0)
-    fig, ax = plt.subplots(figsize=(max(18, 0.62 * folhas + 8),
-                                    3.4 + 1.6 * prof_max), dpi=140)
+    
+    # Aumentado o tamanho da figura proporcionalmente para a árvore respirar
+    fig, ax = plt.subplots(figsize=(max(26, 1.2 * folhas + 14), 5.0 + 2.8 * prof_max), dpi=150)
 
     # --- caminho dominante (segue sempre o filho mais volumoso até a folha) ---
     raiz_id = [n for n in G.nodes if n[0] == 0][0]
@@ -365,13 +402,16 @@ def exportar(G, base):
     with open(base + "_dados.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
         w.writerow(["tipo", "profundidade", "movimento", "processos",
-                    "conclusao", "desfecho", "dias_medios_aresta"])
+                    "conclusao", "desfecho", "dias_medios_aresta",
+                    "prob_transicao_pct", "p_saida_pct"])
         for n, d in G.nodes(data=True):
             w.writerow(["no", n[0], re.sub(r"\s+", " ", n[1]), d["n"],
-                        d["conclusao"], d["desfecho"], ""])
+                        d["conclusao"], d["desfecho"], "",
+                        "", f"{100.0 * d.get('p_saida', 0.0):.1f}"])
         for u, v, d in G.edges(data=True):
             w.writerow(["aresta", u[0], f"{u[1]} -> {v[1]}", d["peso"],
-                        "", "", f"{d['dias']:.1f}" if d["dias"] is not None else ""])
+                        "", "", f"{d['dias']:.1f}" if d["dias"] is not None else "",
+                        f"{d.get('prob_pct', 0.0):.1f}", ""])
 
 
 def main():

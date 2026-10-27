@@ -1,3 +1,0 @@
-﻿assuntos=272 lidos=3694
-top1=Multas e demais Sanções n=404
-nos=154 arestas=153 total=404

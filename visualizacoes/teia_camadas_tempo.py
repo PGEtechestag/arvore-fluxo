@@ -43,7 +43,8 @@ from matplotlib.lines import Line2D
 import networkx as nx
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_PATH = os.path.join(BASE_DIR, "..", "outputs_json", "tabela_posicao_tempo_processos.csv")
+CSV_PATH = os.path.join(BASE_DIR, "..", "outputs_json", "tabelas",
+                    "tabela_posicao_tempo_processos.csv")
 OUT_IMG = os.path.join(BASE_DIR, "imagens")
 ASSUNTO_ALVO = "Multas e demais Sanções"
 

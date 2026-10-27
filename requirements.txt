@@ -1,1 +1,4 @@
 requests>=2.31
+
+# Webapp (backend Flask + frontend vis-network)
+flask>=3.0

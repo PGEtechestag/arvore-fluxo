@@ -6,7 +6,8 @@ import os
 from collections import Counter, OrderedDict, defaultdict
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_PATH = os.path.join(BASE_DIR, "..", "outputs_json", "tabela_posicao_tempo_processos.csv")
+CSV_PATH = os.path.join(BASE_DIR, "..", "outputs_json", "tabelas",
+                    "tabela_posicao_tempo_processos.csv")
 OUT_JSON = os.path.join(BASE_DIR, "rotas_por_assunto.json")
 
 ASSUNTOS = ["Anulação de Débito Fiscal", "Multas e demais Sanções", "Valor da Execução / Cálculo / Atualização"]

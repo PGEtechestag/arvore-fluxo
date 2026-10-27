@@ -1,0 +1,13 @@
+==============================================================================
+ASSUNTOS MAIS COMUNS — base: JSONs de processos (outputs_json)
+JSONs lidos: 0 (com erro: 0) | processos distintos: 0 | assuntos distintos: 0
+Anos: [] | Órgãos: 0
+==============================================================================
+
+  #  ASSUNTO                                                PROCS       %
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+POR ÓRGÃO JULGADOR (top 10 assuntos de cada)
+
+POR ANO (top 10 assuntos de cada)

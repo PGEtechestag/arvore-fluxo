@@ -27,7 +27,7 @@ try:
 except (AttributeError, ValueError):
     pass
 
-RAIZ = Path(__file__).resolve().parent
+RAIZ = Path(__file__).resolve().parent.parent / "outputs_json"
 IGNORAR = {"catboost_info", "__pycache__", "outputs"}
 
 

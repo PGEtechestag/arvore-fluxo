@@ -14,9 +14,9 @@
           fontFamily: { sans: ['Inter', 'system-ui', 'Segoe UI', 'sans-serif'] },
           colors: {
             brand: {
-              50: '#FFF7ED', 100: '#FFEDD5', 200: '#FED7AA', 300: '#FDBA74',
-              400: '#FB923C', 500: '#F97316', 600: '#EA580C', 700: '#C2410C',
-              800: '#9A3412', 900: '#7C2D12'
+              50: '#EEF1F7', 100: '#DDE3EF', 200: '#B9C4DC', 300: '#8F9FC4',
+              400: '#6A7FAE', 500: '#455B8A', 600: '#30497D', 700: '#253C6D',
+              800: '#1B2D54', 900: '#121F3B'
             }
           }
         }
@@ -26,15 +26,19 @@
 
   <!-- vis-network (CDN) -->
   <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <script>
+    // fallback: se o unpkg estiver bloqueado/fora do ar, tenta o jsDelivr
+    window.vis || document.write('<script src="https://cdn.jsdelivr.net/npm/vis-network/standalone/umd/vis-network.min.js"><\/script>');
+  </script>
 
   <style>
-    body { background: linear-gradient(160deg, #FFFBF5 0%, #FFF1E0 45%, #FFE8D2 100%); }
+    body { background: linear-gradient(160deg, #F6F8FC 0%, #EAEEF6 50%, #DDE3EF 100%); }
 
     /* --- rodinha de carregamento (spinner) em tons de laranja --- */
     .spinner {
       width: 68px; height: 68px; border-radius: 9999px;
-      border: 6px solid #FFEDD5; border-top-color: #EA580C;
-      border-right-color: #FB923C;
+      border: 6px solid #DDE3EF; border-top-color: #30497D;
+      border-right-color: #6A7FAE;
       animation: spin 0.9s linear infinite;
     }
     .spinner-sm {
@@ -52,18 +56,18 @@
 
     /* --- barras de rolagem laranja --- */
     .scroll-orange::-webkit-scrollbar { width: 10px; height: 10px; }
-    .scroll-orange::-webkit-scrollbar-track { background: #FFF7ED; border-radius: 8px; }
-    .scroll-orange::-webkit-scrollbar-thumb { background: #FDBA74; border-radius: 8px; }
-    .scroll-orange::-webkit-scrollbar-thumb:hover { background: #FB923C; }
+    .scroll-orange::-webkit-scrollbar-track { background: #EEF1F7; border-radius: 8px; }
+    .scroll-orange::-webkit-scrollbar-thumb { background: #8F9FC4; border-radius: 8px; }
+    .scroll-orange::-webkit-scrollbar-thumb:hover { background: #6A7FAE; }
 
     /* --- sliders laranja --- */
     input[type="range"] { -webkit-appearance: none; appearance: none; height: 8px;
-      background: #FFEDD5; border-radius: 9999px; outline: none; }
+      background: #DDE3EF; border-radius: 9999px; outline: none; }
     input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; appearance: none;
-      width: 20px; height: 20px; border-radius: 9999px; background: #EA580C;
-      border: 3px solid #fff; box-shadow: 0 1px 4px rgba(234,88,12,.45); cursor: pointer; }
+      width: 20px; height: 20px; border-radius: 9999px; background: #30497D;
+      border: 3px solid #fff; box-shadow: 0 1px 4px rgba(48,73,125,.45); cursor: pointer; }
     input[type="range"]::-moz-range-thumb { width: 16px; height: 16px; border-radius: 9999px;
-      background: #EA580C; border: 3px solid #ffffff; cursor: pointer; }
+      background: #30497D; border: 3px solid #ffffff; cursor: pointer; }
 
     @keyframes fade-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
     .fade-in { animation: fade-in .35s ease-out both; }
@@ -71,18 +75,18 @@
     /* --- tooltip dos nós (sobrescreve o padrão feio do vis-network) --- */
     div.vis-tooltip {
       background: #ffffff !important;
-      border: 1px solid #FED7AA !important;
+      border: 1px solid #B9C4DC !important;
       border-radius: 10px !important;
-      box-shadow: 0 6px 18px rgba(154, 52, 18, .18) !important;
+      box-shadow: 0 6px 18px rgba(27,45,84, .18) !important;
       padding: 10px 12px !important;
       max-width: 260px;
       white-space: normal !important;
       font-family: 'Inter', system-ui, sans-serif !important;
-      color: #44403C !important;
+      color: #2B3447 !important;
       z-index: 60 !important;
     }
     .tooltip-no { font-size: 12px; line-height: 1.5; }
-    .tooltip-no b { color: #9A3412; }
+    .tooltip-no b { color: #1B2D54; }
   </style>
 </head>
 
@@ -90,7 +94,7 @@
 
   <!-- ===================== SPINNER / OVERLAY DE CARREGAMENTO ===================== -->
   <div id="overlay" class="fixed inset-0 z-50 hidden items-center justify-center
-                            bg-orange-50/80 backdrop-blur-sm">
+                            bg-brand-50/80 backdrop-blur-sm">
     <div class="flex flex-col items-center gap-4">
       <div class="spinner"></div>
       <p id="overlay-texto" class="pulse-soft font-semibold text-brand-700">
@@ -114,7 +118,7 @@
           Árvore de Fluxo Processual
         </h1>
         <p class="text-xs sm:text-sm text-stone-500 truncate">
-          Caminhos mais comuns por assunto — zoom e arraste os nós
+          Caminhos mais comuns por assunto · probabilidades de transição (Markov)
         </p>
       </div>
       <span id="badge-dados" class="ml-auto hidden sm:inline-flex items-center gap-2
@@ -193,18 +197,33 @@
           </button>
         </div>
 
-        <div class="flex flex-wrap items-center gap-x-5 gap-y-2 text-xs text-stone-500">
+<div class="flex flex-wrap items-center gap-x-6 gap-y-2 text-xs text-stone-500">
           <span id="info-assunto" class="font-medium text-stone-600"></span>
+          
+          <!-- Switch: Caminho dominante -->
           <label class="inline-flex items-center gap-2 cursor-pointer select-none">
-            <input id="chk-dominante" type="checkbox"
-                   class="w-4 h-4 rounded border-brand-300 text-brand-600 accent-brand-600" />
+            <div class="relative inline-flex items-center cursor-pointer">
+              <input id="chk-dominante" type="checkbox" class="sr-only peer">
+              <div class="w-9 h-5 bg-stone-300 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-stone-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all duration-300 peer-checked:bg-brand-600"></div>
+            </div>
             Destacar somente o caminho dominante
+          </label>
+
+          <!-- Switch: % de transição nas arestas -->
+          <label class="inline-flex items-center gap-2 cursor-pointer select-none"
+                 title="Mostra em cada aresta a probabilidade condicional P(v|u) — a % de processos que, passando pelo nó anterior, seguiu por aquele caminho.">
+            <div class="relative inline-flex items-center cursor-pointer">
+              <input id="chk-prob" type="checkbox" checked class="sr-only peer">
+              <div class="w-9 h-5 bg-stone-300 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-stone-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all duration-300 peer-checked:bg-brand-600"></div>
+            </div>
+            Mostrar % de transição nas arestas
           </label>
         </div>
       </div>
     </section>
-<!-- ===================== CARTÕES DE MÉTRICAS ===================== -->
-    <section id="metricas" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3 hidden">
+
+    <!-- ===================== CARTÕES DE MÉTRICAS ===================== -->
+    <section id="metricas" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 hidden">
       <div class="bg-white rounded-xl border border-brand-100 p-3.5 shadow-sm">
         <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">Processos</p>
         <p id="m-processos" class="text-xl font-bold text-stone-800">—</p>
@@ -213,17 +232,31 @@
         <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">Nós</p>
         <p id="m-nos" class="text-xl font-bold text-stone-800">—</p>
       </div>
-      <div class="bg-white rounded-xl border border-brand-100 p-3.5 shadow-sm">
-        <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">Profundidade</p>
+      <div class="bg-white rounded-xl border border-brand-100 p-3.5 shadow-sm"
+           title="Máx = nível mais fundo da árvore. Média = nível médio que os processos alcançam na árvore exibida.">
+        <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">Profundidade (Máx / Média)</p>
         <p id="m-profundidade" class="text-xl font-bold text-stone-800">—</p>
       </div>
       <div class="bg-white rounded-xl border border-brand-100 p-3.5 shadow-sm">
-        <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">Posições (média)</p>
+        <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">Posições (Média)</p>
         <p id="m-posicoes" class="text-xl font-bold text-stone-800">—</p>
       </div>
-      <div class="bg-white rounded-xl border border-brand-100 p-3.5 shadow-sm">
-        <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">1ª conclusão (μ dias)</p>
+      <div class="bg-white rounded-xl border border-brand-100 p-3.5 shadow-sm"
+           title="Média de dias: até a 1ª conclusão, ou das transições que chegam em cada posição (nível) da árvore.">
+        <div class="flex items-center justify-between gap-2">
+          <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">μ dias</p>
+          <select id="sel-dias"
+            class="max-w-[110px] text-[11px] font-semibold text-brand-700 bg-brand-50 border border-brand-200
+                   rounded-md px-1.5 py-0.5 focus:outline-none focus:ring-1 focus:ring-brand-400 cursor-pointer">
+            <option value="conclusao">1ª conclusão</option>
+          </select>
+        </div>
         <p id="m-tempo" class="text-xl font-bold text-brand-600">—</p>
+      </div>
+      <div class="bg-white rounded-xl border border-brand-100 p-3.5 shadow-sm"
+           title="Produto das probabilidades de transição P(v|u) ao longo do caminho dominante: a chance de um processo seguir exatamente esse trajeto.">
+        <p class="text-[11px] uppercase tracking-wide text-stone-400 font-semibold">P(caminho dominante)</p>
+        <p id="m-p-dominante" class="text-xl font-bold text-brand-600">—</p>
       </div>
     </section>
     <!-- ===================== ÁRVORE + PAINEL LATERAL ===================== -->
@@ -242,10 +275,12 @@
               <path d="M12 6.2v5.3M12 11.5l-5.6 5.4M12 11.5l5.6 5.4"/>
             </svg>
           </div>
-          <p class="text-sm font-semibold text-stone-600">Escolha um assunto e clique em “Gerar árvore”</p>
-          <p class="text-xs text-stone-400 max-w-sm">
-            A árvore mostra os caminhos de andamentos mais comuns. Dá para dar zoom,
-            arrastar os nós e clicar em qualquer nó para ver os detalhes.
+          <p id="vazio-titulo" class="text-sm font-semibold text-stone-600">Escolha um assunto e clique em “Gerar árvore”</p>
+          <p id="vazio-sub" class="text-xs text-stone-400 max-w-sm">
+            A árvore mostra os caminhos de andamentos mais comuns. Cada aresta traz
+            P(v|u) — a % de processos que, passando pelo nó anterior, seguiu por
+            aquele caminho. Dá para dar zoom, arrastar os nós e clicar em qualquer
+            nó para ver os detalhes.
           </p>
         </div>
 
@@ -279,6 +314,17 @@
           </div>
         </div>
 
+        <!-- Painel de Rotas Alternativas / Sugestões a partir do nó selecionado -->
+        <div class="bg-white rounded-2xl border border-brand-100 shadow-sm p-4">
+          <h2 class="text-sm font-bold text-stone-700 mb-2 flex items-center gap-2">
+            <span class="w-1.5 h-4 rounded-full bg-brand-500"></span> Rotas possíveis a partir daqui
+          </h2>
+          <p class="text-[11px] text-stone-400 mb-3">Próximos passos prováveis segundo o modelo de Markov:</p>
+          <div id="rotas-alternativas" class="space-y-2 text-xs text-stone-600">
+            <span class="text-stone-400">Clique em um nó da árvore para ver as opções.</span>
+          </div>
+        </div>
+
         <!-- legenda -->
         <div class="bg-white rounded-2xl border border-brand-100 shadow-sm p-4">
           <h2 class="text-sm font-bold text-stone-700 mb-3 flex items-center gap-2">
@@ -286,18 +332,18 @@
           </h2>
           <ul class="space-y-2.5 text-xs text-stone-600">
             <li class="flex items-center gap-2.5">
-              <span class="w-4 h-4 rounded shrink-0" style="background:#37474F"></span> Início do processo
+              <span class="w-4 h-4 rounded shrink-0" style="background:#1B2D54"></span> Início do processo
             </li>
             <li class="flex items-center gap-2.5">
-              <span class="w-4 h-4 rounded shrink-0" style="background:#FDBA74"></span>
+              <span class="w-4 h-4 rounded shrink-0" style="background:#8F9FC4"></span>
               Andamento — quanto mais escuro, mais adiante no fluxo
             </li>
             <li class="flex items-center gap-2.5">
-              <span class="w-4 h-4 rounded shrink-0 rotate-45" style="background:#DC2626"></span>
-              Conclusão (gatilho em vermelho)
+              <span class="w-4 h-4 rounded shrink-0 rotate-45" style="background:#F2842F;border:2px solid #C25F12"></span>
+              Conclusão (gatilho em laranja)
             </li>
             <li class="flex items-center gap-2.5">
-              <span class="w-4 h-4 rounded shrink-0 border-4" style="background:#FFEDD5;border-color:#15803D"></span>
+              <span class="w-4 h-4 rounded shrink-0 border-4" style="background:#DDE3EF;border-color:#121F3B"></span>
               Desfecho (último movimento)
             </li>
             <li class="flex items-center gap-2.5">
@@ -305,11 +351,11 @@
               Outros (rotas raras agregadas)
             </li>
             <li class="flex items-center gap-2.5">
-              <span class="w-6 h-1.5 rounded-full shrink-0" style="background:#EA580C"></span>
+              <span class="w-6 h-1.5 rounded-full shrink-0" style="background:#253C6D"></span>
               Caminho dominante (maior volume)
             </li>
             <li class="flex items-center gap-2.5">
-              <span class="text-stone-400 shrink-0">largura ∝ volume da transição</span>
+              <span class="text-stone-400 shrink-0">largura ∝ volume · % na aresta = P(v&#8202;|&#8202;u)</span>
             </li>
           </ul>
         </div>
@@ -354,15 +400,15 @@
     const $ = (id) => document.getElementById(id);
 
     // --------------------------- paleta (laranja) --------------------------
-    const LARANJA = ['#FFEDD5', '#FED7AA', '#FDBA74', '#FB923C',
-                     '#F97316', '#EA580C', '#C2410C', '#9A3412'];
+    const LARANJA = ['#DDE3EF', '#B9C4DC', '#8F9FC4', '#6A7FAE',
+                     '#455B8A', '#30497D', '#253C6D', '#1B2D54'];
     const COR = {
-      inicioBg: '#37474F', inicioBorda: '#263238',
-      conclusaoBg: '#DC2626', conclusaoBorda: '#991B1B',
-      desfechoBorda: '#15803D',
+      inicioBg: '#1B2D54', inicioBorda: '#121F3B',
+      conclusaoBg: '#F2842F', conclusaoBorda: '#C25F12',
+      desfechoBorda: '#121F3B',
       outrosBg: '#D6D3D1', outrosBorda: '#A8A29E',
-      dominante: '#EA580C', normal: '#FDBA74', gatilho: '#DC2626',
-      fonteClara: '#FFFFFF', fonteEscura: '#431407',
+      dominante: '#253C6D', normal: '#B9C4DC', gatilho: '#F2842F',
+      fonteClara: '#FFFFFF', fonteEscura: '#121F3B',
     };
 
     // ----------------------------- utilidades -----------------------------
@@ -381,6 +427,37 @@
       return (Number.isInteger(v) ? v.toFixed(0) : v.toFixed(1)) + '%';
     }
 
+    // ---- helpers numéricos: nunca deixam NaN/undefined chegar à tela ----
+    function numOrNull(v) {
+      if (v === null || v === undefined || v === '') return null;
+      const x = Number(v);
+      return Number.isFinite(x) ? x : null;
+    }
+
+    // fração 0..1 (ex.: p_saida) -> "75.0%" (com `dec` casas); null se inválido
+    function pctFrac(v, dec) {
+      const x = numOrNull(v);
+      return x === null ? null : (x * 100).toFixed(dec === undefined ? 1 : dec) + '%';
+    }
+
+    // probabilidades muito pequenas (caminhos longos) continuam legíveis
+    function pctSmart(fr) {
+      const x = numOrNull(fr);
+      if (x === null) return null;
+      const p = x * 100;
+      if (p === 0) return '0%';
+      if (p < 0.01) return '<0.01%';
+      if (p < 1) return p.toFixed(2) + '%';
+      return p.toFixed(1) + '%';
+    }
+
+    // mostra o motivo da falha no próprio quadro da árvore (em vez de ficar mudo)
+    function mostrarErroVazio(titulo, detalhe) {
+      $('vazio-titulo').textContent = titulo;
+      $('vazio-sub').textContent = detalhe;
+      $('vazio').classList.remove('hidden');
+    }
+
     function mostrarOverlay(mostrar, texto) {
       const ov = $('overlay');
       ov.classList.toggle('hidden', !mostrar);
@@ -391,6 +468,13 @@
     // --------------------------- carga de dados ---------------------------
     async function carregarAssuntos() {
       const sel = $('assunto');
+      if (location.protocol === 'file:') {
+        sel.innerHTML = '<option value="">Servidor não encontrado</option>';
+        mostrarErroVazio('Abra pelo servidor Flask, não pelo arquivo',
+          'Rode "py webapp/app.py" e acesse http://localhost:5000 no navegador. ' +
+          'Abrir o index.html direto (file://) não alcança a API.');
+        return;
+      }
       try {
         const r = await fetch(API.assuntos);
         if (!r.ok) throw new Error('falha ao listar os assuntos');
@@ -400,10 +484,16 @@
           a.assunto + ' — ' + a.processos + ' processo(s)</option>'
         ).join('');
         sel.disabled = false;
+        if (!j.assuntos.length) {
+          mostrarErroVazio('Nenhum assunto encontrado',
+            'O servidor respondeu, mas não leu nenhum processo. Confira a pasta outputs_json e o terminal.');
+        }
         $('badge-dados').textContent =
           j.lidos + ' processos · ' + j.assuntos.length + ' assuntos';
       } catch (e) {
         sel.innerHTML = '<option value="">Erro ao carregar assuntos</option>';
+        mostrarErroVazio('Não consegui falar com o servidor',
+          'Confirme que "py webapp/app.py" está rodando e veja o erro no terminal. (' + e.message + ')');
         console.error(e);
       }
     }
@@ -442,10 +532,62 @@
       }
     }
 
-    // ------------------------- desenhar a árvore --------------------------
+// ------------------------- desenhar a árvore --------------------------
+    // Garante que TODOS os nós/arestas tragam métricas de Markov válidas.
+    // Se o backend não enviar algum campo (payload antigo), é recalculado aqui
+    // a partir de peso/processos: P(v|u) = peso(u->v) / n(u).
+    function normalizarMarkov(j) {
+      j.nodes = j.nodes || [];
+      j.edges = j.edges || [];
+      const porId = new Map(j.nodes.map((n) => [n.id, n]));
+
+      // 1) arestas: probabilidade condicional P(v|u)
+      j.edges.forEach((e) => {
+        const pai = porId.get(e.from);
+        let p = numOrNull(e.prob);
+        if (p === null && pai && numOrNull(pai.n) > 0) {
+          const peso = numOrNull(e.peso);
+          p = peso === null ? null : peso / pai.n;
+        }
+        e.prob = (p === null) ? null : Math.min(1, Math.max(0, p));
+        e.prob_pct = e.prob === null ? null : e.prob * 100;
+        if (!e.prob_label && e.prob !== null) e.prob_label = pctFrac(e.prob, 0);
+      });
+
+      // 2) soma das transições de saída por nó (base do p_saida)
+      const saida = new Map();
+      j.edges.forEach((e) => {
+        if (e.prob !== null) saida.set(e.from, (saida.get(e.from) || 0) + e.prob);
+      });
+
+      // 3) nós: prob_entrada + chances de continuar/encerrar
+      j.nodes.forEach((n) => {
+        if (numOrNull(n.prob_entrada) === null) {
+          const entrada = j.edges.find((e) => e.to === n.id);
+          n.prob_entrada = (n.depth === 0) ? 1
+            : (entrada ? numOrNull(entrada.prob) : null);
+        }
+        if (numOrNull(n.p_saida) === null) {
+          const s = saida.get(n.id);
+          n.p_saida = (s === undefined) ? 0 : Math.min(1, s);
+        }
+        if (numOrNull(n.p_parada) === null) {
+          n.p_parada = Math.max(0, 1 - (numOrNull(n.p_saida) || 0));
+        }
+        n.prob_entrada_label = (n.depth === 0)
+          ? '100.0% (raiz)' : (pctFrac(n.prob_entrada, 1) || '—');
+      });
+      return j;
+    }
+
     function renderizar(j) {
+      if (typeof vis === 'undefined') {
+        throw new Error('a biblioteca vis-network não carregou (internet/CDN bloqueado?)');
+      }
+      normalizarMarkov(j);   // garante as métricas de Markov em todo o payload
       const dmax = j.profundidade_max || 1;
       const maxPeso = j.edges.reduce((m, e) => Math.max(m, e.peso), 1);
+      const mostrarProb = $('chk-prob').checked;   // rótulo P(v|u) nas arestas
 
       // nós que pertencem ao caminho dominante
       nosDominantes = new Set([0]);
@@ -458,9 +600,10 @@
         const fundo = n.conclusao ? COR.conclusaoBg : (n.outros ? COR.outrosBg : nivel);
         const borda = n.conclusao ? COR.conclusaoBorda
                     : n.desfecho ? COR.desfechoBorda
-                    : n.outros ? COR.outrosBorda : '#ff8400';
+                    : n.outros ? COR.outrosBorda : '#8F9FC4';
         
-        const fonte = (n.depth === 0 || n.conclusao) ? COR.fonteClara
+        const idxNivel = LARANJA.indexOf(nivel);
+        const fonte = (n.depth === 0 || idxNivel >= 4) ? COR.fonteClara
                     : (n.outros ? '#57534E' : COR.fonteEscura);
 
         let rotulo = (n.conclusao ? '◆ ' : '') + truncar(n.label, 30)
@@ -477,8 +620,8 @@
           color: {
             background: fundo,
             border: borda,
-            highlight: { background: '#FB923C', border: '#C2410C' },
-            hover: { background: '#FDBA74', border: '#EA580C' },
+            highlight: { background: '#6A7FAE', border: '#253C6D' },
+            hover: { background: '#8F9FC4', border: '#30497D' },
           },
           font: {
             color: fonte, size: n.depth === 0 ? 14 : 12,
@@ -499,12 +642,26 @@
         if (e.gatilho) cor = COR.gatilho;
         if (e.dominante) { cor = COR.dominante; largura *= 1.7; }
         const destaque = e.dominante || e.gatilho;
+
+        // Rótulo P(v|u) já normalizado (normalizarMarkov garante o valor,
+        // sempre com base no nº de processos do NÓ DE ORIGEM — nunca no total).
+        const textoRotulo = mostrarProb
+          ? (e.prob_label || pctFrac(e.prob, 0) || '')
+          : '';
+
         return {
           id: e.from + '-' + e.to,
           from: e.from, to: e.to,
           width: largura,
+          label: textoRotulo,
+          font: {
+            size: 11, color: '#253C6D', align: 'middle', bold: true,
+            face: 'Inter, system-ui, sans-serif',
+            strokeWidth: 3, strokeColor: '#FFFFFF',
+          },
+          title: tooltipAresta(e),
           color: {
-            color: cor, highlight: '#C2410C', hover: '#EA580C',
+            color: cor, highlight: '#253C6D', hover: '#30497D',
             opacity: destaque ? 0.95 : 0.5,
           },
           arrows: { to: { enabled: true, scaleFactor: 0.5 } },
@@ -534,7 +691,7 @@
         },
         nodes: {
           shape: 'box',
-          shadow: { enabled: true, color: 'rgba(234,88,12,.13)', size: 8, x: 0, y: 3 },
+          shadow: { enabled: true, color: 'rgba(48,73,125,.13)', size: 8, x: 0, y: 3 },
         },
         edges: { selectionWidth: 2 },
       };
@@ -586,7 +743,15 @@
         'Processos: <b>' + n.n + '</b> (' + fmtPct(n.pct) + ')',
         'Profundidade: ' + n.depth,
       ];
-      if (a && a.dias !== null && a.dias !== undefined) {
+      if (n.depth > 0) {
+        const p = numOrNull(n.prob_entrada) !== null
+          ? numOrNull(n.prob_entrada) : (a ? numOrNull(a.prob) : null);
+        linhas.push('P(este&#8202;|&#8202;anterior) = <b>' +
+                    (pctFrac(p, 1) || '—') + '</b>');
+      }
+      const saida = pctFrac(n.p_saida, 1);
+      if (saida) linhas.push('Segue adiante: ' + saida);
+      if (a && numOrNull(a.dias) !== null) {
         linhas.push('μ ' + a.dias + ' dia(s) desde o andamento anterior');
       }
       if (n.conclusao) linhas.push('• Conclusão (gatilho)');
@@ -596,17 +761,30 @@
       return linhas.join('<br>');
     }
 
+    function escHtml(t) {
+      return String(t == null ? '' : t).replace(/[&<>"']/g, (c) => (
+        { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+    }
+
     function chip(texto, classes) {
       return '<span class="inline-block px-2 py-0.5 rounded-md text-[11px] font-semibold '
              + classes + '">' + texto + '</span>';
     }
 
-    function mostrarDetalhe(id) {
+    // linha <dt>/<dd> do painel de detalhes
+    function linhaDetalhe(rotulo, valorHtml) {
+      return '<div class="flex justify-between gap-3">' +
+             '<dt class="text-stone-400">' + rotulo + '</dt>' +
+             '<dd class="text-right">' + valorHtml + '</dd></div>';
+    }
+
+function mostrarDetalhe(id) {
       const n = acharNo(id);
       if (!n) return;
       const a = arestaEntrada(id);
+      
       const chips = [];
-      if (n.conclusao) chips.push(chip('Conclusão', 'bg-red-100 text-red-700'));
+      if (n.conclusao) chips.push(chip('Conclusão', 'bg-[#F2842F]/20 text-[#B4570F]'));
       if (n.desfecho) chips.push(chip('Desfecho', 'bg-green-100 text-green-700'));
       if (n.outros) chips.push(chip('Rotas raras', 'bg-stone-200 text-stone-600'));
       if (n.truncado) chips.push(chip('Continua…', 'bg-brand-100 text-brand-700'));
@@ -614,32 +792,142 @@
         chips.push(chip('Caminho dominante', 'bg-brand-100 text-brand-700'));
       }
 
+      // P(este | anterior): campo do nó -> aresta de entrada -> "—"
+      const pAnt = (n.depth === 0) ? 1
+        : (numOrNull(n.prob_entrada) !== null ? numOrNull(n.prob_entrada)
+           : (a ? numOrNull(a.prob) : null));
+      const pAnteriorStr = (n.depth === 0)
+        ? '100.0% (raiz)'
+        : (pctFrac(pAnt, 1) || '—');
+
+      // chances de continuar / encerrar neste estado (sempre 1 casa decimal)
+      const pSaidaStr = pctFrac(n.p_saida, 1) || '—';
+      const diasTxt = (a && numOrNull(a.dias) !== null) ? a.dias + ' d' : '—';
+
       $('detalhe').innerHTML =
         '<p class="font-semibold text-stone-700 text-sm mb-2">' + n.label + '</p>' +
         (chips.length ? '<div class="flex flex-wrap gap-1.5 mb-3">' + chips.join('') + '</div>' : '') +
         '<dl class="space-y-1.5">' +
-          '<div class="flex justify-between gap-3"><dt class="text-stone-400">Processos</dt>' +
-            '<dd class="font-semibold text-stone-700">' + n.n + ' (' + fmtPct(n.pct) + ')</dd></div>' +
-          '<div class="flex justify-between gap-3"><dt class="text-stone-400">Posição (profundidade)</dt>' +
-            '<dd class="font-semibold text-stone-700">' + n.depth + '</dd></div>' +
-          '<div class="flex justify-between gap-3"><dt class="text-stone-400">μ dias da transição</dt>' +
-            '<dd class="font-semibold text-stone-700">' +
-            (a && a.dias !== null && a.dias !== undefined ? a.dias + ' d' : '—') + '</dd></div>' +
+          linhaDetalhe('Processos',
+            '<span class="font-semibold text-stone-700">' + n.n + ' (' + fmtPct(n.pct) + ')</span>') +
+          linhaDetalhe('Posição (profundidade)',
+            '<span class="font-semibold text-stone-700">' + n.depth + '</span>') +
+          linhaDetalhe('P(este | anterior)',
+            '<span class="font-semibold text-brand-700">' + pAnteriorStr + '</span>') +
+          linhaDetalhe('Segue adiante',
+            '<span class="font-semibold text-stone-700">' + pSaidaStr + '</span>') +
+          linhaDetalhe('μ dias da transição',
+            '<span class="font-semibold text-stone-700">' + diasTxt + '</span>') +
         '</dl>';
-    }
 
+      // Preencher o painel de rotas alternativas (Próximos passos prováveis)
+      const containerRotas = $('rotas-alternativas');
+      if (n.rotas_seguintes && n.rotas_seguintes.length > 0) {
+        containerRotas.innerHTML = n.rotas_seguintes.map((r, index) => {
+          const badgeCor = index === 0 ? 'bg-brand-50 text-brand-700 border-brand-200' : 'bg-stone-50 text-stone-600 border-stone-200';
+          const tipoRota = index === 0 ? 'Principal' : `Alternativa ${index + 1}`;
+          const diasR = (numOrNull(r.dias) !== null) ? ` · μ ${r.dias}d` : '';
+          
+          return `<div class="p-2.5 rounded-xl border ${badgeCor} space-y-1">
+            <div class="flex items-center justify-between font-semibold">
+              <span>${tipoRota}: ${r.prob_pct}%</span>
+              <span class="text-[10px] px-1.5 py-0.5 rounded bg-white/80 border border-stone-200">${r.peso} proc.</span>
+            </div>
+            <p class="text-stone-700 font-medium truncate" title="${escHtml(r.destino_label)}">${escHtml(r.destino_label)}</p>
+            <p class="text-[10px] text-stone-400">P(v|u) = ${r.prob}${diasR}</p>
+          </div>`;
+        }).join('');
+      } else {
+        containerRotas.innerHTML = '<span class="text-stone-400">Este é um nó final (sem saídas mapeadas).</span>';
+      }
+    }
     function limparDetalhe() {
       $('detalhe').innerHTML =
         '<span class="text-stone-400">Clique em um nó da árvore para ver os detalhes.</span>';
+      $('rotas-alternativas').innerHTML =
+        '<span class="text-stone-400">Clique em um nó da árvore para ver as opções.</span>';
     }
 
-function atualizarMetricas(j) {
+
+   function atualizarMetricas(j) {
+     
       $('m-processos').textContent = j.total;
       $('m-nos').textContent = j.nodes.length;
-      $('m-profundidade').textContent = j.profundidade_max;
+      // Profundidade: máx. e média. A média é a soma dos processos de cada nó
+      // (exceto a raiz) / total — cada processo conta 1 por nível que alcança.
+      const somaN = (j.nodes || []).reduce(
+        (s, n) => s + (n.depth > 0 ? (numOrNull(n.n) || 0) : 0), 0);
+      const profMedia = j.total ? somaN / j.total : null;
+      $('m-profundidade').innerHTML = j.profundidade_max +
+        ' <span class="text-xs font-medium text-stone-400">máx</span>' +
+        (profMedia === null ? '' :
+          ' · ' + profMedia.toFixed(1) +
+          ' <span class="text-xs font-medium text-stone-400">méd</span>');
       $('m-posicoes').textContent = j.media_pos;
-      $('m-tempo').textContent = (j.tempo && j.tempo.n)
-        ? j.tempo.media.toFixed(1) + ' d (n=' + j.tempo.n + ')' : '—';
+
+      // seletor de μ dias: "1ª conclusão" ou uma posição (nível) específica
+      const sel = $('sel-dias');
+      const anterior = sel.value;
+      let opcoes = '<option value="conclusao">1ª conclusão</option>';
+      for (let k = 1; k <= (j.profundidade_max || 0); k++) {
+        opcoes += '<option value="' + k + '">Posição ' + k + '</option>';
+      }
+      sel.innerHTML = opcoes;
+      sel.value = [...sel.options].some((o) => o.value === anterior)
+        ? anterior : 'conclusao';
+      atualizarMediaDias();
+
+      // P(caminho dominante) = Π P(v|u) das arestas do caminho dominante.
+      // Um fator ausente NÃO é descartado (descartar inflaria o produto).
+      const porId = new Map((j.nodes || []).map((n) => [n.id, n]));
+      const arestasDomin = (j.edges || []).filter((e) => e.dominante);
+      const el = $('m-p-dominante');
+      let pDomin = 1;
+      let temInvalido = false;
+      arestasDomin.forEach((e) => {
+        const pai = porId.get(e.from);
+        const p = numOrNull(e.prob) !== null ? numOrNull(e.prob)
+          : (pai && numOrNull(pai.n) > 0
+             ? Math.min(1, numOrNull(e.peso) / pai.n) : null);
+        if (p === null) { temInvalido = true; return; }
+        pDomin *= Math.min(1, Math.max(0, p));
+      });
+      if (!arestasDomin.length || temInvalido) {
+        el.textContent = '—';
+        el.title = arestasDomin.length
+          ? 'Probabilidade indisponível para uma das transições do caminho dominante.'
+          : 'Nenhum caminho dominante definido para esta árvore.';
+      } else {
+        el.textContent = pctSmart(pDomin);
+        el.title = 'Produto de ' + arestasDomin.length +
+          ' transições do caminho dominante (' + pDomin.toExponential(3) + ')';
+      }
+    }    
+    // μ dias das transições que CHEGAM na posição k, ponderada pelo volume
+    function mediaDiasPorPosicao(j, k) {
+      const porId = new Map((j.nodes || []).map((n) => [n.id, n]));
+      let soma = 0, peso = 0;
+      (j.edges || []).forEach((e) => {
+        const d = numOrNull(e.dias), w = numOrNull(e.peso);
+        const alvo = porId.get(e.to);
+        if (d === null || w === null || !alvo || alvo.depth !== k) return;
+        soma += d * w;
+        peso += w;
+      });
+      return peso ? { media: soma / peso, n: peso } : null;
+    }
+
+    function atualizarMediaDias() {
+      if (!dados) return;
+      const v = $('sel-dias').value;
+      const el = $('m-tempo');
+      if (v === 'conclusao') {
+        el.textContent = (dados.tempo && dados.tempo.n)
+          ? dados.tempo.media.toFixed(1) + ' d (n=' + dados.tempo.n + ')' : '—';
+        return;
+      }
+      const r = mediaDiasPorPosicao(dados, Number(v));
+      el.textContent = r ? r.media.toFixed(1) + ' d (n=' + r.n + ')' : '—';
     }
 
     function atualizarGatilhos(j) {
@@ -668,7 +956,56 @@ function atualizarMetricas(j) {
         const dentro = !ativo || (nosDominantes.has(e.from) && nosDominantes.has(e.to));
         const base = e.dominante ? COR.dominante : (e.gatilho ? COR.gatilho : COR.normal);
         const opac = dentro ? ((e.dominante || e.gatilho) ? 0.95 : 0.5) : 0.06;
-        return { id: e.from + '-' + e.to, color: { color: base, opacity: opac } };
+        return {
+          id: e.from + '-' + e.to,
+          color: { color: base, opacity: opac },
+          // o rótulo P(v|u) acompanha o destaque da aresta
+          font: { color: dentro ? '#1B2D54' : 'rgba(27,45,84,0.08)' },
+        };
+      }));
+    }
+
+    // tooltip de uma aresta: P(v|u) + volume + prazo médio da transição
+// ------------------------------ tooltips atualizados -------------------------------
+    function tooltipAresta(e) {
+      const de = acharNo(e.from);
+      const para = acharNo(e.to);
+      const nomeDe = de ? truncar(de.label, 42) : ('#' + e.from);
+      const nomePara = para ? truncar(para.label, 42) : ('#' + e.to);
+      
+      // P(v|u): campo da aresta -> recalculado pelo nó de origem -> indisponível
+      let pVal = numOrNull(e.prob);
+      if (pVal === null && de && numOrNull(de.n) > 0) {
+        pVal = numOrNull(e.peso) / de.n;
+      }
+
+      const linhas = ['<b>Transição</b> ' + nomeDe + ' → ' + nomePara];
+      if (pVal !== null) {
+        linhas.push(pctFrac(pVal, 1) +
+          ' dos processos que passaram pelo nó anterior seguiram para este caminho');
+        linhas.push('P(v&#8202;|&#8202;u) = ' + pVal.toFixed(3) +
+          ' · volume: <b>' + e.peso + '</b> (' + fmtPct(e.pct) + ' do total)');
+      } else {
+        linhas.push('Probabilidade indisponível · volume: <b>' + e.peso +
+          '</b> (' + fmtPct(e.pct) + ' do total)');
+      }
+      if (numOrNull(e.dias) !== null) {
+        linhas.push('μ ' + e.dias + ' dia(s) na transição');
+      }
+      if (e.dominante) linhas.push('• Caminho dominante (maior volume)');
+      if (e.gatilho) linhas.push('• Gatilho: leva à Conclusão');
+      return tooltipEl(linhas.join('<br>'));
+    }
+
+// liga/desliga o rótulo "% de transição" (P(v|u)) em cada aresta
+    function aplicarRotulosProb(ativo) {
+      if (!edgesDS || !dados) return;
+      edgesDS.update(dados.edges.map((e) => {
+        const textoRotulo = ativo ? (e.prob_label || pctFrac(e.prob, 0) || '') : '';
+        return {
+          id: e.from + '-' + e.to,
+          label: textoRotulo,
+        };
       }));
     }
 
@@ -684,6 +1021,8 @@ function atualizarMetricas(j) {
         $('max-depth-val').textContent = e.target.value;
       });
 
+      $('sel-dias').addEventListener('change', atualizarMediaDias);
+
       $('btn-dominante').addEventListener('click', () => {
         const chk = $('chk-dominante');
         chk.checked = !chk.checked;
@@ -691,6 +1030,10 @@ function atualizarMetricas(j) {
       });
       $('chk-dominante').addEventListener('change', (e) => {
         aplicarModoDominante(e.target.checked);
+      });
+
+      $('chk-prob').addEventListener('change', (e) => {
+        aplicarRotulosProb(e.target.checked);
       });
 
       $('btn-zoom-in').addEventListener('click', () => {
@@ -715,6 +1058,18 @@ function atualizarMetricas(j) {
           mostrarOverlay(false);
         }
       });
+    }
+
+    // liga/desliga o rótulo "% de transição" (P(v|u)) em cada aresta
+    function aplicarRotulosProb(ativo) {
+      if (!edgesDS || !dados) return;
+      edgesDS.update(dados.edges.map((e) => {
+        const textoRotulo = ativo ? (e.prob_label || pctFrac(e.prob, 0) || '') : '';
+        return {
+          id: e.from + '-' + e.to,
+          label: textoRotulo,
+        };
+      }));
     }
 
     // ------------------------------ inicial -------------------------------
