@@ -1,0 +1,417 @@
+ÁRVORE DE PROBABILIDADE COMPLETA COM ALTERNATIVAS
+================================================================================
+
+
+================================================================================
+ANULAÇÃO DE DÉBITO FISCAL
+================================================================================
+
+Processos: 261
+Eventos: 5983
+Comprimento médio: 22.9 movimentos
+
+--------------------------------------------------------------------------------
+
+Posição 1:
+  🥇 ( 14.5%) ██ [  37x] Conclusão
+  🥈 ( 11.7%) ██ [  30x] Expedição de documento + Outras Decisões...
+  🥉 (  6.2%) █ [  16x] Remessa
+
+Posição 2:
+  🥇 ( 33.2%) ██████ [  85x] Remessa
+  🥈 ( 18.4%) ███ [  47x] Publicação
+  🥉 (  3.5%)  [   9x] Petição
+
+Posição 3:
+  🥇 ( 40.9%) ████████ [ 103x] Publicação
+  🥈 ( 11.9%) ██ [  30x] Petição
+  🥉 ( 10.3%) ██ [  26x] Remessa
+
+Posição 4:
+  🥇 ( 18.8%) ███ [  47x] Expedição de documento
+  🥈 ( 16.8%) ███ [  42x] Petição
+  🥉 ( 16.0%) ███ [  40x] Publicação
+
+Posição 5:
+  🥇 ( 17.4%) ███ [  42x] Petição
+  🥈 ( 15.3%) ███ [  37x] Expedição de documento
+  🥉 (  8.7%) █ [  21x] Ato ordinatório
+
+Posição 6:
+  🥇 ( 17.3%) ███ [  40x] Petição
+  🥈 ( 13.4%) ██ [  31x] Publicação
+  🥉 ( 12.1%) ██ [  28x] Remessa
+
+Posição 7:
+  🥇 ( 16.2%) ███ [  37x] Publicação
+  🥈 ( 12.7%) ██ [  29x] Expedição de documento
+  🥉 ( 11.4%) ██ [  26x] Remessa
+
+Posição 8:
+  🥇 ( 17.4%) ███ [  39x] Publicação
+  🥈 ( 14.7%) ██ [  33x] Remessa
+  🥉 ( 14.3%) ██ [  32x] Expedição de documento
+
+Posição 9:
+  🥇 ( 17.2%) ███ [  37x] Publicação
+  🥈 ( 17.2%) ███ [  37x] Expedição de documento
+  🥉 ( 13.5%) ██ [  29x] Petição
+
+Posição 10:
+  🥇 ( 16.7%) ███ [  35x] Expedição de documento
+  🥈 ( 14.8%) ██ [  31x] Publicação
+  🥉 ( 12.0%) ██ [  25x] Petição
+
+Posição 11:
+  🥇 ( 18.8%) ███ [  38x] Petição
+  🥈 ( 13.9%) ██ [  28x] Expedição de documento
+  🥉 ( 13.9%) ██ [  28x] Publicação
+
+Posição 12:
+  🥇 ( 15.5%) ███ [  31x] Petição
+  🥈 ( 15.0%) ███ [  30x] Expedição de documento
+  🥉 ( 12.5%) ██ [  25x] Publicação
+
+Posição 13:
+  🥇 ( 18.7%) ███ [  36x] Expedição de documento
+  🥈 ( 13.0%) ██ [  25x] Publicação
+  🥉 ( 11.9%) ██ [  23x] Petição
+
+Posição 14:
+  🥇 ( 17.9%) ███ [  33x] Publicação
+  🥈 ( 10.9%) ██ [  20x] Expedição de documento
+  🥉 ( 10.3%) ██ [  19x] Conclusão
+
+Posição 15:
+  🥇 ( 18.3%) ███ [  32x] Expedição de documento
+  🥈 ( 14.3%) ██ [  25x] Publicação
+  🥉 ( 13.7%) ██ [  24x] Ato ordinatório
+
+Posição 16:
+  🥇 ( 20.8%) ████ [  35x] Expedição de documento
+  🥈 ( 13.7%) ██ [  23x] Publicação
+  🥉 ( 12.5%) ██ [  21x] Remessa
+
+Posição 17:
+  🥇 ( 22.1%) ████ [  34x] Publicação
+  🥈 ( 11.7%) ██ [  18x] Expedição de documento
+  🥉 (  9.1%) █ [  14x] Ato ordinatório
+
+Posição 18:
+  🥇 ( 26.9%) █████ [  39x] Expedição de documento
+  🥈 ( 14.5%) ██ [  21x] Remessa
+  🥉 ( 11.7%) ██ [  17x] Publicação
+
+Posição 19:
+  🥇 ( 19.3%) ███ [  27x] Expedição de documento
+  🥈 ( 17.9%) ███ [  25x] Publicação
+  🥉 ( 13.6%) ██ [  19x] Petição
+
+Posição 20:
+  🥇 ( 19.7%) ███ [  25x] Expedição de documento
+  🥈 ( 14.2%) ██ [  18x] Petição
+  🥉 ( 12.6%) ██ [  16x] Publicação
+
+Posição 21:
+  🥇 ( 17.8%) ███ [  21x] Expedição de documento
+  🥈 ( 16.1%) ███ [  19x] Publicação
+  🥉 ( 14.4%) ██ [  17x] Petição
+
+Posição 22:
+  🥇 ( 17.0%) ███ [  19x] Expedição de documento
+  🥈 ( 12.5%) ██ [  14x] Petição
+  🥉 ( 11.6%) ██ [  13x] Remessa
+
+Posição 23:
+  🥇 ( 19.0%) ███ [  19x] Publicação
+  🥈 ( 17.0%) ███ [  17x] Expedição de documento
+  🥉 ( 15.0%) ███ [  15x] Remessa
+
+Posição 24:
+  🥇 ( 21.3%) ████ [  20x] Publicação
+  🥈 ( 17.0%) ███ [  16x] Expedição de documento
+  🥉 ( 11.7%) ██ [  11x] Remessa
+
+Posição 25:
+  🥇 ( 27.0%) █████ [  24x] Expedição de documento
+  🥈 ( 16.9%) ███ [  15x] Publicação
+  🥉 ( 10.1%) ██ [   9x] Remessa
+
+
+================================================================================
+
+================================================================================
+MULTAS E DEMAIS SANÇÕES
+================================================================================
+
+Processos: 404
+Eventos: 5705
+Comprimento médio: 14.1 movimentos
+
+--------------------------------------------------------------------------------
+
+Posição 1:
+  🥇 ( 24.1%) ████ [  96x] Expedição de documento + Outras Decisões...
+  🥈 ( 13.5%) ██ [  54x] Conclusão + Expedição de documento
+  🥉 ( 11.3%) ██ [  45x] Conclusão
+
+Posição 2:
+  🥇 ( 40.5%) ████████ [ 160x] Remessa
+  🥈 ( 18.2%) ███ [  72x] Publicação
+  🥉 ( 11.6%) ██ [  46x] Expedição de documento + Outras Decisões
+
+Posição 3:
+  🥇 ( 33.8%) ██████ [ 133x] Publicação
+  🥈 ( 21.1%) ████ [  83x] Remessa
+  🥉 ( 14.0%) ██ [  55x] Expedição de documento
+
+Posição 4:
+  🥇 ( 22.9%) ████ [  88x] Publicação
+  🥈 ( 19.8%) ███ [  76x] Expedição de documento
+  🥉 ( 16.7%) ███ [  64x] Petição
+
+Posição 5:
+  🥇 ( 20.9%) ████ [  75x] Petição
+  🥈 ( 17.3%) ███ [  62x] Remessa
+  🥉 ( 12.5%) ██ [  45x] Expedição de documento
+
+Posição 6:
+  🥇 ( 21.5%) ████ [  71x] Publicação
+  🥈 ( 10.9%) ██ [  36x] Remessa
+  🥉 ( 10.9%) ██ [  36x] Conclusão
+
+Posição 7:
+  🥇 ( 19.7%) ███ [  63x] Remessa
+  🥈 ( 18.1%) ███ [  58x] Expedição de documento
+  🥉 ( 15.9%) ███ [  51x] Publicação
+
+Posição 8:
+  🥇 ( 27.9%) █████ [  76x] Publicação
+  🥈 ( 18.4%) ███ [  50x] Remessa
+  🥉 ( 16.2%) ███ [  44x] Expedição de documento
+
+Posição 9:
+  🥇 ( 23.5%) ████ [  59x] Expedição de documento
+  🥈 ( 21.9%) ████ [  55x] Publicação
+  🥉 ( 13.9%) ██ [  35x] Petição
+
+Posição 10:
+  🥇 ( 23.7%) ████ [  54x] Expedição de documento
+  🥈 ( 20.2%) ████ [  46x] Petição
+  🥉 ( 14.5%) ██ [  33x] Publicação
+
+Posição 11:
+  🥇 ( 22.8%) ████ [  44x] Petição
+  🥈 ( 17.1%) ███ [  33x] Expedição de documento
+  🥉 (  9.8%) █ [  19x] Publicação
+
+Posição 12:
+  🥇 ( 16.1%) ███ [  26x] Petição
+  🥈 ( 15.5%) ███ [  25x] Publicação
+  🥉 ( 11.8%) ██ [  19x] Ato ordinatório
+
+Posição 13:
+  🥇 ( 16.6%) ███ [  24x] Publicação
+  🥈 ( 15.9%) ███ [  23x] Expedição de documento
+  🥉 ( 13.8%) ██ [  20x] Remessa
+
+Posição 14:
+  🥇 ( 20.5%) ████ [  27x] Expedição de documento
+  🥈 ( 18.2%) ███ [  24x] Publicação
+  🥉 ( 13.6%) ██ [  18x] Remessa
+
+Posição 15:
+  🥇 ( 19.4%) ███ [  24x] Expedição de documento
+  🥈 ( 16.9%) ███ [  21x] Publicação
+  🥉 ( 16.1%) ███ [  20x] Petição
+
+Posição 16:
+  🥇 ( 16.7%) ███ [  19x] Expedição de documento
+  🥈 ( 14.9%) ██ [  17x] Remessa
+  🥉 ( 13.2%) ██ [  15x] Publicação
+
+Posição 17:
+  🥇 ( 18.5%) ███ [  20x] Expedição de documento
+  🥈 ( 17.6%) ███ [  19x] Publicação
+  🥉 ( 11.1%) ██ [  12x] Petição
+
+Posição 18:
+  🥇 ( 15.7%) ███ [  16x] Expedição de documento
+  🥈 ( 13.7%) ██ [  14x] Publicação
+  🥉 ( 12.7%) ██ [  13x] Petição
+
+Posição 19:
+  🥇 ( 18.8%) ███ [  18x] Remessa
+  🥈 ( 17.7%) ███ [  17x] Publicação
+  🥉 ( 15.6%) ███ [  15x] Expedição de documento
+
+Posição 20:
+  🥇 ( 23.9%) ████ [  22x] Publicação
+  🥈 ( 16.3%) ███ [  15x] Expedição de documento
+  🥉 (  8.7%) █ [   8x] Ato ordinatório
+
+Posição 21:
+  🥇 ( 27.2%) █████ [  22x] Expedição de documento
+  🥈 ( 18.5%) ███ [  15x] Remessa
+  🥉 ( 14.8%) ██ [  12x] Petição
+
+Posição 22:
+  🥇 ( 24.0%) ████ [  18x] Publicação
+  🥈 ( 17.3%) ███ [  13x] Expedição de documento
+  🥉 ( 13.3%) ██ [  10x] Petição
+
+Posição 23:
+  🥇 ( 20.3%) ████ [  13x] Expedição de documento
+  🥈 ( 14.1%) ██ [   9x] Conclusão
+  🥉 ( 12.5%) ██ [   8x] Petição
+
+Posição 24:
+  🥇 ( 18.9%) ███ [  10x] Petição
+  🥈 ( 15.1%) ███ [   8x] Remessa
+  🥉 (  9.4%) █ [   5x] Publicação
+
+Posição 25:
+  🥇 ( 22.0%) ████ [  11x] Remessa
+  🥈 ( 20.0%) ████ [  10x] Publicação
+  🥉 ( 16.0%) ███ [   8x] Expedição de documento
+
+
+================================================================================
+
+================================================================================
+VALOR DA EXECUÇÃO
+================================================================================
+
+Processos: 284
+Eventos: 3415
+Comprimento médio: 12.0 movimentos
+
+--------------------------------------------------------------------------------
+
+Posição 1:
+  🥇 ( 17.2%) ███ [  47x] Conclusão
+  🥈 ( 12.1%) ██ [  33x] Remessa
+  🥉 ( 12.1%) ██ [  33x] Expedição de documento + Outras Decisões...
+
+Posição 2:
+  🥇 ( 36.1%) ███████ [  95x] Remessa
+  🥈 ( 22.4%) ████ [  59x] Publicação
+  🥉 (  4.6%)  [  12x] Expedição de documento + Outras Decisões
+
+Posição 3:
+  🥇 ( 40.2%) ████████ [ 103x] Publicação
+  🥈 ( 15.6%) ███ [  40x] Remessa
+  🥉 (  9.0%) █ [  23x] Ato ordinatório
+
+Posição 4:
+  🥇 ( 22.9%) ████ [  49x] Publicação
+  🥈 ( 19.6%) ███ [  42x] Expedição de documento
+  🥉 ( 15.0%) ██ [  32x] Petição
+
+Posição 5:
+  🥇 ( 21.4%) ████ [  41x] Petição
+  🥈 ( 15.1%) ███ [  29x] Expedição de documento
+  🥉 ( 13.0%) ██ [  25x] Ato ordinatório
+
+Posição 6:
+  🥇 ( 23.3%) ████ [  42x] Expedição de documento
+  🥈 ( 15.6%) ███ [  28x] Petição
+  🥉 ( 12.2%) ██ [  22x] Ato ordinatório
+
+Posição 7:
+  🥇 ( 20.1%) ████ [  34x] Ato ordinatório
+  🥈 ( 13.6%) ██ [  23x] Publicação
+  🥉 ( 11.8%) ██ [  20x] Expedição de documento
+
+Posição 8:
+  🥇 ( 23.2%) ████ [  36x] Ato ordinatório
+  🥈 ( 17.4%) ███ [  27x] Publicação
+  🥉 ( 12.9%) ██ [  20x] Expedição de documento
+
+Posição 9:
+  🥇 ( 26.5%) █████ [  39x] Ato ordinatório
+  🥈 ( 13.6%) ██ [  20x] Petição
+  🥉 ( 12.2%) ██ [  18x] Remessa
+
+Posição 10:
+  🥇 ( 27.5%) █████ [  36x] Ato ordinatório
+  🥈 ( 17.6%) ███ [  23x] Publicação
+  🥉 ( 12.2%) ██ [  16x] Petição
+
+Posição 11:
+  🥇 ( 22.8%) ████ [  26x] Ato ordinatório
+  🥈 ( 14.9%) ██ [  17x] Petição
+  🥉 ( 12.3%) ██ [  14x] Remessa
+
+Posição 12:
+  🥇 ( 18.8%) ███ [  19x] Ato ordinatório
+  🥈 ( 16.8%) ███ [  17x] Publicação
+  🥉 ( 11.9%) ██ [  12x] Expedição de documento
+
+Posição 13:
+  🥇 ( 22.2%) ████ [  20x] Remessa
+  🥈 ( 16.7%) ███ [  15x] Expedição de documento
+  🥉 ( 12.2%) ██ [  11x] Ato ordinatório
+
+Posição 14:
+  🥇 ( 26.2%) █████ [  22x] Publicação
+  🥈 ( 13.1%) ██ [  11x] Expedição de documento
+  🥉 ( 11.9%) ██ [  10x] Remessa
+
+Posição 15:
+  🥇 ( 26.7%) █████ [  20x] Expedição de documento
+  🥈 ( 21.3%) ████ [  16x] Publicação
+  🥉 ( 12.0%) ██ [   9x] Petição
+
+Posição 16:
+  🥇 ( 18.6%) ███ [  13x] Expedição de documento
+  🥈 ( 17.1%) ███ [  12x] Ato ordinatório
+  🥉 ( 17.1%) ███ [  12x] Petição
+
+Posição 17:
+  🥇 ( 13.1%) ██ [   8x] Expedição de documento
+  🥈 ( 13.1%) ██ [   8x] Petição
+  🥉 ( 11.5%) ██ [   7x] Publicação
+
+Posição 18:
+  🥇 ( 17.9%) ███ [  10x] Remessa
+  🥈 ( 16.1%) ███ [   9x] Publicação
+  🥉 ( 12.5%) ██ [   7x] Expedição de documento
+
+Posição 19:
+  🥇 ( 30.2%) ██████ [  16x] Publicação
+  🥈 ( 11.3%) ██ [   6x] Petição
+  🥉 ( 11.3%) ██ [   6x] Expedição de documento
+
+Posição 20:
+  🥇 ( 21.3%) ████ [  10x] Remessa
+  🥈 ( 14.9%) ██ [   7x] Expedição de documento
+  🥉 ( 14.9%) ██ [   7x] Conclusão
+
+Posição 21:
+  🥇 ( 30.0%) ██████ [  12x] Publicação
+  🥈 ( 22.5%) ████ [   9x] Expedição de documento
+  🥉 ( 15.0%) ███ [   6x] Conclusão
+
+Posição 22:
+  🥇 ( 18.9%) ███ [   7x] Expedição de documento
+  🥈 ( 18.9%) ███ [   7x] Petição
+  🥉 ( 13.5%) ██ [   5x] Ato ordinatório
+
+Posição 23:
+  🥇 ( 19.4%) ███ [   6x] Expedição de documento
+  🥈 ( 16.1%) ███ [   5x] Petição
+  🥉 ( 12.9%) ██ [   4x] Publicação
+
+Posição 24:
+  🥇 ( 20.7%) ████ [   6x] Publicação
+  🥈 ( 20.7%) ████ [   6x] Conclusão
+  🥉 ( 17.2%) ███ [   5x] Petição
+
+Posição 25:
+  🥇 ( 25.0%) █████ [   7x] Expedição de documento
+  🥈 ( 17.9%) ███ [   5x] Publicação
+  🥉 ( 14.3%) ██ [   4x] Remessa
+
+
+================================================================================

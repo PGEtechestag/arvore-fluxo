@@ -1,0 +1,217 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00119163220248260053",
+    "num_processo": "0011916-32.2024.8.26.0053",
+    "num_processo_sem_formatacao": "00119163220248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de sentença",
+    "codigo_classe": 156,
+    "assunto": "Indenização por Dano Material",
+    "outros_assuntos": [],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-04-24T15:51:04.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:17:54.940Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "27/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "25/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "24/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "23/01/2025": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "01/01/2025": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "05/12/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "29/11/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "19/11/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "18/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "14/11/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "13/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "12/11/2024": [
+      [
+        "Extinção da execução ou do cumprimento da sentença",
+        ""
+      ]
+    ],
+    "08/11/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para julgamento"
+      ]
+    ],
+    "03/10/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "01/09/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "27/08/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "20/08/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "19/08/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "16/08/2024": [
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "15/08/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "19/07/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "25/06/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "24/06/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "21/06/2024": [
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "23/05/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "30/04/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "29/04/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "26/04/2024": [
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "25/04/2024": [
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

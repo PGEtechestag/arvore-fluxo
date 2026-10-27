@@ -1,0 +1,69 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00300337120248260053",
+    "num_processo": "0030033-71.2024.8.26.0053",
+    "num_processo_sem_formatacao": "00300337120248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de sentença",
+    "codigo_classe": 156,
+    "assunto": "Atos Administrativos",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-10-11T17:54:33.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:31:23.283Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "13/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "10/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "09/01/2025": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "08/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Mero expediente",
+        ""
+      ]
+    ],
+    "14/10/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

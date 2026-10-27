@@ -1,0 +1,77 @@
+==============================================================================
+FLUJO DÉBITO FISCAL — EXTRACCIÓN, VALIDACIÓN Y ÁRBOL DE FLUJO
+==============================================================================
+FUENTE: JSON crudos en outputs_json/<sector>/<año>/  (API DataJud/CNJ)
+FILTROS: 4 sectores + año ajuizamiento 2023-2025 + asunto 'Anulação de Débito Fiscal'
+
+--- 1. EXTRACCIÓN ---
+  JSON leídos (4 sectores x 3 años): 3752
+  Errores de lectura: 0
+  Procesos 'Anulação de Débito Fiscal' extraídos: 263
+
+--- 2. CONTEOS por sector x año (procesos extraídos) ---
+  04 FAZENDA PUBLICA DE CENTRAL                  | 2023:37 | 2024:50 | 2025:4  => total 91
+  08 FAZENDA PUBLICA DE CENTRAL                  | 2023:44 | 2024:44 | 2025:4  => total 92
+  13 FAZENDA PUBLICA DE CENTRAL                  | 2023:20 | 2024:39 | 2025:0  => total 59
+  SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL  | 2023:21 | 2024:0 | 2025:0  => total 21
+
+--- 3. VALIDACIÓN ---
+  Procesos duplicados (num_processo): 0   []
+  Procesos sin movimientos/eventos: 2
+  Eventos totales (posiciones): 5983
+  Duplicados intradía (repetición misma fecha): 405
+  Nº medio de movimientos por proceso: 22.75
+  vs. processos_top3_consolidados.csv (Débito Fiscal): en previo no nuevo=0, en nuevo no previo=263
+      + faltan en nuevo (previo): []
+  vs. tabela_posicao_tempo_processos.csv (Débito Fiscal): en previo no nuevo=0, en nuevo no previo=263
+      + faltan en nuevo (previo): []
+
+--- 4. ÁRBOL DE FLUJO / TRANSICIONES ---
+  Pares de transición distintos: 1275
+  Transiciones totales: 5722
+  TOP 15 transiciones (origen -> destino : n | P(dest|origen)% )
+    Remessa                                              -> Publicação                                           :   506 | 84.3%
+    Publicação                                           -> Expedição de documento                               :   416 | 49.1%
+    Expedição de documento                               -> Petição                                              :   219 | 25.9%
+    Publicação                                           -> Petição                                              :   200 | 23.6%
+    Expedição de documento                               -> Expedição de documento                               :   138 | 16.3%
+    Petição                                              -> Conclusão                                            :   123 | 20.1%
+    Petição                                              -> Expedição de documento                               :   120 | 19.6%
+    Expedição de documento                               -> Ato ordinatório                                      :   104 | 12.3%
+    Expedição de documento + Outras Decisões + Conclus   -> Remessa                                              :   102 | 75.0%
+    Expedição de documento + Remessa                     -> Publicação                                           :    86 | 85.2%
+    Ato ordinatório                                      -> Ato ordinatório                                      :    85 | 30.4%
+    Expedição de documento + Outras Decisões             -> Remessa                                              :    77 | 81.9%
+    Expedição de documento                               -> Conclusão                                            :    57 | 6.8%
+    Petição                                              -> Ato ordinatório                                      :    56 | 9.2%
+    Conclusão                                            -> Expedição de documento + Outras Decisões             :    56 | 17.3%
+
+--- 5. FUNIL (retención por posición) ---
+  pos  1 | n=261   |  99.2% | Execução/Cumprimento de Se(71); Distribuição(69); Recebimento(53)
+  pos  2 | n=256   |  97.3% | Conclusão(37); Expedição de documento + O(30); Remessa(16)
+  pos  3 | n=256   |  97.3% | Remessa(85); Publicação(47); Petição(9)
+  pos  4 | n=252   |  95.8% | Publicação(103); Petição(30); Remessa(26)
+  pos  5 | n=250   |  95.1% | Expedição de documento(47); Petição(42); Publicação(40)
+  pos  6 | n=242   |  92.0% | Petição(42); Expedição de documento(37); Ato ordinatório(21)
+  pos  7 | n=231   |  87.8% | Petição(40); Publicação(31); Remessa(28)
+  pos  8 | n=228   |  86.7% | Publicação(37); Expedição de documento(29); Remessa(26)
+  pos  9 | n=224   |  85.2% | Publicação(39); Remessa(33); Expedição de documento(32)
+  pos 10 | n=215   |  81.8% | Expedição de documento(37); Publicação(37); Petição(29)
+  pos 11 | n=209   |  79.5% | Expedição de documento(35); Publicação(31); Petição(25)
+  pos 12 | n=202   |  76.8% | Petição(38); Publicação(28); Expedição de documento(28)
+
+--- 6. RUTAS COMPLETAS MÁS FRECUENTES (top 10) ---
+  (4 | 1.5%)  Execução/Cumprimento de Sentença Iniciada (o) > Expedição de documento + Mero expediente + Petição + Conclusão > Remessa > Publicação > Expedição de documento >
+  (4 | 1.5%)  Execução/Cumprimento de Sentença Iniciada (o)
+  (2 | 0.8%)  Recebimento > Petição > Expedição de precatório/rpv + Conclusão > Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa > Publicação > E
+  (2 | 0.8%)  Expedição de documento + Mero expediente + Petição + Conclusão + Execução/Cumprimento de Sentença Iniciada (o) > Remessa > Publicação > Expedição de documento >
+  (2 | 0.8%)  Execução/Cumprimento de Sentença Iniciada (o) > Expedição de documento + Outras Decisões + Conclusão > Remessa > Publicação > Expedição de documento > Ato ordin
+  (2 | 0.8%)  Recebimento > Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão > Remessa > Publicação > Protocolo de Petição > Expedição de documento > Expedição d
+  (1 | 0.4%)  Execução/Cumprimento de Sentença Iniciada (o) > Expedição de documento + Outras Decisões + Conclusão > Expedição de documento > Petição > Expedição de documento
+  (1 | 0.4%)  Execução/Cumprimento de Sentença Iniciada (o) > Conclusão > Publicação + Remessa + Expedição de documento + Outras Decisões > Petição > Expedição de documento >
+  (1 | 0.4%)  Execução/Cumprimento de Sentença Iniciada (o) > Conclusão > Outras Decisões > Remessa > Publicação > Ato ordinatório > Expedição de documento > Documento > Peti
+  (1 | 0.4%)  Recebimento > Conclusão > Remessa + Expedição de precatório/rpv > Publicação > Protocolo de Petição + Enviada ao Tribunal > Expedição de documento > Ato ordinat
+
+Salidas en: c:\Users\Íris\Desktop\api-cnj - Copia\resultados_fluxo_debito_fiscal
+
+[RENDER] arbol_fluxo_debito_fiscal.png y .dot generados OK

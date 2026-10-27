@@ -1,0 +1,161 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00045645720238260053",
+    "num_processo": "0004564-57.2023.8.26.0053",
+    "num_processo_sem_formatacao": "00045645720238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de sentença",
+    "codigo_classe": 156,
+    "assunto": "Convênio",
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-02-14T22:25:32.000Z",
+    "data_hora_ultima_atualizacao": "2024-12-13T02:55:52.963Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "29/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "28/09/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "17/09/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Mero expediente",
+        ""
+      ]
+    ],
+    "16/09/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "22/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "15/11/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "30/10/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Mero expediente",
+        ""
+      ]
+    ],
+    "26/10/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "24/06/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "15/06/2023": [
+      [
+        "Recebimento",
+        ""
+      ],
+      [
+        "Recebimento",
+        ""
+      ]
+    ],
+    "13/06/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Mero expediente",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "10/04/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "28/03/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Impugnação ao cumprimento de sentença",
+        ""
+      ]
+    ],
+    "27/03/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "15/02/2023": [
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10121728920238260053",
+    "num_processo": "1012172-89.2023.8.26.0053",
+    "num_processo_sem_formatacao": "10121728920238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Produção Antecipada da Prova",
+    "codigo_classe": 193,
+    "assunto": "Liminar ",
+    "outros_assuntos": [],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-03-07T18:41:56.000Z",
+    "data_hora_ultima_atualizacao": "2024-07-20T03:07:04.712Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "15/09/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: em grau de recurso"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "13/09/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "02/09/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "28/08/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "23/08/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "22/08/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "21/08/2023": [
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "20/08/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "18/08/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "05/08/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "27/07/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "26/07/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "25/07/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Não Acolhimento de Embargos de Declaração",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "24/07/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "23/07/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "14/07/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "13/07/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "12/07/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Improcedência",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "11/07/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "02/07/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "27/06/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "22/06/2023": [
+      [
+        "Publicação",
+        ""
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "21/06/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "08/06/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "07/06/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "26/05/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "16/05/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "15/05/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "12/05/2023": [
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "02/05/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "01/05/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "19/04/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "01/04/2023": [
+      [
+        "Documento",
+        "tipo_de_documento: Aviso de recebimento (AR)"
+      ]
+    ],
+    "21/03/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "10/03/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Carta"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "09/03/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "08/03/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Antecipação de tutela",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "07/03/2023": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

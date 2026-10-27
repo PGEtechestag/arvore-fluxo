@@ -1,0 +1,169 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10867508620248260053",
+    "num_processo": "1086750-86.2024.8.26.0053",
+    "num_processo_sem_formatacao": "10867508620248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Procedimento Comum Cível",
+    "codigo_classe": 7,
+    "assunto": "Indenização por Dano Moral",
+    "outros_assuntos": [],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-11-08T20:35:04.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:34:49.268Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "30/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "29/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "28/01/2025": [
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Ofício"
+      ]
+    ],
+    "27/01/2025": [
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "20/12/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "19/12/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Ofício"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "18/12/2024": [
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "11/12/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "10/12/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "09/12/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "27/11/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "23/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "22/11/2024": [
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "12/11/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "11/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "10/11/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "08/11/2024": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

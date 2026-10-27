@@ -1,0 +1,125 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00321198320228260053",
+    "num_processo": "0032119-83.2022.8.26.0053",
+    "num_processo_sem_formatacao": "00321198320228260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Requisição de Pequeno Valor",
+    "codigo_classe": 1266,
+    "assunto": "Anulação de Débito Fiscal",
+    "outros_assuntos": [],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-06-30T12:35:11.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-05T23:28:26.310Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "29/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "25/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "24/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Extinção da execução ou do cumprimento da sentença",
+        ""
+      ]
+    ],
+    "23/01/2025": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para julgamento"
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "19/11/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "20/09/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "05/05/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "20/07/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "12/07/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "11/07/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "10/07/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Protocolo de Petição",
+        ""
+      ],
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ]
+    ],
+    "07/07/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "30/06/2023": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

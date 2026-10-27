@@ -1,0 +1,207 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10053204920238260053",
+    "num_processo": "1005320-49.2023.8.26.0053",
+    "num_processo_sem_formatacao": "10053204920238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Precatório",
+    "codigo_classe": 1265,
+    "assunto": "Adicional por Tempo de Serviço",
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-03-03T14:11:30.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-05T23:50:00.528Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "31/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "09/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "08/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "07/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "31/12/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "04/11/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "03/11/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "13/10/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "04/10/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "02/10/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "19/09/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "20/06/2024": [
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "10/05/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "22/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "16/12/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "26/10/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "06/10/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "01/10/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "21/09/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "20/09/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "17/04/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "14/03/2023": [
+      [
+        "Publicação",
+        ""
+      ],
+      [
+        "Protocolo de Petição",
+        ""
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "13/03/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "03/03/2023": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10809801520248260053",
+    "num_processo": "1080980-15.2024.8.26.0053",
+    "num_processo_sem_formatacao": "10809801520248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Mandado de Segurança Cível",
+    "codigo_classe": 120,
+    "assunto": "Garantias Constitucionais",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-10-24T10:34:35.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:32:31.984Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "01/02/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "31/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Segurança",
+        ""
+      ]
+    ],
+    "19/11/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para julgamento"
+      ]
+    ],
+    "18/11/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "13/11/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "12/11/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "11/11/2024": [
+      [
+        "Mandado",
+        "resultado: entregue ao destinatário"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Mandado"
+      ]
+    ],
+    "08/11/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ]
+    ],
+    "07/11/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "06/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "05/11/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Liminar",
+        ""
+      ]
+    ],
+    "24/10/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

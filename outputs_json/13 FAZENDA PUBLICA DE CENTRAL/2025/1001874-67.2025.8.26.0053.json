@@ -1,0 +1,127 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10018746720258260053",
+    "num_processo": "1001874-67.2025.8.26.0053",
+    "num_processo_sem_formatacao": "10018746720258260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Mandado de Segurança Cível",
+    "codigo_classe": 120,
+    "assunto": "Relações Étnico-Raciais",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2025-01-15T00:08:00.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:37:29.328Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "29/01/2025": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "28/01/2025": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "23/01/2025": [
+      [
+        "Mandado",
+        "resultado: entregue ao destinatário"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "22/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "21/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "20/01/2025": [
+      [
+        "Liminar",
+        ""
+      ]
+    ],
+    "18/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "17/01/2025": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "16/01/2025": [
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "15/01/2025": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

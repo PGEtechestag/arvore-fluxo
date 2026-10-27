@@ -1,0 +1,157 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10412786220248260053",
+    "num_processo": "1041278-62.2024.8.26.0053",
+    "num_processo_sem_formatacao": "10412786220248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Mandado de Segurança Cível",
+    "codigo_classe": 120,
+    "assunto": "Responsabilidade Fiscal",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-06-17T14:19:43.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:17:58.350Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "29/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "28/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "27/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Segurança",
+        ""
+      ]
+    ],
+    "16/09/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para julgamento"
+      ]
+    ],
+    "09/08/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "07/08/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "10/07/2024": [
+      [
+        "Documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Mandado",
+        "resultado: entregue ao destinatário"
+      ]
+    ],
+    "02/07/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "01/07/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ]
+    ],
+    "28/06/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ]
+    ],
+    "27/06/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "26/06/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "25/06/2024": [
+      [
+        "Liminar",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "24/06/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "19/06/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "18/06/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "17/06/2024": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

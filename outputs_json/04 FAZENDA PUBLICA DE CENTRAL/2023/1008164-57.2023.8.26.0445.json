@@ -1,0 +1,211 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10081645720238260445",
+    "num_processo": "1008164-57.2023.8.26.0445",
+    "num_processo_sem_formatacao": "10081645720238260445",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Mandado de Segurança Cível",
+    "codigo_classe": 120,
+    "assunto": "Prova Subjetiva",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-12-31T15:19:35.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-09T14:31:56.448Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "13/12/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "11/10/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "30/09/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Segurança",
+        ""
+      ]
+    ],
+    "28/06/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para julgamento"
+      ]
+    ],
+    "23/04/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "19/04/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "26/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "07/02/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "22/01/2024": [
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ],
+      [
+        "Mandado",
+        "resultado: entregue ao destinatário"
+      ],
+      [
+        "Mandado",
+        "resultado: entregue ao destinatário"
+      ],
+      [
+        "Mandado",
+        "resultado: entregue ao destinatário"
+      ]
+    ],
+    "19/01/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "16/01/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "15/01/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "12/01/2024": [
+      [
+        "Liminar",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Redistribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ],
+      [
+        "Recebimento",
+        ""
+      ]
+    ],
+    "11/01/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "10/01/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "09/01/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Incompetência",
+        ""
+      ]
+    ],
+    "08/01/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "31/12/2023": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

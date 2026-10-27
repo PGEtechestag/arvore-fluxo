@@ -1,0 +1,29 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_01056073320068260053",
+    "num_processo": "0105607-33.2006.8.26.0053",
+    "num_processo_sem_formatacao": "01056073320068260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Requisição de Pequeno Valor",
+    "codigo_classe": 1266,
+    "assunto": "Gratificações de Atividade",
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-12-04T17:07:40.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-10T13:23:40.015Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "04/12/2024": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

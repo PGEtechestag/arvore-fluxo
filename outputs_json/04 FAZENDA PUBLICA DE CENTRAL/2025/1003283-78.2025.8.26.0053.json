@@ -1,0 +1,109 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10032837820258260053",
+    "num_processo": "1003283-78.2025.8.26.0053",
+    "num_processo_sem_formatacao": "10032837820258260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Mandado de Segurança Cível",
+    "codigo_classe": 120,
+    "assunto": "Ordem Urbanística",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2025-01-21T13:26:55.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:38:20.078Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "29/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "27/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ]
+    ],
+    "25/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "24/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "23/01/2025": [
+      [
+        "Liminar",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "22/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "21/01/2025": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00211239420208260053",
+    "num_processo": "0021123-94.2020.8.26.0053",
+    "num_processo_sem_formatacao": "00211239420208260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Precatório",
+    "codigo_classe": 1265,
+    "assunto": "Pagamento",
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-01-08T18:07:02.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:43:12.433Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "22/01/2025": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "02/01/2025": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "04/11/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "25/05/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "05/04/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "26/03/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "25/03/2024": [
+      [
+        "Protocolo de Petição",
+        ""
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "08/01/2024": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

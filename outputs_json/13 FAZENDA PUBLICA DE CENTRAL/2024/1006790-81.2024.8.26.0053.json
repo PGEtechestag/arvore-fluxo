@@ -1,0 +1,217 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10067908120248260053",
+    "num_processo": "1006790-81.2024.8.26.0053",
+    "num_processo_sem_formatacao": "10067908120248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Mandado de Segurança Cível",
+    "codigo_classe": 120,
+    "assunto": "Suspensão da Exigibilidade",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-02-05T14:14:42.000Z",
+    "data_hora_ultima_atualizacao": "2024-10-26T11:44:41.326Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "18/09/2024": [
+      [
+        "Documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "17/09/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Carta"
+      ]
+    ],
+    "16/09/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "04/09/2024": [
+      [
+        "Documento",
+        "tipo_de_documento: Aviso de recebimento (AR)"
+      ]
+    ],
+    "08/08/2024": [
+      [
+        "Documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "07/08/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Carta"
+      ]
+    ],
+    "02/08/2024": [
+      [
+        "Documento",
+        "tipo_de_documento: Aviso de recebimento (AR)"
+      ]
+    ],
+    "25/07/2024": [
+      [
+        "Documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "24/07/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Carta"
+      ]
+    ],
+    "04/06/2024": [
+      [
+        "Documento",
+        "tipo_de_documento: Aviso de recebimento (AR)"
+      ]
+    ],
+    "21/05/2024": [
+      [
+        "Documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "20/05/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Carta"
+      ]
+    ],
+    "14/05/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "07/05/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "06/05/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "03/05/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Segurança",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para julgamento"
+      ]
+    ],
+    "01/05/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "30/04/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "08/03/2024": [
+      [
+        "Mandado",
+        "resultado: entregue ao destinatário"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "14/02/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ]
+    ],
+    "09/02/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "08/02/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "07/02/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "06/02/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Liminar",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "05/02/2024": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00286375920248260053",
+    "num_processo": "0028637-59.2024.8.26.0053",
+    "num_processo_sem_formatacao": "00286375920248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Mandado de Segurança Cível",
+    "codigo_classe": 120,
+    "assunto": "Reserva de Vagas para Deficientes",
+    "outros_assuntos": [],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-10-02T15:00:12.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:31:55.452Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "20/01/2025": [
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "27/11/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "26/11/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Ofício"
+      ]
+    ],
+    "23/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "22/11/2024": [
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "19/11/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Mandado",
+        "resultado: entregue ao destinatário"
+      ],
+      [
+        "Mandado",
+        "resultado: entregue ao destinatário"
+      ]
+    ],
+    "18/11/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "08/10/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "04/10/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "03/10/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "02/10/2024": [
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ]
+  }
+}

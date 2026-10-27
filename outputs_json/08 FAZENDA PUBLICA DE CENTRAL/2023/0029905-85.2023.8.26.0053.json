@@ -1,0 +1,241 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00299058520238260053",
+    "num_processo": "0029905-85.2023.8.26.0053",
+    "num_processo_sem_formatacao": "00299058520238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+    "codigo_classe": 12078,
+    "assunto": "DIREITO CIVIL",
+    "outros_assuntos": [],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-09-06T15:20:55.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:01:16.307Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "30/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Outros documentos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "30/07/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "20/07/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "19/07/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "17/07/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "11/05/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "26/02/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "24/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "17/02/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "16/02/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "15/02/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "01/02/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "12/01/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "10/01/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "09/01/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "27/12/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "19/12/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "18/12/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "17/12/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "13/12/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "01/11/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "26/10/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "25/10/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "24/10/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Impugnação ao cumprimento de sentença",
+        ""
+      ]
+    ],
+    "23/10/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "15/09/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "14/09/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "13/09/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "06/09/2023": [
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

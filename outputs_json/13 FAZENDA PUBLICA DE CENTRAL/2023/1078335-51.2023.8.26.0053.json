@@ -1,0 +1,87 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10783355120238260053",
+    "num_processo": "1078335-51.2023.8.26.0053",
+    "num_processo_sem_formatacao": "10783355120238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de sentença",
+    "codigo_classe": 156,
+    "assunto": "Valor da Execução / Cálculo / Atualização",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-11-17T15:37:51.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-10T06:57:10.806Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "04/12/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "26/08/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "24/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "03/12/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "23/11/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "22/11/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "21/11/2023": [
+      [
+        "A depender do julgamento de outra causa, de outro juízo ou declaração incidente",
+        ""
+      ]
+    ],
+    "17/11/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: dependência"
+      ]
+    ]
+  }
+}

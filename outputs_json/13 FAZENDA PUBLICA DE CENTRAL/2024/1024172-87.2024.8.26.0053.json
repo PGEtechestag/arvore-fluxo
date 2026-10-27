@@ -1,0 +1,155 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10241728720248260053",
+    "num_processo": "1024172-87.2024.8.26.0053",
+    "num_processo_sem_formatacao": "10241728720248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Procedimento Comum Cível",
+    "codigo_classe": 7,
+    "assunto": "Isonomia/Equivalência Salarial",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-04-11T15:12:31.000Z",
+    "data_hora_ultima_atualizacao": "2024-10-26T11:51:01.448Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "06/09/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "16/08/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "15/08/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "14/08/2024": [
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "04/07/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "29/06/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "20/06/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "19/06/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "18/06/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "10/05/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "27/04/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "26/04/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "25/04/2024": [
+      [
+        "Redistribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "24/04/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "23/04/2024": [
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "11/04/2024": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

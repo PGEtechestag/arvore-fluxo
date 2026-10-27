@@ -1,0 +1,295 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10232513120248260053",
+    "num_processo": "1023251-31.2024.8.26.0053",
+    "num_processo_sem_formatacao": "10232513120248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Procedimento Comum Cível",
+    "codigo_classe": 7,
+    "assunto": "Multas e demais Sanções",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-04-08T21:38:41.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-10T08:40:42.977Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "18/12/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "04/10/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "26/09/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "17/09/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "16/09/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "15/09/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Mero expediente",
+        ""
+      ]
+    ],
+    "04/09/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "27/08/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "26/08/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "23/08/2024": [
+      [
+        "Redistribuição",
+        "tipo_de_distribuicao_redistribuicao: competência exclusiva"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Decisão Interlocutória de Mérito",
+        ""
+      ]
+    ],
+    "22/08/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "01/08/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "24/07/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "13/07/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "04/07/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "03/07/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "02/07/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "28/06/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "08/06/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "30/05/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "29/05/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "28/05/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Mero expediente",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "21/05/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "11/05/2024": [
+      [
+        "",
+        ""
+      ]
+    ],
+    "07/05/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Mandado"
+      ]
+    ],
+    "06/05/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "26/04/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "25/04/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Mero expediente",
+        ""
+      ]
+    ],
+    "24/04/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Redistribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "23/04/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "22/04/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "19/04/2024": [
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "09/04/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "08/04/2024": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: competência exclusiva"
+      ]
+    ]
+  }
+}

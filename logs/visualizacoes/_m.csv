@@ -1,0 +1,23 @@
+﻿=== arvore_fluxo_multas_dados.csv (cabecalho + primeiras 20 linhas) ===
+tipo,profundidade,movimento,processos,conclusao,desfecho,dias_medios_aresta
+...
+no,0,Início do processo,404,False,False,
+no,1,Execução/Cumprimento de Sentença Iniciada (o),68,False,True,
+no,2,Expedição de documento + Outras Decisões + Conclusão,33,True,True,
+no,3,Remessa,20,False,False,
+no,4,Publicação,16,False,True,
+no,5,Petição,5,False,False,
+no,6,Outros,5,False,False,
+no,5,Expedição de documento,9,False,False,
+no,6,Petição,8,False,False,
+no,7,Outros,8,False,False,
+no,6,Outros,1,False,False,
+no,5,Outros,1,False,False,
+no,4,Outros,4,False,False,
+no,3,Expedição de documento,5,False,False,
+no,4,Outros,5,False,False,
+no,3,Outros,5,False,False,
+no,2,Conclusão,16,True,False,
+no,3,Expedição de documento + Outras Decisões,7,False,False,
+no,4,Remessa,5,False,False,
+no,5,Publicação,5,False,True,

@@ -1,0 +1,57 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_11007482420248260053",
+    "num_processo": "1100748-24.2024.8.26.0053",
+    "num_processo_sem_formatacao": "11007482420248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Mandado de Segurança Cível",
+    "codigo_classe": 120,
+    "assunto": "Liminar ",
+    "outros_assuntos": [],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-12-19T09:56:52.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:39:53.802Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "08/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "20/12/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "19/12/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Liminar",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Evolução da Classe Processual",
+        ""
+      ],
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

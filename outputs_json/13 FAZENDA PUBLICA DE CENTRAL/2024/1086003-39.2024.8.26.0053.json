@@ -1,0 +1,151 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10860033920248260053",
+    "num_processo": "1086003-39.2024.8.26.0053",
+    "num_processo_sem_formatacao": "10860033920248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Procedimento Comum Cível",
+    "codigo_classe": 7,
+    "assunto": "Anulação de Débito Fiscal",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-11-07T12:02:41.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:32:12.295Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "02/01/2025": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "10/12/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "05/12/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "30/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "29/11/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Decisão Interlocutória de Mérito",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "27/11/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "22/11/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "21/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "20/11/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "19/11/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "14/11/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "13/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "12/11/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "11/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "08/11/2024": [
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "07/11/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

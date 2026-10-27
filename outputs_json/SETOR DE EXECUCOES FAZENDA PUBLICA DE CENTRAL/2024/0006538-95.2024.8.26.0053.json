@@ -1,0 +1,95 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00065389520248260053",
+    "num_processo": "0006538-95.2024.8.26.0053",
+    "num_processo_sem_formatacao": "00065389520248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Restauração de Autos Cível",
+    "codigo_classe": 46,
+    "assunto": "Pagamento",
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-03-06T11:06:43.000Z",
+    "data_hora_ultima_atualizacao": "2024-11-12T05:51:24.450Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "18/10/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "15/10/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "04/10/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "11/07/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "05/07/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "25/06/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "24/06/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "06/03/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ],
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: dependência"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00223810820218260053",
+    "num_processo": "0022381-08.2021.8.26.0053",
+    "num_processo_sem_formatacao": "00223810820218260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Requisição de Pequeno Valor",
+    "codigo_classe": 1266,
+    "assunto": "Tratamento da Própria Saúde",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-08-22T10:17:46.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-05T23:23:52.955Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "23/01/2025": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "30/12/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "04/11/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "23/10/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Protocolo de Petição",
+        ""
+      ],
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "22/10/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "21/10/2024": [
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "22/08/2024": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

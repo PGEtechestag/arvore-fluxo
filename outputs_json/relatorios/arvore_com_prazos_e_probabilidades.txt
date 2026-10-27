@@ -1,0 +1,251 @@
+ÁRVORE DE PROBABILIDADE CONDICIONAL COM PRAZOS (TOP 3)
+================================================================================
+
+
+================================================================================
+ASSUNTO: ANULAÇÃO DE DÉBITO FISCAL
+================================================================================
+Processos: 256 | Eventos: 5720 | Comprimento Médio: 22.3 movimentos
+
+Posição 1 (Origem: Publicação):
+  🥇 ( 49.1%) [416x] -> Expedição de documento  |  Mediana: 9.0 dias (Média: 9.3d)
+  🥈 ( 23.6%) [200x] -> Petição  |  Mediana: 6.0 dias (Média: 10.0d)
+  🥉 (  4.7%) [ 40x] -> Expedição de documento + Ato ordinatório  |  Mediana: 9.0 dias (Média: 15.4d)
+
+Posição 2 (Origem: Expedição de documento):
+  🥇 ( 25.9%) [219x] -> Petição  |  Mediana: 10.0 dias (Média: 15.8d)
+  🥈 ( 16.4%) [138x] -> Expedição de documento  |  Mediana: 7.0 dias (Média: 17.1d)
+  🥉 ( 12.3%) [104x] -> Ato ordinatório  |  Mediana: 29.5 dias (Média: 41.8d)
+
+Posição 3 (Origem: Petição):
+  🥇 ( 20.1%) [123x] -> Conclusão  |  Mediana: 15.0 dias (Média: 26.8d)
+  🥈 ( 19.6%) [120x] -> Expedição de documento  |  Mediana: 5.0 dias (Média: 7.4d)
+  🥉 (  9.2%) [ 56x] -> Ato ordinatório  |  Mediana: 18.5 dias (Média: 29.3d)
+
+Posição 4 (Origem: Conclusão):
+  🥇 ( 17.3%) [ 56x] -> Expedição de documento + Outras Decisões  |  Mediana: 3.0 dias (Média: 17.4d)
+  🥈 (  9.3%) [ 30x] -> Conclusão  |  Mediana: 11.5 dias (Média: 16.4d)
+  🥉 (  7.1%) [ 23x] -> Outras Decisões  |  Mediana: 1.0 dias (Média: 3.7d)
+
+Posição 5 (Origem: Expedição de documento + Outras Decisões):
+  🥇 ( 81.9%) [ 77x] -> Remessa  |  Mediana: 1.0 dias (Média: 1.6d)
+  🥈 (  5.3%) [  5x] -> Publicação + Remessa  |  Mediana: 1.0 dias (Média: 1.8d)
+  🥉 (  5.3%) [  5x] -> Petição + Remessa  |  Mediana: 1.0 dias (Média: 1.4d)
+
+Posição 6 (Origem: Remessa):
+  🥇 ( 84.3%) [506x] -> Publicação  |  Mediana: 1.0 dias (Média: 1.2d)
+  🥈 (  4.0%) [ 24x] -> Expedição de documento + Publicação  |  Mediana: 1.0 dias (Média: 1.8d)
+  🥉 (  3.2%) [ 19x] -> Petição + Publicação  |  Mediana: 1.0 dias (Média: 1.1d)
+
+Posição 7 (Origem: Publicação):
+  🥇 ( 49.1%) [416x] -> Expedição de documento  |  Mediana: 9.0 dias (Média: 9.3d)
+  🥈 ( 23.6%) [200x] -> Petição  |  Mediana: 6.0 dias (Média: 10.0d)
+  🥉 (  4.7%) [ 40x] -> Expedição de documento + Ato ordinatório  |  Mediana: 9.0 dias (Média: 15.4d)
+
+Posição 8 (Origem: Expedição de documento):
+  🥇 ( 25.9%) [219x] -> Petição  |  Mediana: 10.0 dias (Média: 15.8d)
+  🥈 ( 16.4%) [138x] -> Expedição de documento  |  Mediana: 7.0 dias (Média: 17.1d)
+  🥉 ( 12.3%) [104x] -> Ato ordinatório  |  Mediana: 29.5 dias (Média: 41.8d)
+
+Posição 9 (Origem: Petição):
+  🥇 ( 20.1%) [123x] -> Conclusão  |  Mediana: 15.0 dias (Média: 26.8d)
+  🥈 ( 19.6%) [120x] -> Expedição de documento  |  Mediana: 5.0 dias (Média: 7.4d)
+  🥉 (  9.2%) [ 56x] -> Ato ordinatório  |  Mediana: 18.5 dias (Média: 29.3d)
+
+Posição 10 (Origem: Conclusão):
+  🥇 ( 17.3%) [ 56x] -> Expedição de documento + Outras Decisões  |  Mediana: 3.0 dias (Média: 17.4d)
+  🥈 (  9.3%) [ 30x] -> Conclusão  |  Mediana: 11.5 dias (Média: 16.4d)
+  🥉 (  7.1%) [ 23x] -> Outras Decisões  |  Mediana: 1.0 dias (Média: 3.7d)
+
+Posição 11 (Origem: Expedição de documento + Outras Decisões):
+  🥇 ( 81.9%) [ 77x] -> Remessa  |  Mediana: 1.0 dias (Média: 1.6d)
+  🥈 (  5.3%) [  5x] -> Publicação + Remessa  |  Mediana: 1.0 dias (Média: 1.8d)
+  🥉 (  5.3%) [  5x] -> Petição + Remessa  |  Mediana: 1.0 dias (Média: 1.4d)
+
+Posição 12 (Origem: Remessa):
+  🥇 ( 84.3%) [506x] -> Publicação  |  Mediana: 1.0 dias (Média: 1.2d)
+  🥈 (  4.0%) [ 24x] -> Expedição de documento + Publicação  |  Mediana: 1.0 dias (Média: 1.8d)
+  🥉 (  3.2%) [ 19x] -> Petição + Publicação  |  Mediana: 1.0 dias (Média: 1.1d)
+
+Posição 13 (Origem: Publicação):
+  🥇 ( 49.1%) [416x] -> Expedição de documento  |  Mediana: 9.0 dias (Média: 9.3d)
+  🥈 ( 23.6%) [200x] -> Petição  |  Mediana: 6.0 dias (Média: 10.0d)
+  🥉 (  4.7%) [ 40x] -> Expedição de documento + Ato ordinatório  |  Mediana: 9.0 dias (Média: 15.4d)
+
+Posição 14 (Origem: Expedição de documento):
+  🥇 ( 25.9%) [219x] -> Petição  |  Mediana: 10.0 dias (Média: 15.8d)
+  🥈 ( 16.4%) [138x] -> Expedição de documento  |  Mediana: 7.0 dias (Média: 17.1d)
+  🥉 ( 12.3%) [104x] -> Ato ordinatório  |  Mediana: 29.5 dias (Média: 41.8d)
+
+Posição 15 (Origem: Petição):
+  🥇 ( 20.1%) [123x] -> Conclusão  |  Mediana: 15.0 dias (Média: 26.8d)
+  🥈 ( 19.6%) [120x] -> Expedição de documento  |  Mediana: 5.0 dias (Média: 7.4d)
+  🥉 (  9.2%) [ 56x] -> Ato ordinatório  |  Mediana: 18.5 dias (Média: 29.3d)
+
+Posição 16 (Origem: Conclusão):
+  🥇 ( 17.3%) [ 56x] -> Expedição de documento + Outras Decisões  |  Mediana: 3.0 dias (Média: 17.4d)
+  🥈 (  9.3%) [ 30x] -> Conclusão  |  Mediana: 11.5 dias (Média: 16.4d)
+  🥉 (  7.1%) [ 23x] -> Outras Decisões  |  Mediana: 1.0 dias (Média: 3.7d)
+
+Posição 17 (Origem: Expedição de documento + Outras Decisões):
+  🥇 ( 81.9%) [ 77x] -> Remessa  |  Mediana: 1.0 dias (Média: 1.6d)
+  🥈 (  5.3%) [  5x] -> Publicação + Remessa  |  Mediana: 1.0 dias (Média: 1.8d)
+  🥉 (  5.3%) [  5x] -> Petição + Remessa  |  Mediana: 1.0 dias (Média: 1.4d)
+
+Posição 18 (Origem: Remessa):
+  🥇 ( 84.3%) [506x] -> Publicação  |  Mediana: 1.0 dias (Média: 1.2d)
+  🥈 (  4.0%) [ 24x] -> Expedição de documento + Publicação  |  Mediana: 1.0 dias (Média: 1.8d)
+  🥉 (  3.2%) [ 19x] -> Petição + Publicação  |  Mediana: 1.0 dias (Média: 1.1d)
+
+Posição 19 (Origem: Publicação):
+  🥇 ( 49.1%) [416x] -> Expedição de documento  |  Mediana: 9.0 dias (Média: 9.3d)
+  🥈 ( 23.6%) [200x] -> Petição  |  Mediana: 6.0 dias (Média: 10.0d)
+  🥉 (  4.7%) [ 40x] -> Expedição de documento + Ato ordinatório  |  Mediana: 9.0 dias (Média: 15.4d)
+
+Posição 20 (Origem: Expedição de documento):
+  🥇 ( 25.9%) [219x] -> Petição  |  Mediana: 10.0 dias (Média: 15.8d)
+  🥈 ( 16.4%) [138x] -> Expedição de documento  |  Mediana: 7.0 dias (Média: 17.1d)
+  🥉 ( 12.3%) [104x] -> Ato ordinatório  |  Mediana: 29.5 dias (Média: 41.8d)
+
+Posição 21 (Origem: Petição):
+  🥇 ( 20.1%) [123x] -> Conclusão  |  Mediana: 15.0 dias (Média: 26.8d)
+  🥈 ( 19.6%) [120x] -> Expedição de documento  |  Mediana: 5.0 dias (Média: 7.4d)
+  🥉 (  9.2%) [ 56x] -> Ato ordinatório  |  Mediana: 18.5 dias (Média: 29.3d)
+
+Posição 22 (Origem: Conclusão):
+  🥇 ( 17.3%) [ 56x] -> Expedição de documento + Outras Decisões  |  Mediana: 3.0 dias (Média: 17.4d)
+  🥈 (  9.3%) [ 30x] -> Conclusão  |  Mediana: 11.5 dias (Média: 16.4d)
+  🥉 (  7.1%) [ 23x] -> Outras Decisões  |  Mediana: 1.0 dias (Média: 3.7d)
+
+
+================================================================================
+ASSUNTO: MULTAS E DEMAIS SANÇÕES
+================================================================================
+Processos: 399 | Eventos: 5293 | Comprimento Médio: 13.3 movimentos
+
+Posição 1 (Origem: Publicação):
+  🥇 ( 59.7%) [505x] -> Expedição de documento  |  Mediana: 9.0 dias (Média: 12.4d)
+  🥈 ( 19.5%) [165x] -> Petição  |  Mediana: 7.0 dias (Média: 11.1d)
+  🥉 (  4.5%) [ 38x] -> Expedição de documento + Ato ordinatório  |  Mediana: 9.0 dias (Média: 9.6d)
+
+Posição 2 (Origem: Expedição de documento):
+  🥇 ( 38.0%) [235x] -> Petição  |  Mediana: 12.0 dias (Média: 18.7d)
+  🥈 ( 12.9%) [ 80x] -> Expedição de documento  |  Mediana: 6.0 dias (Média: 15.4d)
+  🥉 ( 12.8%) [ 79x] -> Ato ordinatório  |  Mediana: 26.0 dias (Média: 32.2d)
+
+Posição 3 (Origem: Petição):
+  🥇 ( 30.5%) [158x] -> Conclusão  |  Mediana: 5.0 dias (Média: 19.3d)
+  🥈 ( 15.1%) [ 78x] -> Expedição de documento + Outras Decisões + Conclusão  |  Mediana: 8.5 dias (Média: 18.1d)
+  🥉 ( 14.1%) [ 73x] -> Expedição de documento  |  Mediana: 5.0 dias (Média: 11.5d)
+
+Posição 4 (Origem: Conclusão):
+  🥇 ( 31.7%) [ 89x] -> Expedição de documento + Outras Decisões  |  Mediana: 1.0 dias (Média: 5.8d)
+  🥈 (  8.5%) [ 24x] -> Remessa + Expedição de documento + Outras Decisões  |  Mediana: 2.0 dias (Média: 3.3d)
+  🥉 (  8.5%) [ 24x] -> Outras Decisões  |  Mediana: 2.0 dias (Média: 7.0d)
+
+Posição 5 (Origem: Expedição de documento + Outras Decisões):
+  🥇 ( 94.3%) [198x] -> Remessa  |  Mediana: 1.0 dias (Média: 1.4d)
+  🥈 (  2.9%) [  6x] -> Petição + Remessa  |  Mediana: 1.0 dias (Média: 1.0d)
+  🥉 (  0.5%) [  1x] -> Publicação + Remessa  |  Mediana: 1.0 dias (Média: 1.0d)
+
+Posição 6 (Origem: Remessa):
+  🥇 ( 84.8%) [654x] -> Publicação  |  Mediana: 1.0 dias (Média: 1.3d)
+  🥈 (  5.1%) [ 39x] -> Conclusão + Expedição de documento + Publicação  |  Mediana: 1.0 dias (Média: 1.0d)
+  🥉 (  2.2%) [ 17x] -> Expedição de documento + Publicação  |  Mediana: 1.0 dias (Média: 1.2d)
+
+Posição 7 (Origem: Publicação):
+  🥇 ( 59.7%) [505x] -> Expedição de documento  |  Mediana: 9.0 dias (Média: 12.4d)
+  🥈 ( 19.5%) [165x] -> Petição  |  Mediana: 7.0 dias (Média: 11.1d)
+  🥉 (  4.5%) [ 38x] -> Expedição de documento + Ato ordinatório  |  Mediana: 9.0 dias (Média: 9.6d)
+
+Posição 8 (Origem: Expedição de documento):
+  🥇 ( 38.0%) [235x] -> Petição  |  Mediana: 12.0 dias (Média: 18.7d)
+  🥈 ( 12.9%) [ 80x] -> Expedição de documento  |  Mediana: 6.0 dias (Média: 15.4d)
+  🥉 ( 12.8%) [ 79x] -> Ato ordinatório  |  Mediana: 26.0 dias (Média: 32.2d)
+
+Posição 9 (Origem: Petição):
+  🥇 ( 30.5%) [158x] -> Conclusão  |  Mediana: 5.0 dias (Média: 19.3d)
+  🥈 ( 15.1%) [ 78x] -> Expedição de documento + Outras Decisões + Conclusão  |  Mediana: 8.5 dias (Média: 18.1d)
+  🥉 ( 14.1%) [ 73x] -> Expedição de documento  |  Mediana: 5.0 dias (Média: 11.5d)
+
+Posição 10 (Origem: Conclusão):
+  🥇 ( 31.7%) [ 89x] -> Expedição de documento + Outras Decisões  |  Mediana: 1.0 dias (Média: 5.8d)
+  🥈 (  8.5%) [ 24x] -> Remessa + Expedição de documento + Outras Decisões  |  Mediana: 2.0 dias (Média: 3.3d)
+  🥉 (  8.5%) [ 24x] -> Outras Decisões  |  Mediana: 2.0 dias (Média: 7.0d)
+
+Posição 11 (Origem: Expedição de documento + Outras Decisões):
+  🥇 ( 94.3%) [198x] -> Remessa  |  Mediana: 1.0 dias (Média: 1.4d)
+  🥈 (  2.9%) [  6x] -> Petição + Remessa  |  Mediana: 1.0 dias (Média: 1.0d)
+  🥉 (  0.5%) [  1x] -> Publicação + Remessa  |  Mediana: 1.0 dias (Média: 1.0d)
+
+Posição 12 (Origem: Remessa):
+  🥇 ( 84.8%) [654x] -> Publicação  |  Mediana: 1.0 dias (Média: 1.3d)
+  🥈 (  5.1%) [ 39x] -> Conclusão + Expedição de documento + Publicação  |  Mediana: 1.0 dias (Média: 1.0d)
+  🥉 (  2.2%) [ 17x] -> Expedição de documento + Publicação  |  Mediana: 1.0 dias (Média: 1.2d)
+
+Posição 13 (Origem: Publicação):
+  🥇 ( 59.7%) [505x] -> Expedição de documento  |  Mediana: 9.0 dias (Média: 12.4d)
+  🥈 ( 19.5%) [165x] -> Petição  |  Mediana: 7.0 dias (Média: 11.1d)
+  🥉 (  4.5%) [ 38x] -> Expedição de documento + Ato ordinatório  |  Mediana: 9.0 dias (Média: 9.6d)
+
+
+================================================================================
+ASSUNTO: VALOR DA EXECUÇÃO
+================================================================================
+Processos: 273 | Eventos: 3131 | Comprimento Médio: 11.5 movimentos
+
+Posição 1 (Origem: Publicação):
+  🥇 ( 45.6%) [222x] -> Expedição de documento  |  Mediana: 9.0 dias (Média: 11.1d)
+  🥈 ( 26.1%) [127x] -> Petição  |  Mediana: 6.0 dias (Média: 11.6d)
+  🥉 ( 10.7%) [ 52x] -> Ato ordinatório  |  Mediana: 28.5 dias (Média: 86.8d)
+
+Posição 2 (Origem: Expedição de documento):
+  🥇 ( 34.6%) [121x] -> Ato ordinatório  |  Mediana: 27.0 dias (Média: 40.2d)
+  🥈 ( 26.0%) [ 91x] -> Petição  |  Mediana: 12.0 dias (Média: 22.0d)
+  🥉 ( 10.0%) [ 35x] -> Conclusão  |  Mediana: 24.0 dias (Média: 31.7d)
+
+Posição 3 (Origem: Ato ordinatório):
+  🥇 ( 45.5%) [146x] -> Ato ordinatório  |  Mediana: 58.0 dias (Média: 67.5d)
+  🥈 (  9.0%) [ 29x] -> Conclusão  |  Mediana: 22.0 dias (Média: 55.4d)
+  🥉 (  8.7%) [ 28x] -> Petição  |  Mediana: 30.5 dias (Média: 34.6d)
+
+Posição 4 (Origem: Ato ordinatório):
+  🥇 ( 45.5%) [146x] -> Ato ordinatório  |  Mediana: 58.0 dias (Média: 67.5d)
+  🥈 (  9.0%) [ 29x] -> Conclusão  |  Mediana: 22.0 dias (Média: 55.4d)
+  🥉 (  8.7%) [ 28x] -> Petição  |  Mediana: 30.5 dias (Média: 34.6d)
+
+Posição 5 (Origem: Ato ordinatório):
+  🥇 ( 45.5%) [146x] -> Ato ordinatório  |  Mediana: 58.0 dias (Média: 67.5d)
+  🥈 (  9.0%) [ 29x] -> Conclusão  |  Mediana: 22.0 dias (Média: 55.4d)
+  🥉 (  8.7%) [ 28x] -> Petição  |  Mediana: 30.5 dias (Média: 34.6d)
+
+Posição 6 (Origem: Ato ordinatório):
+  🥇 ( 45.5%) [146x] -> Ato ordinatório  |  Mediana: 58.0 dias (Média: 67.5d)
+  🥈 (  9.0%) [ 29x] -> Conclusão  |  Mediana: 22.0 dias (Média: 55.4d)
+  🥉 (  8.7%) [ 28x] -> Petição  |  Mediana: 30.5 dias (Média: 34.6d)
+
+Posição 7 (Origem: Ato ordinatório):
+  🥇 ( 45.5%) [146x] -> Ato ordinatório  |  Mediana: 58.0 dias (Média: 67.5d)
+  🥈 (  9.0%) [ 29x] -> Conclusão  |  Mediana: 22.0 dias (Média: 55.4d)
+  🥉 (  8.7%) [ 28x] -> Petição  |  Mediana: 30.5 dias (Média: 34.6d)
+
+Posição 8 (Origem: Ato ordinatório):
+  🥇 ( 45.5%) [146x] -> Ato ordinatório  |  Mediana: 58.0 dias (Média: 67.5d)
+  🥈 (  9.0%) [ 29x] -> Conclusão  |  Mediana: 22.0 dias (Média: 55.4d)
+  🥉 (  8.7%) [ 28x] -> Petição  |  Mediana: 30.5 dias (Média: 34.6d)
+
+Posição 9 (Origem: Ato ordinatório):
+  🥇 ( 45.5%) [146x] -> Ato ordinatório  |  Mediana: 58.0 dias (Média: 67.5d)
+  🥈 (  9.0%) [ 29x] -> Conclusão  |  Mediana: 22.0 dias (Média: 55.4d)
+  🥉 (  8.7%) [ 28x] -> Petição  |  Mediana: 30.5 dias (Média: 34.6d)
+
+Posição 10 (Origem: Ato ordinatório):
+  🥇 ( 45.5%) [146x] -> Ato ordinatório  |  Mediana: 58.0 dias (Média: 67.5d)
+  🥈 (  9.0%) [ 29x] -> Conclusão  |  Mediana: 22.0 dias (Média: 55.4d)
+  🥉 (  8.7%) [ 28x] -> Petição  |  Mediana: 30.5 dias (Média: 34.6d)
+
+Posição 11 (Origem: Ato ordinatório):
+  🥇 ( 45.5%) [146x] -> Ato ordinatório  |  Mediana: 58.0 dias (Média: 67.5d)
+  🥈 (  9.0%) [ 29x] -> Conclusão  |  Mediana: 22.0 dias (Média: 55.4d)
+  🥉 (  8.7%) [ 28x] -> Petição  |  Mediana: 30.5 dias (Média: 34.6d)
+

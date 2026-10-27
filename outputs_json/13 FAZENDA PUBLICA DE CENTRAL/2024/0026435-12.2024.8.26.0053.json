@@ -1,0 +1,67 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00264351220248260053",
+    "num_processo": "0026435-12.2024.8.26.0053",
+    "num_processo_sem_formatacao": "00264351220248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de sentença",
+    "codigo_classe": 156,
+    "assunto": "Honorários Advocatícios em Execução Contra a Fazenda Pública",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-09-12T05:40:19.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:30:30.462Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "08/01/2025": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "18/11/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "23/10/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "22/10/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "21/10/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Mero expediente",
+        ""
+      ]
+    ],
+    "16/09/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

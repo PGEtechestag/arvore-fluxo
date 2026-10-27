@@ -1,0 +1,45 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10057399820258260053",
+    "num_processo": "1005739-98.2025.8.26.0053",
+    "num_processo_sem_formatacao": "10057399820258260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de Sentença de Ações Coletivas",
+    "codigo_classe": 15160,
+    "assunto": null,
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2025-01-29T16:00:09.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:38:31.566Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "31/01/2025": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "30/01/2025": [
+      [
+        "Retificação de Classe Processual",
+        ""
+      ]
+    ],
+    "29/01/2025": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: dependência"
+      ]
+    ]
+  }
+}

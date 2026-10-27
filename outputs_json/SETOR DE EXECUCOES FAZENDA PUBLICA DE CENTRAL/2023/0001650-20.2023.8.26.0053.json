@@ -1,0 +1,131 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00016502020238260053",
+    "num_processo": "0001650-20.2023.8.26.0053",
+    "num_processo_sem_formatacao": "00016502020238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Precatório",
+    "codigo_classe": 1265,
+    "assunto": "Servidores Inativos",
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-02-07T11:35:55.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-10T01:20:51.119Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "29/12/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "01/11/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "08/05/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "19/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "14/12/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "28/11/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "08/07/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "28/06/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "27/06/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "01/04/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "18/02/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "07/02/2023": [
+      [
+        "Publicação",
+        ""
+      ],
+      [
+        "Protocolo de Petição",
+        ""
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

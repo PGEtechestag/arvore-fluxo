@@ -1,0 +1,72 @@
+ANÁLISE DE DISTRIBUIÇÃO DE TEMPO ENTRE MOVIMENTOS (DIAS CORRIDOS)
+================================================================================
+
+
+================================================================================
+ASSUNTO: ANULAÇÃO DE DÉBITO FISCAL
+================================================================================
+
+Movimento de Origem            -> Próximo Movimento              | Qtde  | Média (dias) | Mediana (dias) | Max  
+---------------------------------------------------------------------------------------------------------
+Remessa                        -> Publicação                     | 506   |          1.2 |            1.0 | 9    
+Publicação                     -> Expedição de documento         | 416   |          9.3 |            9.0 | 43   
+Expedição de documento         -> Petição                        | 219   |         15.8 |           10.0 | 111  
+Publicação                     -> Petição                        | 200   |         10.0 |            6.0 | 128  
+Expedição de documento         -> Expedição de documento         | 138   |         17.1 |            7.0 | 178  
+Petição                        -> Conclusão                      | 123   |         26.8 |           15.0 | 133  
+Petição                        -> Expedição de documento         | 120   |          7.4 |            5.0 | 43   
+Expedição de documento         -> Ato ordinatório                | 104   |         41.8 |           29.5 | 205  
+Expedição de documento + Out   -> Remessa                        | 102   |          1.4 |            1.0 | 6    
+Expedição de documento + Rem   -> Publicação                     | 86    |          1.1 |            1.0 | 3    
+Ato ordinatório                -> Ato ordinatório                | 85    |         72.2 |           67.0 | 256  
+Expedição de documento + Out   -> Remessa                        | 77    |          1.6 |            1.0 | 19   
+Expedição de documento         -> Conclusão                      | 57    |         36.4 |           27.0 | 150  
+Petição                        -> Ato ordinatório                | 56    |         29.3 |           18.5 | 273  
+Conclusão                      -> Expedição de documento + Out   | 56    |         17.4 |            3.0 | 196  
+
+
+================================================================================
+ASSUNTO: MULTAS E DEMAIS SANÇÕES
+================================================================================
+
+Movimento de Origem            -> Próximo Movimento              | Qtde  | Média (dias) | Mediana (dias) | Max  
+---------------------------------------------------------------------------------------------------------
+Remessa                        -> Publicação                     | 654   |          1.3 |            1.0 | 33   
+Publicação                     -> Expedição de documento         | 505   |         12.4 |            9.0 | 48   
+Expedição de documento         -> Petição                        | 235   |         18.7 |           12.0 | 78   
+Expedição de documento + Out   -> Remessa                        | 220   |          1.3 |            1.0 | 22   
+Expedição de documento + Out   -> Remessa                        | 198   |          1.4 |            1.0 | 21   
+Publicação                     -> Petição                        | 165   |         11.1 |            7.0 | 76   
+Petição                        -> Conclusão                      | 158   |         19.3 |            5.0 | 149  
+Conclusão                      -> Expedição de documento + Out   | 89    |          5.8 |            1.0 | 208  
+Expedição de documento         -> Expedição de documento         | 80    |         15.4 |            6.0 | 138  
+Expedição de documento         -> Ato ordinatório                | 79    |         32.2 |           26.0 | 108  
+Petição                        -> Expedição de documento + Out   | 78    |         18.1 |            8.5 | 85   
+Petição                        -> Expedição de documento         | 73    |         11.5 |            5.0 | 120  
+Distribuição                   -> Expedição de documento + Out   | 63    |         11.4 |           15.0 | 18   
+Conclusão + Expedição de doc   -> Expedição de documento + Out   | 56    |          7.3 |            5.0 | 92   
+Petição                        -> Petição                        | 55    |         11.8 |            8.0 | 52   
+
+
+================================================================================
+ASSUNTO: VALOR DA EXECUÇÃO
+================================================================================
+
+Movimento de Origem            -> Próximo Movimento              | Qtde  | Média (dias) | Mediana (dias) | Max  
+---------------------------------------------------------------------------------------------------------
+Remessa                        -> Publicação                     | 369   |          1.3 |            1.0 | 19   
+Publicação                     -> Expedição de documento         | 222   |         11.1 |            9.0 | 180  
+Ato ordinatório                -> Ato ordinatório                | 146   |         67.5 |           58.0 | 369  
+Publicação                     -> Petição                        | 127   |         11.6 |            6.0 | 160  
+Expedição de documento         -> Ato ordinatório                | 121   |         40.2 |           27.0 | 220  
+Expedição de documento         -> Petição                        | 91    |         22.0 |           12.0 | 279  
+Petição                        -> Conclusão                      | 89    |         35.2 |           26.0 | 127  
+Expedição de documento + Out   -> Remessa                        | 68    |          1.5 |            1.0 | 22   
+Expedição de documento + Out   -> Remessa                        | 64    |          1.4 |            1.0 | 6    
+Conclusão                      -> Expedição de documento + Out   | 62    |         18.0 |            2.0 | 102  
+Petição                        -> Expedição de documento         | 60    |          7.4 |            5.5 | 35   
+Publicação                     -> Ato ordinatório                | 52    |         86.8 |           28.5 | 219  
+Publicação                     -> Expedição de documento + Ato   | 38    |          9.4 |            9.0 | 41   
+Petição                        -> Petição                        | 36    |         13.9 |           10.0 | 50   
+Expedição de documento         -> Conclusão                      | 35    |         31.7 |           24.0 | 87   
+

@@ -1,0 +1,209 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00198605620228260053",
+    "num_processo": "0019860-56.2022.8.26.0053",
+    "num_processo_sem_formatacao": "00198605620228260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Requisição de Pequeno Valor",
+    "codigo_classe": 1266,
+    "assunto": "Desapropriação por Utilidade Pública / DL 3.365/1941",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-06-21T18:08:47.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-05T23:00:45.034Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "25/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "24/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Republicação",
+        ""
+      ]
+    ],
+    "21/01/2025": [
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "29/11/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "22/08/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Protocolo de Petição",
+        ""
+      ],
+      [
+        "Retificada",
+        ""
+      ]
+    ],
+    "06/08/2024": [
+      [
+        "deferimento",
+        ""
+      ]
+    ],
+    "05/08/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "14/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "12/12/2023": [
+      [
+        "Republicação",
+        ""
+      ]
+    ],
+    "08/12/2023": [
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "07/11/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "06/11/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "30/10/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "27/10/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "26/10/2023": [
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "25/10/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "20/10/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "11/08/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "07/08/2023": [
+      [
+        "Reativação",
+        ""
+      ]
+    ],
+    "17/07/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "07/07/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "06/07/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "05/07/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Protocolo de Petição",
+        ""
+      ],
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ]
+    ],
+    "03/07/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "21/06/2023": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

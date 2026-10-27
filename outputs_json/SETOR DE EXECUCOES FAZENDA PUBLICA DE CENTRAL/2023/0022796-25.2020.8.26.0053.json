@@ -1,0 +1,115 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00227962520208260053",
+    "num_processo": "0022796-25.2020.8.26.0053",
+    "num_processo_sem_formatacao": "00227962520208260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Precatório",
+    "codigo_classe": 1265,
+    "assunto": "Gratificação de Incentivo",
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-04-19T20:16:50.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-09T15:33:07.994Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "15/12/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "29/10/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "15/10/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "11/10/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "",
+        ""
+      ]
+    ],
+    "16/09/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "07/09/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "06/09/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "05/09/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "27/04/2023": [
+      [
+        "Definitivo",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "25/04/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "24/04/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "19/04/2023": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

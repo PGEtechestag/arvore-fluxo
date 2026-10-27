@@ -1,0 +1,35 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00301518120238260053",
+    "num_processo": "0030151-81.2023.8.26.0053",
+    "num_processo_sem_formatacao": "00301518120238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Requisição de Pequeno Valor",
+    "codigo_classe": 1266,
+    "assunto": "Honorários Advocatícios",
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-11-01T17:34:17.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-09T23:20:37.433Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "16/12/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "01/11/2024": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

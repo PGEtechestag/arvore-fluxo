@@ -1,0 +1,69 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00188163120248260053",
+    "num_processo": "0018816-31.2024.8.26.0053",
+    "num_processo_sem_formatacao": "00188163120248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+    "codigo_classe": 12078,
+    "assunto": "Adicional por Tempo de Serviço",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-07-02T09:02:51.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:23:24.169Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "18/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "17/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Decurso de Prazo",
+        ""
+      ]
+    ],
+    "27/09/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "25/09/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Emenda à Inicial",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "03/07/2024": [
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

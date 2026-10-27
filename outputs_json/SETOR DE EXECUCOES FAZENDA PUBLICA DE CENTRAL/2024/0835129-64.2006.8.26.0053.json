@@ -1,0 +1,103 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_08351296420068260053",
+    "num_processo": "0835129-64.2006.8.26.0053",
+    "num_processo_sem_formatacao": "08351296420068260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Requisição de Pequeno Valor",
+    "codigo_classe": 1266,
+    "assunto": null,
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-04-23T14:15:20.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-10T11:44:46.552Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "13/12/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "02/12/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "04/11/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "21/10/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "18/10/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "09/10/2024": [
+      [
+        "Publicação",
+        ""
+      ],
+      [
+        "Protocolo de Petição",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "08/10/2024": [
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "07/10/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ]
+    ],
+    "02/10/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "23/04/2024": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

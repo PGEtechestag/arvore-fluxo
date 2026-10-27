@@ -1,0 +1,110 @@
+posicao,baseline_proximo_movimento,baseline_mediana_dias
+1,Distribuição,0.0
+2,Expedição de documento + Outras Decisões + Conclusão,2.0
+3,Remessa,1.0
+4,Publicação,1.0
+5,Publicação,5.0
+6,Petição,6.0
+7,Publicação,3.0
+8,Publicação,3.0
+9,Publicação,3.0
+10,Expedição de documento,4.0
+11,Expedição de documento,7.0
+12,Petição,6.0
+13,Petição,6.0
+14,Expedição de documento,4.0
+15,Publicação,3.0
+16,Expedição de documento,4.0
+17,Expedição de documento,5.0
+18,Publicação,4.0
+19,Expedição de documento,4.0
+20,Publicação,3.0
+21,Expedição de documento,6.0
+22,Expedição de documento,5.0
+23,Expedição de documento,5.5
+24,Expedição de documento,6.0
+25,Publicação,3.0
+26,Expedição de documento,3.0
+27,Publicação,6.0
+28,Expedição de documento,5.5
+29,Expedição de documento,3.0
+30,Expedição de documento,3.0
+31,Publicação,3.0
+32,Expedição de documento,4.0
+33,Expedição de documento,4.0
+34,Expedição de documento,4.0
+35,Expedição de documento,4.5
+36,Publicação,2.0
+37,Publicação,3.0
+38,Expedição de documento,3.0
+39,Expedição de documento,3.0
+40,Petição,4.0
+41,Expedição de documento,4.0
+42,Conclusão,3.0
+43,Remessa,2.0
+44,Publicação,1.0
+45,Expedição de documento,3.5
+46,Expedição de documento,3.0
+47,Expedição de documento,7.0
+48,Expedição de documento,5.0
+49,Petição,2.5
+50,Conclusão,2.0
+51,Outras Decisões,3.0
+52,Expedição de documento,1.0
+53,Expedição de documento,1.0
+54,Expedição de documento,5.0
+55,Expedição de documento,10.5
+56,Petição,5.0
+57,Publicação,1.0
+58,Publicação,1.0
+59,Expedição de documento,5.0
+60,Expedição de documento,5.0
+61,Petição,6.0
+62,Expedição de documento,1.0
+63,Publicação,1.0
+64,Expedição de documento,3.0
+65,Conclusão + Petição,5.0
+66,Conclusão + Petição,2.0
+67,Expedição de documento,3.0
+68,Expedição de documento,3.5
+69,Expedição de documento,1.0
+70,Conclusão + Petição,8.0
+71,Publicação,2.0
+72,Petição,12.0
+73,Remessa,6.0
+74,Publicação,1.0
+75,Conclusão + Petição,1.0
+76,Expedição de documento,1.0
+77,Expedição de documento,1.0
+78,Conclusão + Petição,5.0
+79,Expedição de documento,3.0
+80,Conclusão + Expedição de documento,1.0
+81,Expedição de documento,2.0
+82,Petição,2.0
+83,Publicação,1.0
+84,Expedição de documento,7.0
+85,Expedição de documento,4.0
+86,Outras Decisões + Conclusão + Expedição de documento,20.0
+87,Documento + Expedição de documento + Remessa,1.0
+88,Publicação,1.0
+89,Documento + Expedição de documento,4.0
+90,Expedição de documento + Ato ordinatório + Petição,1.0
+91,Publicação,1.0
+92,Expedição de documento,1.0
+93,Expedição de documento,11.5
+94,Expedição de documento,3.0
+95,Remessa + Outras Decisões + Conclusão + Petição,23.0
+96,Publicação,1.0
+97,Documento + Expedição de documento,4.0
+98,Remessa + Outras Decisões + Conclusão + Petição,3.0
+99,Publicação,1.0
+100,Expedição de documento,3.0
+101,Expedição de documento,4.0
+102,Expedição de documento,7.0
+103,Conclusão + Expedição de documento,46.0
+104,Expedição de documento + Remessa + Outras Decisões,1.0
+105,Conclusão + Petição + Publicação,1.0
+106,Outras Decisões,1.0
+107,Remessa,1.0
+108,Expedição de documento,2.0
+109,Publicação,2.0

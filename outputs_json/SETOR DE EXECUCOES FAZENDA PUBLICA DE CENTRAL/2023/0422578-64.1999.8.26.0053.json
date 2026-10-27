@@ -1,0 +1,73 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_04225786419998260053",
+    "num_processo": "0422578-64.1999.8.26.0053",
+    "num_processo_sem_formatacao": "04225786419998260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Precatório",
+    "codigo_classe": 1265,
+    "assunto": "Pagamento",
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-12-12T14:43:24.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:48:24.151Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "16/01/2025": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "22/02/2024": [
+      [
+        "Definitivo",
+        ""
+      ],
+      [
+        "Baixa Definitiva",
+        ""
+      ]
+    ],
+    "02/02/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "13/01/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "12/01/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "11/01/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "13/12/2023": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

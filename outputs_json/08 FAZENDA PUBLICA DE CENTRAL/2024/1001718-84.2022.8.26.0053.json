@@ -1,0 +1,59 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10017188420228260053",
+    "num_processo": "1001718-84.2022.8.26.0053",
+    "num_processo_sem_formatacao": "10017188420228260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Precatório",
+    "codigo_classe": 1265,
+    "assunto": "Obrigação de Fazer / Não Fazer",
+    "outros_assuntos": [],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-12-07T08:36:44.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-10T01:58:39.121Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "11/12/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "10/12/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Protocolo de Petição",
+        ""
+      ]
+    ],
+    "09/12/2024": [
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "07/12/2024": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

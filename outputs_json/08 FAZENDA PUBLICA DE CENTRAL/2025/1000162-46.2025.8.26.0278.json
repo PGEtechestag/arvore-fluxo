@@ -1,0 +1,93 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10001624620258260278",
+    "num_processo": "1000162-46.2025.8.26.0278",
+    "num_processo_sem_formatacao": "10001624620258260278",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Mandado de Segurança Cível",
+    "codigo_classe": 120,
+    "assunto": "Concurso Público / Edital",
+    "outros_assuntos": [],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2025-01-10T18:02:34.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-05T23:17:04.227Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "29/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "25/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "24/01/2025": [
+      [
+        "Emenda à Inicial",
+        ""
+      ]
+    ],
+    "23/01/2025": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Recebimento",
+        ""
+      ],
+      [
+        "Redistribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ],
+    "22/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "15/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "14/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "13/01/2025": [
+      [
+        "Incompetência",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "10/01/2025": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

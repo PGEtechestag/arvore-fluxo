@@ -1,0 +1,103 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10080572520238260053",
+    "num_processo": "1008057-25.2023.8.26.0053",
+    "num_processo_sem_formatacao": "10080572520238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+    "codigo_classe": 12078,
+    "assunto": "Garantias Constitucionais",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-02-15T14:36:13.000Z",
+    "data_hora_ultima_atualizacao": "2024-07-20T01:33:02.035Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "22/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "16/12/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "26/10/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "23/09/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "13/09/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "12/09/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "21/02/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "17/02/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "16/02/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "15/02/2023": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: dependência"
+      ]
+    ]
+  }
+}

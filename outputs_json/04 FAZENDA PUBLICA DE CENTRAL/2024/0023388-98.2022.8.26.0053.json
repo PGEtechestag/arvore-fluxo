@@ -1,0 +1,69 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00233889820228260053",
+    "num_processo": "0023388-98.2022.8.26.0053",
+    "num_processo_sem_formatacao": "00233889820228260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Requisição de Pequeno Valor",
+    "codigo_classe": 1266,
+    "assunto": "Readaptação",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-11-08T23:43:36.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-05T23:27:01.666Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "29/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "28/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Protocolo de Petição",
+        ""
+      ]
+    ],
+    "27/01/2025": [
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "12/12/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "08/11/2024": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

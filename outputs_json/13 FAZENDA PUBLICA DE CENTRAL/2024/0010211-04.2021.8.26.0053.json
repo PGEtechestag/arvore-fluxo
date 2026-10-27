@@ -1,0 +1,137 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00102110420218260053",
+    "num_processo": "0010211-04.2021.8.26.0053",
+    "num_processo_sem_formatacao": "00102110420218260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Requisição de Pequeno Valor",
+    "codigo_classe": 1266,
+    "assunto": "Tratamento da Própria Saúde",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-08-21T14:46:22.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-05T23:27:05.752Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "22/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "21/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "20/01/2025": [
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "18/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "17/01/2025": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "16/01/2025": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "15/01/2025": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "09/09/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "29/08/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "28/08/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Protocolo de Petição",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "27/08/2024": [
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ]
+    ],
+    "26/08/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "21/08/2024": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

@@ -1,0 +1,1008 @@
+﻿tipo,profundidade,movimento,processos,conclusao,desfecho,dias_medios_aresta
+no,0,Início do processo,404,False,False,
+no,1,Execução/Cumprimento de Sentença Iniciada (o),68,False,True,
+no,2,Conclusão,16,True,False,
+no,3,Expedição de documento + Outras Decisões,7,False,False,
+no,4,Remessa,5,False,False,
+no,5,Publicação,5,False,True,
+no,6,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,7,Remessa,2,False,False,
+no,8,Publicação,2,False,False,
+no,9,Expedição de documento,2,False,False,
+no,10,Outros,2,False,False,
+no,6,Petição,2,False,False,
+no,7,Outros,2,False,False,
+no,4,Outros,2,False,False,
+no,3,Remessa + Expedição de documento + Outras Decisões,2,False,False,
+no,4,Publicação,2,False,False,
+no,5,Outros,2,False,False,
+no,3,Emenda à Inicial,3,False,False,
+no,4,Remessa,3,False,False,
+no,5,Publicação,3,False,False,
+no,6,Petição,3,False,False,
+no,7,Conclusão,3,True,False,
+no,8,Remessa + Expedição de documento + Emenda a inicial,3,False,False,
+no,9,Publicação,3,False,False,
+no,10,Expedição de documento,3,False,True,
+no,11,Expedição de documento,2,False,True,
+no,3,Conclusão,2,True,False,
+no,4,Outros,2,False,False,
+no,3,Outros,2,False,False,
+no,2,Outras Decisões + Conclusão,4,True,False,
+no,3,Expedição de documento + Remessa,2,False,False,
+no,4,Publicação,2,False,False,
+no,5,Outros,2,False,False,
+no,3,Outros,2,False,False,
+no,2,Expedição de documento + Outras Decisões + Conclusão,33,True,True,
+no,3,Petição,3,False,False,
+no,4,Expedição de documento,3,False,False,
+no,5,Expedição de documento + Outras Decisões + Conclusão,3,True,False,
+no,6,Remessa,3,False,False,
+no,7,Publicação,2,False,False,
+no,8,Outros,2,False,False,
+no,7,Outros,1,False,False,
+no,3,Expedição de documento,5,False,False,
+no,4,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,4,True,False,
+no,5,Remessa,4,False,False,
+no,6,Publicação,4,False,False,
+no,7,Recebimento + Expedição de documento,2,False,False,
+no,8,Ato ordinatório,2,False,True,
+no,9,Outros,1,False,False,
+no,7,Outros,2,False,False,
+no,4,Outros,1,False,False,
+no,3,Remessa,20,False,False,
+no,4,Publicação,16,False,True,
+no,5,Expedição de documento,9,False,False,
+no,6,Petição,8,False,False,
+no,7,Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,2,True,False,
+no,8,Remessa,2,False,False,
+no,9,Publicação,2,False,False,
+no,10,Petição,2,False,False,
+no,11,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,12,Remessa,2,False,False,
+no,13,Publicação,2,False,False,
+no,14,Petição,2,False,False,
+no,15,Conclusão,2,True,False,
+no,16,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,17,Publicação + Remessa,2,False,False,
+no,18,Expedição de documento,2,False,False,
+no,19,Recebimento,2,False,False,
+no,20,Execução/Cumprimento de Sentença Iniciada (o),2,False,False,
+no,21,Ato ordinatório,2,False,False,
+no,22,Petição,2,False,False,
+no,23,Outros,2,False,False,
+no,7,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,8,Remessa,2,False,False,
+no,9,Publicação,2,False,False,
+no,10,Outros,2,False,False,
+no,7,Outros,4,False,False,
+no,6,Outros,1,False,False,
+no,5,Petição,5,False,False,
+no,6,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,7,Outros,2,False,False,
+no,6,Outros,3,False,False,
+no,5,Outros,1,False,False,
+no,4,Petição + Publicação,4,False,False,
+no,5,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,6,Remessa,2,False,False,
+no,7,Publicação,2,False,False,
+no,8,Expedição de documento,2,False,False,
+no,9,Ato ordinatório,2,False,False,
+no,10,Recebimento,2,False,False,
+no,11,Outros,2,False,False,
+no,5,Expedição de documento,2,False,False,
+no,6,Ato ordinatório,2,False,False,
+no,7,Conclusão,2,True,False,
+no,8,Expedição de documento + Outras Decisões,2,False,False,
+no,9,Remessa,2,False,False,
+no,10,Publicação,2,False,False,
+no,11,Expedição de documento,2,False,False,
+no,12,Recebimento,2,False,False,
+no,13,Outros,2,False,False,
+no,3,Outros,2,False,False,
+no,2,Ato ordinatório,2,False,False,
+no,3,Remessa,2,False,False,
+no,4,Publicação,2,False,False,
+no,5,Petição,2,False,False,
+no,6,Outros,2,False,False,
+no,2,Petição,3,False,True,
+no,3,Ato ordinatório,2,False,False,
+no,4,Outros,2,False,False,
+no,2,Remessa + Expedição de documento + Outras Decisões + Conclusão,4,True,False,
+no,3,Publicação,4,False,True,
+no,4,Expedição de documento,2,False,False,
+no,5,Petição,2,False,True,
+no,6,Outros,1,False,False,
+no,4,Outros,1,False,False,
+no,2,Outros,1,False,False,
+no,1,Distribuição,168,False,False,
+no,2,Outras Decisões + Conclusão,6,True,False,
+no,3,Remessa,6,False,False,
+no,4,Publicação,2,False,False,
+no,5,Outros,2,False,False,
+no,4,Redistribuição + Remessa + Publicação,2,False,False,
+no,5,Outros,2,False,False,
+no,4,Outros,2,False,False,
+no,2,Conclusão + Expedição de documento,54,True,False,
+no,3,Outras Decisões,11,False,False,
+no,4,Remessa,8,False,False,
+no,5,Publicação,7,False,False,
+no,6,Expedição de documento,5,False,False,
+no,7,Expedição de documento,3,False,True,
+no,8,Outros,1,False,False,
+no,7,Petição,2,False,False,
+no,8,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,9,Remessa,2,False,False,
+no,10,Publicação,2,False,False,
+no,11,Expedição de documento,2,False,True,
+no,6,Outros,2,False,False,
+no,5,Outros,1,False,False,
+no,4,Outros,3,False,False,
+no,3,Remessa + Expedição de documento + Outras Decisões,3,False,False,
+no,4,Publicação,3,False,False,
+no,5,Expedição de documento,3,False,False,
+no,6,Petição,3,False,False,
+no,7,Conclusão,2,True,False,
+no,8,Expedição de documento + Outras Decisões,2,False,False,
+no,9,Remessa,2,False,False,
+no,10,Publicação,2,False,False,
+no,11,Expedição de documento,2,False,False,
+no,12,Petição,2,False,True,
+no,7,Outros,1,False,False,
+no,3,Expedição de documento + Outras Decisões,39,False,False,
+no,4,Remessa,39,False,False,
+no,5,Publicação,38,False,False,
+no,6,Expedição de documento,26,False,True,
+no,7,Petição,3,False,False,
+no,8,Conclusão,3,True,False,
+no,9,Outros,3,False,False,
+no,7,Ato ordinatório,3,False,True,
+no,8,Outros,2,False,False,
+no,7,Petição + Ato ordinatório,2,False,False,
+no,8,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,9,Remessa,2,False,False,
+no,10,Publicação,2,False,True,
+no,7,Expedição de documento,1,False,True,
+no,6,Petição,9,False,False,
+no,7,Conclusão,6,True,False,
+no,8,Expedição de documento + Outras Decisões,5,False,False,
+no,9,Remessa,5,False,False,
+no,10,Publicação,5,False,True,
+no,11,Expedição de documento,4,False,True,
+no,12,Expedição de documento,2,False,True,
+no,8,Outros,1,False,False,
+no,7,Expedição de documento + Outras Decisões + Conclusão,3,True,False,
+no,8,Remessa,3,False,False,
+no,9,Publicação,3,False,False,
+no,10,Expedição de documento,3,False,True,
+no,11,Outros,1,False,False,
+no,6,Expedição de documento + Outras Decisões + Conclusão + Petição,3,True,False,
+no,7,Expedição de documento + Remessa,3,False,False,
+no,8,Publicação,3,False,False,
+no,9,Expedição de documento,3,False,False,
+no,10,Expedição de documento,3,False,False,
+no,11,Expedição de documento,3,False,False,
+no,12,Petição,3,False,True,
+no,13,Petição,1,False,True,
+no,5,Outros,1,False,False,
+no,3,Outros,1,False,False,
+no,2,Remessa + Outras Decisões + Conclusão + Expedição de documento,2,True,False,
+no,3,Outros,2,False,False,
+no,2,Outras Decisões + Conclusão + Expedição de documento,9,True,False,
+no,3,Remessa,3,False,False,
+no,4,Remessa + Publicação,2,False,False,
+no,5,Redistribuição,2,False,False,
+no,6,Outros,2,False,False,
+no,4,Outros,1,False,False,
+no,3,Outros,6,False,False,
+no,2,Conclusão,20,True,False,
+no,3,Outras Decisões,17,False,False,
+no,4,Remessa,16,False,False,
+no,5,Publicação,14,False,False,
+no,6,Remessa + Expedição de documento,2,False,False,
+no,7,Outros,2,False,False,
+no,6,Petição,2,False,False,
+no,7,Redistribuição + Remessa + Expedição de documento,2,False,False,
+no,8,Outros,2,False,False,
+no,6,Conclusão + Expedição de documento + Redistribuição + Remessa,3,True,False,
+no,7,Outros,3,False,False,
+no,6,Redistribuição + Remessa,2,False,False,
+no,7,Outros,2,False,False,
+no,6,Outros,5,False,False,
+no,5,Outros,2,False,False,
+no,4,Outros,1,False,False,
+no,3,Outros,3,False,False,
+no,2,Expedição de documento + Antecipação de tutela + Conclusão,2,True,False,
+no,3,Expedição de documento + Remessa,2,False,False,
+no,4,Publicação,2,False,False,
+no,5,Outros,2,False,False,
+no,2,Expedição de documento + Outras Decisões + Conclusão,63,True,False,
+no,3,Remessa,60,False,False,
+no,4,Publicação,21,False,False,
+no,5,Expedição de documento,17,False,True,
+no,6,Petição,9,False,False,
+no,7,Conclusão,9,True,False,
+no,8,Expedição de documento + Outras Decisões,9,False,False,
+no,9,Remessa,9,False,False,
+no,10,Publicação,8,False,False,
+no,11,Expedição de documento,8,False,False,
+no,12,Petição,8,False,True,
+no,13,Petição,1,False,True,
+no,10,Outros,1,False,False,
+no,6,Ato ordinatório,3,False,True,
+no,7,Outros,1,False,False,
+no,6,Outros,1,False,False,
+no,5,Petição,4,False,False,
+no,6,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,7,Remessa,2,False,False,
+no,8,Publicação,2,False,False,
+no,9,Expedição de documento,2,False,True,
+no,6,Conclusão,2,True,False,
+no,7,Expedição de documento + Outras Decisões,2,False,False,
+no,8,Remessa,2,False,False,
+no,9,Publicação,2,False,True,
+no,4,Conclusão + Expedição de documento + Publicação,39,True,False,
+no,5,Expedição de documento + Mero expediente,33,False,False,
+no,6,Remessa,31,False,False,
+no,7,Publicação,30,False,False,
+no,8,Expedição de documento,30,False,True,
+no,7,Outros,1,False,False,
+no,6,Petição + Remessa,2,False,False,
+no,7,Publicação,2,False,False,
+no,8,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,9,Remessa,2,False,False,
+no,10,Publicação,2,False,False,
+no,11,Expedição de documento,2,False,True,
+no,5,Expedição de documento + Outras Decisões + Petição,2,False,False,
+no,6,Remessa,2,False,False,
+no,7,Publicação,2,False,False,
+no,8,Expedição de documento,2,False,True,
+no,5,Petição + Expedição de documento + Mero expediente,3,False,False,
+no,6,Remessa,3,False,False,
+no,7,Publicação,3,False,False,
+no,8,Expedição de documento + Outras Decisões + Conclusão,3,True,False,
+no,9,Remessa,3,False,False,
+no,10,Publicação,3,False,True,
+no,11,Expedição de documento,2,False,True,
+no,5,Outros,1,False,False,
+no,3,Remessa + Petição,3,False,False,
+no,4,Conclusão + Expedição de documento + Publicação,3,True,False,
+no,5,Expedição de documento + Outras Decisões,3,False,False,
+no,6,Remessa,3,False,False,
+no,7,Publicação,3,False,True,
+no,8,Expedição de documento,1,False,True,
+no,2,Outros,12,False,False,
+no,1,Outras Decisões + Conclusão + Distribuição,2,True,False,
+no,2,Remessa,2,False,False,
+no,3,Outros,2,False,False,
+no,1,Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),5,True,False,
+no,2,Remessa,3,False,False,
+no,3,Publicação,3,False,False,
+no,4,Petição,2,False,False,
+no,5,Expedição de documento,2,False,False,
+no,6,Outros,2,False,False,
+no,4,Outros,1,False,False,
+no,2,Outros,2,False,False,
+no,1,Recebimento,32,False,False,
+no,2,Expedição de precatório/rpv + Conclusão,9,True,False,
+no,3,Remessa,3,False,False,
+no,4,Outros,3,False,False,
+no,3,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,4,False,False,
+no,4,Publicação,4,False,False,
+no,5,Expedição de documento + Ato ordinatório,4,False,False,
+no,6,Petição,3,False,False,
+no,7,Ato ordinatório,2,False,False,
+no,8,Outros,2,False,False,
+no,7,Outros,1,False,False,
+no,6,Outros,1,False,False,
+no,3,Enviada ao Tribunal + Remessa,2,False,False,
+no,4,Publicação + Expedição de documento + Protocolo de Petição,2,False,False,
+no,5,Expedição de documento + Ato ordinatório,2,False,False,
+no,6,Outros,2,False,False,
+no,2,Remessa + Expedição de documento + Ato ordinatório,5,False,False,
+no,3,Publicação,4,False,False,
+no,4,Petição,2,False,False,
+no,5,Expedição de documento,2,False,False,
+no,6,Outros,2,False,False,
+no,4,Expedição de documento,2,False,False,
+no,5,Petição,2,False,False,
+no,6,Outros,2,False,False,
+no,3,Outros,1,False,False,
+no,2,Expedição de documento + Ato ordinatório,3,False,False,
+no,3,Remessa,3,False,False,
+no,4,Publicação,2,False,True,
+no,5,Outros,1,False,False,
+no,4,Outros,1,False,False,
+no,2,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,3,True,False,
+no,3,Remessa,3,False,False,
+no,4,Publicação,2,False,False,
+no,5,Expedição de documento + Ato ordinatório,2,False,False,
+no,6,Outros,2,False,False,
+no,4,Outros,1,False,False,
+no,2,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2,True,False,
+no,3,Outros,2,False,False,
+no,2,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,4,True,False,
+no,3,Expedição de documento + Protocolo de Petição,2,False,False,
+no,4,Remessa,2,False,False,
+no,5,Publicação,2,False,False,
+no,6,Expedição de documento + Ato ordinatório,2,False,False,
+no,7,Outros,2,False,False,
+no,3,Outros,2,False,False,
+no,2,Outros,6,False,False,
+no,1,Conclusão + Distribuição,10,True,False,
+no,2,Outras Decisões,3,False,False,
+no,3,Remessa,2,False,False,
+no,4,Publicação,2,False,False,
+no,5,Outros,2,False,False,
+no,3,Outros,1,False,False,
+no,2,Antecipação de tutela,2,False,False,
+no,3,Remessa,2,False,False,
+no,4,Publicação,2,False,False,
+no,5,Petição,2,False,False,
+no,6,Outros,2,False,False,
+no,2,Remessa + Liminar,2,False,False,
+no,3,Publicação,2,False,False,
+no,4,Outros,2,False,False,
+no,2,Outros,3,False,False,
+no,1,Conclusão + Execução/Cumprimento de Sentença Iniciada (o),24,True,False,
+no,2,Expedição de documento + Outras Decisões,3,False,False,
+no,3,Remessa,2,False,False,
+no,4,Publicação,2,False,True,
+no,3,Outros,1,False,False,
+no,2,Conclusão,9,True,False,
+no,3,Remessa + Expedição de documento + Mero expediente,3,False,False,
+no,4,Publicação,2,False,False,
+no,5,Petição,2,False,False,
+no,6,Expedição de documento,2,False,False,
+no,7,Outros,2,False,False,
+no,4,Outros,1,False,False,
+no,3,Expedição de documento + Mero expediente,3,False,False,
+no,4,Remessa,3,False,False,
+no,5,Publicação,3,False,False,
+no,6,Petição,2,False,False,
+no,7,Expedição de documento,2,False,False,
+no,8,Conclusão,2,True,False,
+no,9,Outros,2,False,False,
+no,6,Outros,1,False,False,
+no,3,Remessa + Mero expediente,3,False,False,
+no,4,Publicação,3,False,False,
+no,5,Outros,3,False,False,
+no,2,Expedição de documento + Mero expediente,7,False,False,
+no,3,Remessa,6,False,False,
+no,4,Publicação,6,False,False,
+no,5,Expedição de documento,5,False,False,
+no,6,Petição,2,False,False,
+no,7,Outros,2,False,False,
+no,6,Outros,3,False,False,
+no,5,Outros,1,False,False,
+no,3,Outros,1,False,False,
+no,2,Outros,5,False,False,
+no,1,Conclusão + Expedição de documento + Distribuição,59,True,False,
+no,2,Remessa + Expedição de documento + Outras Decisões,19,False,False,
+no,3,Publicação,19,False,False,
+no,4,Expedição de documento,15,False,False,
+no,5,Petição,11,False,False,
+no,6,Expedição de documento + Outras Decisões + Conclusão,4,True,False,
+no,7,Remessa,4,False,False,
+no,8,Publicação,4,False,True,
+no,9,Expedição de documento,2,False,False,
+no,10,Outros,2,False,False,
+no,6,Conclusão,7,True,False,
+no,7,Expedição de documento + Outras Decisões,4,False,False,
+no,8,Remessa,4,False,False,
+no,9,Publicação,4,False,False,
+no,10,Expedição de documento,2,False,False,
+no,11,Petição,2,False,True,
+no,12,Petição,1,False,True,
+no,10,Petição,2,False,False,
+no,11,Expedição de documento,2,False,True,
+no,7,Remessa + Expedição de documento + Outras Decisões,3,False,False,
+no,8,Publicação,3,False,True,
+no,5,Conclusão + Petição,1,True,True,
+no,5,Outros,3,False,False,
+no,4,Petição,2,False,False,
+no,5,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,6,Remessa,2,False,False,
+no,7,Publicação + Expedição de documento,2,False,False,
+no,8,Petição,1,False,True,
+no,8,Outros,1,False,False,
+no,4,Outros,2,False,False,
+no,2,Remessa + Outras Decisões,5,False,False,
+no,3,Expedição de documento + Ato ordinatório + Publicação,5,False,False,
+no,4,Petição + Expedição de documento,2,False,False,
+no,5,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,6,Remessa,2,False,False,
+no,7,Publicação,2,False,False,
+no,8,Expedição de documento,2,False,False,
+no,9,Petição,2,False,True,
+no,4,Expedição de documento,3,False,False,
+no,5,Petição,3,False,False,
+no,6,Conclusão,3,True,False,
+no,7,Expedição de documento + Outras Decisões,3,False,False,
+no,8,Remessa,3,False,False,
+no,9,Publicação,3,False,False,
+no,10,Petição + Expedição de documento,1,False,True,
+no,10,Outros,2,False,False,
+no,2,Expedição de documento + Outras Decisões,32,False,False,
+no,3,Remessa,32,False,False,
+no,4,Publicação,31,False,False,
+no,5,Expedição de documento,23,False,True,
+no,6,Petição,6,False,True,
+no,7,Conclusão,3,True,False,
+no,8,Expedição de documento + Outras Decisões,2,False,False,
+no,9,Remessa,2,False,False,
+no,10,Publicação,2,False,False,
+no,11,Expedição de documento,2,False,False,
+no,12,Outros,2,False,False,
+no,8,Outros,1,False,False,
+no,7,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,8,Remessa,2,False,False,
+no,9,Publicação,2,False,False,
+no,10,Expedição de documento,2,False,True,
+no,11,Outros,1,False,False,
+no,6,Conclusão + Petição,2,True,True,
+no,7,Outros,1,False,False,
+no,6,Ato ordinatório,3,False,True,
+no,5,Petição,7,False,False,
+no,6,Conclusão,4,True,False,
+no,7,Expedição de documento + Outras Decisões,3,False,False,
+no,8,Remessa,3,False,False,
+no,9,Publicação,3,False,True,
+no,10,Expedição de documento,1,False,True,
+no,7,Outros,1,False,False,
+no,6,Expedição de documento + Outras Decisões + Conclusão,3,True,False,
+no,7,Remessa,3,False,False,
+no,8,Publicação,3,False,False,
+no,9,Expedição de documento,3,False,True,
+no,5,Expedição de documento + Ato ordinatório,1,False,True,
+no,4,Outros,1,False,False,
+no,2,Outras Decisões,2,False,False,
+no,3,Outros,2,False,False,
+no,2,Outros,1,False,False,
+no,1,Expedição de documento + Outras Decisões + Conclusão + Distribuição,27,True,False,
+no,2,Remessa,27,False,False,
+no,3,Publicação,27,False,False,
+no,4,Expedição de documento,20,False,True,
+no,5,Petição,6,False,False,
+no,6,Conclusão,5,True,False,
+no,7,Expedição de documento + Outras Decisões,5,False,False,
+no,8,Remessa,5,False,False,
+no,9,Publicação,5,False,False,
+no,10,Expedição de documento,4,False,False,
+no,11,Petição,4,False,True,
+no,10,Petição + Expedição de documento,1,False,True,
+no,6,Outros,1,False,False,
+no,5,Conclusão + Petição,4,True,False,
+no,6,Conclusão,3,True,False,
+no,7,Expedição de documento + Outras Decisões,3,False,False,
+no,8,Remessa,3,False,False,
+no,9,Publicação,3,False,False,
+no,10,Expedição de documento,3,False,False,
+no,11,Petição,3,False,True,
+no,12,Petição,1,False,True,
+no,6,Outros,1,False,False,
+no,5,Ato ordinatório,4,False,False,
+no,6,Conclusão + Petição,2,True,True,
+no,6,Petição,2,False,False,
+no,7,Expedição de documento + Outras Decisões + Conclusão,2,True,False,
+no,8,Remessa,2,False,False,
+no,9,Publicação,2,False,True,
+no,5,Outros,1,False,False,
+no,4,Petição,6,False,False,
+no,5,Expedição de documento + Outras Decisões + Conclusão,4,True,False,
+no,6,Remessa,4,False,False,
+no,7,Publicação,4,False,False,
+no,8,Expedição de documento,4,False,False,
+no,9,Expedição de documento,4,False,False,
+no,10,Petição,3,False,True,
+no,11,Outros,1,False,False,
+no,10,Outros,1,False,False,
+no,5,Conclusão,2,True,False,
+no,6,Expedição de documento + Outras Decisões,2,False,False,
+no,7,Remessa,2,False,False,
+no,8,Outros,2,False,False,
+no,4,Outros,1,False,False,
+no,1,Outros,9,False,False,
+aresta,0,Início do processo -> Execução/Cumprimento de Sentença Iniciada (o),68,,,
+aresta,0,Início do processo -> Distribuição,168,,,
+aresta,0,Início do processo -> Outras Decisões + Conclusão + Distribuição,2,,,
+aresta,0,Início do processo -> Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),5,,,
+aresta,0,Início do processo -> Recebimento,32,,,
+aresta,0,Início do processo -> Conclusão + Distribuição,10,,,
+aresta,0,Início do processo -> Conclusão + Execução/Cumprimento de Sentença Iniciada (o),24,,,
+aresta,0,Início do processo -> Conclusão + Expedição de documento + Distribuição,59,,,
+aresta,0,Início do processo -> Expedição de documento + Outras Decisões + Conclusão + Distribuição,27,,,
+aresta,0,Início do processo -> Outros,9,,,
+aresta,1,Execução/Cumprimento de Sentença Iniciada (o) -> Conclusão,16,,,5.7
+aresta,1,Execução/Cumprimento de Sentença Iniciada (o) -> Outras Decisões + Conclusão,4,,,8.0
+aresta,1,Execução/Cumprimento de Sentença Iniciada (o) -> Expedição de documento + Outras Decisões + Conclusão,33,,,20.7
+aresta,1,Execução/Cumprimento de Sentença Iniciada (o) -> Ato ordinatório,2,,,55.0
+aresta,1,Execução/Cumprimento de Sentença Iniciada (o) -> Petição,3,,,46.7
+aresta,1,Execução/Cumprimento de Sentença Iniciada (o) -> Remessa + Expedição de documento + Outras Decisões + Conclusão,4,,,1.5
+aresta,1,Execução/Cumprimento de Sentença Iniciada (o) -> Outros,1,,,
+aresta,2,Conclusão -> Expedição de documento + Outras Decisões,7,,,1.7
+aresta,2,Conclusão -> Remessa + Expedição de documento + Outras Decisões,2,,,1.0
+aresta,2,Conclusão -> Emenda à Inicial,3,,,33.7
+aresta,2,Conclusão -> Conclusão,2,,,7.0
+aresta,2,Conclusão -> Outros,2,,,
+aresta,3,Expedição de documento + Outras Decisões -> Remessa,5,,,2.4
+aresta,3,Expedição de documento + Outras Decisões -> Outros,2,,,
+aresta,4,Remessa -> Publicação,5,,,1.0
+aresta,5,Publicação -> Expedição de documento + Outras Decisões + Conclusão,2,,,139.5
+aresta,5,Publicação -> Petição,2,,,16.0
+aresta,6,Expedição de documento + Outras Decisões + Conclusão -> Remessa,2,,,1.0
+aresta,7,Remessa -> Publicação,2,,,1.0
+aresta,8,Publicação -> Expedição de documento,2,,,9.0
+aresta,9,Expedição de documento -> Outros,2,,,
+aresta,6,Petição -> Outros,2,,,
+aresta,3,Remessa + Expedição de documento + Outras Decisões -> Publicação,2,,,1.0
+aresta,4,Publicação -> Outros,2,,,
+aresta,3,Emenda à Inicial -> Remessa,3,,,2.3
+aresta,4,Remessa -> Publicação,3,,,1.0
+aresta,5,Publicação -> Petição,3,,,7.0
+aresta,6,Petição -> Conclusão,3,,,12.7
+aresta,7,Conclusão -> Remessa + Expedição de documento + Emenda a inicial,3,,,16.3
+aresta,8,Remessa + Expedição de documento + Emenda a inicial -> Publicação,3,,,1.0
+aresta,9,Publicação -> Expedição de documento,3,,,8.0
+aresta,10,Expedição de documento -> Expedição de documento,2,,,6.5
+aresta,3,Conclusão -> Outros,2,,,
+aresta,2,Outras Decisões + Conclusão -> Expedição de documento + Remessa,2,,,1.0
+aresta,2,Outras Decisões + Conclusão -> Outros,2,,,
+aresta,3,Expedição de documento + Remessa -> Publicação,2,,,1.0
+aresta,4,Publicação -> Outros,2,,,
+aresta,2,Expedição de documento + Outras Decisões + Conclusão -> Petição,3,,,9.0
+aresta,2,Expedição de documento + Outras Decisões + Conclusão -> Expedição de documento,5,,,11.0
+aresta,2,Expedição de documento + Outras Decisões + Conclusão -> Remessa,20,,,1.1
+aresta,2,Expedição de documento + Outras Decisões + Conclusão -> Outros,2,,,
+aresta,3,Petição -> Expedição de documento,3,,,2.0
+aresta,4,Expedição de documento -> Expedição de documento + Outras Decisões + Conclusão,3,,,46.0
+aresta,5,Expedição de documento + Outras Decisões + Conclusão -> Remessa,3,,,1.0
+aresta,6,Remessa -> Publicação,2,,,1.0
+aresta,6,Remessa -> Outros,1,,,
+aresta,7,Publicação -> Outros,2,,,
+aresta,3,Expedição de documento -> Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,4,,,55.5
+aresta,3,Expedição de documento -> Outros,1,,,
+aresta,4,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo -> Remessa,4,,,1.5
+aresta,5,Remessa -> Publicação,4,,,2.5
+aresta,6,Publicação -> Recebimento + Expedição de documento,2,,,6.0
+aresta,6,Publicação -> Outros,2,,,
+aresta,7,Recebimento + Expedição de documento -> Ato ordinatório,2,,,25.5
+aresta,8,Ato ordinatório -> Outros,1,,,
+aresta,3,Remessa -> Publicação,16,,,1.3
+aresta,3,Remessa -> Petição + Publicação,4,,,1.0
+aresta,4,Publicação -> Expedição de documento,9,,,14.0
+aresta,4,Publicação -> Petição,5,,,28.2
+aresta,4,Publicação -> Outros,1,,,
+aresta,5,Expedição de documento -> Petição,8,,,21.5
+aresta,5,Expedição de documento -> Outros,1,,,
+aresta,6,Petição -> Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,2,,,7.0
+aresta,6,Petição -> Expedição de documento + Outras Decisões + Conclusão,2,,,74.5
+aresta,6,Petição -> Outros,4,,,
+aresta,7,Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão -> Remessa,2,,,1.0
+aresta,8,Remessa -> Publicação,2,,,1.0
+aresta,9,Publicação -> Petição,2,,,20.0
+aresta,10,Petição -> Expedição de documento + Outras Decisões + Conclusão,2,,,12.0
+aresta,11,Expedição de documento + Outras Decisões + Conclusão -> Remessa,2,,,1.0
+aresta,12,Remessa -> Publicação,2,,,1.0
+aresta,13,Publicação -> Petição,2,,,30.0
+aresta,14,Petição -> Conclusão,2,,,52.0
+aresta,15,Conclusão -> Expedição de documento + Outras Decisões + Conclusão,2,,,20.0
+aresta,16,Expedição de documento + Outras Decisões + Conclusão -> Publicação + Remessa,2,,,1.0
+aresta,17,Publicação + Remessa -> Expedição de documento,2,,,10.0
+aresta,18,Expedição de documento -> Recebimento,2,,,6.0
+aresta,19,Recebimento -> Execução/Cumprimento de Sentença Iniciada (o),2,,,20.0
+aresta,20,Execução/Cumprimento de Sentença Iniciada (o) -> Ato ordinatório,2,,,1.0
+aresta,21,Ato ordinatório -> Petição,2,,,27.0
+aresta,22,Petição -> Outros,2,,,
+aresta,7,Expedição de documento + Outras Decisões + Conclusão -> Remessa,2,,,1.0
+aresta,8,Remessa -> Publicação,2,,,2.5
+aresta,9,Publicação -> Outros,2,,,
+aresta,5,Petição -> Expedição de documento + Outras Decisões + Conclusão,2,,,40.5
+aresta,5,Petição -> Outros,3,,,
+aresta,6,Expedição de documento + Outras Decisões + Conclusão -> Outros,2,,,
+aresta,4,Petição + Publicação -> Expedição de documento + Outras Decisões + Conclusão,2,,,48.0
+aresta,4,Petição + Publicação -> Expedição de documento,2,,,42.0
+aresta,5,Expedição de documento + Outras Decisões + Conclusão -> Remessa,2,,,1.0
+aresta,6,Remessa -> Publicação,2,,,1.0
+aresta,7,Publicação -> Expedição de documento,2,,,9.0
+aresta,8,Expedição de documento -> Ato ordinatório,2,,,50.0
+aresta,9,Ato ordinatório -> Recebimento,2,,,19.0
+aresta,10,Recebimento -> Outros,2,,,
+aresta,5,Expedição de documento -> Ato ordinatório,2,,,4.0
+aresta,6,Ato ordinatório -> Conclusão,2,,,1.0
+aresta,7,Conclusão -> Expedição de documento + Outras Decisões,2,,,1.0
+aresta,8,Expedição de documento + Outras Decisões -> Remessa,2,,,21.0
+aresta,9,Remessa -> Publicação,2,,,1.0
+aresta,10,Publicação -> Expedição de documento,2,,,22.0
+aresta,11,Expedição de documento -> Recebimento,2,,,1.0
+aresta,12,Recebimento -> Outros,2,,,
+aresta,2,Ato ordinatório -> Remessa,2,,,2.0
+aresta,3,Remessa -> Publicação,2,,,1.0
+aresta,4,Publicação -> Petição,2,,,4.5
+aresta,5,Petição -> Outros,2,,,
+aresta,2,Petição -> Ato ordinatório,2,,,28.5
+aresta,3,Ato ordinatório -> Outros,2,,,
+aresta,2,Remessa + Expedição de documento + Outras Decisões + Conclusão -> Publicação,4,,,1.0
+aresta,3,Publicação -> Expedição de documento,2,,,10.0
+aresta,3,Publicação -> Outros,1,,,
+aresta,4,Expedição de documento -> Petição,2,,,18.0
+aresta,5,Petição -> Outros,1,,,
+aresta,1,Distribuição -> Outras Decisões + Conclusão,6,,,1.8
+aresta,1,Distribuição -> Conclusão + Expedição de documento,54,,,1.6
+aresta,1,Distribuição -> Remessa + Outras Decisões + Conclusão + Expedição de documento,2,,,2.0
+aresta,1,Distribuição -> Outras Decisões + Conclusão + Expedição de documento,9,,,1.8
+aresta,1,Distribuição -> Conclusão,20,,,1.7
+aresta,1,Distribuição -> Expedição de documento + Antecipação de tutela + Conclusão,2,,,1.0
+aresta,1,Distribuição -> Expedição de documento + Outras Decisões + Conclusão,63,,,11.4
+aresta,1,Distribuição -> Outros,12,,,
+aresta,2,Outras Decisões + Conclusão -> Remessa,6,,,1.7
+aresta,3,Remessa -> Publicação,2,,,1.0
+aresta,3,Remessa -> Redistribuição + Remessa + Publicação,2,,,1.5
+aresta,3,Remessa -> Outros,2,,,
+aresta,4,Publicação -> Outros,2,,,
+aresta,4,Redistribuição + Remessa + Publicação -> Outros,2,,,
+aresta,2,Conclusão + Expedição de documento -> Outras Decisões,11,,,4.7
+aresta,2,Conclusão + Expedição de documento -> Remessa + Expedição de documento + Outras Decisões,3,,,1.0
+aresta,2,Conclusão + Expedição de documento -> Expedição de documento + Outras Decisões,39,,,5.8
+aresta,2,Conclusão + Expedição de documento -> Outros,1,,,
+aresta,3,Outras Decisões -> Remessa,8,,,1.5
+aresta,3,Outras Decisões -> Outros,3,,,
+aresta,4,Remessa -> Publicação,7,,,2.9
+aresta,4,Remessa -> Outros,1,,,
+aresta,5,Publicação -> Expedição de documento,5,,,8.8
+aresta,5,Publicação -> Outros,2,,,
+aresta,6,Expedição de documento -> Expedição de documento,3,,,32.3
+aresta,6,Expedição de documento -> Petição,2,,,10.5
+aresta,7,Expedição de documento -> Outros,1,,,
+aresta,7,Petição -> Expedição de documento + Outras Decisões + Conclusão,2,,,10.0
+aresta,8,Expedição de documento + Outras Decisões + Conclusão -> Remessa,2,,,1.0
+aresta,9,Remessa -> Publicação,2,,,1.0
+aresta,10,Publicação -> Expedição de documento,2,,,11.0
+aresta,3,Remessa + Expedição de documento + Outras Decisões -> Publicação,3,,,1.0
+aresta,4,Publicação -> Expedição de documento,3,,,10.0
+aresta,5,Expedição de documento -> Petição,3,,,28.3
+aresta,6,Petição -> Conclusão,2,,,3.0
+aresta,6,Petição -> Outros,1,,,
+aresta,7,Conclusão -> Expedição de documento + Outras Decisões,2,,,2.5
+aresta,8,Expedição de documento + Outras Decisões -> Remessa,2,,,1.0
+aresta,9,Remessa -> Publicação,2,,,1.0
+aresta,10,Publicação -> Expedição de documento,2,,,9.0
+aresta,11,Expedição de documento -> Petição,2,,,13.5
+aresta,3,Expedição de documento + Outras Decisões -> Remessa,39,,,1.1
+aresta,4,Remessa -> Publicação,38,,,1.0
+aresta,4,Remessa -> Outros,1,,,
+aresta,5,Publicação -> Expedição de documento,26,,,29.6
+aresta,5,Publicação -> Petição,9,,,15.8
+aresta,5,Publicação -> Expedição de documento + Outras Decisões + Conclusão + Petição,3,,,11.0
+aresta,6,Expedição de documento -> Petição,3,,,27.7
+aresta,6,Expedição de documento -> Ato ordinatório,3,,,33.3
+aresta,6,Expedição de documento -> Petição + Ato ordinatório,2,,,28.0
+aresta,6,Expedição de documento -> Expedição de documento,1,,,11.0
+aresta,7,Petição -> Conclusão,3,,,1.3
+aresta,8,Conclusão -> Outros,3,,,
+aresta,7,Ato ordinatório -> Outros,2,,,
+aresta,7,Petição + Ato ordinatório -> Expedição de documento + Outras Decisões + Conclusão,2,,,13.0
+aresta,8,Expedição de documento + Outras Decisões + Conclusão -> Remessa,2,,,1.0
+aresta,9,Remessa -> Publicação,2,,,1.0
+aresta,6,Petição -> Conclusão,6,,,10.0
+aresta,6,Petição -> Expedição de documento + Outras Decisões + Conclusão,3,,,1.7
+aresta,7,Conclusão -> Expedição de documento + Outras Decisões,5,,,1.0
+aresta,7,Conclusão -> Outros,1,,,
+aresta,8,Expedição de documento + Outras Decisões -> Remessa,5,,,1.0
+aresta,9,Remessa -> Publicação,5,,,1.0
+aresta,10,Publicação -> Expedição de documento,4,,,9.0
+aresta,11,Expedição de documento -> Expedição de documento,2,,,1.0
+aresta,7,Expedição de documento + Outras Decisões + Conclusão -> Remessa,3,,,1.0
+aresta,8,Remessa -> Publicação,3,,,1.0
+aresta,9,Publicação -> Expedição de documento,3,,,8.3
+aresta,10,Expedição de documento -> Outros,1,,,
+aresta,6,Expedição de documento + Outras Decisões + Conclusão + Petição -> Expedição de documento + Remessa,3,,,1.0
+aresta,7,Expedição de documento + Remessa -> Publicação,3,,,1.0
+aresta,8,Publicação -> Expedição de documento,3,,,7.0
+aresta,9,Expedição de documento -> Expedição de documento,3,,,2.0
+aresta,10,Expedição de documento -> Expedição de documento,3,,,1.0
+aresta,11,Expedição de documento -> Petição,3,,,11.0
+aresta,12,Petição -> Petição,1,,,8.0
+aresta,2,Remessa + Outras Decisões + Conclusão + Expedição de documento -> Outros,2,,,
+aresta,2,Outras Decisões + Conclusão + Expedição de documento -> Remessa,3,,,1.0
+aresta,2,Outras Decisões + Conclusão + Expedição de documento -> Outros,6,,,
+aresta,3,Remessa -> Remessa + Publicação,2,,,1.0
+aresta,3,Remessa -> Outros,1,,,
+aresta,4,Remessa + Publicação -> Redistribuição,2,,,1.0
+aresta,5,Redistribuição -> Outros,2,,,
+aresta,2,Conclusão -> Outras Decisões,17,,,5.4
+aresta,2,Conclusão -> Outros,3,,,
+aresta,3,Outras Decisões -> Remessa,16,,,2.0
+aresta,3,Outras Decisões -> Outros,1,,,
+aresta,4,Remessa -> Publicação,14,,,1.1
+aresta,4,Remessa -> Outros,2,,,
+aresta,5,Publicação -> Remessa + Expedição de documento,2,,,1.0
+aresta,5,Publicação -> Petição,2,,,3.5
+aresta,5,Publicação -> Conclusão + Expedição de documento + Redistribuição + Remessa,3,,,1.7
+aresta,5,Publicação -> Redistribuição + Remessa,2,,,4.0
+aresta,5,Publicação -> Outros,5,,,
+aresta,6,Remessa + Expedição de documento -> Outros,2,,,
+aresta,6,Petição -> Redistribuição + Remessa + Expedição de documento,2,,,40.5
+aresta,7,Redistribuição + Remessa + Expedição de documento -> Outros,2,,,
+aresta,6,Conclusão + Expedição de documento + Redistribuição + Remessa -> Outros,3,,,
+aresta,6,Redistribuição + Remessa -> Outros,2,,,
+aresta,2,Expedição de documento + Antecipação de tutela + Conclusão -> Expedição de documento + Remessa,2,,,1.0
+aresta,3,Expedição de documento + Remessa -> Publicação,2,,,1.0
+aresta,4,Publicação -> Outros,2,,,
+aresta,2,Expedição de documento + Outras Decisões + Conclusão -> Remessa,60,,,1.0
+aresta,2,Expedição de documento + Outras Decisões + Conclusão -> Remessa + Petição,3,,,1.0
+aresta,3,Remessa -> Publicação,21,,,1.6
+aresta,3,Remessa -> Conclusão + Expedição de documento + Publicação,39,,,1.0
+aresta,4,Publicação -> Expedição de documento,17,,,15.8
+aresta,4,Publicação -> Petição,4,,,13.5
+aresta,5,Expedição de documento -> Petição,9,,,28.6
+aresta,5,Expedição de documento -> Ato ordinatório,3,,,21.3
+aresta,5,Expedição de documento -> Outros,1,,,
+aresta,6,Petição -> Conclusão,9,,,2.1
+aresta,7,Conclusão -> Expedição de documento + Outras Decisões,9,,,2.0
+aresta,8,Expedição de documento + Outras Decisões -> Remessa,9,,,1.0
+aresta,9,Remessa -> Publicação,8,,,1.0
+aresta,9,Remessa -> Outros,1,,,
+aresta,10,Publicação -> Expedição de documento,8,,,9.0
+aresta,11,Expedição de documento -> Petição,8,,,16.2
+aresta,12,Petição -> Petição,1,,,3.0
+aresta,6,Ato ordinatório -> Outros,1,,,
+aresta,5,Petição -> Expedição de documento + Outras Decisões + Conclusão,2,,,3.0
+aresta,5,Petição -> Conclusão,2,,,22.0
+aresta,6,Expedição de documento + Outras Decisões + Conclusão -> Remessa,2,,,1.0
+aresta,7,Remessa -> Publicação,2,,,1.0
+aresta,8,Publicação -> Expedição de documento,2,,,12.0
+aresta,6,Conclusão -> Expedição de documento + Outras Decisões,2,,,1.0
+aresta,7,Expedição de documento + Outras Decisões -> Remessa,2,,,1.0
+aresta,8,Remessa -> Publicação,2,,,1.0
+aresta,4,Conclusão + Expedição de documento + Publicação -> Expedição de documento + Mero expediente,33,,,4.0
+aresta,4,Conclusão + Expedição de documento + Publicação -> Expedição de documento + Outras Decisões + Petição,2,,,4.0
+aresta,4,Conclusão + Expedição de documento + Publicação -> Petição + Expedição de documento + Mero expediente,3,,,4.0
+aresta,4,Conclusão + Expedição de documento + Publicação -> Outros,1,,,
+aresta,5,Expedição de documento + Mero expediente -> Remessa,31,,,1.0
+aresta,5,Expedição de documento + Mero expediente -> Petição + Remessa,2,,,1.0
+aresta,6,Remessa -> Publicação,30,,,1.0
+aresta,6,Remessa -> Outros,1,,,
+aresta,7,Publicação -> Expedição de documento,30,,,15.9
+aresta,6,Petição + Remessa -> Publicação,2,,,1.0
+aresta,7,Publicação -> Expedição de documento + Outras Decisões + Conclusão,2,,,1.0
+aresta,8,Expedição de documento + Outras Decisões + Conclusão -> Remessa,2,,,1.0
+aresta,9,Remessa -> Publicação,2,,,1.0
+aresta,10,Publicação -> Expedição de documento,2,,,13.0
+aresta,5,Expedição de documento + Outras Decisões + Petição -> Remessa,2,,,1.0
+aresta,6,Remessa -> Publicação,2,,,1.0
+aresta,7,Publicação -> Expedição de documento,2,,,16.0
+aresta,5,Petição + Expedição de documento + Mero expediente -> Remessa,3,,,1.0
+aresta,6,Remessa -> Publicação,3,,,1.0
+aresta,7,Publicação -> Expedição de documento + Outras Decisões + Conclusão,3,,,1.0
+aresta,8,Expedição de documento + Outras Decisões + Conclusão -> Remessa,3,,,1.0
+aresta,9,Remessa -> Publicação,3,,,1.0
+aresta,10,Publicação -> Expedição de documento,2,,,13.0
+aresta,3,Remessa + Petição -> Conclusão + Expedição de documento + Publicação,3,,,1.0
+aresta,4,Conclusão + Expedição de documento + Publicação -> Expedição de documento + Outras Decisões,3,,,4.0
+aresta,5,Expedição de documento + Outras Decisões -> Remessa,3,,,1.0
+aresta,6,Remessa -> Publicação,3,,,1.0
+aresta,7,Publicação -> Expedição de documento,1,,,16.0
+aresta,1,Outras Decisões + Conclusão + Distribuição -> Remessa,2,,,2.0
+aresta,2,Remessa -> Outros,2,,,
+aresta,1,Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o) -> Remessa,3,,,1.0
+aresta,1,Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o) -> Outros,2,,,
+aresta,2,Remessa -> Publicação,3,,,1.0
+aresta,3,Publicação -> Petição,2,,,21.5
+aresta,3,Publicação -> Outros,1,,,
+aresta,4,Petição -> Expedição de documento,2,,,24.0
+aresta,5,Expedição de documento -> Outros,2,,,
+aresta,1,Recebimento -> Expedição de precatório/rpv + Conclusão,9,,,31.8
+aresta,1,Recebimento -> Remessa + Expedição de documento + Ato ordinatório,5,,,6.8
+aresta,1,Recebimento -> Expedição de documento + Ato ordinatório,3,,,17.0
+aresta,1,Recebimento -> Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,3,,,11.0
+aresta,1,Recebimento -> Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2,,,13.0
+aresta,1,Recebimento -> Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,4,,,13.0
+aresta,1,Recebimento -> Outros,6,,,
+aresta,2,Expedição de precatório/rpv + Conclusão -> Remessa,3,,,1.0
+aresta,2,Expedição de precatório/rpv + Conclusão -> Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,4,,,1.0
+aresta,2,Expedição de precatório/rpv + Conclusão -> Enviada ao Tribunal + Remessa,2,,,1.0
+aresta,3,Remessa -> Outros,3,,,
+aresta,3,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa -> Publicação,4,,,1.0
+aresta,4,Publicação -> Expedição de documento + Ato ordinatório,4,,,10.0
+aresta,5,Expedição de documento + Ato ordinatório -> Petição,3,,,25.0
+aresta,5,Expedição de documento + Ato ordinatório -> Outros,1,,,
+aresta,6,Petição -> Ato ordinatório,2,,,13.5
+aresta,6,Petição -> Outros,1,,,
+aresta,7,Ato ordinatório -> Outros,2,,,
+aresta,3,Enviada ao Tribunal + Remessa -> Publicação + Expedição de documento + Protocolo de Petição,2,,,1.0
+aresta,4,Publicação + Expedição de documento + Protocolo de Petição -> Expedição de documento + Ato ordinatório,2,,,10.0
+aresta,5,Expedição de documento + Ato ordinatório -> Outros,2,,,
+aresta,2,Remessa + Expedição de documento + Ato ordinatório -> Publicação,4,,,1.0
+aresta,2,Remessa + Expedição de documento + Ato ordinatório -> Outros,1,,,
+aresta,3,Publicação -> Petição,2,,,3.0
+aresta,3,Publicação -> Expedição de documento,2,,,10.0
+aresta,4,Petição -> Expedição de documento,2,,,11.0
+aresta,5,Expedição de documento -> Outros,2,,,
+aresta,4,Expedição de documento -> Petição,2,,,35.5
+aresta,5,Petição -> Outros,2,,,
+aresta,2,Expedição de documento + Ato ordinatório -> Remessa,3,,,1.0
+aresta,3,Remessa -> Publicação,2,,,1.0
+aresta,3,Remessa -> Outros,1,,,
+aresta,4,Publicação -> Outros,1,,,
+aresta,2,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão -> Remessa,3,,,3.7
+aresta,3,Remessa -> Publicação,2,,,1.0
+aresta,3,Remessa -> Outros,1,,,
+aresta,4,Publicação -> Expedição de documento + Ato ordinatório,2,,,10.5
+aresta,5,Expedição de documento + Ato ordinatório -> Outros,2,,,
+aresta,2,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão -> Outros,2,,,
+aresta,2,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão -> Expedição de documento + Protocolo de Petição,2,,,1.0
+aresta,2,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão -> Outros,2,,,
+aresta,3,Expedição de documento + Protocolo de Petição -> Remessa,2,,,2.0
+aresta,4,Remessa -> Publicação,2,,,1.0
+aresta,5,Publicação -> Expedição de documento + Ato ordinatório,2,,,7.0
+aresta,6,Expedição de documento + Ato ordinatório -> Outros,2,,,
+aresta,1,Conclusão + Distribuição -> Outras Decisões,3,,,10.7
+aresta,1,Conclusão + Distribuição -> Antecipação de tutela,2,,,1.5
+aresta,1,Conclusão + Distribuição -> Remessa + Liminar,2,,,1.0
+aresta,1,Conclusão + Distribuição -> Outros,3,,,
+aresta,2,Outras Decisões -> Remessa,2,,,3.0
+aresta,2,Outras Decisões -> Outros,1,,,
+aresta,3,Remessa -> Publicação,2,,,1.0
+aresta,4,Publicação -> Outros,2,,,
+aresta,2,Antecipação de tutela -> Remessa,2,,,2.0
+aresta,3,Remessa -> Publicação,2,,,1.0
+aresta,4,Publicação -> Petição,2,,,16.5
+aresta,5,Petição -> Outros,2,,,
+aresta,2,Remessa + Liminar -> Publicação,2,,,1.0
+aresta,3,Publicação -> Outros,2,,,
+aresta,1,Conclusão + Execução/Cumprimento de Sentença Iniciada (o) -> Expedição de documento + Outras Decisões,3,,,6.3
+aresta,1,Conclusão + Execução/Cumprimento de Sentença Iniciada (o) -> Conclusão,9,,,47.3
+aresta,1,Conclusão + Execução/Cumprimento de Sentença Iniciada (o) -> Expedição de documento + Mero expediente,7,,,23.9
+aresta,1,Conclusão + Execução/Cumprimento de Sentença Iniciada (o) -> Outros,5,,,
+aresta,2,Expedição de documento + Outras Decisões -> Remessa,2,,,1.0
+aresta,2,Expedição de documento + Outras Decisões -> Outros,1,,,
+aresta,3,Remessa -> Publicação,2,,,1.0
+aresta,2,Conclusão -> Remessa + Expedição de documento + Mero expediente,3,,,3.7
+aresta,2,Conclusão -> Expedição de documento + Mero expediente,3,,,3.0
+aresta,2,Conclusão -> Remessa + Mero expediente,3,,,6.0
+aresta,3,Remessa + Expedição de documento + Mero expediente -> Publicação,2,,,1.5
+aresta,3,Remessa + Expedição de documento + Mero expediente -> Outros,1,,,
+aresta,4,Publicação -> Petição,2,,,6.0
+aresta,5,Petição -> Expedição de documento,2,,,3.5
+aresta,6,Expedição de documento -> Outros,2,,,
+aresta,3,Expedição de documento + Mero expediente -> Remessa,3,,,1.0
+aresta,4,Remessa -> Publicação,3,,,1.0
+aresta,5,Publicação -> Petição,2,,,2.5
+aresta,5,Publicação -> Outros,1,,,
+aresta,6,Petição -> Expedição de documento,2,,,10.5
+aresta,7,Expedição de documento -> Conclusão,2,,,48.0
+aresta,8,Conclusão -> Outros,2,,,
+aresta,3,Remessa + Mero expediente -> Publicação,3,,,1.3
+aresta,4,Publicação -> Outros,3,,,
+aresta,2,Expedição de documento + Mero expediente -> Remessa,6,,,1.2
+aresta,2,Expedição de documento + Mero expediente -> Outros,1,,,
+aresta,3,Remessa -> Publicação,6,,,1.3
+aresta,4,Publicação -> Expedição de documento,5,,,9.0
+aresta,4,Publicação -> Outros,1,,,
+aresta,5,Expedição de documento -> Petição,2,,,15.5
+aresta,5,Expedição de documento -> Outros,3,,,
+aresta,6,Petição -> Outros,2,,,
+aresta,1,Conclusão + Expedição de documento + Distribuição -> Remessa + Expedição de documento + Outras Decisões,19,,,5.1
+aresta,1,Conclusão + Expedição de documento + Distribuição -> Remessa + Outras Decisões,5,,,1.0
+aresta,1,Conclusão + Expedição de documento + Distribuição -> Expedição de documento + Outras Decisões,32,,,4.9
+aresta,1,Conclusão + Expedição de documento + Distribuição -> Outras Decisões,2,,,3.5
+aresta,1,Conclusão + Expedição de documento + Distribuição -> Outros,1,,,
+aresta,2,Remessa + Expedição de documento + Outras Decisões -> Publicação,19,,,1.0
+aresta,3,Publicação -> Expedição de documento,15,,,10.0
+aresta,3,Publicação -> Petição,2,,,6.0
+aresta,3,Publicação -> Outros,2,,,
+aresta,4,Expedição de documento -> Petição,11,,,40.3
+aresta,4,Expedição de documento -> Conclusão + Petição,1,,,67.0
+aresta,4,Expedição de documento -> Outros,3,,,
+aresta,5,Petição -> Expedição de documento + Outras Decisões + Conclusão,4,,,7.2
+aresta,5,Petição -> Conclusão,7,,,1.6
+aresta,6,Expedição de documento + Outras Decisões + Conclusão -> Remessa,4,,,1.0
+aresta,7,Remessa -> Publicação,4,,,1.0
+aresta,8,Publicação -> Expedição de documento,2,,,9.0
+aresta,9,Expedição de documento -> Outros,2,,,
+aresta,6,Conclusão -> Expedição de documento + Outras Decisões,4,,,1.2
+aresta,6,Conclusão -> Remessa + Expedição de documento + Outras Decisões,3,,,1.0
+aresta,7,Expedição de documento + Outras Decisões -> Remessa,4,,,1.0
+aresta,8,Remessa -> Publicação,4,,,1.0
+aresta,9,Publicação -> Expedição de documento,2,,,9.0
+aresta,9,Publicação -> Petição,2,,,19.0
+aresta,10,Expedição de documento -> Petição,2,,,14.0
+aresta,11,Petição -> Petição,1,,,2.0
+aresta,10,Petição -> Expedição de documento,2,,,22.0
+aresta,7,Remessa + Expedição de documento + Outras Decisões -> Publicação,3,,,1.0
+aresta,4,Petição -> Expedição de documento + Outras Decisões + Conclusão,2,,,2.0
+aresta,5,Expedição de documento + Outras Decisões + Conclusão -> Remessa,2,,,1.0
+aresta,6,Remessa -> Publicação + Expedição de documento,2,,,1.0
+aresta,7,Publicação + Expedição de documento -> Petição,1,,,23.0
+aresta,7,Publicação + Expedição de documento -> Outros,1,,,
+aresta,2,Remessa + Outras Decisões -> Expedição de documento + Ato ordinatório + Publicação,5,,,1.0
+aresta,3,Expedição de documento + Ato ordinatório + Publicação -> Petição + Expedição de documento,2,,,11.0
+aresta,3,Expedição de documento + Ato ordinatório + Publicação -> Expedição de documento,3,,,11.0
+aresta,4,Petição + Expedição de documento -> Expedição de documento + Outras Decisões + Conclusão,2,,,1.0
+aresta,5,Expedição de documento + Outras Decisões + Conclusão -> Remessa,2,,,1.0
+aresta,6,Remessa -> Publicação,2,,,1.0
+aresta,7,Publicação -> Expedição de documento,2,,,9.0
+aresta,8,Expedição de documento -> Petição,2,,,11.0
+aresta,4,Expedição de documento -> Petição,3,,,29.0
+aresta,5,Petição -> Conclusão,3,,,2.0
+aresta,6,Conclusão -> Expedição de documento + Outras Decisões,3,,,5.0
+aresta,7,Expedição de documento + Outras Decisões -> Remessa,3,,,1.0
+aresta,8,Remessa -> Publicação,3,,,1.0
+aresta,9,Publicação -> Petição + Expedição de documento,1,,,21.0
+aresta,9,Publicação -> Outros,2,,,
+aresta,2,Expedição de documento + Outras Decisões -> Remessa,32,,,1.1
+aresta,3,Remessa -> Publicação,31,,,1.7
+aresta,3,Remessa -> Outros,1,,,
+aresta,4,Publicação -> Expedição de documento,23,,,22.0
+aresta,4,Publicação -> Petição,7,,,14.6
+aresta,4,Publicação -> Expedição de documento + Ato ordinatório,1,,,41.0
+aresta,5,Expedição de documento -> Petição,6,,,21.2
+aresta,5,Expedição de documento -> Conclusão + Petição,2,,,40.0
+aresta,5,Expedição de documento -> Ato ordinatório,3,,,28.0
+aresta,6,Petição -> Conclusão,3,,,3.3
+aresta,6,Petição -> Expedição de documento + Outras Decisões + Conclusão,2,,,2.0
+aresta,7,Conclusão -> Expedição de documento + Outras Decisões,2,,,3.0
+aresta,7,Conclusão -> Outros,1,,,
+aresta,8,Expedição de documento + Outras Decisões -> Remessa,2,,,2.0
+aresta,9,Remessa -> Publicação,2,,,1.5
+aresta,10,Publicação -> Expedição de documento,2,,,7.5
+aresta,11,Expedição de documento -> Outros,2,,,
+aresta,7,Expedição de documento + Outras Decisões + Conclusão -> Remessa,2,,,1.0
+aresta,8,Remessa -> Publicação,2,,,1.0
+aresta,9,Publicação -> Expedição de documento,2,,,25.0
+aresta,10,Expedição de documento -> Outros,1,,,
+aresta,6,Conclusão + Petição -> Outros,1,,,
+aresta,5,Petição -> Conclusão,4,,,14.8
+aresta,5,Petição -> Expedição de documento + Outras Decisões + Conclusão,3,,,2.3
+aresta,6,Conclusão -> Expedição de documento + Outras Decisões,3,,,1.0
+aresta,6,Conclusão -> Outros,1,,,
+aresta,7,Expedição de documento + Outras Decisões -> Remessa,3,,,1.0
+aresta,8,Remessa -> Publicação,3,,,1.0
+aresta,9,Publicação -> Expedição de documento,1,,,13.0
+aresta,6,Expedição de documento + Outras Decisões + Conclusão -> Remessa,3,,,1.0
+aresta,7,Remessa -> Publicação,3,,,1.0
+aresta,8,Publicação -> Expedição de documento,3,,,10.7
+aresta,2,Outras Decisões -> Outros,2,,,
+aresta,1,Expedição de documento + Outras Decisões + Conclusão + Distribuição -> Remessa,27,,,1.0
+aresta,2,Remessa -> Publicação,27,,,1.3
+aresta,3,Publicação -> Expedição de documento,20,,,15.1
+aresta,3,Publicação -> Petição,6,,,8.5
+aresta,3,Publicação -> Outros,1,,,
+aresta,4,Expedição de documento -> Petição,6,,,29.3
+aresta,4,Expedição de documento -> Conclusão + Petição,4,,,7.0
+aresta,4,Expedição de documento -> Ato ordinatório,4,,,36.0
+aresta,4,Expedição de documento -> Outros,1,,,
+aresta,5,Petição -> Conclusão,5,,,1.8
+aresta,5,Petição -> Outros,1,,,
+aresta,6,Conclusão -> Expedição de documento + Outras Decisões,5,,,6.2
+aresta,7,Expedição de documento + Outras Decisões -> Remessa,5,,,1.8
+aresta,8,Remessa -> Publicação,5,,,1.0
+aresta,9,Publicação -> Expedição de documento,4,,,8.2
+aresta,9,Publicação -> Petição + Expedição de documento,1,,,8.0
+aresta,10,Expedição de documento -> Petição,4,,,15.8
+aresta,5,Conclusão + Petição -> Conclusão,3,,,2.0
+aresta,5,Conclusão + Petição -> Outros,1,,,
+aresta,6,Conclusão -> Expedição de documento + Outras Decisões,3,,,4.0
+aresta,7,Expedição de documento + Outras Decisões -> Remessa,3,,,1.0
+aresta,8,Remessa -> Publicação,3,,,1.0
+aresta,9,Publicação -> Expedição de documento,3,,,9.0
+aresta,10,Expedição de documento -> Petição,3,,,15.0
+aresta,11,Petição -> Petição,1,,,4.0
+aresta,5,Ato ordinatório -> Conclusão + Petição,2,,,27.0
+aresta,5,Ato ordinatório -> Petição,2,,,13.0
+aresta,6,Petição -> Expedição de documento + Outras Decisões + Conclusão,2,,,1.0
+aresta,7,Expedição de documento + Outras Decisões + Conclusão -> Remessa,2,,,1.0
+aresta,8,Remessa -> Publicação,2,,,1.0
+aresta,4,Petição -> Expedição de documento + Outras Decisões + Conclusão,4,,,1.5
+aresta,4,Petição -> Conclusão,2,,,10.0
+aresta,5,Expedição de documento + Outras Decisões + Conclusão -> Remessa,4,,,1.0
+aresta,6,Remessa -> Publicação,4,,,1.0
+aresta,7,Publicação -> Expedição de documento,4,,,2.5
+aresta,8,Expedição de documento -> Expedição de documento,4,,,6.5
+aresta,9,Expedição de documento -> Petição,3,,,22.0
+aresta,9,Expedição de documento -> Outros,1,,,
+aresta,10,Petição -> Outros,1,,,
+aresta,5,Conclusão -> Expedição de documento + Outras Decisões,2,,,3.0
+aresta,6,Expedição de documento + Outras Decisões -> Remessa,2,,,1.5
+aresta,7,Remessa -> Outros,2,,,

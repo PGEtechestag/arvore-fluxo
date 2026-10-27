@@ -1,0 +1,22 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_12078_G1_10564_00186327520248260053",
+    "num_processo": "0018632-75.2024.8.26.0053",
+    "num_processo_sem_formatacao": "00186327520248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+    "codigo_classe": 12078,
+    "assunto": "Adicional de Insalubridade",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-07-01T17:56:57.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-10T09:15:09.218Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {}
+}

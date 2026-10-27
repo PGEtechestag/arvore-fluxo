@@ -1,0 +1,5 @@
+[app] Lendo os JSONs (aguarde na primeira execução)...
+[app] 3694 processos | 272 assuntos
+[app] Abra http://localhost:5000
+ * Serving Flask app 'app'
+ * Debug mode: off

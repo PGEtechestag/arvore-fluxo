@@ -1,0 +1,77 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00171968120248260053",
+    "num_processo": "0017196-81.2024.8.26.0053",
+    "num_processo_sem_formatacao": "00171968120248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de sentença",
+    "codigo_classe": 156,
+    "assunto": "Utilização de bens públicos",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-06-14T18:42:02.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-10T09:54:56.221Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "14/12/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "13/12/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "12/12/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Decurso de Prazo",
+        ""
+      ]
+    ],
+    "19/09/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "18/09/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "17/09/2024": [
+      [
+        "Emenda à Inicial",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "17/06/2024": [
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00085932020048260053",
+    "num_processo": "0008593-20.2004.8.26.0053",
+    "num_processo_sem_formatacao": "00085932020048260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Requisição de Pequeno Valor",
+    "codigo_classe": 1266,
+    "assunto": "Gratificações Estaduais Específicas",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-10-30T21:03:08.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:52:17.937Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "03/01/2025": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "29/12/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "19/11/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "08/11/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "07/11/2024": [
+      [
+        "Protocolo de Petição",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "01/11/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "31/10/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "30/10/2024": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

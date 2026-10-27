@@ -1,0 +1,137 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00322805920238260053",
+    "num_processo": "0032280-59.2023.8.26.0053",
+    "num_processo_sem_formatacao": "00322805920238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Procedimento Comum Cível",
+    "codigo_classe": 7,
+    "assunto": "Sistema Remuneratório e Benefícios",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-09-28T11:23:39.000Z",
+    "data_hora_ultima_atualizacao": "2024-11-12T05:31:49.014Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "29/10/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "21/10/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "03/10/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "02/10/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "01/10/2024": [
+      [
+        "Mero expediente",
+        ""
+      ]
+    ],
+    "30/09/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "26/09/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "18/09/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "17/09/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "16/09/2024": [
+      [
+        "Procedência",
+        ""
+      ]
+    ],
+    "21/02/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para julgamento"
+      ]
+    ],
+    "07/02/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "20/10/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "03/10/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "02/10/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "29/09/2023": [
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "28/09/2023": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ],
+      [
+        "Documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ]
+  }
+}

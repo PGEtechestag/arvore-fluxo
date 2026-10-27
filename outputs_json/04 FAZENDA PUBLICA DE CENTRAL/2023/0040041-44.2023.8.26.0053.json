@@ -1,0 +1,109 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00400414420238260053",
+    "num_processo": "0040041-44.2023.8.26.0053",
+    "num_processo_sem_formatacao": "00400414420238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de sentença",
+    "codigo_classe": 156,
+    "assunto": "Suspensão da Exigibilidade",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-12-07T19:51:54.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:07:54.114Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "24/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "23/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "22/01/2025": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "07/05/2024": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ],
+    "01/04/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "23/03/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "22/03/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "21/03/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Decurso de Prazo",
+        ""
+      ]
+    ],
+    "31/01/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "18/12/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "11/12/2023": [
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

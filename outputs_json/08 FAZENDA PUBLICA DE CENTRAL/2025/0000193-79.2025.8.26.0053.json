@@ -1,0 +1,55 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00001937920258260053",
+    "num_processo": "0000193-79.2025.8.26.0053",
+    "num_processo_sem_formatacao": "00001937920258260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+    "codigo_classe": 12078,
+    "assunto": "Repetição de indébito",
+    "outros_assuntos": [],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2025-01-06T18:37:10.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:36:40.522Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "18/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "17/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "08/01/2025": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "07/01/2025": [
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

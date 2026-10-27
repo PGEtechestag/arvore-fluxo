@@ -1,0 +1,2617 @@
+
+Anulação de Débito Fiscal
+movimento_anterior,proximo_movimento,frequencia,probabilidade_condicional
+ + Remessa,Remessa + Ato ordinatório + Publicação,1,100.00%
+Acolhimento de Embargos de Declaração + Conclusão,Remessa + Expedição de documento,1,100.00%
+Acolhimento em Parte de Embargos de Declaração + Conclusão + Petição + Remessa,Publicação,1,100.00%
+Antecipação de Tutela,Emenda a inicial + Conclusão + Petição + Remessa,1,100.00%
+Antecipação de tutela,Expedição de documento + Remessa,4,57.14%
+Antecipação de tutela,Remessa + Ato ordinatório,1,14.29%
+Antecipação de tutela,Petição + Expedição de documento + Remessa,1,14.29%
+Antecipação de tutela,Remessa,1,14.29%
+Antecipação de tutela + Conclusão,Remessa + Expedição de documento + Ato ordinatório,1,100.00%
+Antecipação de tutela + Conclusão + Distribuição,Publicação + Expedição de documento + Remessa,1,50.00%
+Antecipação de tutela + Conclusão + Distribuição,Expedição de documento + Remessa,1,50.00%
+Antecipação de tutela + Conclusão + Expedição de documento + Distribuição,Publicação + Remessa,1,100.00%
+Antecipação de tutela + Conclusão + Petição,Expedição de documento + Remessa,1,100.00%
+Antecipação de tutela + Remessa,Publicação + Remessa,1,100.00%
+Ato ordinatório,Ato ordinatório,85,30.36%
+Ato ordinatório,Remessa,40,14.29%
+Ato ordinatório,Petição,36,12.86%
+Ato ordinatório,Expedição de documento,20,7.14%
+Ato ordinatório,Conclusão,18,6.43%
+Ato ordinatório,Expedição de documento + Ato ordinatório,9,3.21%
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão,7,2.50%
+Ato ordinatório,Publicação + Remessa,6,2.14%
+Ato ordinatório,Conclusão + Expedição de documento,5,1.79%
+Ato ordinatório,Expedição de documento + Trânsito em julgado,4,1.43%
+Ato ordinatório,Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,3,1.07%
+Ato ordinatório,Recebimento,3,1.07%
+Ato ordinatório,Outras Decisões + Conclusão + Expedição de documento,3,1.07%
+Ato ordinatório,Conclusão + Petição,3,1.07%
+Ato ordinatório,Ato ordinatório + Expedição de documento,3,1.07%
+Ato ordinatório,Outras Decisões + Conclusão,3,1.07%
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Petição,2,0.71%
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,2,0.71%
+Ato ordinatório,Conclusão + Trânsito em julgado,2,0.71%
+Ato ordinatório,Remessa + Expedição de documento + Outras Decisões + Conclusão,2,0.71%
+Ato ordinatório,Expedição de documento + Documento,2,0.71%
+Ato ordinatório,Expedição de documento + Ato ordinatório + Decurso de Prazo,2,0.71%
+Ato ordinatório,Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.36%
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Documento + Petição,1,0.36%
+Ato ordinatório,Definitivo + Expedição de documento + Trânsito em julgado,1,0.36%
+Ato ordinatório,Documento,1,0.36%
+Ato ordinatório,Petição + Expedição de documento + Trânsito em julgado,1,0.36%
+Ato ordinatório,Trânsito em julgado,1,0.36%
+Ato ordinatório,Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.36%
+Ato ordinatório,Provisório + Expedição de documento,1,0.36%
+Ato ordinatório,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.36%
+Ato ordinatório,Ato ordinatório + Trânsito em julgado,1,0.36%
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,1,0.36%
+Ato ordinatório,Expedição de documento + Mero expediente + Conclusão,1,0.36%
+Ato ordinatório,Mero expediente,1,0.36%
+Ato ordinatório,Conclusão + Decurso de Prazo,1,0.36%
+Ato ordinatório,Mero expediente + Conclusão + Trânsito em julgado,1,0.36%
+Ato ordinatório,Expedição de documento + Ato ordinatório + Documento,1,0.36%
+Ato ordinatório,Remessa + Expedição de documento + Procedência,1,0.36%
+Ato ordinatório,Mandado + Documento,1,0.36%
+Ato ordinatório,Expedição de documento + Segurança,1,0.36%
+Ato ordinatório,Remessa + Ato ordinatório,1,0.36%
+Ato ordinatório + Antecipação de tutela + Conclusão + Redistribuição + Remessa + Decurso de Prazo,Remessa,1,100.00%
+Ato ordinatório + Documento,Remessa,2,50.00%
+Ato ordinatório + Documento,Documento + Expedição de documento,1,25.00%
+Ato ordinatório + Documento,Expedição de documento,1,25.00%
+Ato ordinatório + Documento + Publicação,Remessa,1,100.00%
+Ato ordinatório + Expedição de documento,Remessa,3,50.00%
+Ato ordinatório + Expedição de documento,Petição + Expedição de documento,1,16.67%
+Ato ordinatório + Expedição de documento,Expedição de documento,1,16.67%
+Ato ordinatório + Expedição de documento,Expedição de documento + Remessa,1,16.67%
+Ato ordinatório + Expedição de documento + Distribuição,Remessa,1,100.00%
+Ato ordinatório + Mandado + Documento,Petição,1,100.00%
+Ato ordinatório + Petição,Expedição de documento,1,50.00%
+Ato ordinatório + Petição,Remessa,1,50.00%
+Ato ordinatório + Petição + Remessa + Mandado + Documento,Publicação,1,100.00%
+Ato ordinatório + Publicação,Expedição de documento,2,66.67%
+Ato ordinatório + Publicação,Remessa,1,33.33%
+Ato ordinatório + Remessa,Expedição de documento + Publicação,1,100.00%
+Ato ordinatório + Remessa + Liminar + Publicação,Publicação,1,100.00%
+Ato ordinatório + Trânsito em julgado,Remessa,1,100.00%
+Conclusão,Expedição de documento + Outras Decisões,56,17.34%
+Conclusão,Conclusão,30,9.29%
+Conclusão,Outras Decisões,23,7.12%
+Conclusão,Remessa + Expedição de documento + Outras Decisões,22,6.81%
+Conclusão,Expedição de documento,18,5.57%
+Conclusão,Expedição de documento + Outras Decisões + Conclusão,11,3.41%
+Conclusão,Expedição de documento + Mero expediente,11,3.41%
+Conclusão,Expedição de documento + Procedência,10,3.10%
+Conclusão,Petição,8,2.48%
+Conclusão,Expedição de documento + Extinção da execução ou do cumprimento da sentença,8,2.48%
+Conclusão,Remessa + Outras Decisões,7,2.17%
+Conclusão,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,5,1.55%
+Conclusão,Expedição de documento + Remessa + Outras Decisões,4,1.24%
+Conclusão,Extinção da execução ou do cumprimento da sentença + Conclusão,4,1.24%
+Conclusão,Improcedência,4,1.24%
+Conclusão,Extinção da execução ou do cumprimento da sentença,4,1.24%
+Conclusão,Expedição de documento + Segurança,4,1.24%
+Conclusão,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,3,0.93%
+Conclusão,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,3,0.93%
+Conclusão,Publicação + Remessa + Expedição de documento + Outras Decisões,3,0.93%
+Conclusão,Procedência,3,0.93%
+Conclusão,Expedição de documento + Outras Decisões + Conclusão + Documento,3,0.93%
+Conclusão,Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença,2,0.62%
+Conclusão,Ato ordinatório,2,0.62%
+Conclusão,Remessa + Mero expediente,2,0.62%
+Conclusão,Remessa + Expedição de documento + Mero expediente,2,0.62%
+Conclusão,Outras Decisões + Petição,2,0.62%
+Conclusão,Mero expediente,2,0.62%
+Conclusão,Remessa + Expedição de documento + Ato ordinatório + Documento,2,0.62%
+Conclusão,Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,2,0.62%
+Conclusão,Outras Decisões + Conclusão,2,0.62%
+Conclusão,Procedência em Parte,2,0.62%
+Conclusão,Expedição de documento + Não Acolhimento de Embargos de Declaração,2,0.62%
+Conclusão,Antecipação de tutela,2,0.62%
+Conclusão,Expedição de documento + Perda do objeto,2,0.62%
+Conclusão,Expedição de documento + Decisão Interlocutória de Mérito,2,0.62%
+Conclusão,Expedição de documento + Improcedência,2,0.62%
+Conclusão,Expedição de documento + Procedência + Conclusão,2,0.62%
+Conclusão,Segurança,2,0.62%
+Conclusão,Remessa + Expedição de documento + Decisão Interlocutória de Mérito,2,0.62%
+Conclusão,Expedição de precatório/rpv + Conclusão,1,0.31%
+Conclusão,Expedição de documento + Remessa + Improcedência,1,0.31%
+Conclusão,Enviada ao Tribunal + Expedição de precatório/rpv,1,0.31%
+Conclusão,Enviada ao Tribunal + Expedição de documento + Outras Decisões,1,0.31%
+Conclusão,Remessa + Expedição de documento + Impugnação ao cumprimento de sentença,1,0.31%
+Conclusão,Expedição de documento + Acolhimento de Embargos de Declaração,1,0.31%
+Conclusão,Expedição de documento + Impugnação ao cumprimento de sentença,1,0.31%
+Conclusão,Remessa + Extinção,1,0.31%
+Conclusão,Outras Decisões + Conclusão + Documento,1,0.31%
+Conclusão,Conclusão + Documento,1,0.31%
+Conclusão,Petição + Remessa + Expedição de documento + Outras Decisões,1,0.31%
+Conclusão,Remessa + Expedição de precatório/rpv,1,0.31%
+Conclusão,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.31%
+Conclusão,Expedição de documento + Enviada ao Tribunal + Outras Decisões,1,0.31%
+Conclusão,Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.31%
+Conclusão,Protocolo de Petição + Expedição de documento + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,0.31%
+Conclusão,Expedição de documento + Remessa + Mero expediente,1,0.31%
+Conclusão,Expedição de documento + Ato ordinatório + Documento,1,0.31%
+Conclusão,Remessa + Liminar + Conclusão,1,0.31%
+Conclusão,Documento,1,0.31%
+Conclusão,Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,1,0.31%
+Conclusão,Remessa + Expedição de documento + Liminar,1,0.31%
+Conclusão,Remessa + Emenda à Inicial,1,0.31%
+Conclusão,Sem Resolução de Mérito,1,0.31%
+Conclusão,Publicação,1,0.31%
+Conclusão,Outras Decisões + Remessa,1,0.31%
+Conclusão,Expedição de documento + Procedência em Parte + Conclusão,1,0.31%
+Conclusão,Remessa + Liminar,1,0.31%
+Conclusão,Expedição de documento + Decisão de Saneamento e Organização + Conclusão,1,0.31%
+Conclusão,Expedição de documento + Remessa + Antecipação de tutela,1,0.31%
+Conclusão,Remessa + Expedição de documento + Segurança,1,0.31%
+Conclusão,Decurso de Prazo,1,0.31%
+Conclusão,Remessa + Segurança,1,0.31%
+Conclusão,Expedição de documento + Desistência,1,0.31%
+Conclusão,Petição + Expedição de documento + Segurança + Conclusão,1,0.31%
+Conclusão,Expedição de documento + Improcedência + Conclusão,1,0.31%
+Conclusão,Expedição de documento + Antecipação de tutela,1,0.31%
+Conclusão,Remessa + Expedição de documento + Procedência em Parte,1,0.31%
+Conclusão,Expedição de documento + Outras Decisões + Petição,1,0.31%
+Conclusão,Expedição de documento + Decisão de Saneamento e Organização,1,0.31%
+Conclusão,Expedição de documento + Renúncia ao direito pelo autor,1,0.31%
+Conclusão,Petição + Expedição de documento + Decisão Interlocutória de Mérito,1,0.31%
+Conclusão,Conclusão + Petição + Remessa + Outras Decisões,1,0.31%
+Conclusão + Ato ordinatório,Publicação + Expedição de documento + Remessa + Liminar,1,100.00%
+Conclusão + Decurso de Prazo,Expedição de documento + Outras Decisões,2,18.18%
+Conclusão + Decurso de Prazo,Petição,2,18.18%
+Conclusão + Decurso de Prazo,Remessa + Expedição de documento + Outras Decisões + Conclusão,1,9.09%
+Conclusão + Decurso de Prazo,Expedição de documento + Não Acolhimento de Embargos de Declaração,1,9.09%
+Conclusão + Decurso de Prazo,Expedição de documento + Decisão Interlocutória de Mérito,1,9.09%
+Conclusão + Decurso de Prazo,Não Acolhimento de Embargos de Declaração,1,9.09%
+Conclusão + Decurso de Prazo,Expedição de documento + Procedência em Parte + Conclusão,1,9.09%
+Conclusão + Decurso de Prazo,Expedição de documento + Outras Decisões + Conclusão,1,9.09%
+Conclusão + Decurso de Prazo,Conclusão,1,9.09%
+Conclusão + Distribuição,Antecipação de tutela,4,40.00%
+Conclusão + Distribuição,Liminar,2,20.00%
+Conclusão + Distribuição,Incompetência,1,10.00%
+Conclusão + Distribuição,Antecipação de Tutela,1,10.00%
+Conclusão + Distribuição,Emenda à Inicial,1,10.00%
+Conclusão + Distribuição,Remessa + Ato ordinatório + Antecipação de tutela,1,10.00%
+Conclusão + Documento,Expedição de documento + Outras Decisões,2,25.00%
+Conclusão + Documento,Conclusão,1,12.50%
+Conclusão + Documento,Outras Decisões,1,12.50%
+Conclusão + Documento,Remessa + Expedição de documento + Outras Decisões,1,12.50%
+Conclusão + Documento,Expedição de documento + Perda do objeto,1,12.50%
+Conclusão + Documento,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,12.50%
+Conclusão + Documento,Documento,1,12.50%
+Conclusão + Documento + Mandado,Expedição de documento + Segurança,1,100.00%
+Conclusão + Documento + Recebimento,Expedição de documento + Mero expediente,1,100.00%
+Conclusão + Documento + Redistribuição + Remessa + Mero expediente,Expedição de documento + Antecipação de tutela + Publicação,1,100.00%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Conclusão,5,27.78%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Mero expediente,4,22.22%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Mero expediente,4,22.22%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa + Expedição de documento + Mero expediente,2,11.11%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa + Expedição de documento + Outras Decisões,1,5.56%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Mero expediente + Conclusão,1,5.56%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Outras Decisões,1,5.56%
+Conclusão + Expedição de documento,Conclusão,12,18.46%
+Conclusão + Expedição de documento,Expedição de documento + Outras Decisões,8,12.31%
+Conclusão + Expedição de documento,Outras Decisões,6,9.23%
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Outras Decisões,5,7.69%
+Conclusão + Expedição de documento,Petição,3,4.62%
+Conclusão + Expedição de documento,Liminar,3,4.62%
+Conclusão + Expedição de documento,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,2,3.08%
+Conclusão + Expedição de documento,Expedição de documento + Mero expediente,2,3.08%
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença,2,3.08%
+Conclusão + Expedição de documento,Expedição de documento + Remessa + Outras Decisões,2,3.08%
+Conclusão + Expedição de documento,Expedição de documento + Antecipação de tutela,2,3.08%
+Conclusão + Expedição de documento,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1,1.54%
+Conclusão + Expedição de documento,Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,1,1.54%
+Conclusão + Expedição de documento,Expedição de documento + Outras Decisões + Conclusão,1,1.54%
+Conclusão + Expedição de documento,Decisão Interlocutória de Mérito,1,1.54%
+Conclusão + Expedição de documento,Publicação + Expedição de documento + Remessa + Liminar,1,1.54%
+Conclusão + Expedição de documento,Expedição de documento + Remessa + Liminar,1,1.54%
+Conclusão + Expedição de documento,Expedição de documento + Sem efeito suspensivo,1,1.54%
+Conclusão + Expedição de documento,Segurança,1,1.54%
+Conclusão + Expedição de documento,Publicação + Ato ordinatório + Remessa + Liminar,1,1.54%
+Conclusão + Expedição de documento,Publicação + Ato ordinatório + Petição + Remessa + Liminar,1,1.54%
+Conclusão + Expedição de documento,Expedição de documento + Decisão Interlocutória de Mérito,1,1.54%
+Conclusão + Expedição de documento,Expedição de documento + Perito + Conclusão,1,1.54%
+Conclusão + Expedição de documento,Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,1,1.54%
+Conclusão + Expedição de documento,Expedição de documento,1,1.54%
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Antecipação de tutela,1,1.54%
+Conclusão + Expedição de documento,Antecipação de tutela,1,1.54%
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Liminar,1,1.54%
+Conclusão + Expedição de documento,Remessa + Outras Decisões,1,1.54%
+Conclusão + Expedição de documento + Ato ordinatório + Petição + Remessa,Publicação,1,100.00%
+Conclusão + Expedição de documento + Distribuição,Remessa + Outras Decisões,1,50.00%
+Conclusão + Expedição de documento + Distribuição,Outras Decisões,1,50.00%
+Conclusão + Expedição de documento + Documento,Protocolo de Petição + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv,2,100.00%
+Conclusão + Expedição de documento + Petição,Remessa + Outras Decisões,1,100.00%
+Conclusão + Expedição de documento + Petição + Remessa + Ato ordinatório,Liminar + Publicação,1,100.00%
+Conclusão + Expedição de documento + Redistribuição + Recebimento,Remessa + Outras Decisões,1,100.00%
+Conclusão + Mandado + Documento,Outras Decisões,1,100.00%
+Conclusão + Mandado + Documento + Petição,Expedição de documento + Outras Decisões + Conclusão,1,100.00%
+Conclusão + Mandado + Documento + Petição + Expedição de documento + Outras Decisões,Mandado + Documento + Outras Decisões + Remessa,1,100.00%
+Conclusão + Petição,Outras Decisões,28,29.79%
+Conclusão + Petição,Conclusão,22,23.40%
+Conclusão + Petição,Expedição de documento,8,8.51%
+Conclusão + Petição,Expedição de documento + Outras Decisões,8,8.51%
+Conclusão + Petição,Remessa + Outras Decisões,6,6.38%
+Conclusão + Petição,Petição,3,3.19%
+Conclusão + Petição,Expedição de documento + Remessa + Outras Decisões,3,3.19%
+Conclusão + Petição,Expedição de documento + Outras Decisões + Conclusão,2,2.13%
+Conclusão + Petição,Expedição de documento + Mero expediente,1,1.06%
+Conclusão + Petição,Remessa + Expedição de documento + Outras Decisões + Conclusão,1,1.06%
+Conclusão + Petição,Expedição de documento + Segurança + Conclusão,1,1.06%
+Conclusão + Petição,Petição + Expedição de documento,1,1.06%
+Conclusão + Petição,Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,1,1.06%
+Conclusão + Petição,Expedição de documento + Remessa + Segurança,1,1.06%
+Conclusão + Petição,Expedição de documento + Procedência,1,1.06%
+Conclusão + Petição,Remessa + Expedição de documento + Outras Decisões,1,1.06%
+Conclusão + Petição,Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1,1.06%
+Conclusão + Petição,Expedição de documento + Antecipação de tutela,1,1.06%
+Conclusão + Petição,Remessa,1,1.06%
+Conclusão + Petição,Conclusão + Petição,1,1.06%
+Conclusão + Petição,Documento,1,1.06%
+Conclusão + Petição,Expedição de documento + Remessa + Antecipação de tutela,1,1.06%
+Conclusão + Petição + Documento,Conclusão,1,100.00%
+Conclusão + Petição + Expedição de documento,Outras Decisões,1,33.33%
+Conclusão + Petição + Expedição de documento,Conclusão,1,33.33%
+Conclusão + Petição + Expedição de documento,Expedição de documento + Outras Decisões,1,33.33%
+Conclusão + Petição + Expedição de documento + Ato ordinatório,Conclusão,2,33.33%
+Conclusão + Petição + Expedição de documento + Ato ordinatório,Conclusão + Mandado + Documento + Petição + Expedição de documento + Outras Decisões,1,16.67%
+Conclusão + Petição + Expedição de documento + Ato ordinatório,Outras Decisões,1,16.67%
+Conclusão + Petição + Expedição de documento + Ato ordinatório,Mandado + Documento,1,16.67%
+Conclusão + Petição + Expedição de documento + Ato ordinatório,Expedição de documento + Segurança + Conclusão,1,16.67%
+Conclusão + Petição + Expedição de documento + Remessa,Petição + Publicação,1,100.00%
+Conclusão + Petição + Publicação,Expedição de documento + Outras Decisões,2,40.00%
+Conclusão + Petição + Publicação,Outras Decisões,1,20.00%
+Conclusão + Petição + Publicação,Expedição de documento,1,20.00%
+Conclusão + Petição + Publicação,Remessa + Antecipação de tutela,1,20.00%
+Conclusão + Petição + Remessa,Publicação,3,60.00%
+Conclusão + Petição + Remessa,Expedição de documento + Decisão Interlocutória de Mérito + Publicação + Conclusão,1,20.00%
+Conclusão + Petição + Remessa,Ato ordinatório + Remessa + Liminar + Publicação,1,20.00%
+Conclusão + Petição + Remessa + Expedição de documento,Expedição de documento + Outras Decisões + Publicação,1,100.00%
+Conclusão + Petição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,Conclusão + Publicação,1,100.00%
+Conclusão + Petição + Remessa + Outras Decisões,Remessa + Antecipação de Tutela + Expedição de documento + Publicação,1,100.00%
+Conclusão + Publicação,Expedição de documento + Outras Decisões,2,20.00%
+Conclusão + Publicação,Expedição de documento,2,20.00%
+Conclusão + Publicação,Remessa + Expedição de documento + Outras Decisões,1,10.00%
+Conclusão + Publicação,Conclusão,1,10.00%
+Conclusão + Publicação,Remessa + Expedição de documento + Segurança,1,10.00%
+Conclusão + Publicação,Remessa + Decisão Interlocutória de Mérito + Conclusão,1,10.00%
+Conclusão + Publicação,Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1,10.00%
+Conclusão + Publicação,Outras Decisões,1,10.00%
+Conclusão + Recebimento,Remessa + Expedição de documento + Outras Decisões,1,33.33%
+Conclusão + Recebimento,Expedição de documento + Enviada ao Tribunal + Outras Decisões,1,33.33%
+Conclusão + Recebimento,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,33.33%
+Conclusão + Recebimento + Petição + Publicação,Mero expediente,1,100.00%
+Conclusão + Redistribuição + Recebimento,Expedição de documento + Antecipação de tutela + Conclusão,1,100.00%
+Conclusão + Redistribuição + Remessa,Expedição de documento + Remessa + Antecipação de tutela,1,100.00%
+Conclusão + Redistribuição + Remessa + Expedição de documento + Outras Decisões + Distribuição,Antecipação de tutela + Remessa,1,100.00%
+Conclusão + Trânsito em julgado,Remessa + Expedição de documento + Outras Decisões,2,50.00%
+Conclusão + Trânsito em julgado,Expedição de documento + Outras Decisões,2,50.00%
+Decisão Interlocutória de Mérito,Remessa,1,100.00%
+Decisão Interlocutória de Mérito + Conclusão,Remessa + Expedição de documento,1,100.00%
+Decisão Interlocutória de Mérito + Conclusão + Expedição de documento + Distribuição,Remessa,1,100.00%
+Decisão Interlocutória de Mérito + Conclusão + Petição,Conclusão + Petição + Remessa,1,100.00%
+Decurso de Prazo,Acolhimento de Embargos de Declaração + Conclusão,1,100.00%
+Definitivo + Expedição de documento + Publicação,Definitivo + Baixa Definitiva,1,100.00%
+Definitivo + Expedição de documento + Trânsito em julgado,Remessa + Reativação,1,100.00%
+Distribuição,Conclusão + Expedição de documento,8,11.59%
+Distribuição,Liminar + Conclusão + Expedição de documento,7,10.14%
+Distribuição,Remessa + Ato ordinatório + Expedição de documento,6,8.70%
+Distribuição,Conclusão,5,7.25%
+Distribuição,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,4,5.80%
+Distribuição,Outras Decisões + Conclusão + Expedição de documento,3,4.35%
+Distribuição,Petição + Remessa + Ato ordinatório + Expedição de documento,2,2.90%
+Distribuição,Ato ordinatório + Expedição de documento,2,2.90%
+Distribuição,Outras Decisões + Conclusão,2,2.90%
+Distribuição,Remessa + Expedição de documento + Liminar + Conclusão,2,2.90%
+Distribuição,Emenda à Inicial + Conclusão + Expedição de documento,2,2.90%
+Distribuição,Outras Decisões + Conclusão + Indeferimento da petição inicial,1,1.45%
+Distribuição,Remessa + Outras Decisões + Conclusão,1,1.45%
+Distribuição,Expedição de documento + Antecipação de tutela + Petição + Conclusão,1,1.45%
+Distribuição,Publicação + Remessa + Ato ordinatório + Expedição de documento,1,1.45%
+Distribuição,Remessa + Expedição de documento + Incompetência + Conclusão,1,1.45%
+Distribuição,Petição + Remessa + Emenda à Inicial + Conclusão + Expedição de documento,1,1.45%
+Distribuição,Remessa + Expedição de documento + Mero expediente + Conclusão,1,1.45%
+Distribuição,Conclusão + Expedição de documento + Petição,1,1.45%
+Distribuição,Publicação + Remessa + Outras Decisões + Conclusão + Expedição de documento,1,1.45%
+Distribuição,Publicação + Petição + Remessa + Ato ordinatório + Expedição de documento,1,1.45%
+Distribuição,Liminar + Expedição de documento + Conclusão,1,1.45%
+Distribuição,Petição + Conclusão + Expedição de documento,1,1.45%
+Distribuição,Expedição de documento + Liminar + Conclusão,1,1.45%
+Distribuição,Incompetência + Conclusão,1,1.45%
+Distribuição,Liminar + Conclusão + Expedição de documento + Documento,1,1.45%
+Distribuição,Conclusão + Petição,1,1.45%
+Distribuição,Petição + Remessa + Outras Decisões + Conclusão + Expedição de documento,1,1.45%
+Distribuição,Remessa + Gratuidade da Justiça + Conclusão + Expedição de documento,1,1.45%
+Distribuição,Expedição de documento + Outras Decisões + Conclusão,1,1.45%
+Distribuição,Remessa + Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,1.45%
+Distribuição,Remessa + Liminar + Conclusão + Expedição de documento,1,1.45%
+Distribuição,Conclusão + Expedição de documento + Petição + Remessa + Ato ordinatório,1,1.45%
+Distribuição,Expedição de documento + Decisão Interlocutória de Mérito + Petição + Conclusão,1,1.45%
+Distribuição,Publicação + Expedição de documento + Remessa + Liminar + Conclusão,1,1.45%
+Distribuição,Petição + Ato ordinatório + Expedição de documento,1,1.45%
+Distribuição,Antecipação de tutela + Conclusão,1,1.45%
+Documento,Petição,11,33.33%
+Documento,Expedição de documento,7,21.21%
+Documento,Conclusão,2,6.06%
+Documento,Outras Decisões + Conclusão + Petição,2,6.06%
+Documento,Petição + Expedição de documento + Ato ordinatório,1,3.03%
+Documento,Remessa + Expedição de documento + Ato ordinatório,1,3.03%
+Documento,Remessa + Expedição de documento + Procedência,1,3.03%
+Documento,Recebimento,1,3.03%
+Documento,Remessa + Expedição de documento + Outras Decisões,1,3.03%
+Documento,Julgamento em Diligência,1,3.03%
+Documento,Conclusão + Petição,1,3.03%
+Documento,Conclusão + Decurso de Prazo,1,3.03%
+Documento,Expedição de documento + Ato ordinatório,1,3.03%
+Documento,Segurança,1,3.03%
+Documento,Conclusão + Expedição de documento,1,3.03%
+Documento + Ato ordinatório,Expedição de documento + Ato ordinatório + Petição,1,100.00%
+Documento + Decurso de Prazo,Expedição de documento + Documento,1,100.00%
+Documento + Expedição de documento,Expedição de documento,3,33.33%
+Documento + Expedição de documento,Petição,2,22.22%
+Documento + Expedição de documento,Remessa + Outras Decisões + Conclusão + Petição,2,22.22%
+Documento + Expedição de documento,Expedição de documento + Ato ordinatório + Petição,1,11.11%
+Documento + Expedição de documento,Conclusão + Expedição de documento,1,11.11%
+Documento + Expedição de documento + Ato ordinatório,Publicação + Remessa,1,100.00%
+Documento + Expedição de documento + Remessa,Publicação,2,100.00%
+Documento + Mandado,Expedição de documento + Ato ordinatório + Documento + Petição,1,33.33%
+Documento + Mandado,Documento,1,33.33%
+Documento + Mandado,Expedição de documento,1,33.33%
+Documento + Publicação,Expedição de documento,1,100.00%
+Documento + Redistribuição + Remessa,Expedição de documento + Liminar + Conclusão,1,100.00%
+Documento + Remessa,Publicação,2,66.67%
+Documento + Remessa,Outras Decisões + Conclusão + Petição + Publicação,1,33.33%
+Documento + Remessa + Expedição de documento + Ato ordinatório,Publicação,1,100.00%
+Documento + Remessa + Expedição de documento + Ato ordinatório + Publicação,Publicação,1,100.00%
+Emenda a inicial + Conclusão + Petição + Remessa,Remessa + Publicação,1,100.00%
+Emenda à Inicial,Conclusão + Petição + Remessa,1,100.00%
+Emenda à Inicial + Conclusão,Remessa,3,100.00%
+Emenda à Inicial + Conclusão + Expedição de documento,Remessa,2,100.00%
+Enviada ao Tribunal,Protocolo de Petição + Expedição de documento,1,100.00%
+Enviada ao Tribunal + Expedição de documento + Outras Decisões,Protocolo de Petição,1,100.00%
+Enviada ao Tribunal + Expedição de documento + Outras Decisões + Conclusão,Remessa,1,100.00%
+Enviada ao Tribunal + Expedição de precatório/rpv,Remessa + Expedição de documento + Protocolo de Petição,1,100.00%
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,3,42.86%
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Protocolo de Petição + Expedição de documento + Remessa,2,28.57%
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa + Expedição de documento + Protocolo de Petição,1,14.29%
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Expedição de documento + Protocolo de Petição + Remessa,1,14.29%
+Enviada ao Tribunal + Remessa,Publicação,2,100.00%
+Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Outras Decisões + Conclusão,30,43.48%
+Execução/Cumprimento de Sentença Iniciada (o),Conclusão,14,20.29%
+Execução/Cumprimento de Sentença Iniciada (o),Outras Decisões + Conclusão,6,8.70%
+Execução/Cumprimento de Sentença Iniciada (o),Ato ordinatório,4,5.80%
+Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Mero expediente + Petição + Conclusão,4,5.80%
+Execução/Cumprimento de Sentença Iniciada (o),Remessa + Ato ordinatório,3,4.35%
+Execução/Cumprimento de Sentença Iniciada (o),Emenda à Inicial + Conclusão,3,4.35%
+Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento,1,1.45%
+Execução/Cumprimento de Sentença Iniciada (o),Remessa + Outras Decisões + Conclusão,1,1.45%
+Execução/Cumprimento de Sentença Iniciada (o),Petição + Ato ordinatório,1,1.45%
+Execução/Cumprimento de Sentença Iniciada (o),Remessa + Expedição de documento + Outras Decisões + Conclusão,1,1.45%
+Execução/Cumprimento de Sentença Iniciada (o),Mero expediente + Conclusão,1,1.45%
+Execução/Cumprimento de Sentença Iniciada (o) + Publicação,Expedição de documento,2,100.00%
+Expedição de documento,Petição,219,25.92%
+Expedição de documento,Expedição de documento,138,16.33%
+Expedição de documento,Ato ordinatório,104,12.31%
+Expedição de documento,Conclusão,57,6.75%
+Expedição de documento,Conclusão + Petição,42,4.97%
+Expedição de documento,Conclusão + Expedição de documento,27,3.20%
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão,17,2.01%
+Expedição de documento,Expedição de documento + Ato ordinatório,16,1.89%
+Expedição de documento,Recebimento,15,1.78%
+Expedição de documento,Remessa,14,1.66%
+Expedição de documento,Outras Decisões + Conclusão + Petição,13,1.54%
+Expedição de documento,Documento,12,1.42%
+Expedição de documento,Definitivo + Expedição de documento,11,1.30%
+Expedição de documento,Remessa + Expedição de documento,9,1.07%
+Expedição de documento,Publicação,9,1.07%
+Expedição de documento,Mandado + Documento,7,0.83%
+Expedição de documento,Expedição de documento + Outras Decisões,6,0.71%
+Expedição de documento,Conclusão + Decurso de Prazo,6,0.71%
+Expedição de documento,Remessa + Expedição de documento + Ato ordinatório,5,0.59%
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Petição,5,0.59%
+Expedição de documento,Expedição de documento + Trânsito em julgado,4,0.47%
+Expedição de documento,Conclusão + Documento,4,0.47%
+Expedição de documento,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,3,0.36%
+Expedição de documento,Expedição de documento + Mero expediente + Conclusão,3,0.36%
+Expedição de documento,Outras Decisões + Conclusão,3,0.36%
+Expedição de documento,Remessa + Ato ordinatório,3,0.36%
+Expedição de documento,Protocolo de Petição,3,0.36%
+Expedição de documento,Outras Decisões + Conclusão + Expedição de documento,3,0.36%
+Expedição de documento,Conclusão + Petição + Expedição de documento + Ato ordinatório,3,0.36%
+Expedição de documento,Remessa + Expedição de documento + Outras Decisões,3,0.36%
+Expedição de documento,Conclusão + Trânsito em julgado,2,0.24%
+Expedição de documento,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2,0.24%
+Expedição de documento,Remessa + Expedição de documento + Ato ordinatório + Documento,2,0.24%
+Expedição de documento,Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,2,0.24%
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Documento,2,0.24%
+Expedição de documento,Execução/Cumprimento de Sentença Iniciada (o),2,0.24%
+Expedição de documento,Definitivo + Expedição de documento + Trânsito em julgado,2,0.24%
+Expedição de documento,Expedição de documento + Conclusão,2,0.24%
+Expedição de documento,Mero expediente + Conclusão + Petição,2,0.24%
+Expedição de documento,Outras Decisões + Conclusão + Petição + Expedição de documento,2,0.24%
+Expedição de documento,Expedição de documento + Ato ordinatório + Decurso de Prazo,2,0.24%
+Expedição de documento,Expedição de documento + Ato ordinatório + Petição,2,0.24%
+Expedição de documento,Outras Decisões,2,0.24%
+Expedição de documento,Expedição de documento + Remessa + Outras Decisões,2,0.24%
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,1,0.12%
+Expedição de documento,Ato ordinatório + Documento,1,0.12%
+Expedição de documento,Mero expediente + Conclusão + Decurso de Prazo,1,0.12%
+Expedição de documento,Expedição de documento + Improcedência,1,0.12%
+Expedição de documento,Remessa + Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,1,0.12%
+Expedição de documento,Remessa + Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,1,0.12%
+Expedição de documento,Republicação,1,0.12%
+Expedição de documento,Decisão Interlocutória de Mérito + Conclusão,1,0.12%
+Expedição de documento,Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.12%
+Expedição de documento,Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,1,0.12%
+Expedição de documento,Expedição de precatório/rpv + Conclusão + Decurso de Prazo,1,0.12%
+Expedição de documento,Petição + Ato ordinatório + Decurso de Prazo,1,0.12%
+Expedição de documento,Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.12%
+Expedição de documento,Reativação,1,0.12%
+Expedição de documento,Ato ordinatório + Expedição de documento,1,0.12%
+Expedição de documento,Protocolo de Petição + Enviada ao Tribunal,1,0.12%
+Expedição de documento,Extinção da execução ou do cumprimento da sentença,1,0.12%
+Expedição de documento,Petição + Ato ordinatório,1,0.12%
+Expedição de documento,Remessa + Expedição de documento + Outras Decisões + Conclusão,1,0.12%
+Expedição de documento,Expedição de documento + Remessa + Ato ordinatório,1,0.12%
+Expedição de documento,Remessa + Ato ordinatório + Trânsito em julgado,1,0.12%
+Expedição de documento,Petição + Expedição de documento + Outras Decisões + Conclusão,1,0.12%
+Expedição de documento,Publicação + Expedição de documento + Remessa,1,0.12%
+Expedição de documento,Outras Decisões + Conclusão + Mandado + Petição,1,0.12%
+Expedição de documento,Expedição de documento + Segurança + Conclusão,1,0.12%
+Expedição de documento,Petição + Outras Decisões + Conclusão,1,0.12%
+Expedição de documento,Conclusão + Petição + Remessa + Expedição de documento,1,0.12%
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Mandado,1,0.12%
+Expedição de documento,Petição + Expedição de documento + Acolhimento de Embargos de Declaração,1,0.12%
+Expedição de documento,Expedição de precatório/rpv + Conclusão + Expedição de documento,1,0.12%
+Expedição de documento,Outras Decisões + Conclusão + Mandado + Documento + Petição,1,0.12%
+Expedição de documento,Expedição de documento + Não Acolhimento de Embargos de Declaração + Conclusão + Petição,1,0.12%
+Expedição de documento,Petição + Conclusão,1,0.12%
+Expedição de documento,Remessa + Outras Decisões + Conclusão + Petição,1,0.12%
+Expedição de documento,Petição + Expedição de documento + Ato ordinatório + Decurso de Prazo,1,0.12%
+Expedição de documento,Documento + Expedição de documento + Ato ordinatório,1,0.12%
+Expedição de documento,Remessa + Ato ordinatório + Documento,1,0.12%
+Expedição de documento,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,0.12%
+Expedição de documento,nan,1,0.12%
+Expedição de documento,Outras Decisões + Conclusão + Petição + Remessa,1,0.12%
+Expedição de documento,Petição + Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,1,0.12%
+Expedição de documento,Petição + Expedição de documento + Ato ordinatório + Documento + Mandado,1,0.12%
+Expedição de documento,Expedição de documento + Ato ordinatório + Documento,1,0.12%
+Expedição de documento,Documento + Remessa + Expedição de documento + Ato ordinatório,1,0.12%
+Expedição de documento,Remessa + Outras Decisões + Conclusão,1,0.12%
+Expedição de documento,Documento + Expedição de documento,1,0.12%
+Expedição de documento,Expedição de documento + Outras Decisões + Petição,1,0.12%
+Expedição de documento,Petição + Expedição de documento + Ato ordinatório + Mandado + Documento,1,0.12%
+Expedição de documento,Remessa + Liminar + Conclusão,1,0.12%
+Expedição de documento,Remessa + Outras Decisões + Conclusão + Expedição de documento,1,0.12%
+Expedição de documento,Trânsito em julgado,1,0.12%
+Expedição de documento,Documento + Mandado,1,0.12%
+Expedição de documento,Expedição de documento + Ato ordinatório + Mandado + Documento,1,0.12%
+Expedição de documento + Acolhimento de Embargos de Declaração,Remessa,1,100.00%
+Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,Remessa,1,100.00%
+Expedição de documento + Antecipação de tutela,Remessa,4,100.00%
+Expedição de documento + Antecipação de tutela + Conclusão,Petição + Remessa,1,50.00%
+Expedição de documento + Antecipação de tutela + Conclusão,Remessa,1,50.00%
+Expedição de documento + Antecipação de tutela + Conclusão + Publicação,Remessa,1,100.00%
+Expedição de documento + Antecipação de tutela + Conclusão + Redistribuição + Remessa,Expedição de documento + Remessa,1,100.00%
+Expedição de documento + Antecipação de tutela + Petição + Conclusão,Remessa,1,100.00%
+Expedição de documento + Antecipação de tutela + Publicação,Expedição de documento + Remessa,1,100.00%
+Expedição de documento + Apensamento + Remessa,Publicação,1,100.00%
+Expedição de documento + Ato ordinatório,Remessa,30,30.93%
+Expedição de documento + Ato ordinatório,Petição,29,29.90%
+Expedição de documento + Ato ordinatório,Ato ordinatório,20,20.62%
+Expedição de documento + Ato ordinatório,Expedição de documento,11,11.34%
+Expedição de documento + Ato ordinatório,Conclusão + Petição,2,2.06%
+Expedição de documento + Ato ordinatório,Petição + Remessa,1,1.03%
+Expedição de documento + Ato ordinatório,Expedição de documento + Outras Decisões + Documento + Conclusão,1,1.03%
+Expedição de documento + Ato ordinatório,Remessa + Expedição de documento,1,1.03%
+Expedição de documento + Ato ordinatório,Documento + Mandado,1,1.03%
+Expedição de documento + Ato ordinatório,Remessa + Ato ordinatório + Petição,1,1.03%
+Expedição de documento + Ato ordinatório + Conclusão,Expedição de documento,1,100.00%
+Expedição de documento + Ato ordinatório + Decurso de Prazo,Petição,3,60.00%
+Expedição de documento + Ato ordinatório + Decurso de Prazo,Remessa,1,20.00%
+Expedição de documento + Ato ordinatório + Decurso de Prazo,Expedição de documento,1,20.00%
+Expedição de documento + Ato ordinatório + Documento,Remessa,4,57.14%
+Expedição de documento + Ato ordinatório + Documento,Petição + Remessa,1,14.29%
+Expedição de documento + Ato ordinatório + Documento,Expedição de documento + Remessa,1,14.29%
+Expedição de documento + Ato ordinatório + Documento,Expedição de documento,1,14.29%
+Expedição de documento + Ato ordinatório + Documento + Petição,Petição,1,100.00%
+Expedição de documento + Ato ordinatório + Mandado,Petição,1,100.00%
+Expedição de documento + Ato ordinatório + Mandado + Documento,Petição,2,100.00%
+Expedição de documento + Ato ordinatório + Petição,Conclusão + Petição,3,50.00%
+Expedição de documento + Ato ordinatório + Petição,Expedição de documento,1,16.67%
+Expedição de documento + Ato ordinatório + Petição,Remessa,1,16.67%
+Expedição de documento + Ato ordinatório + Petição,Conclusão + Mandado + Documento + Petição,1,16.67%
+Expedição de documento + Ato ordinatório + Petição + Publicação,Petição,1,100.00%
+Expedição de documento + Ato ordinatório + Publicação,Remessa,1,100.00%
+Expedição de documento + Conclusão,Expedição de documento,2,50.00%
+Expedição de documento + Conclusão,Expedição de documento + Outras Decisões,1,25.00%
+Expedição de documento + Conclusão,Expedição de documento + Outras Decisões + Conclusão,1,25.00%
+Expedição de documento + Decisão Interlocutória de Mérito,Remessa,4,100.00%
+Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Remessa,13,76.47%
+Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Conclusão + Petição + Remessa,1,5.88%
+Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Expedição de documento + Remessa,1,5.88%
+Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Expedição de documento + Documento + Remessa,1,5.88%
+Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Publicação + Remessa,1,5.88%
+Expedição de documento + Decisão Interlocutória de Mérito + Petição + Conclusão,Remessa,1,100.00%
+Expedição de documento + Decisão Interlocutória de Mérito + Publicação + Conclusão,Remessa,1,100.00%
+Expedição de documento + Decisão de Saneamento e Organização,Remessa,1,100.00%
+Expedição de documento + Decisão de Saneamento e Organização + Conclusão,Remessa,1,100.00%
+Expedição de documento + Desistência,Remessa,1,100.00%
+Expedição de documento + Documento,Conclusão,2,50.00%
+Expedição de documento + Documento,Expedição de documento + Ato ordinatório,1,25.00%
+Expedição de documento + Documento,Publicação,1,25.00%
+Expedição de documento + Documento + Petição,Expedição de documento + Ato ordinatório,1,100.00%
+Expedição de documento + Documento + Remessa,Publicação,1,100.00%
+Expedição de documento + Emenda a inicial + Conclusão + Petição,Ato ordinatório + Petição + Remessa + Mandado + Documento,1,100.00%
+Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,Remessa,1,100.00%
+Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Protocolo de Petição + Remessa,1,100.00%
+Expedição de documento + Enviada ao Tribunal + Outras Decisões,Remessa,1,50.00%
+Expedição de documento + Enviada ao Tribunal + Outras Decisões,Protocolo de Petição,1,50.00%
+Expedição de documento + Extinção da execução ou do cumprimento da sentença,Remessa,7,87.50%
+Expedição de documento + Extinção da execução ou do cumprimento da sentença,Petição + Remessa,1,12.50%
+Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,Remessa,9,100.00%
+Expedição de documento + Improcedência,Expedição de documento + Remessa,2,66.67%
+Expedição de documento + Improcedência,Remessa,1,33.33%
+Expedição de documento + Improcedência + Conclusão,Remessa,1,100.00%
+Expedição de documento + Improcedência + Conclusão + Publicação,Expedição de documento + Remessa,1,100.00%
+Expedição de documento + Impugnação ao cumprimento de sentença,Publicação + Remessa,1,100.00%
+Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,Remessa,2,100.00%
+Expedição de documento + Liminar,Remessa,1,100.00%
+Expedição de documento + Liminar + Conclusão,Remessa,3,60.00%
+Expedição de documento + Liminar + Conclusão,Expedição de documento + Petição + Remessa,1,20.00%
+Expedição de documento + Liminar + Conclusão,Publicação + Petição + Expedição de documento + Remessa,1,20.00%
+Expedição de documento + Liminar + Petição + Conclusão + Publicação,Publicação + Remessa,1,50.00%
+Expedição de documento + Liminar + Petição + Conclusão + Publicação,Remessa,1,50.00%
+Expedição de documento + Mero expediente,Remessa,15,75.00%
+Expedição de documento + Mero expediente,Petição + Remessa,5,25.00%
+Expedição de documento + Mero expediente + Conclusão,Remessa,10,71.43%
+Expedição de documento + Mero expediente + Conclusão,Petição + Remessa,3,21.43%
+Expedição de documento + Mero expediente + Conclusão,Remessa + Documento,1,7.14%
+Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,Remessa,5,100.00%
+Expedição de documento + Mero expediente + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa,1,100.00%
+Expedição de documento + Mero expediente + Conclusão + Petição,Remessa,1,100.00%
+Expedição de documento + Mero expediente + Petição + Conclusão,Remessa,4,100.00%
+Expedição de documento + Mero expediente + Petição + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa,2,100.00%
+Expedição de documento + Mero expediente + Publicação + Conclusão + Documento,Remessa,1,100.00%
+Expedição de documento + Não Acolhimento de Embargos de Declaração,Remessa,3,100.00%
+Expedição de documento + Não Acolhimento de Embargos de Declaração + Conclusão,Remessa,1,100.00%
+Expedição de documento + Não Acolhimento de Embargos de Declaração + Conclusão + Petição,Remessa,1,100.00%
+Expedição de documento + Outras Decisões,Remessa,77,81.91%
+Expedição de documento + Outras Decisões,Publicação + Remessa,5,5.32%
+Expedição de documento + Outras Decisões,Petição + Remessa,5,5.32%
+Expedição de documento + Outras Decisões,Remessa + Petição,2,2.13%
+Expedição de documento + Outras Decisões,Expedição de documento + Petição + Remessa,1,1.06%
+Expedição de documento + Outras Decisões,Expedição de documento,1,1.06%
+Expedição de documento + Outras Decisões,Expedição de documento + Remessa,1,1.06%
+Expedição de documento + Outras Decisões,Conclusão + Petição + Remessa,1,1.06%
+Expedição de documento + Outras Decisões,Publicação + Petição + Remessa,1,1.06%
+Expedição de documento + Outras Decisões + Conclusão,Remessa,102,75.00%
+Expedição de documento + Outras Decisões + Conclusão,Petição + Remessa,11,8.09%
+Expedição de documento + Outras Decisões + Conclusão,Expedição de documento,9,6.62%
+Expedição de documento + Outras Decisões + Conclusão,Publicação + Remessa,7,5.15%
+Expedição de documento + Outras Decisões + Conclusão,Remessa + Petição,2,1.47%
+Expedição de documento + Outras Decisões + Conclusão,Petição,2,1.47%
+Expedição de documento + Outras Decisões + Conclusão,Remessa + Republicação,1,0.74%
+Expedição de documento + Outras Decisões + Conclusão,Petição + Conclusão + Remessa,1,0.74%
+Expedição de documento + Outras Decisões + Conclusão,Documento + Remessa,1,0.74%
+Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,Remessa,4,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Documento,Remessa,6,85.71%
+Expedição de documento + Outras Decisões + Conclusão + Documento,Petição + Remessa,1,14.29%
+Expedição de documento + Outras Decisões + Conclusão + Documento + Petição,Petição + Remessa,1,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Documento + Publicação,Remessa,1,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa,2,66.67%
+Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Petição,1,33.33%
+Expedição de documento + Outras Decisões + Conclusão + Mandado,Conclusão + Expedição de documento + Ato ordinatório + Petição + Remessa,1,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Petição,Remessa,8,80.00%
+Expedição de documento + Outras Decisões + Conclusão + Petição,Documento + Remessa,1,10.00%
+Expedição de documento + Outras Decisões + Conclusão + Petição,Publicação + Petição + Remessa,1,10.00%
+Expedição de documento + Outras Decisões + Conclusão + Petição + Ato ordinatório,Petição + Remessa,1,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,Remessa,2,50.00%
+Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,Petição + Remessa,1,25.00%
+Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,Expedição de documento + Remessa,1,25.00%
+Expedição de documento + Outras Decisões + Conclusão + Publicação,Expedição de documento,2,66.67%
+Expedição de documento + Outras Decisões + Conclusão + Publicação,Remessa,1,33.33%
+Expedição de documento + Outras Decisões + Conclusão + Recebimento,Remessa,5,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,Remessa,2,100.00%
+Expedição de documento + Outras Decisões + Documento + Conclusão,Remessa,1,100.00%
+Expedição de documento + Outras Decisões + Documento + Conclusão + Petição,Petição + Remessa,1,100.00%
+Expedição de documento + Outras Decisões + Petição,Remessa,1,50.00%
+Expedição de documento + Outras Decisões + Petição,Documento + Remessa,1,50.00%
+Expedição de documento + Outras Decisões + Petição + Conclusão, + Remessa,1,100.00%
+Expedição de documento + Outras Decisões + Publicação,Remessa,1,100.00%
+Expedição de documento + Outras Decisões + Publicação + Conclusão,Remessa,1,100.00%
+Expedição de documento + Perda do objeto,Remessa,3,100.00%
+Expedição de documento + Perito + Conclusão,Remessa,1,100.00%
+Expedição de documento + Petição,Expedição de documento,2,40.00%
+Expedição de documento + Petição,Conclusão,1,20.00%
+Expedição de documento + Petição,Outras Decisões + Conclusão + Petição,1,20.00%
+Expedição de documento + Petição,Petição,1,20.00%
+Expedição de documento + Petição + Publicação,Ato ordinatório,1,100.00%
+Expedição de documento + Petição + Remessa,Publicação,2,100.00%
+Expedição de documento + Procedência,Remessa,8,66.67%
+Expedição de documento + Procedência,Petição + Remessa,1,8.33%
+Expedição de documento + Procedência,Expedição de documento + Remessa,1,8.33%
+Expedição de documento + Procedência,Petição,1,8.33%
+Expedição de documento + Procedência,Conclusão + Petição + Remessa,1,8.33%
+Expedição de documento + Procedência + Conclusão,Remessa,2,100.00%
+Expedição de documento + Procedência em Parte + Conclusão,Remessa,1,50.00%
+Expedição de documento + Procedência em Parte + Conclusão,Petição + Remessa,1,50.00%
+Expedição de documento + Protocolo de Petição,Expedição de documento + Ato ordinatório,2,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,Publicação,1,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,Remessa,3,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,6,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Recebimento,Remessa,2,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Publicação,Expedição de documento + Ato ordinatório,2,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,Publicação,5,100.00%
+Expedição de documento + Protocolo de Petição + Remessa,Publicação,1,100.00%
+Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,Publicação,3,100.00%
+Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Publicação,2,100.00%
+Expedição de documento + Publicação,Expedição de documento,15,41.67%
+Expedição de documento + Publicação,Petição,7,19.44%
+Expedição de documento + Publicação,Conclusão + Petição,3,8.33%
+Expedição de documento + Publicação,Ato ordinatório,2,5.56%
+Expedição de documento + Publicação,Documento,2,5.56%
+Expedição de documento + Publicação,Outras Decisões + Conclusão + Petição,1,2.78%
+Expedição de documento + Publicação,Outras Decisões + Conclusão + Petição + Remessa,1,2.78%
+Expedição de documento + Publicação,Mandado + Documento,1,2.78%
+Expedição de documento + Publicação,nan,1,2.78%
+Expedição de documento + Publicação,Remessa + Expedição de documento + Petição,1,2.78%
+Expedição de documento + Publicação,Outras Decisões,1,2.78%
+Expedição de documento + Publicação,Remessa + Ato ordinatório + Documento,1,2.78%
+Expedição de documento + Publicação + Remessa,Publicação,2,100.00%
+Expedição de documento + Remessa,Publicação,86,85.15%
+Expedição de documento + Remessa,Petição + Publicação,9,8.91%
+Expedição de documento + Remessa,Expedição de documento + Publicação,3,2.97%
+Expedição de documento + Remessa,Conclusão + Petição + Publicação,1,0.99%
+Expedição de documento + Remessa,Expedição de documento + Mero expediente + Publicação + Conclusão + Documento,1,0.99%
+Expedição de documento + Remessa,Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,1,0.99%
+Expedição de documento + Remessa + Antecipação de tutela,Publicação,3,100.00%
+Expedição de documento + Remessa + Ato ordinatório,Expedição de documento + Publicação,1,33.33%
+Expedição de documento + Remessa + Ato ordinatório,Publicação,1,33.33%
+Expedição de documento + Remessa + Ato ordinatório,Expedição de documento + Documento,1,33.33%
+Expedição de documento + Remessa + Ato ordinatório + Publicação,Petição + Publicação,1,100.00%
+Expedição de documento + Remessa + Improcedência,Publicação,1,100.00%
+Expedição de documento + Remessa + Liminar,Publicação,1,100.00%
+Expedição de documento + Remessa + Liminar + Conclusão + Distribuição,Publicação,1,100.00%
+Expedição de documento + Remessa + Mero expediente,Publicação,1,100.00%
+Expedição de documento + Remessa + Outras Decisões,Publicação,10,76.92%
+Expedição de documento + Remessa + Outras Decisões,Conclusão + Petição + Publicação,1,7.69%
+Expedição de documento + Remessa + Outras Decisões,Documento + Remessa + Expedição de documento + Ato ordinatório + Publicação,1,7.69%
+Expedição de documento + Remessa + Outras Decisões,Petição + Expedição de documento + Outras Decisões + Conclusão + Publicação,1,7.69%
+Expedição de documento + Remessa + Outras Decisões + Conclusão,Publicação,1,50.00%
+Expedição de documento + Remessa + Outras Decisões + Conclusão,Remessa + Documento + Expedição de documento + Ato ordinatório + Publicação,1,50.00%
+Expedição de documento + Remessa + Petição,Publicação,1,100.00%
+Expedição de documento + Remessa + Publicação,Expedição de documento,1,100.00%
+Expedição de documento + Remessa + Segurança,Petição + Publicação,1,100.00%
+Expedição de documento + Renúncia ao direito pelo autor,Remessa,1,100.00%
+Expedição de documento + Segurança,Remessa,5,62.50%
+Expedição de documento + Segurança,Petição + Remessa,2,25.00%
+Expedição de documento + Segurança,Petição,1,12.50%
+Expedição de documento + Segurança + Conclusão,Publicação + Remessa,1,33.33%
+Expedição de documento + Segurança + Conclusão,Remessa,1,33.33%
+Expedição de documento + Segurança + Conclusão,Petição + Remessa,1,33.33%
+Expedição de documento + Sem efeito suspensivo,Remessa,1,100.00%
+Expedição de documento + Sem efeito suspensivo + Conclusão + Ato ordinatório,Petição + Remessa,1,100.00%
+Expedição de documento + Trânsito em julgado,Remessa + Ato ordinatório,2,100.00%
+Expedição de documento + deferimento + Conclusão,Retificado + Remessa,1,100.00%
+Expedição de precatório/rpv + Conclusão,Remessa,5,41.67%
+Expedição de precatório/rpv + Conclusão,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,5,41.67%
+Expedição de precatório/rpv + Conclusão,Enviada ao Tribunal + Remessa,2,16.67%
+Expedição de precatório/rpv + Conclusão + Decurso de Prazo,Protocolo de Petição + Enviada ao Tribunal + Remessa,1,100.00%
+Expedição de precatório/rpv + Conclusão + Expedição de documento,Enviada ao Tribunal,1,100.00%
+Expedição de precatório/rpv + Conclusão + Recebimento,Remessa,1,100.00%
+Extinção da execução ou do cumprimento da sentença,Expedição de documento + Remessa,5,100.00%
+Extinção da execução ou do cumprimento da sentença + Conclusão,Expedição de documento + Remessa,6,100.00%
+Improcedência,Remessa,2,50.00%
+Improcedência,Expedição de documento + Remessa,1,25.00%
+Improcedência,Publicação + Expedição de documento + Remessa,1,25.00%
+Improcedência + Conclusão,Expedição de documento + Remessa,1,100.00%
+Incompetência,Remessa,1,100.00%
+Incompetência + Conclusão,Remessa + Expedição de documento,1,100.00%
+Julgamento em Diligência,Remessa,1,100.00%
+Liminar,Remessa + Ato ordinatório,2,40.00%
+Liminar,Expedição de documento + Remessa,1,20.00%
+Liminar,Publicação + Remessa,1,20.00%
+Liminar,Publicação + Expedição de documento + Remessa,1,20.00%
+Liminar + Conclusão + Distribuição,Remessa,1,50.00%
+Liminar + Conclusão + Distribuição,Expedição de documento + Remessa,1,50.00%
+Liminar + Conclusão + Expedição de documento,Remessa,4,36.36%
+Liminar + Conclusão + Expedição de documento,Publicação + Expedição de documento + Remessa,2,18.18%
+Liminar + Conclusão + Expedição de documento,Expedição de documento + Remessa,2,18.18%
+Liminar + Conclusão + Expedição de documento,Ato ordinatório + Remessa,1,9.09%
+Liminar + Conclusão + Expedição de documento,Publicação + Remessa,1,9.09%
+Liminar + Conclusão + Expedição de documento,Expedição de documento + Remessa + Ato ordinatório,1,9.09%
+Liminar + Conclusão + Expedição de documento + Distribuição,Expedição de documento + Remessa,1,100.00%
+Liminar + Conclusão + Expedição de documento + Documento,Remessa,1,100.00%
+Liminar + Conclusão + Expedição de documento + Petição,Remessa,1,100.00%
+Liminar + Conclusão + Expedição de documento + Remessa,Petição + Publicação + Expedição de documento + Remessa,1,100.00%
+Liminar + Conclusão + Recebimento + Redistribuição,Remessa,1,100.00%
+Liminar + Expedição de documento + Conclusão,Expedição de documento + Remessa,1,100.00%
+Liminar + Publicação,Expedição de documento + Remessa,1,100.00%
+Mandado + Documento,Outras Decisões + Conclusão + Expedição de documento,4,28.57%
+Mandado + Documento,Expedição de documento,2,14.29%
+Mandado + Documento,Expedição de documento + Outras Decisões + Conclusão + Petição,1,7.14%
+Mandado + Documento,Ato ordinatório,1,7.14%
+Mandado + Documento,Petição,1,7.14%
+Mandado + Documento,Expedição de documento + Ato ordinatório,1,7.14%
+Mandado + Documento,Conclusão + Petição,1,7.14%
+Mandado + Documento,Conclusão,1,7.14%
+Mandado + Documento,Conclusão + Petição + Expedição de documento + Ato ordinatório,1,7.14%
+Mandado + Documento,Petição + Conclusão + Expedição de documento + Ato ordinatório + Documento,1,7.14%
+Mandado + Documento + Outras Decisões + Remessa,Expedição de documento + Remessa + Ato ordinatório + Publicação,1,100.00%
+Mandado + Documento + Publicação,Expedição de documento,2,100.00%
+Mero expediente,Remessa,7,87.50%
+Mero expediente,Expedição de documento,1,12.50%
+Mero expediente + Conclusão,Expedição de documento + Remessa,1,50.00%
+Mero expediente + Conclusão,Remessa,1,50.00%
+Mero expediente + Conclusão + Decurso de Prazo,Expedição de documento + Remessa,1,100.00%
+Mero expediente + Conclusão + Petição,Outras Decisões + Petição + Conclusão + Decurso de Prazo + Remessa,1,50.00%
+Mero expediente + Conclusão + Petição,Remessa,1,50.00%
+Mero expediente + Conclusão + Trânsito em julgado,Remessa,1,100.00%
+Não Acolhimento de Embargos de Declaração,Remessa,1,100.00%
+Outras Decisões,Remessa,30,44.12%
+Outras Decisões,Expedição de documento + Remessa,24,35.29%
+Outras Decisões,Expedição de documento,4,5.88%
+Outras Decisões,Publicação + Expedição de documento + Remessa,3,4.41%
+Outras Decisões,Publicação + Remessa,2,2.94%
+Outras Decisões,Petição + Remessa,1,1.47%
+Outras Decisões,Publicação + Petição + Expedição de documento + Remessa,1,1.47%
+Outras Decisões,Petição + Expedição de documento + Remessa,1,1.47%
+Outras Decisões,Conclusão + Petição,1,1.47%
+Outras Decisões,Expedição de documento + Remessa + Petição,1,1.47%
+Outras Decisões + Conclusão,Remessa,21,44.68%
+Outras Decisões + Conclusão,Expedição de documento + Remessa,14,29.79%
+Outras Decisões + Conclusão,Remessa + Petição,2,4.26%
+Outras Decisões + Conclusão,Publicação + Remessa,2,4.26%
+Outras Decisões + Conclusão,Expedição de documento,1,2.13%
+Outras Decisões + Conclusão,Expedição de documento + Publicação + Remessa,1,2.13%
+Outras Decisões + Conclusão,Publicação + Expedição de documento + Ato ordinatório + Documento + Remessa,1,2.13%
+Outras Decisões + Conclusão,Remessa + Expedição de documento,1,2.13%
+Outras Decisões + Conclusão,Conclusão + Petição + Expedição de documento + Remessa,1,2.13%
+Outras Decisões + Conclusão,Acolhimento em Parte de Embargos de Declaração + Conclusão + Petição + Remessa,1,2.13%
+Outras Decisões + Conclusão,Publicação + Remessa + Expedição de documento,1,2.13%
+Outras Decisões + Conclusão,Conclusão + Redistribuição + Remessa,1,2.13%
+Outras Decisões + Conclusão + Decurso de Prazo,Remessa,2,100.00%
+Outras Decisões + Conclusão + Distribuição,Remessa,2,33.33%
+Outras Decisões + Conclusão + Distribuição,Publicação + Remessa,1,16.67%
+Outras Decisões + Conclusão + Distribuição,Remessa + Expedição de documento,1,16.67%
+Outras Decisões + Conclusão + Distribuição,Redistribuição + Remessa + Petição,1,16.67%
+Outras Decisões + Conclusão + Distribuição,Expedição de documento,1,16.67%
+Outras Decisões + Conclusão + Distribuição + Documento,Publicação + Expedição de documento + Remessa,1,100.00%
+Outras Decisões + Conclusão + Documento,Remessa,1,50.00%
+Outras Decisões + Conclusão + Documento,Expedição de documento,1,50.00%
+Outras Decisões + Conclusão + Expedição de documento,Remessa,8,42.11%
+Outras Decisões + Conclusão + Expedição de documento,Expedição de documento + Remessa,3,15.79%
+Outras Decisões + Conclusão + Expedição de documento,Petição + Remessa,1,5.26%
+Outras Decisões + Conclusão + Expedição de documento,Petição + Expedição de documento + Remessa,1,5.26%
+Outras Decisões + Conclusão + Expedição de documento,Publicação + Expedição de documento + Remessa,1,5.26%
+Outras Decisões + Conclusão + Expedição de documento,Expedição de documento + Remessa + Outras Decisões,1,5.26%
+Outras Decisões + Conclusão + Expedição de documento,Publicação + Liminar + Conclusão + Petição + Remessa,1,5.26%
+Outras Decisões + Conclusão + Expedição de documento,Documento + Expedição de documento + Remessa,1,5.26%
+Outras Decisões + Conclusão + Expedição de documento,Petição + Redistribuição + Remessa,1,5.26%
+Outras Decisões + Conclusão + Expedição de documento,Petição + Publicação + Remessa,1,5.26%
+Outras Decisões + Conclusão + Expedição de documento + Distribuição,Remessa,1,100.00%
+Outras Decisões + Conclusão + Expedição de documento + Redistribuição + Recebimento,Remessa,1,100.00%
+Outras Decisões + Conclusão + Indeferimento da petição inicial,Remessa,1,100.00%
+Outras Decisões + Conclusão + Mandado + Documento + Petição,Remessa,1,100.00%
+Outras Decisões + Conclusão + Mandado + Petição,Remessa,1,100.00%
+Outras Decisões + Conclusão + Petição,Expedição de documento + Remessa,12,48.00%
+Outras Decisões + Conclusão + Petição,Remessa,11,44.00%
+Outras Decisões + Conclusão + Petição,Outras Decisões + Conclusão + Petição + Remessa,1,4.00%
+Outras Decisões + Conclusão + Petição,Expedição de documento,1,4.00%
+Outras Decisões + Conclusão + Petição + Expedição de documento,Remessa + Expedição de documento + Ato ordinatório,1,50.00%
+Outras Decisões + Conclusão + Petição + Expedição de documento,Remessa,1,50.00%
+Outras Decisões + Conclusão + Petição + Publicação,Expedição de documento + Remessa,2,66.67%
+Outras Decisões + Conclusão + Petição + Publicação,Remessa,1,33.33%
+Outras Decisões + Conclusão + Petição + Remessa,Publicação + Expedição de documento,1,25.00%
+Outras Decisões + Conclusão + Petição + Remessa,Expedição de documento + Remessa + Publicação,1,25.00%
+Outras Decisões + Conclusão + Petição + Remessa,Petição + Expedição de documento + Publicação,1,25.00%
+Outras Decisões + Conclusão + Petição + Remessa,Petição + Publicação + Remessa,1,25.00%
+Outras Decisões + Conclusão + Publicação,Remessa,1,100.00%
+Outras Decisões + Conclusão + Recebimento,Remessa,1,100.00%
+Outras Decisões + Conclusão + Recebimento + Redistribuição,Expedição de documento + Apensamento + Remessa,1,100.00%
+Outras Decisões + Expedição de documento + Conclusão + Petição + Remessa,Publicação + Remessa,1,100.00%
+Outras Decisões + Petição,Remessa,2,100.00%
+Outras Decisões + Petição + Conclusão + Decurso de Prazo + Remessa,Publicação + Remessa,1,100.00%
+Outras Decisões + Remessa,Expedição de documento + Publicação + Remessa,1,100.00%
+Petição,Conclusão,123,20.10%
+Petição,Expedição de documento,120,19.61%
+Petição,Ato ordinatório,56,9.15%
+Petição,Expedição de documento + Outras Decisões + Conclusão,54,8.82%
+Petição,Petição,50,8.17%
+Petição,Outras Decisões + Conclusão,23,3.76%
+Petição,Expedição de documento + Ato ordinatório,19,3.10%
+Petição,Conclusão + Expedição de documento,16,2.61%
+Petição,Remessa + Expedição de documento,16,2.61%
+Petição,Remessa + Ato ordinatório,13,2.12%
+Petição,Documento,9,1.47%
+Petição,Conclusão + Petição,7,1.14%
+Petição,Remessa + Expedição de documento + Outras Decisões + Conclusão,6,0.98%
+Petição,Expedição de documento + Mero expediente + Conclusão,5,0.82%
+Petição,Conclusão + Decurso de Prazo,5,0.82%
+Petição,Remessa + Expedição de documento + Ato ordinatório,4,0.65%
+Petição,Expedição de documento + Outras Decisões,4,0.65%
+Petição,Remessa,4,0.65%
+Petição,Remessa + Ato ordinatório + Documento,3,0.49%
+Petição,Liminar + Conclusão + Expedição de documento,3,0.49%
+Petição,Expedição de documento + Liminar + Conclusão,3,0.49%
+Petição,Publicação,3,0.49%
+Petição,Expedição de documento + Outras Decisões + Conclusão + Publicação,2,0.33%
+Petição,Expedição de precatório/rpv + Conclusão,2,0.33%
+Petição,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,2,0.33%
+Petição,Conclusão + Documento,2,0.33%
+Petição,Conclusão + Petição + Expedição de documento,2,0.33%
+Petição,Ato ordinatório + Documento,2,0.33%
+Petição,Expedição de documento + Mero expediente,1,0.16%
+Petição,Petição + Remessa + Expedição de documento + Outras Decisões + Conclusão,1,0.16%
+Petição,Petição + Publicação,1,0.16%
+Petição,Petição + Expedição de documento,1,0.16%
+Petição,Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,1,0.16%
+Petição,Expedição de documento + deferimento + Conclusão,1,0.16%
+Petição,Petição + Conclusão,1,0.16%
+Petição,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,1,0.16%
+Petição,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.16%
+Petição,Recebimento,1,0.16%
+Petição,Petição + Remessa + Expedição de documento + Ato ordinatório,1,0.16%
+Petição,Remessa + Outras Decisões + Conclusão + Petição,1,0.16%
+Petição,Remessa + Expedição de documento + Acolhimento de Embargos de Declaração,1,0.16%
+Petição,Petição + Expedição de documento + Ato ordinatório,1,0.16%
+Petição,Expedição de documento + Conclusão,1,0.16%
+Petição,Publicação + Remessa + Ato ordinatório,1,0.16%
+Petição,Remessa + Conclusão + Ato ordinatório,1,0.16%
+Petição,Mero expediente + Conclusão,1,0.16%
+Petição,Remessa + Expedição de documento + Ato ordinatório + Documento,1,0.16%
+Petição,Ato ordinatório + Mandado + Documento,1,0.16%
+Petição,Expedição de documento + Sem efeito suspensivo + Conclusão + Ato ordinatório,1,0.16%
+Petição,Publicação + Expedição de documento + Remessa + Liminar,1,0.16%
+Petição,Expedição de documento + Ato ordinatório + Mandado,1,0.16%
+Petição,Conclusão + Petição + Documento,1,0.16%
+Petição,Expedição de documento + Liminar,1,0.16%
+Petição,Conclusão + Ato ordinatório,1,0.16%
+Petição,Publicação + Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.16%
+Petição,Publicação + Remessa + Expedição de documento + Antecipação de tutela,1,0.16%
+Petição,Expedição de documento + Petição,1,0.16%
+Petição,Conclusão + Mandado + Documento,1,0.16%
+Petição,Remessa + Expedição de documento + Petição,1,0.16%
+Petição,Conclusão + Petição + Expedição de documento + Ato ordinatório,1,0.16%
+Petição,Petição + Expedição de documento + Sem efeito suspensivo + Conclusão,1,0.16%
+Petição,Documento + Ato ordinatório,1,0.16%
+Petição,Expedição de documento + Antecipação de tutela + Conclusão,1,0.16%
+Petição,Petição + Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.16%
+Petição,Outras Decisões,1,0.16%
+Petição,Remessa + Conclusão + Expedição de documento + Ato ordinatório,1,0.16%
+Petição,Publicação + Remessa + Expedição de documento + Ato ordinatório,1,0.16%
+Petição,Petição + Expedição de documento + Ato ordinatório + Mandado + Documento,1,0.16%
+Petição,Expedição de documento + Outras Decisões + Petição + Conclusão,1,0.16%
+Petição,Expedição de documento + Emenda a inicial + Conclusão + Petição,1,0.16%
+Petição,Expedição de documento + Segurança,1,0.16%
+Petição,Remessa + Expedição de documento + Mero expediente + Conclusão + Ato ordinatório,1,0.16%
+Petição,Expedição de documento + Não Acolhimento de Embargos de Declaração + Conclusão,1,0.16%
+Petição,Remessa + Outras Decisões,1,0.16%
+Petição,Expedição de documento + Remessa + Outras Decisões + Conclusão,1,0.16%
+Petição,Mandado + Documento,1,0.16%
+Petição,Remessa + Expedição de documento + Outras Decisões,1,0.16%
+Petição,Expedição de documento + Ato ordinatório + Mandado + Documento,1,0.16%
+Petição,Petição + Expedição de documento + Outras Decisões + Conclusão,1,0.16%
+Petição,Conclusão + Documento + Mandado,1,0.16%
+Petição,Remessa + Outras Decisões + Conclusão,1,0.16%
+Petição,Outras Decisões + Conclusão + Expedição de documento,1,0.16%
+Petição + Ato ordinatório,Remessa,2,100.00%
+Petição + Ato ordinatório + Decurso de Prazo,Remessa,1,100.00%
+Petição + Ato ordinatório + Expedição de documento,Liminar + Conclusão + Expedição de documento + Remessa,1,100.00%
+Petição + Conclusão,Expedição de documento,2,66.67%
+Petição + Conclusão,Remessa + Outras Decisões,1,33.33%
+Petição + Conclusão + Expedição de documento,Petição,1,100.00%
+Petição + Conclusão + Expedição de documento + Ato ordinatório + Documento,Remessa + Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,1,100.00%
+Petição + Conclusão + Remessa,Remessa + Petição + Expedição de documento + Outras Decisões + Publicação,1,100.00%
+Petição + Decisão Interlocutória de Mérito + Conclusão + Expedição de documento + Distribuição,Remessa,1,100.00%
+Petição + Distribuição,Conclusão + Expedição de documento,1,33.33%
+Petição + Distribuição,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,33.33%
+Petição + Distribuição,Remessa + Liminar + Conclusão + Expedição de documento,1,33.33%
+Petição + Expedição de documento,Conclusão,2,25.00%
+Petição + Expedição de documento,Expedição de documento,2,25.00%
+Petição + Expedição de documento,Ato ordinatório,1,12.50%
+Petição + Expedição de documento,Conclusão + Petição,1,12.50%
+Petição + Expedição de documento,Petição + Conclusão,1,12.50%
+Petição + Expedição de documento,Expedição de documento + Ato ordinatório + Conclusão,1,12.50%
+Petição + Expedição de documento + Acolhimento de Embargos de Declaração,Remessa + Conclusão,1,100.00%
+Petição + Expedição de documento + Ato ordinatório,Expedição de documento,2,50.00%
+Petição + Expedição de documento + Ato ordinatório,Remessa,1,25.00%
+Petição + Expedição de documento + Ato ordinatório,Conclusão,1,25.00%
+Petição + Expedição de documento + Ato ordinatório + Decurso de Prazo,Conclusão,1,100.00%
+Petição + Expedição de documento + Ato ordinatório + Documento + Mandado,Conclusão,1,100.00%
+Petição + Expedição de documento + Ato ordinatório + Mandado + Documento,Conclusão + Documento,1,50.00%
+Petição + Expedição de documento + Ato ordinatório + Mandado + Documento,Conclusão,1,50.00%
+Petição + Expedição de documento + Decisão Interlocutória de Mérito,Outras Decisões + Conclusão + Petição + Remessa,1,100.00%
+Petição + Expedição de documento + Outras Decisões + Conclusão,Petição + Remessa,1,50.00%
+Petição + Expedição de documento + Outras Decisões + Conclusão,Remessa,1,50.00%
+Petição + Expedição de documento + Outras Decisões + Conclusão + Documento,Remessa,1,100.00%
+Petição + Expedição de documento + Outras Decisões + Conclusão + Publicação,Remessa,1,100.00%
+Petição + Expedição de documento + Publicação,Conclusão,1,20.00%
+Petição + Expedição de documento + Publicação,Expedição de documento + Outras Decisões + Conclusão + Petição + Ato ordinatório,1,20.00%
+Petição + Expedição de documento + Publicação,Expedição de documento,1,20.00%
+Petição + Expedição de documento + Publicação,Outras Decisões + Conclusão + Petição,1,20.00%
+Petição + Expedição de documento + Publicação,Conclusão + Petição,1,20.00%
+Petição + Expedição de documento + Remessa,Publicação,1,33.33%
+Petição + Expedição de documento + Remessa,Outras Decisões + Conclusão + Publicação,1,33.33%
+Petição + Expedição de documento + Remessa,Conclusão + Publicação,1,33.33%
+Petição + Expedição de documento + Segurança + Conclusão,Expedição de documento + Remessa,1,100.00%
+Petição + Expedição de documento + Sem efeito suspensivo + Conclusão,Remessa,1,100.00%
+Petição + Expedição de documento + Trânsito em julgado,Conclusão,1,100.00%
+Petição + Outras Decisões + Conclusão,Conclusão,1,100.00%
+Petição + Publicação,Expedição de documento,24,50.00%
+Petição + Publicação,Conclusão,7,14.58%
+Petição + Publicação,Petição,4,8.33%
+Petição + Publicação,Expedição de documento + Ato ordinatório,2,4.17%
+Petição + Publicação,Ato ordinatório,2,4.17%
+Petição + Publicação,Expedição de documento + Outras Decisões + Conclusão,1,2.08%
+Petição + Publicação,Improcedência + Conclusão,1,2.08%
+Petição + Publicação,Mandado + Documento,1,2.08%
+Petição + Publicação,Remessa + Ato ordinatório,1,2.08%
+Petição + Publicação,Outras Decisões + Conclusão,1,2.08%
+Petição + Publicação,Conclusão + Petição,1,2.08%
+Petição + Publicação,Conclusão + Petição + Expedição de documento + Ato ordinatório,1,2.08%
+Petição + Publicação,Petição + Expedição de documento + Ato ordinatório,1,2.08%
+Petição + Publicação,Remessa + Ato ordinatório + Expedição de documento,1,2.08%
+Petição + Publicação + Expedição de documento + Remessa,Publicação,1,100.00%
+Petição + Publicação + Remessa,Expedição de documento + Liminar + Petição + Conclusão + Publicação,1,50.00%
+Petição + Publicação + Remessa,Petição,1,50.00%
+Petição + Redistribuição + Remessa,Liminar + Conclusão + Expedição de documento,1,100.00%
+Petição + Remessa,Publicação,33,78.57%
+Petição + Remessa,Conclusão + Publicação,3,7.14%
+Petição + Remessa,Expedição de documento + Outras Decisões + Conclusão + Publicação,1,2.38%
+Petição + Remessa,Expedição de documento + Liminar + Petição + Conclusão + Publicação,1,2.38%
+Petição + Remessa,Outras Decisões + Conclusão + Petição + Publicação,1,2.38%
+Petição + Remessa,Ato ordinatório + Publicação,1,2.38%
+Petição + Remessa,Petição + Publicação,1,2.38%
+Petição + Remessa,Expedição de documento + Publicação,1,2.38%
+Petição + Remessa + Ato ordinatório + Expedição de documento,Publicação,1,50.00%
+Petição + Remessa + Ato ordinatório + Expedição de documento,Expedição de documento + Antecipação de tutela + Conclusão + Publicação,1,50.00%
+Petição + Remessa + Emenda à Inicial + Conclusão + Expedição de documento,Publicação,1,100.00%
+Petição + Remessa + Expedição de documento + Ato ordinatório,Expedição de documento + Outras Decisões + Publicação + Conclusão,1,100.00%
+Petição + Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,Publicação,1,100.00%
+Petição + Remessa + Expedição de documento + Outras Decisões,Conclusão + Publicação,1,100.00%
+Petição + Remessa + Expedição de documento + Outras Decisões + Conclusão,Publicação,1,100.00%
+Petição + Remessa + Outras Decisões + Conclusão + Expedição de documento,Publicação,1,100.00%
+Procedência,Expedição de documento + Remessa,3,100.00%
+Procedência em Parte,Outras Decisões + Expedição de documento + Conclusão + Petição + Remessa,1,50.00%
+Procedência em Parte,Expedição de documento + Remessa,1,50.00%
+Protocolo de Petição,Expedição de documento,5,62.50%
+Protocolo de Petição,Remessa,2,25.00%
+Protocolo de Petição,Petição,1,12.50%
+Protocolo de Petição + Enviada ao Tribunal,Expedição de documento,2,100.00%
+Protocolo de Petição + Enviada ao Tribunal + Expedição de documento,Expedição de documento,1,100.00%
+Protocolo de Petição + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv,Remessa,2,100.00%
+Protocolo de Petição + Enviada ao Tribunal + Remessa,Publicação,1,100.00%
+Protocolo de Petição + Expedição de documento,Expedição de documento + Ato ordinatório,1,100.00%
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal,Expedição de documento + Ato ordinatório,1,100.00%
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,Remessa,1,100.00%
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,2,100.00%
+Protocolo de Petição + Expedição de documento + Remessa,Publicação,2,100.00%
+Protocolo de Petição + Expedição de documento + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Publicação,1,100.00%
+Protocolo de Petição + Remessa,Publicação,1,100.00%
+Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv + Conclusão,Publicação,1,100.00%
+Provisório + Expedição de documento,Recebimento,1,50.00%
+Provisório + Expedição de documento,Petição,1,50.00%
+Publicação,Expedição de documento,416,49.06%
+Publicação,Petição,200,23.58%
+Publicação,Expedição de documento + Ato ordinatório,40,4.72%
+Publicação,Ato ordinatório,36,4.25%
+Publicação,Conclusão + Petição,25,2.95%
+Publicação,Recebimento,11,1.30%
+Publicação,Documento + Expedição de documento,7,0.83%
+Publicação,Conclusão,6,0.71%
+Publicação,Petição + Expedição de documento,5,0.59%
+Publicação,Expedição de documento + Outras Decisões + Conclusão,5,0.59%
+Publicação,Remessa + Ato ordinatório,5,0.59%
+Publicação,Conclusão + Expedição de documento,4,0.47%
+Publicação,Outras Decisões + Conclusão + Expedição de documento,4,0.47%
+Publicação,Outras Decisões + Conclusão + Petição,4,0.47%
+Publicação,Documento,4,0.47%
+Publicação,Protocolo de Petição,3,0.35%
+Publicação,Remessa + Expedição de documento + Ato ordinatório,3,0.35%
+Publicação,Expedição de documento + Ato ordinatório + Documento,3,0.35%
+Publicação,Expedição de documento + Ato ordinatório + Petição,3,0.35%
+Publicação,Expedição de documento + Petição,3,0.35%
+Publicação,Expedição de documento + Protocolo de Petição,2,0.24%
+Publicação,Outras Decisões + Conclusão,2,0.24%
+Publicação,Petição + Expedição de documento + Ato ordinatório,2,0.24%
+Publicação,Outras Decisões + Conclusão + Decurso de Prazo,2,0.24%
+Publicação,Remessa + Expedição de documento,2,0.24%
+Publicação,Ato ordinatório + Petição,2,0.24%
+Publicação,Expedição de documento + Outras Decisões + Conclusão + Documento,2,0.24%
+Publicação,Conclusão + Decurso de Prazo,2,0.24%
+Publicação,Expedição de documento + Outras Decisões + Conclusão + Petição,2,0.24%
+Publicação,Expedição de precatório/rpv + Conclusão,1,0.12%
+Publicação,Execução/Cumprimento de Sentença Iniciada (o),1,0.12%
+Publicação,Remessa + Expedição de documento + Ato ordinatório + Outras Decisões + Conclusão,1,0.12%
+Publicação,Trânsito em julgado,1,0.12%
+Publicação,Documento + Decurso de Prazo,1,0.12%
+Publicação,Protocolo de Petição + Enviada ao Tribunal,1,0.12%
+Publicação,Expedição de documento + Remessa + Ato ordinatório,1,0.12%
+Publicação,Expedição de documento + Ato ordinatório + Decurso de Prazo,1,0.12%
+Publicação,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal,1,0.12%
+Publicação,Provisório + Expedição de documento,1,0.12%
+Publicação,Protocolo de Petição + Enviada ao Tribunal + Expedição de documento,1,0.12%
+Publicação,Expedição de documento + Documento + Petição,1,0.12%
+Publicação,Publicação,1,0.12%
+Publicação,Expedição de documento + Remessa + Outras Decisões + Conclusão,1,0.12%
+Publicação,Redistribuição + Remessa,1,0.12%
+Publicação,Ato ordinatório + Antecipação de tutela + Conclusão + Redistribuição + Remessa + Decurso de Prazo,1,0.12%
+Publicação,Documento + Redistribuição + Remessa,1,0.12%
+Publicação,Publicação + Remessa + Liminar,1,0.12%
+Publicação,Mandado + Documento,1,0.12%
+Publicação,Conclusão + Petição + Expedição de documento,1,0.12%
+Publicação,Remessa + Documento,1,0.12%
+Publicação,Remessa + Outras Decisões + Expedição de documento,1,0.12%
+Publicação,Expedição de documento + Remessa + Outras Decisões,1,0.12%
+Publicação,Publicação + Remessa + Ato ordinatório,1,0.12%
+Publicação,Antecipação de tutela + Conclusão + Petição,1,0.12%
+Publicação,Sem Resolução de Mérito + Conclusão + Expedição de documento,1,0.12%
+Publicação,Expedição de documento + Antecipação de tutela + Conclusão + Redistribuição + Remessa,1,0.12%
+Publicação,Decisão Interlocutória de Mérito + Conclusão + Petição,1,0.12%
+Publicação,Conclusão + Documento + Redistribuição + Remessa + Mero expediente,1,0.12%
+Publicação,Ato ordinatório + Documento,1,0.12%
+Publicação,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,1,0.12%
+Publicação,Remessa,1,0.12%
+Publicação,Expedição de documento + Conclusão,1,0.12%
+Publicação,Conclusão + Petição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1,0.12%
+Publicação,Expedição de documento + Procedência,1,0.12%
+Publicação,Remessa + Ato ordinatório + Documento,1,0.12%
+Publicação,Expedição de documento + Mero expediente + Conclusão + Petição,1,0.12%
+Publicação,Expedição de documento + Mero expediente + Conclusão,1,0.12%
+Publicação,Expedição de documento + Remessa,1,0.12%
+Publicação,Expedição de documento + Outras Decisões + Documento + Conclusão + Petição,1,0.12%
+Publicação,Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,1,0.12%
+Publicação,Expedição de documento + Segurança,1,0.12%
+Publicação,Liminar + Conclusão + Expedição de documento + Petição,1,0.12%
+Publicação + Ato ordinatório + Petição + Remessa + Liminar,Expedição de documento,1,100.00%
+Publicação + Ato ordinatório + Remessa + Liminar,Remessa,1,100.00%
+Publicação + Expedição de documento,Ato ordinatório,1,33.33%
+Publicação + Expedição de documento,Expedição de documento,1,33.33%
+Publicação + Expedição de documento,Petição,1,33.33%
+Publicação + Expedição de documento + Ato ordinatório + Documento + Remessa,Publicação + Remessa,1,100.00%
+Publicação + Expedição de documento + Remessa,Petição,5,41.67%
+Publicação + Expedição de documento + Remessa,Expedição de documento,4,33.33%
+Publicação + Expedição de documento + Remessa,Outras Decisões + Conclusão + Petição,2,16.67%
+Publicação + Expedição de documento + Remessa,Outras Decisões + Conclusão + Documento,1,8.33%
+Publicação + Expedição de documento + Remessa + Liminar,Petição,2,66.67%
+Publicação + Expedição de documento + Remessa + Liminar,Documento + Mandado,1,33.33%
+Publicação + Expedição de documento + Remessa + Liminar + Conclusão,Expedição de documento,1,100.00%
+Publicação + Liminar + Conclusão + Petição + Remessa,Documento + Expedição de documento + Remessa,1,100.00%
+Publicação + Petição,Expedição de documento,3,50.00%
+Publicação + Petição,Expedição de documento + Outras Decisões + Conclusão,1,16.67%
+Publicação + Petição,Remessa + Expedição de documento + Ato ordinatório,1,16.67%
+Publicação + Petição,Execução/Cumprimento de Sentença Iniciada (o),1,16.67%
+Publicação + Petição + Expedição de documento + Remessa,Expedição de documento,1,50.00%
+Publicação + Petição + Expedição de documento + Remessa,Expedição de documento + Ato ordinatório,1,50.00%
+Publicação + Petição + Remessa,Petição + Expedição de documento,1,50.00%
+Publicação + Petição + Remessa,Expedição de documento,1,50.00%
+Publicação + Petição + Remessa + Ato ordinatório + Expedição de documento,Conclusão,1,100.00%
+Publicação + Remessa,Expedição de documento,12,34.29%
+Publicação + Remessa,Petição,8,22.86%
+Publicação + Remessa,Expedição de documento + Publicação,2,5.71%
+Publicação + Remessa,Remessa + Expedição de documento + Ato ordinatório,1,2.86%
+Publicação + Remessa,Outras Decisões + Conclusão,1,2.86%
+Publicação + Remessa,Ato ordinatório,1,2.86%
+Publicação + Remessa,Recebimento,1,2.86%
+Publicação + Remessa,Expedição de documento + Petição,1,2.86%
+Publicação + Remessa,Conclusão + Recebimento + Petição + Publicação,1,2.86%
+Publicação + Remessa,Expedição de documento + Ato ordinatório + Documento,1,2.86%
+Publicação + Remessa,Outras Decisões + Conclusão + Petição,1,2.86%
+Publicação + Remessa,Mandado + Documento,1,2.86%
+Publicação + Remessa,Outras Decisões + Conclusão + Expedição de documento,1,2.86%
+Publicação + Remessa,Documento,1,2.86%
+Publicação + Remessa,Conclusão + Petição,1,2.86%
+Publicação + Remessa,Publicação,1,2.86%
+Publicação + Remessa + Ato ordinatório,Petição,2,100.00%
+Publicação + Remessa + Ato ordinatório + Expedição de documento,Petição,1,100.00%
+Publicação + Remessa + Expedição de documento,Expedição de documento,1,100.00%
+Publicação + Remessa + Expedição de documento + Antecipação de tutela,Expedição de documento,1,100.00%
+Publicação + Remessa + Expedição de documento + Ato ordinatório,Expedição de documento,1,100.00%
+Publicação + Remessa + Expedição de documento + Outras Decisões,Petição,1,33.33%
+Publicação + Remessa + Expedição de documento + Outras Decisões,Recebimento,1,33.33%
+Publicação + Remessa + Expedição de documento + Outras Decisões,Expedição de documento,1,33.33%
+Publicação + Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,Petição,1,100.00%
+Publicação + Remessa + Liminar,Expedição de documento,1,100.00%
+Publicação + Remessa + Outras Decisões + Conclusão + Expedição de documento,Remessa,1,100.00%
+Reativação,Ato ordinatório,1,100.00%
+Recebimento,Conclusão,14,15.91%
+Recebimento,Expedição de documento,13,14.77%
+Recebimento,Ato ordinatório,10,11.36%
+Recebimento,Expedição de precatório/rpv + Conclusão,8,9.09%
+Recebimento,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,7,7.95%
+Recebimento,Remessa + Expedição de documento + Ato ordinatório,5,5.68%
+Recebimento,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,4,4.55%
+Recebimento,Petição,4,4.55%
+Recebimento,Expedição de documento + Mero expediente + Conclusão,3,3.41%
+Recebimento,Outras Decisões + Conclusão,3,3.41%
+Recebimento,Expedição de documento + Outras Decisões + Conclusão,3,3.41%
+Recebimento,Conclusão + Expedição de documento + Documento,2,2.27%
+Recebimento,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2,2.27%
+Recebimento,Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2,2.27%
+Recebimento,Remessa + Expedição de documento + Mero expediente + Conclusão,1,1.14%
+Recebimento,Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv + Conclusão,1,1.14%
+Recebimento,Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,1.14%
+Recebimento,Conclusão + Expedição de documento,1,1.14%
+Recebimento,Remessa + Outras Decisões + Conclusão,1,1.14%
+Recebimento,Enviada ao Tribunal + Expedição de documento + Outras Decisões + Conclusão,1,1.14%
+Recebimento,Recebimento,1,1.14%
+Recebimento,Expedição de documento + Ato ordinatório,1,1.14%
+Redistribuição,Conclusão + Expedição de documento,1,100.00%
+Redistribuição + Remessa,Remessa + Ato ordinatório + Expedição de documento,1,100.00%
+Redistribuição + Remessa + Petição,Conclusão + Expedição de documento,1,100.00%
+Redistribuição + Remessa + Publicação,Conclusão + Expedição de documento,1,100.00%
+Remessa,Publicação,506,84.33%
+Remessa,Expedição de documento + Publicação,24,4.00%
+Remessa,Petição + Publicação,19,3.17%
+Remessa,Petição,12,2.00%
+Remessa,Expedição de documento,7,1.17%
+Remessa,Expedição de documento + Ato ordinatório,5,0.83%
+Remessa,Conclusão + Publicação,4,0.67%
+Remessa,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Publicação,2,0.33%
+Remessa,Ato ordinatório + Publicação,2,0.33%
+Remessa,Execução/Cumprimento de Sentença Iniciada (o) + Publicação,2,0.33%
+Remessa,Mandado + Documento + Publicação,2,0.33%
+Remessa,Publicação + Petição,2,0.33%
+Remessa,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,1,0.17%
+Remessa,Expedição de documento + Improcedência + Conclusão + Publicação,1,0.17%
+Remessa,Remessa + Ato ordinatório + Publicação,1,0.17%
+Remessa,Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,1,0.17%
+Remessa,Outras Decisões + Conclusão + Petição + Publicação,1,0.17%
+Remessa,Expedição de documento + Ato ordinatório + Publicação,1,0.17%
+Remessa,Redistribuição,1,0.17%
+Remessa,Outras Decisões + Conclusão + Recebimento + Redistribuição,1,0.17%
+Remessa,Conclusão + Petição + Publicação,1,0.17%
+Remessa,Redistribuição + Remessa + Publicação,1,0.17%
+Remessa,Definitivo + Expedição de documento + Publicação,1,0.17%
+Remessa,Expedição de documento + Ato ordinatório + Petição + Publicação,1,0.17%
+Remessa,Remessa + Expedição de documento + Mero expediente + Conclusão + Publicação,1,0.17%
+Remessa + Antecipação de Tutela + Expedição de documento + Publicação,Publicação,1,100.00%
+Remessa + Antecipação de tutela,Remessa + Expedição de documento + Ato ordinatório + Publicação,1,100.00%
+Remessa + Ato ordinatório,Publicação,27,87.10%
+Remessa + Ato ordinatório,Petição + Publicação,2,6.45%
+Remessa + Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Documento + Publicação,1,3.23%
+Remessa + Ato ordinatório,Publicação + Expedição de documento,1,3.23%
+Remessa + Ato ordinatório + Antecipação de tutela,Expedição de documento + Petição + Publicação,1,100.00%
+Remessa + Ato ordinatório + Documento,Publicação,6,100.00%
+Remessa + Ato ordinatório + Execução/Cumprimento de Sentença Iniciada (o),Publicação,1,100.00%
+Remessa + Ato ordinatório + Expedição de documento,Publicação,6,75.00%
+Remessa + Ato ordinatório + Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,1,12.50%
+Remessa + Ato ordinatório + Expedição de documento,Petição + Publicação,1,12.50%
+Remessa + Ato ordinatório + Petição,Publicação,1,100.00%
+Remessa + Ato ordinatório + Publicação,Publicação,2,100.00%
+Remessa + Ato ordinatório + Trânsito em julgado,Publicação,1,100.00%
+Remessa + Conclusão,Publicação,1,100.00%
+Remessa + Conclusão + Ato ordinatório,Publicação,1,100.00%
+Remessa + Conclusão + Expedição de documento + Ato ordinatório,Petição + Publicação,1,100.00%
+Remessa + Decisão Interlocutória de Mérito + Conclusão,Publicação,1,100.00%
+Remessa + Documento,Liminar + Conclusão + Recebimento + Redistribuição,1,50.00%
+Remessa + Documento,Publicação,1,50.00%
+Remessa + Documento + Expedição de documento + Ato ordinatório + Publicação,Publicação,1,100.00%
+Remessa + Emenda à Inicial,Publicação,1,100.00%
+Remessa + Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Recebimento,4,22.22%
+Remessa + Expedição de documento,Publicação,3,16.67%
+Remessa + Expedição de documento,Expedição de documento,3,16.67%
+Remessa + Expedição de documento,Recebimento,2,11.11%
+Remessa + Expedição de documento,Conclusão + Documento + Recebimento,1,5.56%
+Remessa + Expedição de documento,Conclusão + Expedição de documento + Redistribuição + Recebimento,1,5.56%
+Remessa + Expedição de documento,Outras Decisões + Conclusão + Recebimento,1,5.56%
+Remessa + Expedição de documento,Conclusão + Redistribuição + Recebimento,1,5.56%
+Remessa + Expedição de documento,Outras Decisões + Conclusão + Expedição de documento + Redistribuição + Recebimento,1,5.56%
+Remessa + Expedição de documento,Petição,1,5.56%
+Remessa + Expedição de documento + Acolhimento de Embargos de Declaração,Publicação,1,100.00%
+Remessa + Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,Conclusão,1,100.00%
+Remessa + Expedição de documento + Antecipação de tutela,Publicação,1,100.00%
+Remessa + Expedição de documento + Ato ordinatório,Publicação,16,72.73%
+Remessa + Expedição de documento + Ato ordinatório,Petição + Publicação,3,13.64%
+Remessa + Expedição de documento + Ato ordinatório,Publicação + Petição,2,9.09%
+Remessa + Expedição de documento + Ato ordinatório,Conclusão + Petição + Publicação,1,4.55%
+Remessa + Expedição de documento + Ato ordinatório + Distribuição,Publicação,1,100.00%
+Remessa + Expedição de documento + Ato ordinatório + Documento,Publicação,3,60.00%
+Remessa + Expedição de documento + Ato ordinatório + Documento,Publicação + Petição,1,20.00%
+Remessa + Expedição de documento + Ato ordinatório + Documento,Documento + Publicação,1,20.00%
+Remessa + Expedição de documento + Ato ordinatório + Outras Decisões + Conclusão,Publicação + Petição,1,100.00%
+Remessa + Expedição de documento + Ato ordinatório + Publicação,Publicação,1,100.00%
+Remessa + Expedição de documento + Ato ordinatório + Recebimento,Publicação,1,100.00%
+Remessa + Expedição de documento + Decisão Interlocutória de Mérito,Publicação,4,100.00%
+Remessa + Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Publicação,1,100.00%
+Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença,Publicação,4,100.00%
+Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,Publicação,1,100.00%
+Remessa + Expedição de documento + Impugnação ao cumprimento de sentença,Publicação,1,100.00%
+Remessa + Expedição de documento + Incompetência + Conclusão,Publicação,1,100.00%
+Remessa + Expedição de documento + Liminar,Publicação,1,50.00%
+Remessa + Expedição de documento + Liminar,Petição + Publicação,1,50.00%
+Remessa + Expedição de documento + Liminar + Conclusão,Publicação,2,100.00%
+Remessa + Expedição de documento + Mero expediente,Publicação,3,75.00%
+Remessa + Expedição de documento + Mero expediente,Petição + Publicação,1,25.00%
+Remessa + Expedição de documento + Mero expediente + Conclusão,Publicação,2,100.00%
+Remessa + Expedição de documento + Mero expediente + Conclusão + Ato ordinatório,Publicação,1,100.00%
+Remessa + Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,Publicação,1,100.00%
+Remessa + Expedição de documento + Mero expediente + Conclusão + Publicação,Publicação,1,100.00%
+Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,Publicação,3,100.00%
+Remessa + Expedição de documento + Outras Decisões,Publicação,33,84.62%
+Remessa + Expedição de documento + Outras Decisões,Petição + Publicação,6,15.38%
+Remessa + Expedição de documento + Outras Decisões + Conclusão,Publicação,12,100.00%
+Remessa + Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,Publicação,1,100.00%
+Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,Conclusão + Petição + Publicação,1,100.00%
+Remessa + Expedição de documento + Petição,Recebimento,1,50.00%
+Remessa + Expedição de documento + Petição,Expedição de documento,1,50.00%
+Remessa + Expedição de documento + Procedência,Publicação,2,100.00%
+Remessa + Expedição de documento + Procedência em Parte,Publicação,1,100.00%
+Remessa + Expedição de documento + Protocolo de Petição,Publicação,2,100.00%
+Remessa + Expedição de documento + Segurança,Publicação,2,100.00%
+Remessa + Expedição de precatório/rpv,Publicação,1,100.00%
+Remessa + Extinção,Expedição de documento + Publicação,1,100.00%
+Remessa + Gratuidade da Justiça + Conclusão + Expedição de documento,Publicação,1,100.00%
+Remessa + Liminar,Publicação,1,100.00%
+Remessa + Liminar + Conclusão,Publicação,2,100.00%
+Remessa + Liminar + Conclusão + Expedição de documento,Expedição de documento + Publicação,2,100.00%
+Remessa + Mero expediente,Publicação,1,50.00%
+Remessa + Mero expediente,Publicação + Expedição de documento,1,50.00%
+Remessa + Outras Decisões,Publicação,12,66.67%
+Remessa + Outras Decisões,Petição + Expedição de documento + Publicação,3,16.67%
+Remessa + Outras Decisões,Expedição de documento + Publicação,2,11.11%
+Remessa + Outras Decisões,Expedição de documento,1,5.56%
+Remessa + Outras Decisões + Conclusão,Publicação,4,80.00%
+Remessa + Outras Decisões + Conclusão,Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,1,20.00%
+Remessa + Outras Decisões + Conclusão + Expedição de documento,Publicação,1,100.00%
+Remessa + Outras Decisões + Conclusão + Petição,Publicação,4,100.00%
+Remessa + Outras Decisões + Expedição de documento,Petição + Expedição de documento + Publicação,1,100.00%
+Remessa + Petição,Publicação,6,100.00%
+Remessa + Petição + Expedição de documento + Outras Decisões + Publicação,Publicação,1,100.00%
+Remessa + Publicação,Ato ordinatório + Documento + Publicação,1,100.00%
+Remessa + Republicação,Publicação,1,100.00%
+Remessa + Segurança,Publicação,1,100.00%
+Republicação,Remessa,1,100.00%
+Retificado + Remessa,Publicação,1,100.00%
+Segurança,Remessa,4,100.00%
+Sem Resolução de Mérito,Expedição de documento + Remessa,1,100.00%
+Sem Resolução de Mérito + Conclusão + Expedição de documento,Publicação + Expedição de documento + Remessa,1,100.00%
+Trânsito em julgado,Conclusão,2,66.67%
+Trânsito em julgado,Outras Decisões + Conclusão,1,33.33%
+nan,Conclusão,1,50.00%
+nan,Petição,1,50.00%
+
+Multas e demais Sanções
+movimento_anterior,proximo_movimento,frequencia,probabilidade_condicional
+Antecipação de Tutela + Conclusão,Remessa,1,100.00%
+Antecipação de tutela,Remessa,2,100.00%
+Antecipação de tutela + Conclusão + Distribuição,Remessa,1,100.00%
+Ato ordinatório,Petição,34,19.88%
+Ato ordinatório,Ato ordinatório,31,18.13%
+Ato ordinatório,Remessa,20,11.70%
+Ato ordinatório,Conclusão,13,7.60%
+Ato ordinatório,Expedição de documento,12,7.02%
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão,11,6.43%
+Ato ordinatório,Recebimento,7,4.09%
+Ato ordinatório,Expedição de documento + Trânsito em julgado,5,2.92%
+Ato ordinatório,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,5,2.92%
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,4,2.34%
+Ato ordinatório,Conclusão + Petição,4,2.34%
+Ato ordinatório,Conclusão + Decurso de Prazo,3,1.75%
+Ato ordinatório,Conclusão + Expedição de documento,3,1.75%
+Ato ordinatório,Expedição de documento + Ato ordinatório,3,1.75%
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Documento,2,1.17%
+Ato ordinatório,Outras Decisões + Conclusão,2,1.17%
+Ato ordinatório,Remessa + Ato ordinatório,2,1.17%
+Ato ordinatório,Conclusão + Trânsito em julgado,1,0.58%
+Ato ordinatório,Expedição de documento + Outras Decisões,1,0.58%
+Ato ordinatório,Expedição de documento + Mero expediente + Conclusão,1,0.58%
+Ato ordinatório,Expedição de documento + Outras Decisões + Documento,1,0.58%
+Ato ordinatório,Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.58%
+Ato ordinatório,Expedição de documento + Remessa,1,0.58%
+Ato ordinatório,Publicação + Remessa + Ato ordinatório,1,0.58%
+Ato ordinatório,Documento + Expedição de documento,1,0.58%
+Ato ordinatório,Petição + Expedição de documento + Outras Decisões + Conclusão,1,0.58%
+Ato ordinatório,Mandado + Documento,1,0.58%
+Ato ordinatório + Decurso de Prazo,Expedição de documento,1,100.00%
+Ato ordinatório + Documento,Remessa,4,100.00%
+Ato ordinatório + Documento + Petição,Remessa,1,100.00%
+Ato ordinatório + Expedição de documento,Remessa,1,33.33%
+Ato ordinatório + Expedição de documento,Expedição de documento,1,33.33%
+Ato ordinatório + Expedição de documento,Ato ordinatório,1,33.33%
+Ato ordinatório + Petição,Remessa,2,100.00%
+Ato ordinatório + Publicação,Remessa,1,100.00%
+Conclusão,Expedição de documento + Outras Decisões,89,31.67%
+Conclusão,Remessa + Expedição de documento + Outras Decisões,24,8.54%
+Conclusão,Outras Decisões,24,8.54%
+Conclusão,Conclusão,21,7.47%
+Conclusão,Expedição de documento + Outras Decisões + Conclusão,17,6.05%
+Conclusão,Expedição de documento,15,5.34%
+Conclusão,Expedição de documento + Mero expediente,8,2.85%
+Conclusão,Petição,7,2.49%
+Conclusão,Expedição de documento + Procedência em Parte,7,2.49%
+Conclusão,Emenda à Inicial,5,1.78%
+Conclusão,Remessa + Expedição de documento + Emenda a inicial,5,1.78%
+Conclusão,Remessa + Expedição de documento + Mero expediente,4,1.42%
+Conclusão,Expedição de documento + Remessa + Outras Decisões,4,1.42%
+Conclusão,Extinção da execução ou do cumprimento da sentença + Conclusão,4,1.42%
+Conclusão,Remessa + Outras Decisões,4,1.42%
+Conclusão,Expedição de documento + Procedência,4,1.42%
+Conclusão,Remessa + Mero expediente,3,1.07%
+Conclusão,Segurança,3,1.07%
+Conclusão,Petição + Expedição de documento + Outras Decisões,3,1.07%
+Conclusão,Conclusão + Expedição de documento,3,1.07%
+Conclusão,Ato ordinatório,2,0.71%
+Conclusão,Petição + Remessa + Expedição de documento + Outras Decisões,2,0.71%
+Conclusão,Expedição de documento + Extinção da execução ou do cumprimento da sentença,2,0.71%
+Conclusão,Expedição de documento + Segurança,2,0.71%
+Conclusão,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.36%
+Conclusão,Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.36%
+Conclusão,Expedição de documento + Remessa + Extinção da execução ou do cumprimento da sentença,1,0.36%
+Conclusão,Outras Decisões + Conclusão + Documento,1,0.36%
+Conclusão,Mero expediente,1,0.36%
+Conclusão,Enviada ao Tribunal + Expedição de precatório/rpv,1,0.36%
+Conclusão,Expedição de documento + Acolhimento de Embargos de Declaração,1,0.36%
+Conclusão,Remessa + Expedição de documento + Impugnação ao cumprimento de sentença,1,0.36%
+Conclusão,Redistribuição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1,0.36%
+Conclusão,Publicação + Remessa + Improcedência,1,0.36%
+Conclusão,Outras Decisões + Conclusão,1,0.36%
+Conclusão,Conclusão + Redistribuição + Remessa + Expedição de documento + Mero expediente,1,0.36%
+Conclusão,Remessa + Expedição de documento + Outras Decisões + Conclusão,1,0.36%
+Conclusão,Expedição de documento + Emenda à Inicial,1,0.36%
+Conclusão,Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.36%
+Conclusão,Expedição de documento + Liminar,1,0.36%
+Conclusão,Expedição de documento + Procedência do Pedido - Reconhecimento pelo réu,1,0.36%
+Conclusão,Improcedência,1,0.36%
+Conclusão,Remessa + Liminar,1,0.36%
+Conclusão + Decurso de Prazo,Remessa + Expedição de documento + Acolhimento de Embargos de Declaração,2,28.57%
+Conclusão + Decurso de Prazo,Expedição de documento + Mero expediente,1,14.29%
+Conclusão + Decurso de Prazo,Expedição de documento + Decisão Interlocutória de Mérito,1,14.29%
+Conclusão + Decurso de Prazo,Outras Decisões,1,14.29%
+Conclusão + Decurso de Prazo,Expedição de documento + Segurança,1,14.29%
+Conclusão + Decurso de Prazo,Conclusão,1,14.29%
+Conclusão + Decurso de Prazo + Documento,Expedição de documento + Acolhimento de Embargos de Declaração,1,100.00%
+Conclusão + Distribuição,Outras Decisões,3,30.00%
+Conclusão + Distribuição,Antecipação de tutela,2,20.00%
+Conclusão + Distribuição,Remessa + Liminar,2,20.00%
+Conclusão + Distribuição,Emenda à Inicial,1,10.00%
+Conclusão + Distribuição,Liminar,1,10.00%
+Conclusão + Distribuição,Remessa + Antecipação de tutela,1,10.00%
+Conclusão + Documento,Ato ordinatório,1,50.00%
+Conclusão + Documento,Expedição de documento + Outras Decisões,1,50.00%
+Conclusão + Documento + Petição,Outras Decisões,1,100.00%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Conclusão,9,37.50%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Mero expediente,7,29.17%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Outras Decisões,3,12.50%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Mero expediente,1,4.17%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Emenda à Inicial,1,4.17%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa + Expedição de documento + Outras Decisões,1,4.17%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Extinção da execução ou do cumprimento da sentença,1,4.17%
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa + Expedição de documento + Mero expediente,1,4.17%
+Conclusão + Expedição de documento,Expedição de documento + Outras Decisões,56,47.46%
+Conclusão + Expedição de documento,Outras Decisões,17,14.41%
+Conclusão + Expedição de documento,Conclusão,9,7.63%
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Outras Decisões,6,5.08%
+Conclusão + Expedição de documento,Expedição de documento + Extinção da execução ou do cumprimento da sentença,5,4.24%
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Mero expediente,2,1.69%
+Conclusão + Expedição de documento,Expedição de documento,2,1.69%
+Conclusão + Expedição de documento,Enviada ao Tribunal + Expedição de precatório/rpv,1,0.85%
+Conclusão + Expedição de documento,Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.85%
+Conclusão + Expedição de documento,Extinção da execução ou do cumprimento da sentença,1,0.85%
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.85%
+Conclusão + Expedição de documento,Mero expediente,1,0.85%
+Conclusão + Expedição de documento,Expedição de documento + Ato ordinatório,1,0.85%
+Conclusão + Expedição de documento,Enviada ao Tribunal + Expedição de precatório/rpv + Expedição de documento,1,0.85%
+Conclusão + Expedição de documento,Ato ordinatório,1,0.85%
+Conclusão + Expedição de documento,Conclusão + de Instrução e Julgamento,1,0.85%
+Conclusão + Expedição de documento,Expedição de documento + Procedência em Parte,1,0.85%
+Conclusão + Expedição de documento,Expedição de documento + Improcedência,1,0.85%
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Sem efeito suspensivo,1,0.85%
+Conclusão + Expedição de documento,Outras Decisões + Conclusão + Petição + Remessa,1,0.85%
+Conclusão + Expedição de documento,Remessa + Outras Decisões,1,0.85%
+Conclusão + Expedição de documento,Expedição de documento + Emenda à Inicial,1,0.85%
+Conclusão + Expedição de documento,Expedição de documento + Mero expediente,1,0.85%
+Conclusão + Expedição de documento,Liminar,1,0.85%
+Conclusão + Expedição de documento,Publicação + Remessa + Liminar,1,0.85%
+Conclusão + Expedição de documento,Expedição de documento + Não Acolhimento de Embargos de Declaração,1,0.85%
+Conclusão + Expedição de documento,Expedição de documento + Remessa + Outras Decisões,1,0.85%
+Conclusão + Expedição de documento,Petição,1,0.85%
+Conclusão + Expedição de documento + Distribuição,Expedição de documento + Outras Decisões,32,54.24%
+Conclusão + Expedição de documento + Distribuição,Remessa + Expedição de documento + Outras Decisões,19,32.20%
+Conclusão + Expedição de documento + Distribuição,Remessa + Outras Decisões,5,8.47%
+Conclusão + Expedição de documento + Distribuição,Outras Decisões,2,3.39%
+Conclusão + Expedição de documento + Distribuição,Mero expediente,1,1.69%
+Conclusão + Expedição de documento + Documento + Redistribuição + Remessa,Mero expediente,1,100.00%
+Conclusão + Expedição de documento + Publicação,Expedição de documento + Mero expediente,33,78.57%
+Conclusão + Expedição de documento + Publicação,Expedição de documento + Outras Decisões,3,7.14%
+Conclusão + Expedição de documento + Publicação,Petição + Expedição de documento + Mero expediente,3,7.14%
+Conclusão + Expedição de documento + Publicação,Expedição de documento + Outras Decisões + Petição,2,4.76%
+Conclusão + Expedição de documento + Publicação,Petição,1,2.38%
+Conclusão + Expedição de documento + Redistribuição,Expedição de documento + Outras Decisões,2,50.00%
+Conclusão + Expedição de documento + Redistribuição,Petição,2,50.00%
+Conclusão + Expedição de documento + Redistribuição + Recebimento,Remessa + Liminar,1,100.00%
+Conclusão + Expedição de documento + Redistribuição + Remessa,Expedição de documento + Outras Decisões,2,33.33%
+Conclusão + Expedição de documento + Redistribuição + Remessa,Remessa + Mero expediente,1,16.67%
+Conclusão + Expedição de documento + Redistribuição + Remessa,Petição,1,16.67%
+Conclusão + Expedição de documento + Redistribuição + Remessa,Outras Decisões,1,16.67%
+Conclusão + Expedição de documento + Redistribuição + Remessa,Remessa + Liminar,1,16.67%
+Conclusão + Expedição de documento + Redistribuição + Remessa + Publicação,Outras Decisões,1,100.00%
+Conclusão + Outras Decisões + Expedição de documento,Redistribuição + Remessa + Expedição de documento + Mero expediente,1,100.00%
+Conclusão + Petição,Outras Decisões,16,34.04%
+Conclusão + Petição,Expedição de documento + Outras Decisões,8,17.02%
+Conclusão + Petição,Conclusão,6,12.77%
+Conclusão + Petição,Expedição de documento,3,6.38%
+Conclusão + Petição,Remessa + Outras Decisões,2,4.26%
+Conclusão + Petição,Expedição de documento + Outras Decisões + Conclusão,2,4.26%
+Conclusão + Petição,Outras Decisões + Expedição de documento,2,4.26%
+Conclusão + Petição,Remessa + deferimento + Conclusão,1,2.13%
+Conclusão + Petição,Expedição de documento + Conclusão + Petição,1,2.13%
+Conclusão + Petição,Outras Decisões + Conclusão + Petição + Remessa,1,2.13%
+Conclusão + Petição,Segurança,1,2.13%
+Conclusão + Petição,Expedição de documento + Improcedência,1,2.13%
+Conclusão + Petição,Mandado + Documento,1,2.13%
+Conclusão + Petição,Remessa + Expedição de documento + Outras Decisões,1,2.13%
+Conclusão + Petição,Petição,1,2.13%
+Conclusão + Petição + Emenda à Inicial,Indeferimento da petição inicial + Remessa,1,100.00%
+Conclusão + Petição + Publicação,Expedição de documento + Outras Decisões,1,33.33%
+Conclusão + Petição + Publicação,Outras Decisões,1,33.33%
+Conclusão + Petição + Publicação,Expedição de documento + Remessa + Outras Decisões,1,33.33%
+Conclusão + Petição + Remessa,Publicação,1,100.00%
+Conclusão + Publicação,Expedição de documento,2,33.33%
+Conclusão + Publicação,Conclusão,2,33.33%
+Conclusão + Publicação,Remessa + Expedição de documento + Outras Decisões,1,16.67%
+Conclusão + Publicação,Expedição de documento + Mero expediente,1,16.67%
+Conclusão + Recebimento,Enviada ao Tribunal + Expedição de precatório/rpv,1,50.00%
+Conclusão + Recebimento,Remessa + Expedição de documento + Outras Decisões,1,50.00%
+Conclusão + Redistribuição + Remessa,Expedição de documento + Outras Decisões,3,75.00%
+Conclusão + Redistribuição + Remessa,Expedição de documento + Antecipação de tutela + Publicação,1,25.00%
+Conclusão + Redistribuição + Remessa + Expedição de documento,Remessa + Expedição de documento + Antecipação de tutela,1,100.00%
+Conclusão + Redistribuição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,Publicação,1,100.00%
+Conclusão + Redistribuição + Remessa + Expedição de documento + Mero expediente,Publicação,1,100.00%
+Conclusão + Redistribuição + Remessa + Expedição de documento + Outras Decisões,Publicação + Remessa + Antecipação de tutela,1,100.00%
+Conclusão + Redistribuição + Remessa + Publicação,Conclusão + Redistribuição + Remessa + Expedição de documento + Outras Decisões,1,100.00%
+Conclusão + Remessa,Publicação,1,100.00%
+Conclusão + Remessa + Expedição de documento,Conclusão + Expedição de documento,1,100.00%
+Conclusão + Trânsito em julgado,Remessa + Expedição de documento + Outras Decisões,1,100.00%
+Conclusão + de Instrução e Julgamento,Expedição de documento + Outras Decisões + Conclusão,1,100.00%
+Decurso de Prazo,Conclusão,1,100.00%
+Distribuição,Expedição de documento + Outras Decisões + Conclusão,63,37.50%
+Distribuição,Conclusão + Expedição de documento,54,32.14%
+Distribuição,Conclusão,20,11.90%
+Distribuição,Outras Decisões + Conclusão + Expedição de documento,9,5.36%
+Distribuição,Outras Decisões + Conclusão,6,3.57%
+Distribuição,Remessa + Outras Decisões + Conclusão + Expedição de documento,2,1.19%
+Distribuição,Expedição de documento + Antecipação de tutela + Conclusão,2,1.19%
+Distribuição,Outras Decisões + Conclusão + Ato ordinatório,1,0.60%
+Distribuição,Mero expediente + Conclusão,1,0.60%
+Distribuição,Conclusão + Petição + Emenda à Inicial,1,0.60%
+Distribuição,Antecipação de Tutela + Conclusão,1,0.60%
+Distribuição,Remessa + Outras Decisões + Conclusão,1,0.60%
+Distribuição,Petição + Conclusão,1,0.60%
+Distribuição,Conclusão + Outras Decisões + Expedição de documento,1,0.60%
+Distribuição,Emenda à Inicial + Conclusão + Expedição de documento,1,0.60%
+Distribuição,Publicação + Remessa + Ato ordinatório + Expedição de documento,1,0.60%
+Distribuição,Liminar + Conclusão + Expedição de documento,1,0.60%
+Distribuição,Remessa + Ato ordinatório + Expedição de documento,1,0.60%
+Distribuição,Liminar + Conclusão,1,0.60%
+Documento,Petição,3,42.86%
+Documento,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,14.29%
+Documento,Conclusão + Expedição de documento,1,14.29%
+Documento,Conclusão,1,14.29%
+Documento,Ato ordinatório + Documento,1,14.29%
+Documento + Expedição de documento,Documento,2,100.00%
+Documento + Expedição de documento + Mero expediente + Conclusão,Remessa,1,100.00%
+Documento + Expedição de documento + Publicação,Petição,1,100.00%
+Documento + Mandado + Petição,Expedição de documento,1,100.00%
+Documento + Petição,Redistribuição + Remessa,1,100.00%
+Documento + Remessa,Conclusão + Redistribuição + Remessa,1,100.00%
+Emenda a inicial + Conclusão + Expedição de documento,Remessa,1,100.00%
+Emenda à Inicial,Remessa,5,83.33%
+Emenda à Inicial,Conclusão + Petição + Remessa,1,16.67%
+Emenda à Inicial + Conclusão,Remessa,2,100.00%
+Emenda à Inicial + Conclusão + Expedição de documento,Remessa,2,100.00%
+Enviada ao Tribunal + Expedição de precatório/rpv,Expedição de documento + Protocolo de Petição + Remessa,3,100.00%
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Expedição de documento + Protocolo de Petição,2,40.00%
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa + Expedição de documento + Protocolo de Petição,1,20.00%
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Expedição de documento + Protocolo de Petição + Remessa,1,20.00%
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,1,20.00%
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Expedição de documento,Petição + Protocolo de Petição + Expedição de documento + Remessa,1,50.00%
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Expedição de documento,Expedição de documento + Protocolo de Petição,1,50.00%
+Enviada ao Tribunal + Expedição de precatório/rpv + Expedição de documento,Protocolo de Petição + Expedição de documento,1,100.00%
+Enviada ao Tribunal + Publicação,Expedição de documento + Protocolo de Petição,1,100.00%
+Enviada ao Tribunal + Remessa,Publicação + Expedição de documento + Protocolo de Petição,2,66.67%
+Enviada ao Tribunal + Remessa,Publicação,1,33.33%
+Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Outras Decisões + Conclusão,33,50.00%
+Execução/Cumprimento de Sentença Iniciada (o),Conclusão,16,24.24%
+Execução/Cumprimento de Sentença Iniciada (o),Remessa + Expedição de documento + Outras Decisões + Conclusão,4,6.06%
+Execução/Cumprimento de Sentença Iniciada (o),Ato ordinatório,4,6.06%
+Execução/Cumprimento de Sentença Iniciada (o),Outras Decisões + Conclusão,4,6.06%
+Execução/Cumprimento de Sentença Iniciada (o),Petição,4,6.06%
+Execução/Cumprimento de Sentença Iniciada (o),Outras Decisões + Conclusão + Expedição de documento,1,1.52%
+Execução/Cumprimento de Sentença Iniciada (o) + Publicação,Expedição de documento,1,100.00%
+Expedição de documento,Petição,235,37.72%
+Expedição de documento,Expedição de documento,80,12.84%
+Expedição de documento,Ato ordinatório,79,12.68%
+Expedição de documento,Conclusão,31,4.98%
+Expedição de documento,Conclusão + Petição,31,4.98%
+Expedição de documento,Recebimento,29,4.65%
+Expedição de documento,Conclusão + Expedição de documento,20,3.21%
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão,18,2.89%
+Expedição de documento,Publicação,10,1.61%
+Expedição de documento,Outras Decisões + Conclusão + Petição,5,0.80%
+Expedição de documento,Expedição de documento + Outras Decisões,5,0.80%
+Expedição de documento,Petição + Ato ordinatório,5,0.80%
+Expedição de documento,Expedição de documento + Ato ordinatório,4,0.64%
+Expedição de documento,Expedição de documento + Trânsito em julgado,4,0.64%
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,4,0.64%
+Expedição de documento,nan,4,0.64%
+Expedição de documento,Mandado + Documento,4,0.64%
+Expedição de documento,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,3,0.48%
+Expedição de documento,Remessa + Ato ordinatório,3,0.48%
+Expedição de documento,Remessa,3,0.48%
+Expedição de documento,Definitivo + Expedição de documento + Trânsito em julgado,3,0.48%
+Expedição de documento,Documento,2,0.32%
+Expedição de documento,Remessa + Expedição de documento,2,0.32%
+Expedição de documento,Remessa + Expedição de documento + Outras Decisões,2,0.32%
+Expedição de documento,Ato ordinatório + Documento,2,0.32%
+Expedição de documento,Conclusão + Decurso de Prazo,2,0.32%
+Expedição de documento,Expedição de documento + Mero expediente + Conclusão,1,0.16%
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.16%
+Expedição de documento,Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,1,0.16%
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,1,0.16%
+Expedição de documento,Expedição de documento + Extinção da execução ou do cumprimento da sentença,1,0.16%
+Expedição de documento,Expedição de documento + Ato ordinatório + Documento,1,0.16%
+Expedição de documento,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Expedição de documento,1,0.16%
+Expedição de documento,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,0.16%
+Expedição de documento,Expedição de precatório/rpv + Conclusão,1,0.16%
+Expedição de documento,Documento + Expedição de documento + Mero expediente + Conclusão,1,0.16%
+Expedição de documento,Remessa + Expedição de documento + Ato ordinatório,1,0.16%
+Expedição de documento,Definitivo + Expedição de documento + Decurso de Prazo,1,0.16%
+Expedição de documento,Outras Decisões + Conclusão + Expedição de documento,1,0.16%
+Expedição de documento,Remessa + Expedição de documento + Outras Decisões + Conclusão,1,0.16%
+Expedição de documento,Remessa + Expedição de documento + Ato ordinatório + Documento,1,0.16%
+Expedição de documento,Conclusão + Decurso de Prazo + Documento,1,0.16%
+Expedição de documento,Outras Decisões + Conclusão + Mandado + Documento + Petição,1,0.16%
+Expedição de documento,Expedição de documento + Ato ordinatório + Petição,1,0.16%
+Expedição de documento,Mandado + Petição,1,0.16%
+Expedição de documento,Ato ordinatório + Expedição de documento,1,0.16%
+Expedição de documento,Remessa + Ato ordinatório + Mandado,1,0.16%
+Expedição de documento,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,0.16%
+Expedição de documento,Expedição de documento + Ato ordinatório + Decurso de Prazo,1,0.16%
+Expedição de documento,Decurso de Prazo,1,0.16%
+Expedição de documento,Petição + Expedição de documento,1,0.16%
+Expedição de documento,Mandado,1,0.16%
+Expedição de documento,Remessa + Expedição de documento + Mandado + Documento,1,0.16%
+Expedição de documento,Remessa + Ato ordinatório + Expedição de documento + Documento,1,0.16%
+Expedição de documento,Expedição de documento + Remessa,1,0.16%
+Expedição de documento,Documento + Expedição de documento,1,0.16%
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Petição,1,0.16%
+Expedição de documento,Expedição de documento + Ato ordinatório + Petição + Mandado,1,0.16%
+Expedição de documento,Remessa + Segurança,1,0.16%
+Expedição de documento +  + Conclusão,Remessa,1,100.00%
+Expedição de documento +  + Conclusão + Redistribuição,Expedição de documento + Remessa,1,100.00%
+Expedição de documento + Acolhimento de Embargos de Declaração,Remessa,2,100.00%
+Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,Expedição de documento + Remessa,1,50.00%
+Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,Remessa,1,50.00%
+Expedição de documento + Antecipação de tutela + Conclusão,Expedição de documento + Remessa,2,100.00%
+Expedição de documento + Antecipação de tutela + Conclusão + Distribuição,Remessa,1,100.00%
+Expedição de documento + Antecipação de tutela + Conclusão + Redistribuição + Remessa + Publicação,Remessa,1,100.00%
+Expedição de documento + Antecipação de tutela + Publicação,Remessa,1,100.00%
+Expedição de documento + Ato ordinatório,Remessa,18,28.57%
+Expedição de documento + Ato ordinatório,Petição,18,28.57%
+Expedição de documento + Ato ordinatório,Ato ordinatório,13,20.63%
+Expedição de documento + Ato ordinatório,Expedição de documento,7,11.11%
+Expedição de documento + Ato ordinatório,Outras Decisões + Conclusão + Documento + Petição,1,1.59%
+Expedição de documento + Ato ordinatório,Petição + Remessa,1,1.59%
+Expedição de documento + Ato ordinatório,Publicação,1,1.59%
+Expedição de documento + Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão,1,1.59%
+Expedição de documento + Ato ordinatório,Conclusão + Documento + Petição,1,1.59%
+Expedição de documento + Ato ordinatório,Conclusão + Petição,1,1.59%
+Expedição de documento + Ato ordinatório,Outras Decisões + Conclusão + Petição,1,1.59%
+Expedição de documento + Ato ordinatório + Decurso de Prazo,Petição,2,66.67%
+Expedição de documento + Ato ordinatório + Decurso de Prazo,Expedição de documento,1,33.33%
+Expedição de documento + Ato ordinatório + Documento,Petição + Remessa,1,100.00%
+Expedição de documento + Ato ordinatório + Petição,Conclusão + Petição,2,50.00%
+Expedição de documento + Ato ordinatório + Petição,Petição,1,25.00%
+Expedição de documento + Ato ordinatório + Petição,Petição + Mandado + Documento,1,25.00%
+Expedição de documento + Ato ordinatório + Petição + Documento,Petição,2,100.00%
+Expedição de documento + Ato ordinatório + Petição + Documento + Mandado,Petição,1,100.00%
+Expedição de documento + Ato ordinatório + Petição + Mandado,Conclusão + Petição,1,50.00%
+Expedição de documento + Ato ordinatório + Petição + Mandado,Petição,1,50.00%
+Expedição de documento + Ato ordinatório + Petição + Remessa,Publicação + Remessa,1,100.00%
+Expedição de documento + Ato ordinatório + Publicação,Expedição de documento,4,66.67%
+Expedição de documento + Ato ordinatório + Publicação,Petição + Expedição de documento,2,33.33%
+Expedição de documento + Conclusão,Expedição de documento + Mero expediente,1,100.00%
+Expedição de documento + Conclusão + Petição,Remessa + Expedição de documento + Outras Decisões,1,100.00%
+Expedição de documento + Conclusão + Petição + Publicação,Expedição de documento,2,100.00%
+Expedição de documento + Decisão Interlocutória de Mérito,Remessa,1,100.00%
+Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Remessa,4,100.00%
+Expedição de documento + Emenda à Inicial,Remessa,2,66.67%
+Expedição de documento + Emenda à Inicial,Petição + Remessa,1,33.33%
+Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,1,100.00%
+Expedição de documento + Extinção da execução ou do cumprimento da sentença,Remessa,8,88.89%
+Expedição de documento + Extinção da execução ou do cumprimento da sentença,Ato ordinatório,1,11.11%
+Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,Remessa,9,90.00%
+Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,Petição + Remessa,1,10.00%
+Expedição de documento + Improcedência,Expedição de documento + Ato ordinatório + Petição + Remessa,1,50.00%
+Expedição de documento + Improcedência,Expedição de documento + Remessa,1,50.00%
+Expedição de documento + Improcedência + Conclusão + Petição,Expedição de documento,1,100.00%
+Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,Remessa,2,100.00%
+Expedição de documento + Liminar,Petição + Remessa,1,100.00%
+Expedição de documento + Mero expediente,Remessa,48,88.89%
+Expedição de documento + Mero expediente,Petição + Remessa,3,5.56%
+Expedição de documento + Mero expediente,Expedição de documento + Remessa,1,1.85%
+Expedição de documento + Mero expediente,Remessa + Petição,1,1.85%
+Expedição de documento + Mero expediente,Petição,1,1.85%
+Expedição de documento + Mero expediente + Conclusão,Remessa,6,75.00%
+Expedição de documento + Mero expediente + Conclusão,Expedição de documento,1,12.50%
+Expedição de documento + Mero expediente + Conclusão,Petição + Remessa,1,12.50%
+Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,Remessa,1,50.00%
+Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,Petição + Remessa,1,50.00%
+Expedição de documento + Mero expediente + Conclusão + Petição,Remessa,1,100.00%
+Expedição de documento + Mero expediente + Conclusão + Petição + Publicação,Publicação + Petição + Remessa,1,100.00%
+Expedição de documento + Não Acolhimento de Embargos de Declaração,Remessa,1,100.00%
+Expedição de documento + Outras Decisões,Remessa,198,94.29%
+Expedição de documento + Outras Decisões,Petição + Remessa,6,2.86%
+Expedição de documento + Outras Decisões,Publicação + Remessa,1,0.48%
+Expedição de documento + Outras Decisões,Expedição de documento + Remessa,1,0.48%
+Expedição de documento + Outras Decisões,Republicação,1,0.48%
+Expedição de documento + Outras Decisões,Expedição de documento,1,0.48%
+Expedição de documento + Outras Decisões,Ato ordinatório,1,0.48%
+Expedição de documento + Outras Decisões,Publicação + Petição + Remessa,1,0.48%
+Expedição de documento + Outras Decisões + Conclusão,Remessa,220,89.07%
+Expedição de documento + Outras Decisões + Conclusão,Petição,8,3.24%
+Expedição de documento + Outras Decisões + Conclusão,Expedição de documento,6,2.43%
+Expedição de documento + Outras Decisões + Conclusão,Petição + Remessa,4,1.62%
+Expedição de documento + Outras Decisões + Conclusão,Publicação + Remessa,3,1.21%
+Expedição de documento + Outras Decisões + Conclusão,Remessa + Petição,3,1.21%
+Expedição de documento + Outras Decisões + Conclusão,Expedição de documento + Remessa,2,0.81%
+Expedição de documento + Outras Decisões + Conclusão,Expedição de documento + Outras Decisões + Conclusão + Petição,1,0.40%
+Expedição de documento + Outras Decisões + Conclusão + Ato ordinatório,Remessa,1,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,Remessa,4,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Distribuição,Remessa,27,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Documento,Remessa,6,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa,3,60.00%
+Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento,1,20.00%
+Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Petição + Remessa,1,20.00%
+Expedição de documento + Outras Decisões + Conclusão + Petição,Expedição de documento + Remessa,5,83.33%
+Expedição de documento + Outras Decisões + Conclusão + Petição,Remessa,1,16.67%
+Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,Remessa,5,100.00%
+Expedição de documento + Outras Decisões + Documento,Remessa,1,100.00%
+Expedição de documento + Outras Decisões + Petição,Remessa,2,100.00%
+Expedição de documento + Petição + Publicação,Conclusão + Petição,1,100.00%
+Expedição de documento + Procedência,Remessa,4,100.00%
+Expedição de documento + Procedência do Pedido - Reconhecimento pelo réu,Remessa,1,100.00%
+Expedição de documento + Procedência em Parte,Remessa,9,100.00%
+Expedição de documento + Protocolo de Petição,Remessa,3,60.00%
+Expedição de documento + Protocolo de Petição,Expedição de documento + Ato ordinatório,2,40.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,Publicação,2,66.67%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,Expedição de documento + Ato ordinatório,1,33.33%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,Remessa,1,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,3,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Recebimento,Remessa,1,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,Publicação,5,100.00%
+Expedição de documento + Protocolo de Petição + Remessa,Publicação,4,100.00%
+Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,Publicação,1,100.00%
+Expedição de documento + Publicação,Expedição de documento,14,58.33%
+Expedição de documento + Publicação,Petição,4,16.67%
+Expedição de documento + Publicação,Documento,2,8.33%
+Expedição de documento + Publicação,Ato ordinatório,1,4.17%
+Expedição de documento + Publicação,nan,1,4.17%
+Expedição de documento + Publicação,Mandado + Documento,1,4.17%
+Expedição de documento + Publicação,Expedição de documento + Ato ordinatório + Petição + Mandado,1,4.17%
+Expedição de documento + Remessa,Publicação,44,91.67%
+Expedição de documento + Remessa,Petição + Publicação,2,4.17%
+Expedição de documento + Remessa,Expedição de documento,2,4.17%
+Expedição de documento + Remessa + Ato ordinatório,Publicação,1,100.00%
+Expedição de documento + Remessa + Extinção da execução ou do cumprimento da sentença,Publicação,1,100.00%
+Expedição de documento + Remessa + Incompetência,Redistribuição + Remessa + Publicação,1,100.00%
+Expedição de documento + Remessa + Outras Decisões,Publicação,5,83.33%
+Expedição de documento + Remessa + Outras Decisões,Conclusão + Petição + Publicação,1,16.67%
+Expedição de documento + Remessa + Publicação,Publicação,1,100.00%
+Expedição de documento + Segurança,Remessa,2,66.67%
+Expedição de documento + Segurança,Expedição de documento,1,33.33%
+Expedição de documento + Trânsito em julgado,Ato ordinatório,3,75.00%
+Expedição de documento + Trânsito em julgado,Execução/Cumprimento de Sentença Iniciada (o),1,25.00%
+Expedição de precatório/rpv + Conclusão,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,5,45.45%
+Expedição de precatório/rpv + Conclusão,Remessa,3,27.27%
+Expedição de precatório/rpv + Conclusão,Enviada ao Tribunal + Remessa,3,27.27%
+Extinção da execução ou do cumprimento da sentença,Expedição de documento + Remessa,1,100.00%
+Extinção da execução ou do cumprimento da sentença + Conclusão,Expedição de documento + Remessa,3,60.00%
+Extinção da execução ou do cumprimento da sentença + Conclusão,Expedição de documento,1,20.00%
+Extinção da execução ou do cumprimento da sentença + Conclusão,Remessa,1,20.00%
+Improcedência,Expedição de documento + Remessa,1,100.00%
+Indeferimento da petição inicial + Remessa,Remessa + Publicação,1,100.00%
+Liminar,Outras Decisões + Conclusão + Petição + Remessa,1,50.00%
+Liminar,Expedição de documento + Remessa,1,50.00%
+Liminar + Conclusão,Remessa,2,100.00%
+Liminar + Conclusão + Distribuição,Remessa,1,100.00%
+Liminar + Conclusão + Expedição de documento,Remessa,2,66.67%
+Liminar + Conclusão + Expedição de documento,Expedição de documento,1,33.33%
+Liminar + Conclusão + Expedição de documento + Publicação,Remessa,1,100.00%
+Liminar + Conclusão + Expedição de documento + Redistribuição + Remessa,Publicação + Expedição de documento + Remessa,1,100.00%
+Liminar + Conclusão + Redistribuição + Recebimento,Remessa,1,100.00%
+Mandado,Expedição de documento + Ato ordinatório + Petição + Documento,1,100.00%
+Mandado + Documento,Expedição de documento + Ato ordinatório,2,25.00%
+Mandado + Documento,Expedição de documento + Ato ordinatório + Petição,2,25.00%
+Mandado + Documento,Petição + Expedição de documento + Ato ordinatório,1,12.50%
+Mandado + Documento,Petição,1,12.50%
+Mandado + Documento,Conclusão,1,12.50%
+Mandado + Documento,Expedição de documento + Ato ordinatório + Petição + Documento,1,12.50%
+Mandado + Petição,Expedição de documento + Ato ordinatório,1,100.00%
+Mero expediente,Remessa,5,100.00%
+Mero expediente + Conclusão,Remessa,1,100.00%
+Mero expediente + Conclusão + Decurso de Prazo,Remessa,1,100.00%
+Mero expediente + Conclusão + Expedição de documento + Redistribuição + Remessa,Remessa,1,100.00%
+Outras Decisões,Remessa,54,72.97%
+Outras Decisões,Expedição de documento + Remessa,11,14.86%
+Outras Decisões,Remessa + Expedição de documento,2,2.70%
+Outras Decisões,Publicação + Remessa + Ato ordinatório,1,1.35%
+Outras Decisões,Outras Decisões + Conclusão + Petição + Remessa,1,1.35%
+Outras Decisões,Petição + Remessa,1,1.35%
+Outras Decisões,Remessa + ,1,1.35%
+Outras Decisões,Publicação + Remessa,1,1.35%
+Outras Decisões,Petição + Expedição de documento + Remessa,1,1.35%
+Outras Decisões,Outras Decisões + Conclusão + Redistribuição + Remessa,1,1.35%
+Outras Decisões + Conclusão,Remessa,16,64.00%
+Outras Decisões + Conclusão,Expedição de documento + Remessa,4,16.00%
+Outras Decisões + Conclusão,Remessa + Expedição de documento + Ato ordinatório + Republicação,1,4.00%
+Outras Decisões + Conclusão,Publicação + Remessa,1,4.00%
+Outras Decisões + Conclusão,Publicação + Expedição de documento + Remessa,1,4.00%
+Outras Decisões + Conclusão,Conclusão + Redistribuição + Remessa,1,4.00%
+Outras Decisões + Conclusão,Liminar + Conclusão + Expedição de documento + Redistribuição + Remessa,1,4.00%
+Outras Decisões + Conclusão + Ato ordinatório,Expedição de documento,1,100.00%
+Outras Decisões + Conclusão + Decurso de Prazo,Remessa,1,100.00%
+Outras Decisões + Conclusão + Distribuição,Remessa,2,100.00%
+Outras Decisões + Conclusão + Documento,Expedição de documento + Remessa,1,100.00%
+Outras Decisões + Conclusão + Documento + Petição,Remessa,1,100.00%
+Outras Decisões + Conclusão + Expedição de documento,Remessa,7,46.67%
+Outras Decisões + Conclusão + Expedição de documento,Publicação + Expedição de documento + Remessa,1,6.67%
+Outras Decisões + Conclusão + Expedição de documento,Redistribuição + Remessa,1,6.67%
+Outras Decisões + Conclusão + Expedição de documento,Petição + Remessa,1,6.67%
+Outras Decisões + Conclusão + Expedição de documento,Publicação + Remessa,1,6.67%
+Outras Decisões + Conclusão + Expedição de documento,Publicação + Redistribuição + Remessa,1,6.67%
+Outras Decisões + Conclusão + Expedição de documento,Remessa + Expedição de documento,1,6.67%
+Outras Decisões + Conclusão + Expedição de documento,Petição,1,6.67%
+Outras Decisões + Conclusão + Expedição de documento,Expedição de documento + Remessa,1,6.67%
+Outras Decisões + Conclusão + Expedição de documento + Distribuição,Remessa,1,100.00%
+Outras Decisões + Conclusão + Mandado + Documento + Petição,Remessa,1,100.00%
+Outras Decisões + Conclusão + Petição,Expedição de documento + Remessa,6,66.67%
+Outras Decisões + Conclusão + Petição,Remessa,3,33.33%
+Outras Decisões + Conclusão + Petição + Remessa,Publicação + Remessa,2,50.00%
+Outras Decisões + Conclusão + Petição + Remessa,Expedição de documento + Remessa + Publicação,1,25.00%
+Outras Decisões + Conclusão + Petição + Remessa,Publicação,1,25.00%
+Outras Decisões + Conclusão + Redistribuição,Remessa,1,100.00%
+Outras Decisões + Conclusão + Redistribuição + Remessa,Expedição de documento + Remessa,1,100.00%
+Outras Decisões + Expedição de documento,Remessa,2,100.00%
+Outras Decisões + Expedição de documento + Conclusão + Redistribuição,Expedição de documento + Remessa,1,100.00%
+Petição,Conclusão,158,30.50%
+Petição,Expedição de documento + Outras Decisões + Conclusão,78,15.06%
+Petição,Expedição de documento,73,14.09%
+Petição,Petição,55,10.62%
+Petição,Ato ordinatório,32,6.18%
+Petição,Conclusão + Expedição de documento,26,5.02%
+Petição,Outras Decisões + Conclusão,11,2.12%
+Petição,Remessa + Ato ordinatório,8,1.54%
+Petição,Expedição de documento + Ato ordinatório,7,1.35%
+Petição,Outras Decisões,5,0.97%
+Petição,Expedição de documento + Mero expediente + Conclusão,4,0.77%
+Petição,Remessa + Expedição de documento + Outras Decisões + Conclusão,4,0.77%
+Petição,Remessa + Expedição de documento,4,0.77%
+Petição,Remessa,3,0.58%
+Petição,Expedição de documento + Outras Decisões,3,0.58%
+Petição,Conclusão + Decurso de Prazo,3,0.58%
+Petição,Remessa + Expedição de documento + Ato ordinatório,3,0.58%
+Petição,Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,2,0.39%
+Petição,Conclusão + Documento,2,0.39%
+Petição,Liminar + Conclusão + Expedição de documento,2,0.39%
+Petição,Redistribuição + Remessa + Expedição de documento,2,0.39%
+Petição,Outras Decisões + Conclusão + Petição,2,0.39%
+Petição,Conclusão + Petição,2,0.39%
+Petição,Conclusão + Publicação,1,0.19%
+Petição,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.19%
+Petição,Expedição de documento +  + Conclusão,1,0.19%
+Petição,Expedição de precatório/rpv + Conclusão,1,0.19%
+Petição,Expedição de documento + Outras Decisões + Conclusão + Ato ordinatório,1,0.19%
+Petição,Ato ordinatório + Documento + Petição,1,0.19%
+Petição,Expedição de documento + Ato ordinatório + Decurso de Prazo,1,0.19%
+Petição,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Expedição de documento,1,0.19%
+Petição,Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.19%
+Petição,Petição + Expedição de documento + Ato ordinatório,1,0.19%
+Petição,Documento,1,0.19%
+Petição,Liminar + Conclusão,1,0.19%
+Petição,Ato ordinatório + Expedição de documento,1,0.19%
+Petição,Mandado + Documento,1,0.19%
+Petição,Redistribuição + Remessa + Outras Decisões + Conclusão,1,0.19%
+Petição,Expedição de documento + Mero expediente,1,0.19%
+Petição,Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.19%
+Petição,Conclusão + Expedição de documento + Redistribuição,1,0.19%
+Petição,Petição + Conclusão,1,0.19%
+Petição,Publicação + Remessa + Ato ordinatório,1,0.19%
+Petição,Emenda à Inicial + Conclusão,1,0.19%
+Petição,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,0.19%
+Petição,Conclusão + Redistribuição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1,0.19%
+Petição,Expedição de documento + Procedência em Parte,1,0.19%
+Petição,Outras Decisões + Conclusão + Expedição de documento,1,0.19%
+Petição,Petição + Expedição de documento + Outras Decisões + Conclusão,1,0.19%
+Petição,Expedição de documento + Conclusão,1,0.19%
+Petição,Publicação,1,0.19%
+Petição,Expedição de documento + Ato ordinatório + Petição + Documento + Mandado,1,0.19%
+Petição + Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão,5,100.00%
+Petição + Conclusão,Expedição de documento + Mero expediente,1,50.00%
+Petição + Conclusão,Outras Decisões,1,50.00%
+Petição + Conclusão + Expedição de documento + Redistribuição,Outras Decisões,1,100.00%
+Petição + Expedição de documento,Expedição de documento + Outras Decisões + Conclusão,3,42.86%
+Petição + Expedição de documento,Petição,2,28.57%
+Petição + Expedição de documento,Ato ordinatório,1,14.29%
+Petição + Expedição de documento,Conclusão + Expedição de documento,1,14.29%
+Petição + Expedição de documento + Ato ordinatório,Conclusão,2,100.00%
+Petição + Expedição de documento + Mero expediente,Remessa,3,100.00%
+Petição + Expedição de documento + Outras Decisões,Remessa,3,100.00%
+Petição + Expedição de documento + Outras Decisões + Conclusão,Remessa,2,100.00%
+Petição + Expedição de documento + Remessa,Publicação,1,100.00%
+Petição + Mandado + Documento,Expedição de documento + Ato ordinatório,1,100.00%
+Petição + Outras Decisões + Conclusão + Ato ordinatório + Distribuição,Remessa + Expedição de documento,1,100.00%
+Petição + Protocolo de Petição + Expedição de documento + Remessa,Publicação,1,100.00%
+Petição + Publicação,Expedição de documento,9,50.00%
+Petição + Publicação,Conclusão,3,16.67%
+Petição + Publicação,Expedição de documento + Outras Decisões + Conclusão,3,16.67%
+Petição + Publicação,Conclusão + Expedição de documento,1,5.56%
+Petição + Publicação,Ato ordinatório,1,5.56%
+Petição + Publicação,Expedição de documento + Remessa,1,5.56%
+Petição + Recebimento,Ato ordinatório,1,100.00%
+Petição + Redistribuição + Remessa + Publicação,Conclusão + Expedição de documento,1,100.00%
+Petição + Remessa,Publicação,20,83.33%
+Petição + Remessa,Conclusão + Publicação,3,12.50%
+Petição + Remessa,Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,1,4.17%
+Petição + Remessa + Expedição de documento + Outras Decisões,Publicação,1,50.00%
+Petição + Remessa + Expedição de documento + Outras Decisões,Conclusão + Publicação,1,50.00%
+Petição + Remessa + Expedição de documento + Outras Decisões + Conclusão + Redistribuição,Remessa + Emenda à Inicial + Conclusão + Publicação,1,100.00%
+Por decisão judicial + Publicação,Expedição de documento,1,100.00%
+Protocolo de Petição,Expedição de documento,1,50.00%
+Protocolo de Petição,Petição,1,50.00%
+Protocolo de Petição + Expedição de documento,Remessa,1,100.00%
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,1,50.00%
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Expedição de documento + Ato ordinatório,1,50.00%
+Publicação,Expedição de documento,505,59.48%
+Publicação,Petição,165,19.43%
+Publicação,Expedição de documento + Ato ordinatório,38,4.48%
+Publicação,Ato ordinatório,16,1.88%
+Publicação,Expedição de documento + Outras Decisões + Conclusão,10,1.18%
+Publicação,Conclusão + Petição,9,1.06%
+Publicação,Conclusão,7,0.82%
+Publicação,Recebimento,6,0.71%
+Publicação,Petição + Expedição de documento,6,0.71%
+Publicação,Remessa,6,0.71%
+Publicação,Conclusão + Expedição de documento + Redistribuição + Remessa,5,0.59%
+Publicação,Conclusão + Expedição de documento,4,0.47%
+Publicação,Remessa + Ato ordinatório,4,0.47%
+Publicação,Remessa + Expedição de documento,4,0.47%
+Publicação,Redistribuição + Remessa,4,0.47%
+Publicação,Expedição de documento + Outras Decisões + Conclusão + Petição,4,0.47%
+Publicação,Outras Decisões + Conclusão + Expedição de documento,3,0.35%
+Publicação,Recebimento + Expedição de documento,3,0.35%
+Publicação,nan,3,0.35%
+Publicação,Conclusão + Redistribuição + Remessa,3,0.35%
+Publicação,Protocolo de Petição,2,0.24%
+Publicação,Remessa + Expedição de documento + Ato ordinatório,2,0.24%
+Publicação,Remessa + Petição,2,0.24%
+Publicação,Ato ordinatório + Petição,2,0.24%
+Publicação,Definitivo + Expedição de documento,1,0.12%
+Publicação,Recebimento + Ato ordinatório,1,0.12%
+Publicação,Expedição de documento + Mero expediente + Conclusão + Petição,1,0.12%
+Publicação,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,1,0.12%
+Publicação,Ato ordinatório + Expedição de documento,1,0.12%
+Publicação,Expedição de documento + Ato ordinatório + Decurso de Prazo,1,0.12%
+Publicação,Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,0.12%
+Publicação,Expedição de documento + Mero expediente + Conclusão,1,0.12%
+Publicação,Expedição de documento + Protocolo de Petição,1,0.12%
+Publicação,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.12%
+Publicação,Petição + Recebimento,1,0.12%
+Publicação,Outras Decisões + Conclusão + Decurso de Prazo,1,0.12%
+Publicação,Expedição de documento + Remessa + Incompetência,1,0.12%
+Publicação,Conclusão + Decurso de Prazo,1,0.12%
+Publicação,Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.12%
+Publicação,Petição + Conclusão + Expedição de documento + Redistribuição,1,0.12%
+Publicação,Conclusão + Remessa + Expedição de documento,1,0.12%
+Publicação,Redistribuição,1,0.12%
+Publicação,Expedição de documento +  + Conclusão + Redistribuição,1,0.12%
+Publicação,Conclusão + Redistribuição + Remessa + Expedição de documento,1,0.12%
+Publicação,Mero expediente + Conclusão + Expedição de documento + Redistribuição + Remessa,1,0.12%
+Publicação,Outras Decisões + Conclusão + Petição,1,0.12%
+Publicação,Expedição de documento + Outras Decisões,1,0.12%
+Publicação,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,0.12%
+Publicação,Emenda à Inicial + Conclusão,1,0.12%
+Publicação,Documento + Remessa,1,0.12%
+Publicação,Conclusão + Expedição de documento + Documento + Redistribuição + Remessa,1,0.12%
+Publicação,Redistribuição + Remessa + Expedição de documento,1,0.12%
+Publicação,Mero expediente + Conclusão + Decurso de Prazo,1,0.12%
+Publicação,Ato ordinatório + Decurso de Prazo,1,0.12%
+Publicação,Expedição de documento + Ato ordinatório + Petição,1,0.12%
+Publicação,Expedição de documento + Improcedência + Conclusão + Petição,1,0.12%
+Publicação,Remessa + Ato ordinatório + Petição,1,0.12%
+Publicação,Remessa + Expedição de documento + Ato ordinatório + Petição,1,0.12%
+Publicação,Documento + Mandado + Petição,1,0.12%
+Publicação,Mandado + Documento,1,0.12%
+Publicação + Expedição de documento,Petição,1,50.00%
+Publicação + Expedição de documento,Expedição de documento,1,50.00%
+Publicação + Expedição de documento + Protocolo de Petição,Expedição de documento + Ato ordinatório,2,100.00%
+Publicação + Expedição de documento + Remessa,Petição,2,66.67%
+Publicação + Expedição de documento + Remessa,Petição + Remessa,1,33.33%
+Publicação + Petição,Expedição de documento,1,100.00%
+Publicação + Petição + Remessa,Outras Decisões + Conclusão,1,50.00%
+Publicação + Petição + Remessa,Expedição de documento,1,50.00%
+Publicação + Redistribuição + Remessa,Conclusão,1,100.00%
+Publicação + Remessa,Publicação,3,30.00%
+Publicação + Remessa,Petição,2,20.00%
+Publicação + Remessa,Expedição de documento,2,20.00%
+Publicação + Remessa,Expedição de documento + Outras Decisões + Conclusão,1,10.00%
+Publicação + Remessa,Redistribuição + Remessa + Decurso de Prazo,1,10.00%
+Publicação + Remessa,Redistribuição + Remessa,1,10.00%
+Publicação + Remessa + Antecipação de tutela,Remessa + Petição + Ato ordinatório + Publicação,1,100.00%
+Publicação + Remessa + Ato ordinatório,Petição,3,100.00%
+Publicação + Remessa + Ato ordinatório + Expedição de documento,Petição,3,100.00%
+Publicação + Remessa + Improcedência,Expedição de documento,1,100.00%
+Publicação + Remessa + Liminar,Expedição de documento,1,100.00%
+Publicação + Remessa + Outras Decisões + Conclusão + Expedição de documento + Distribuição,Conclusão + Expedição de documento + Redistribuição + Remessa,1,100.00%
+Recebimento,Ato ordinatório,17,23.29%
+Recebimento,Expedição de precatório/rpv + Conclusão,9,12.33%
+Recebimento,Petição,8,10.96%
+Recebimento,Expedição de documento,6,8.22%
+Recebimento,Remessa + Expedição de documento + Ato ordinatório,5,6.85%
+Recebimento,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,4,5.48%
+Recebimento,Expedição de documento + Ato ordinatório,3,4.11%
+Recebimento,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,3,4.11%
+Recebimento,Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,2,2.74%
+Recebimento,Execução/Cumprimento de Sentença Iniciada (o),2,2.74%
+Recebimento,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2,2.74%
+Recebimento,Expedição de documento + Outras Decisões + Conclusão,2,2.74%
+Recebimento,Publicação,1,1.37%
+Recebimento,Ato ordinatório + Documento,1,1.37%
+Recebimento,Conclusão + Expedição de documento,1,1.37%
+Recebimento,Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,1.37%
+Recebimento,Expedição de documento + Remessa + Ato ordinatório,1,1.37%
+Recebimento,Remessa + Expedição de precatório/rpv + Conclusão,1,1.37%
+Recebimento,Remessa + Expedição de documento + Mero expediente + Conclusão,1,1.37%
+Recebimento,Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,1.37%
+Recebimento,Expedição de documento + Mero expediente + Conclusão,1,1.37%
+Recebimento,Provisório + Expedição de documento,1,1.37%
+Recebimento + Ato ordinatório,Expedição de documento,1,100.00%
+Recebimento + Documento,Conclusão + Expedição de documento,1,100.00%
+Recebimento + Expedição de documento,Ato ordinatório,3,100.00%
+Recebimento + Publicação,Expedição de documento,1,100.00%
+Redistribuição,Petição,1,33.33%
+Redistribuição,Conclusão + Expedição de documento,1,33.33%
+Redistribuição,Conclusão,1,33.33%
+Redistribuição + Recebimento,Publicação + Remessa + Ato ordinatório + Expedição de documento,1,100.00%
+Redistribuição + Remessa,Conclusão + Expedição de documento,2,28.57%
+Redistribuição + Remessa,Remessa + Outras Decisões + Conclusão + Expedição de documento,2,28.57%
+Redistribuição + Remessa,Liminar + Conclusão + Expedição de documento + Publicação,1,14.29%
+Redistribuição + Remessa,Conclusão,1,14.29%
+Redistribuição + Remessa,Remessa + Expedição de documento + Outras Decisões + Conclusão,1,14.29%
+Redistribuição + Remessa + Decurso de Prazo,Expedição de documento + Outras Decisões + Conclusão,1,100.00%
+Redistribuição + Remessa + Expedição de documento,Conclusão + Expedição de documento,2,66.67%
+Redistribuição + Remessa + Expedição de documento,Emenda à Inicial + Conclusão + Expedição de documento,1,33.33%
+Redistribuição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,Conclusão + Remessa,1,100.00%
+Redistribuição + Remessa + Expedição de documento + Mero expediente,Publicação,1,100.00%
+Redistribuição + Remessa + Outras Decisões + Conclusão,Conclusão,1,100.00%
+Redistribuição + Remessa + Publicação,Conclusão,1,16.67%
+Redistribuição + Remessa + Publicação,Publicação + Remessa + Ato ordinatório + Expedição de documento,1,16.67%
+Redistribuição + Remessa + Publicação,Expedição de documento + Outras Decisões + Conclusão,1,16.67%
+Redistribuição + Remessa + Publicação,Emenda a inicial + Conclusão + Expedição de documento,1,16.67%
+Redistribuição + Remessa + Publicação,Conclusão + Expedição de documento,1,16.67%
+Redistribuição + Remessa + Publicação,Remessa + Expedição de documento + Outras Decisões + Conclusão,1,16.67%
+Remessa,Publicação,654,84.82%
+Remessa,Conclusão + Expedição de documento + Publicação,39,5.06%
+Remessa,Expedição de documento + Publicação,17,2.20%
+Remessa,Petição + Publicação,11,1.43%
+Remessa,Expedição de documento,10,1.30%
+Remessa,Redistribuição + Remessa + Publicação,4,0.52%
+Remessa,Petição,3,0.39%
+Remessa,Expedição de documento + Ato ordinatório,2,0.26%
+Remessa,Remessa + Expedição de documento + Publicação,2,0.26%
+Remessa,Remessa + Publicação,2,0.26%
+Remessa,Expedição de documento + Conclusão + Petição + Publicação,2,0.26%
+Remessa,Publicação + Expedição de documento,2,0.26%
+Remessa,Recebimento + Publicação,1,0.13%
+Remessa,Enviada ao Tribunal + Publicação,1,0.13%
+Remessa,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,1,0.13%
+Remessa,Remessa,1,0.13%
+Remessa,Redistribuição + Recebimento,1,0.13%
+Remessa,Conclusão + Redistribuição + Remessa,1,0.13%
+Remessa,Expedição de documento + Petição + Publicação,1,0.13%
+Remessa,Documento + Expedição de documento + Publicação,1,0.13%
+Remessa,Remessa + Ato ordinatório + Petição + Publicação,1,0.13%
+Remessa,Conclusão + Expedição de documento + Redistribuição + Recebimento,1,0.13%
+Remessa,Conclusão + Petição + Publicação,1,0.13%
+Remessa,Por decisão judicial + Publicação,1,0.13%
+Remessa,Documento + Petição,1,0.13%
+Remessa,Petição + Remessa + Expedição de documento + Outras Decisões + Conclusão + Redistribuição,1,0.13%
+Remessa,Ato ordinatório + Publicação,1,0.13%
+Remessa,Liminar + Conclusão + Redistribuição + Recebimento,1,0.13%
+Remessa,Expedição de documento + Antecipação de tutela + Conclusão + Redistribuição + Remessa + Publicação,1,0.13%
+Remessa,Conclusão + Expedição de documento + Redistribuição,1,0.13%
+Remessa,Conclusão + Expedição de documento + Redistribuição + Remessa + Publicação,1,0.13%
+Remessa,Petição + Redistribuição + Remessa + Publicação,1,0.13%
+Remessa,Conclusão + Publicação,1,0.13%
+Remessa,Expedição de documento + Ato ordinatório + Publicação,1,0.13%
+Remessa,Conclusão + Redistribuição + Remessa + Publicação,1,0.13%
+Remessa + ,Publicação,1,100.00%
+Remessa + Antecipação de tutela,Remessa + Ato ordinatório + Publicação,1,100.00%
+Remessa + Ato ordinatório,Publicação,17,100.00%
+Remessa + Ato ordinatório + Expedição de documento,Publicação,1,100.00%
+Remessa + Ato ordinatório + Expedição de documento + Documento,Publicação,1,100.00%
+Remessa + Ato ordinatório + Expedição de documento + Documento + Redistribuição + Recebimento,Expedição de documento + Mero expediente + Conclusão + Petição + Publicação,1,100.00%
+Remessa + Ato ordinatório + Mandado,Publicação,1,100.00%
+Remessa + Ato ordinatório + Petição,Publicação,1,100.00%
+Remessa + Ato ordinatório + Petição + Publicação,Publicação,1,100.00%
+Remessa + Ato ordinatório + Publicação,Publicação,1,100.00%
+Remessa + Emenda à Inicial + Conclusão + Publicação,Publicação,1,100.00%
+Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Publicação,1,100.00%
+Remessa + Expedição de documento,Expedição de documento,3,25.00%
+Remessa + Expedição de documento,Publicação,3,25.00%
+Remessa + Expedição de documento,Remessa + Ato ordinatório + Expedição de documento + Documento + Redistribuição + Recebimento,1,8.33%
+Remessa + Expedição de documento,Remessa,1,8.33%
+Remessa + Expedição de documento,Conclusão + Expedição de documento + Redistribuição,1,8.33%
+Remessa + Expedição de documento,Recebimento + Documento,1,8.33%
+Remessa + Expedição de documento,Outras Decisões + Conclusão + Redistribuição,1,8.33%
+Remessa + Expedição de documento,Conclusão + Recebimento,1,8.33%
+Remessa + Expedição de documento + Acolhimento de Embargos de Declaração,Publicação,1,50.00%
+Remessa + Expedição de documento + Acolhimento de Embargos de Declaração,Publicação + Petição,1,50.00%
+Remessa + Expedição de documento + Antecipação de tutela,Publicação,1,100.00%
+Remessa + Expedição de documento + Ato ordinatório,Publicação,10,90.91%
+Remessa + Expedição de documento + Ato ordinatório,Petição + Publicação,1,9.09%
+Remessa + Expedição de documento + Ato ordinatório + Documento,Publicação,1,100.00%
+Remessa + Expedição de documento + Ato ordinatório + Petição,Publicação,1,100.00%
+Remessa + Expedição de documento + Ato ordinatório + Recebimento,Petição + Publicação,1,100.00%
+Remessa + Expedição de documento + Ato ordinatório + Republicação,Publicação,1,100.00%
+Remessa + Expedição de documento + Emenda a inicial,Publicação,4,80.00%
+Remessa + Expedição de documento + Emenda a inicial,Expedição de documento + Publicação,1,20.00%
+Remessa + Expedição de documento + Impugnação ao cumprimento de sentença,Publicação,1,100.00%
+Remessa + Expedição de documento + Mero expediente,Publicação,4,50.00%
+Remessa + Expedição de documento + Mero expediente,Petição + Publicação,2,25.00%
+Remessa + Expedição de documento + Mero expediente,Petição,1,12.50%
+Remessa + Expedição de documento + Mero expediente,Expedição de documento + Publicação,1,12.50%
+Remessa + Expedição de documento + Mero expediente + Conclusão,Publicação,1,100.00%
+Remessa + Expedição de documento + Outras Decisões,Publicação,53,94.64%
+Remessa + Expedição de documento + Outras Decisões,Petição + Publicação,1,1.79%
+Remessa + Expedição de documento + Outras Decisões,Conclusão + Publicação,1,1.79%
+Remessa + Expedição de documento + Outras Decisões,Execução/Cumprimento de Sentença Iniciada (o) + Publicação,1,1.79%
+Remessa + Expedição de documento + Outras Decisões + Conclusão,Publicação,12,100.00%
+Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,Publicação,2,100.00%
+Remessa + Expedição de documento + Protocolo de Petição,Publicação,1,100.00%
+Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,Publicação,1,100.00%
+Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Publicação,1,100.00%
+Remessa + Expedição de documento + Publicação,Conclusão,2,100.00%
+Remessa + Expedição de documento + Sem efeito suspensivo,Publicação,1,100.00%
+Remessa + Expedição de precatório/rpv + Conclusão,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,1,100.00%
+Remessa + Liminar,Publicação,3,60.00%
+Remessa + Liminar,Expedição de documento + Publicação,2,40.00%
+Remessa + Mero expediente,Publicação,3,75.00%
+Remessa + Mero expediente,Petição + Publicação,1,25.00%
+Remessa + Outras Decisões,Expedição de documento + Ato ordinatório + Publicação,5,41.67%
+Remessa + Outras Decisões,Publicação,4,33.33%
+Remessa + Outras Decisões,Expedição de documento + Publicação,3,25.00%
+Remessa + Outras Decisões + Conclusão,Publicação,1,100.00%
+Remessa + Outras Decisões + Conclusão + Expedição de documento,Publicação,2,50.00%
+Remessa + Outras Decisões + Conclusão + Expedição de documento,Expedição de documento + Publicação,1,25.00%
+Remessa + Outras Decisões + Conclusão + Expedição de documento,Redistribuição + Remessa + Publicação,1,25.00%
+Remessa + Petição,Conclusão + Expedição de documento + Publicação,3,50.00%
+Remessa + Petição,Conclusão + Expedição de documento + Redistribuição,1,16.67%
+Remessa + Petição,Outras Decisões + Expedição de documento + Conclusão + Redistribuição,1,16.67%
+Remessa + Petição,Publicação,1,16.67%
+Remessa + Petição + Ato ordinatório + Publicação,Publicação,1,100.00%
+Remessa + Publicação,Redistribuição,2,66.67%
+Remessa + Publicação,Publicação,1,33.33%
+Remessa + Segurança,Conclusão + Petição + Publicação,1,100.00%
+Remessa + deferimento + Conclusão,Publicação,1,100.00%
+Republicação,Remessa,1,100.00%
+Segurança,Remessa,4,100.00%
+nan,Petição,6,75.00%
+nan,Remessa + Expedição de documento + Mero expediente,1,12.50%
+nan,Conclusão + Petição,1,12.50%
+
+Valor da Execução
+movimento_anterior,proximo_movimento,frequencia,probabilidade_condicional
+A depender do julgamento de outra causa, de outro juízo ou declaração incidente,Remessa,7,63.64%
+A depender do julgamento de outra causa, de outro juízo ou declaração incidente,Expedição de documento + Remessa,2,18.18%
+A depender do julgamento de outra causa, de outro juízo ou declaração incidente,Ato ordinatório + Remessa,1,9.09%
+A depender do julgamento de outra causa, de outro juízo ou declaração incidente,Expedição de documento,1,9.09%
+A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão + Distribuição,Remessa,4,100.00%
+A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão + Expedição de documento,Remessa,2,66.67%
+A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão + Expedição de documento,Expedição de documento + Remessa,1,33.33%
+A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão + Expedição de documento + Remessa,Publicação + Remessa,1,100.00%
+Ato ordinatório,Ato ordinatório,146,45.48%
+Ato ordinatório,Conclusão,29,9.03%
+Ato ordinatório,Petição,28,8.72%
+Ato ordinatório,Remessa + Expedição de documento + Ato ordinatório,24,7.48%
+Ato ordinatório,Expedição de documento,18,5.61%
+Ato ordinatório,Remessa,18,5.61%
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão,12,3.74%
+Ato ordinatório,Expedição de documento + Ato ordinatório,12,3.74%
+Ato ordinatório,Expedição de documento + Mero expediente + Conclusão,8,2.49%
+Ato ordinatório,Conclusão + Expedição de documento,6,1.87%
+Ato ordinatório,Recebimento,2,0.62%
+Ato ordinatório,Ato ordinatório + Expedição de documento,2,0.62%
+Ato ordinatório,Expedição de documento + Outras Decisões,2,0.62%
+Ato ordinatório,Outras Decisões + Conclusão,2,0.62%
+Ato ordinatório,Petição + Recebimento,1,0.31%
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,1,0.31%
+Ato ordinatório,Mero expediente + Conclusão,1,0.31%
+Ato ordinatório,Ato ordinatório + Conclusão,1,0.31%
+Ato ordinatório,Expedição de documento + Documento,1,0.31%
+Ato ordinatório,Remessa + Expedição de documento + Outras Decisões,1,0.31%
+Ato ordinatório,Conclusão + Decurso de Prazo,1,0.31%
+Ato ordinatório,Expedição de documento + Remessa + Outras Decisões,1,0.31%
+Ato ordinatório,Remessa + Ato ordinatório,1,0.31%
+Ato ordinatório,Expedição de documento + Trânsito em julgado,1,0.31%
+Ato ordinatório,Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,1,0.31%
+Ato ordinatório,Procedência,1,0.31%
+Ato ordinatório + Conclusão,Conclusão,1,100.00%
+Ato ordinatório + Decurso de Prazo,Remessa,1,100.00%
+Ato ordinatório + Distribuição,Remessa,5,83.33%
+Ato ordinatório + Distribuição,Conclusão,1,16.67%
+Ato ordinatório + Expedição de documento,Remessa,10,71.43%
+Ato ordinatório + Expedição de documento,Ato ordinatório,2,14.29%
+Ato ordinatório + Expedição de documento,Expedição de documento,2,14.29%
+Ato ordinatório + Expedição de documento + Publicação,Expedição de documento,2,50.00%
+Ato ordinatório + Expedição de documento + Publicação,Ato ordinatório,1,25.00%
+Ato ordinatório + Expedição de documento + Publicação,Remessa,1,25.00%
+Ato ordinatório + Publicação,Expedição de documento,5,62.50%
+Ato ordinatório + Publicação,Petição,3,37.50%
+Ato ordinatório + Reativação + Publicação,Expedição de documento,1,100.00%
+Ato ordinatório + Redistribuição + Publicação,Petição + Remessa,1,100.00%
+Ato ordinatório + Redistribuição + Remessa,Remessa,1,100.00%
+Ato ordinatório + Remessa,Publicação,1,100.00%
+Conclusão,Expedição de documento + Outras Decisões,62,27.43%
+Conclusão,Conclusão,22,9.73%
+Conclusão,Remessa + Expedição de documento + Outras Decisões,18,7.96%
+Conclusão,Outras Decisões,12,5.31%
+Conclusão,Expedição de documento,9,3.98%
+Conclusão,Ato ordinatório,9,3.98%
+Conclusão,Expedição de documento + Mero expediente,7,3.10%
+Conclusão,Expedição de documento + Remessa + Outras Decisões,6,2.65%
+Conclusão,Petição,6,2.65%
+Conclusão,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,6,2.65%
+Conclusão,Expedição de documento + Extinção da execução ou do cumprimento da sentença,6,2.65%
+Conclusão,Expedição de documento + Impugnação ao cumprimento de sentença,4,1.77%
+Conclusão,Mero expediente,4,1.77%
+Conclusão,Remessa + Outras Decisões,4,1.77%
+Conclusão,Remessa + A depender do julgamento de outra causa, de outro juízo ou declaração incidente,4,1.77%
+Conclusão,Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente,4,1.77%
+Conclusão,Expedição de documento + Mero expediente + Conclusão,3,1.33%
+Conclusão,Remessa + Expedição de documento + Expedição de precatório/rpv,2,0.88%
+Conclusão,Expedição de documento + Improcedência,2,0.88%
+Conclusão,Remessa + Mero expediente,2,0.88%
+Conclusão,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,2,0.88%
+Conclusão,Expedição de documento + Não Acolhimento de Embargos de Declaração,2,0.88%
+Conclusão,Enviada ao Tribunal + Outras Decisões,2,0.88%
+Conclusão,Expedição de documento + Outras Decisões + Conclusão,2,0.88%
+Conclusão,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,2,0.88%
+Conclusão,Publicação + Remessa + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.44%
+Conclusão,Expedição de precatório/rpv,1,0.44%
+Conclusão,Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.44%
+Conclusão,Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,1,0.44%
+Conclusão,Documento,1,0.44%
+Conclusão,Execução/Cumprimento de Sentença Iniciada (o),1,0.44%
+Conclusão,Expedição de precatório/rpv + Conclusão,1,0.44%
+Conclusão,Mero expediente + Conclusão,1,0.44%
+Conclusão,Petição + Remessa + Expedição de documento + Mero expediente,1,0.44%
+Conclusão,Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.44%
+Conclusão,Decisão Interlocutória de Mérito,1,0.44%
+Conclusão,Remessa + Desistência,1,0.44%
+Conclusão,Remessa + Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente,1,0.44%
+Conclusão,Remessa + ,1,0.44%
+Conclusão,Remessa + Outras Decisões + Conclusão,1,0.44%
+Conclusão,Enviada ao Tribunal + Expedição de precatório/rpv,1,0.44%
+Conclusão,Remessa + Expedição de precatório/rpv,1,0.44%
+Conclusão,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa + Expedição de precatório/rpv,1,0.44%
+Conclusão,Expedição de documento + Remessa + Improcedência,1,0.44%
+Conclusão,A depender do julgamento de outra causa, de outro juízo ou declaração incidente,1,0.44%
+Conclusão,Expedição de documento + Remessa + Impugnação ao cumprimento de sentença,1,0.44%
+Conclusão,Remessa + Extinção,1,0.44%
+Conclusão,Outras Decisões + Conclusão,1,0.44%
+Conclusão,Outras Decisões + Expedição de documento + Conclusão,1,0.44%
+Conclusão + Ato ordinatório,Expedição de documento + Outras Decisões,1,100.00%
+Conclusão + Ato ordinatório + Execução/Cumprimento de Sentença Iniciada (o),Outras Decisões,1,100.00%
+Conclusão + Decurso de Prazo,Expedição de documento + Outras Decisões,1,50.00%
+Conclusão + Decurso de Prazo,Conclusão,1,50.00%
+Conclusão + Distribuição,A depender do julgamento de outra causa, de outro juízo ou declaração incidente,2,25.00%
+Conclusão + Distribuição,Outras Decisões,2,25.00%
+Conclusão + Distribuição,Remessa + Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente,2,25.00%
+Conclusão + Distribuição,Remessa + A depender do julgamento de outra causa, de outro juízo ou declaração incidente,1,12.50%
+Conclusão + Distribuição,Expedição de documento + Outras Decisões,1,12.50%
+Conclusão + Documento,Remessa + Expedição de documento + Outras Decisões,2,100.00%
+Conclusão + Expedição de documento,Expedição de documento + Mero expediente,6,18.18%
+Conclusão + Expedição de documento,Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,4,12.12%
+Conclusão + Expedição de documento,Mero expediente,4,12.12%
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Outras Decisões,3,9.09%
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Mero expediente,3,9.09%
+Conclusão + Expedição de documento,A depender do julgamento de outra causa, de outro juízo ou declaração incidente,3,9.09%
+Conclusão + Expedição de documento,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,2,6.06%
+Conclusão + Expedição de documento,Expedição de documento + Outras Decisões,2,6.06%
+Conclusão + Expedição de documento,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,1,3.03%
+Conclusão + Expedição de documento,Expedição de documento + Extinção da execução ou do cumprimento da sentença,1,3.03%
+Conclusão + Expedição de documento,Remessa + Expedição de precatório/rpv,1,3.03%
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença,1,3.03%
+Conclusão + Expedição de documento,Remessa + Mero expediente,1,3.03%
+Conclusão + Expedição de documento,Expedição de documento + Remessa + Mero expediente,1,3.03%
+Conclusão + Expedição de documento + Distribuição,A depender do julgamento de outra causa, de outro juízo ou declaração incidente,4,36.36%
+Conclusão + Expedição de documento + Distribuição,Expedição de documento + Mero expediente,3,27.27%
+Conclusão + Expedição de documento + Distribuição,Remessa + A depender do julgamento de outra causa, de outro juízo ou declaração incidente,2,18.18%
+Conclusão + Expedição de documento + Distribuição,Expedição de documento + Outras Decisões,1,9.09%
+Conclusão + Expedição de documento + Distribuição,Remessa + Expedição de documento + Outras Decisões,1,9.09%
+Conclusão + Expedição de documento + Petição,Expedição de documento + Mero expediente,1,100.00%
+Conclusão + Expedição de documento + Redistribuição + Remessa,Petição + Expedição de documento + Outras Decisões,1,50.00%
+Conclusão + Expedição de documento + Redistribuição + Remessa,Publicação,1,50.00%
+Conclusão + Expedição de documento + Remessa,Remessa + A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Publicação,1,100.00%
+Conclusão + Petição,Remessa + Expedição de documento + Outras Decisões,2,33.33%
+Conclusão + Petição,Publicação,1,16.67%
+Conclusão + Petição,Remessa + Expedição de documento + Desistência,1,16.67%
+Conclusão + Petição,Expedição de documento + Remessa + Outras Decisões,1,16.67%
+Conclusão + Petição,Conclusão,1,16.67%
+Conclusão + Petição + Expedição de documento + Publicação,Conclusão,1,100.00%
+Conclusão + Remessa,Publicação,2,100.00%
+Decisão Interlocutória de Mérito,Remessa,1,100.00%
+Decurso de Prazo,Conclusão,1,100.00%
+Distribuição,Conclusão,29,20.42%
+Distribuição,Expedição de documento + Outras Decisões + Conclusão,28,19.72%
+Distribuição,Conclusão + Expedição de documento,14,9.86%
+Distribuição,Ato ordinatório,12,8.45%
+Distribuição,Remessa + Ato ordinatório,12,8.45%
+Distribuição,Expedição de documento + Mero expediente + Conclusão,10,7.04%
+Distribuição,Outras Decisões + Conclusão + Expedição de documento,5,3.52%
+Distribuição,Expedição de documento + Ato ordinatório,4,2.82%
+Distribuição,Outras Decisões + Conclusão,4,2.82%
+Distribuição,Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão,4,2.82%
+Distribuição,Redistribuição + Remessa + Outras Decisões + Conclusão,3,2.11%
+Distribuição,A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão + Expedição de documento,3,2.11%
+Distribuição,Petição,3,2.11%
+Distribuição,Emenda à Inicial + Conclusão + Expedição de documento,3,2.11%
+Distribuição,Remessa + Expedição de documento + Ato ordinatório,1,0.70%
+Distribuição,Expedição de documento + Outras Decisões + Conclusão + Ato ordinatório,1,0.70%
+Distribuição,Remessa + Outras Decisões + Conclusão,1,0.70%
+Distribuição,Conclusão + Ato ordinatório,1,0.70%
+Distribuição,Expedição de documento + Por decisão judicial + Conclusão,1,0.70%
+Distribuição,Expedição de documento,1,0.70%
+Distribuição,Conclusão + Expedição de documento + Petição,1,0.70%
+Distribuição,Emenda à Inicial + Conclusão,1,0.70%
+Documento,Expedição de documento + Outras Decisões,1,100.00%
+Documento + Conclusão,Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,1,100.00%
+Emenda à Inicial + Conclusão,Remessa,1,100.00%
+Emenda à Inicial + Conclusão + Expedição de documento,Remessa,3,100.00%
+Enviada ao Tribunal + Expedição de precatório/rpv,Remessa,1,100.00%
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa + Expedição de documento + Protocolo de Petição,2,100.00%
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Expedição de documento,Expedição de documento + Protocolo de Petição,2,100.00%
+Enviada ao Tribunal + Outras Decisões,Remessa + Protocolo de Petição,1,50.00%
+Enviada ao Tribunal + Outras Decisões,Remessa,1,50.00%
+Enviada ao Tribunal + Publicação,Expedição de documento + Protocolo de Petição,3,100.00%
+Enviada ao Tribunal + Remessa,Publicação + Expedição de documento + Protocolo de Petição,1,100.00%
+Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Outras Decisões + Conclusão,5,62.50%
+Execução/Cumprimento de Sentença Iniciada (o),Conclusão,1,12.50%
+Execução/Cumprimento de Sentença Iniciada (o),Remessa + Ato ordinatório,1,12.50%
+Execução/Cumprimento de Sentença Iniciada (o),Remessa + Outras Decisões,1,12.50%
+Expedição de documento,Ato ordinatório,121,34.57%
+Expedição de documento,Petição,91,26.00%
+Expedição de documento,Conclusão,35,10.00%
+Expedição de documento,Expedição de documento,22,6.29%
+Expedição de documento,Conclusão + Expedição de documento,11,3.14%
+Expedição de documento,Expedição de documento + Ato ordinatório,10,2.86%
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão,10,2.86%
+Expedição de documento,Conclusão + Petição,4,1.14%
+Expedição de documento,Expedição de documento + Remessa,3,0.86%
+Expedição de documento,Ato ordinatório + Expedição de documento,3,0.86%
+Expedição de documento,Remessa + Expedição de documento + Ato ordinatório,3,0.86%
+Expedição de documento,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Expedição de documento,2,0.57%
+Expedição de documento,Remessa + Ato ordinatório,2,0.57%
+Expedição de documento,Recebimento,2,0.57%
+Expedição de documento,Publicação,2,0.57%
+Expedição de documento,Expedição de documento + Outras Decisões,2,0.57%
+Expedição de documento,Expedição de documento + Mero expediente + Conclusão,2,0.57%
+Expedição de documento,Expedição de documento + Por decisão judicial + Conclusão,2,0.57%
+Expedição de documento,Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,2,0.57%
+Expedição de documento,Petição + Expedição de documento + Outras Decisões + Conclusão,1,0.29%
+Expedição de documento,Outras Decisões + Conclusão + Expedição de documento,1,0.29%
+Expedição de documento,Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.29%
+Expedição de documento,Protocolo de Petição,1,0.29%
+Expedição de documento,Remessa + Expedição de documento + Desistência,1,0.29%
+Expedição de documento,Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,0.29%
+Expedição de documento,Provisório + Expedição de documento,1,0.29%
+Expedição de documento,Conclusão + Documento,1,0.29%
+Expedição de documento,Petição + Conclusão,1,0.29%
+Expedição de documento,Decurso de Prazo,1,0.29%
+Expedição de documento,Ato ordinatório + Decurso de Prazo,1,0.29%
+Expedição de documento,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,0.29%
+Expedição de documento,Mero expediente + Conclusão,1,0.29%
+Expedição de documento,Trânsito em julgado,1,0.29%
+Expedição de documento,Conclusão + Decurso de Prazo,1,0.29%
+Expedição de documento,Publicação + Remessa + Expedição de documento + Outras Decisões + Conclusão,1,0.29%
+Expedição de documento,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.29%
+Expedição de documento,Outras Decisões + Conclusão,1,0.29%
+Expedição de documento,Remessa + Expedição de documento + Outras Decisões,1,0.29%
+Expedição de documento,Expedição de documento + Trânsito em julgado,1,0.29%
+Expedição de documento,Remessa,1,0.29%
+Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente,Remessa,4,100.00%
+Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão,Remessa,4,100.00%
+Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão + Distribuição,Remessa,1,100.00%
+Expedição de documento + Ato ordinatório,Remessa,26,39.39%
+Expedição de documento + Ato ordinatório,Petição,23,34.85%
+Expedição de documento + Ato ordinatório,Ato ordinatório,9,13.64%
+Expedição de documento + Ato ordinatório,Publicação + Remessa,4,6.06%
+Expedição de documento + Ato ordinatório,Expedição de documento,3,4.55%
+Expedição de documento + Ato ordinatório,Petição + Remessa,1,1.52%
+Expedição de documento + Ato ordinatório + Publicação,Expedição de documento,3,60.00%
+Expedição de documento + Ato ordinatório + Publicação,Remessa,2,40.00%
+Expedição de documento + Ato ordinatório + Reativação,Expedição de documento,1,100.00%
+Expedição de documento + Ato ordinatório + Recebimento,Remessa,1,50.00%
+Expedição de documento + Ato ordinatório + Recebimento,Petição + Remessa,1,50.00%
+Expedição de documento + Desistência,Remessa,2,100.00%
+Expedição de documento + Desistência + Conclusão,Remessa,1,100.00%
+Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Recebimento,Remessa,1,100.00%
+Expedição de documento + Expedição de precatório/rpv + Conclusão,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,1,100.00%
+Expedição de documento + Extinção da execução ou do cumprimento da sentença,Remessa,8,100.00%
+Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,Remessa,5,83.33%
+Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,Expedição de documento + Remessa,1,16.67%
+Expedição de documento + Improcedência,Expedição de documento + Petição + Remessa,1,50.00%
+Expedição de documento + Improcedência,Expedição de documento + Remessa,1,50.00%
+Expedição de documento + Impugnação ao cumprimento de sentença,Remessa,4,100.00%
+Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,Remessa,5,83.33%
+Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,Petição + Remessa,1,16.67%
+Expedição de documento + Mero expediente,Remessa,15,83.33%
+Expedição de documento + Mero expediente,Petição + Remessa,2,11.11%
+Expedição de documento + Mero expediente,Expedição de documento + Remessa,1,5.56%
+Expedição de documento + Mero expediente + Conclusão,Remessa,23,88.46%
+Expedição de documento + Mero expediente + Conclusão,Petição + Remessa,3,11.54%
+Expedição de documento + Mero expediente + Conclusão + Distribuição,Remessa,2,100.00%
+Expedição de documento + Não Acolhimento de Embargos de Declaração,Remessa,2,100.00%
+Expedição de documento + Outras Decisões,Remessa,64,85.33%
+Expedição de documento + Outras Decisões,Petição + Remessa,3,4.00%
+Expedição de documento + Outras Decisões,Publicação + Remessa,2,2.67%
+Expedição de documento + Outras Decisões,Ato ordinatório,1,1.33%
+Expedição de documento + Outras Decisões,Expedição de documento + Remessa,1,1.33%
+Expedição de documento + Outras Decisões,Conclusão + Remessa,1,1.33%
+Expedição de documento + Outras Decisões,Expedição de documento,1,1.33%
+Expedição de documento + Outras Decisões,Petição,1,1.33%
+Expedição de documento + Outras Decisões,Recebimento,1,1.33%
+Expedição de documento + Outras Decisões + Conclusão,Remessa,68,83.95%
+Expedição de documento + Outras Decisões + Conclusão,Publicação + Remessa,5,6.17%
+Expedição de documento + Outras Decisões + Conclusão,Petição + Remessa,5,6.17%
+Expedição de documento + Outras Decisões + Conclusão,Publicação + Petição + Remessa,2,2.47%
+Expedição de documento + Outras Decisões + Conclusão,Expedição de documento,1,1.23%
+Expedição de documento + Outras Decisões + Conclusão + Ato ordinatório,Remessa,2,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Ato ordinatório + Distribuição,Petição,1,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,Remessa,1,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Distribuição,Remessa,15,100.00%
+Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,Remessa,1,100.00%
+Expedição de documento + Petição + Remessa,Publicação,1,100.00%
+Expedição de documento + Por decisão judicial + Conclusão,Publicação + Recurso Extraordinário com repercussão geral + Remessa,2,28.57%
+Expedição de documento + Por decisão judicial + Conclusão,Remessa,2,28.57%
+Expedição de documento + Por decisão judicial + Conclusão,Recurso Extraordinário com repercussão geral + Remessa,2,28.57%
+Expedição de documento + Por decisão judicial + Conclusão,Recurso Extraordinário com repercussão geral + Petição + Remessa,1,14.29%
+Expedição de documento + Protocolo de Petição,Remessa,2,40.00%
+Expedição de documento + Protocolo de Petição,Expedição de documento + Ato ordinatório,2,40.00%
+Expedição de documento + Protocolo de Petição,Expedição de documento,1,20.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,Publicação,1,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,Remessa,9,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,5,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Publicação,Expedição de documento + Ato ordinatório,1,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,Publicação,2,100.00%
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa + Expedição de precatório/rpv,Publicação,1,100.00%
+Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,Publicação,5,100.00%
+Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Publicação,2,100.00%
+Expedição de documento + Publicação,Expedição de documento,2,33.33%
+Expedição de documento + Publicação,Petição,2,33.33%
+Expedição de documento + Publicação,Expedição de documento + Mero expediente + Conclusão,1,16.67%
+Expedição de documento + Publicação,Ato ordinatório,1,16.67%
+Expedição de documento + Remessa,Publicação,7,63.64%
+Expedição de documento + Remessa,Recebimento,1,9.09%
+Expedição de documento + Remessa,Ato ordinatório,1,9.09%
+Expedição de documento + Remessa,Remessa + Expedição de documento + Ato ordinatório + Publicação,1,9.09%
+Expedição de documento + Remessa,Expedição de documento + Publicação,1,9.09%
+Expedição de documento + Remessa + Improcedência,Publicação,1,100.00%
+Expedição de documento + Remessa + Impugnação ao cumprimento de sentença,Publicação,1,100.00%
+Expedição de documento + Remessa + Mero expediente,Publicação,1,100.00%
+Expedição de documento + Remessa + Outras Decisões,Publicação,7,87.50%
+Expedição de documento + Remessa + Outras Decisões,Conclusão + Petição + Expedição de documento + Publicação,1,12.50%
+Expedição de documento + Remessa + Publicação,Expedição de documento,1,100.00%
+Expedição de precatório/rpv,Remessa,1,100.00%
+Expedição de precatório/rpv + Conclusão,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,1,33.33%
+Expedição de precatório/rpv + Conclusão,Remessa,1,33.33%
+Expedição de precatório/rpv + Conclusão,Enviada ao Tribunal + Remessa,1,33.33%
+Impugnação ao cumprimento de sentença + Conclusão,Remessa,1,100.00%
+Incompetência + Conclusão + Distribuição + Documento,Remessa,1,100.00%
+Mero expediente,Remessa,7,87.50%
+Mero expediente,Expedição de documento,1,12.50%
+Mero expediente + Conclusão,Remessa,4,80.00%
+Mero expediente + Conclusão,Expedição de documento + Remessa,1,20.00%
+Outras Decisões,Remessa,14,87.50%
+Outras Decisões,Redistribuição + Remessa,2,12.50%
+Outras Decisões + Conclusão,Remessa,13,86.67%
+Outras Decisões + Conclusão,Redistribuição + Remessa,2,13.33%
+Outras Decisões + Conclusão + Decurso de Prazo,Remessa,1,100.00%
+Outras Decisões + Conclusão + Distribuição,Redistribuição + Remessa,1,33.33%
+Outras Decisões + Conclusão + Distribuição,Remessa,1,33.33%
+Outras Decisões + Conclusão + Distribuição,Conclusão + Expedição de documento + Redistribuição + Remessa,1,33.33%
+Outras Decisões + Conclusão + Expedição de documento,Remessa,6,100.00%
+Outras Decisões + Conclusão + Expedição de documento + Distribuição,Remessa,2,100.00%
+Outras Decisões + Expedição de documento + Conclusão,Remessa,1,100.00%
+Petição,Conclusão,89,32.36%
+Petição,Expedição de documento,60,21.82%
+Petição,Petição,36,13.09%
+Petição,Ato ordinatório,28,10.18%
+Petição,Expedição de documento + Outras Decisões + Conclusão,16,5.82%
+Petição,Outras Decisões + Conclusão,5,1.82%
+Petição,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,4,1.45%
+Petição,Remessa + Ato ordinatório,3,1.09%
+Petição,Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,3,1.09%
+Petição,Expedição de documento + Por decisão judicial + Conclusão,3,1.09%
+Petição,Expedição de documento + Ato ordinatório,3,1.09%
+Petição,Remessa + Expedição de documento + Outras Decisões + Conclusão,2,0.73%
+Petição,Publicação,2,0.73%
+Petição,Expedição de documento + Desistência,2,0.73%
+Petição,Mero expediente + Conclusão,2,0.73%
+Petição,Expedição de documento + Outras Decisões,2,0.73%
+Petição,Expedição de documento + Mero expediente + Conclusão,2,0.73%
+Petição,Expedição de documento + Desistência + Conclusão,1,0.36%
+Petição,Ato ordinatório + Expedição de documento,1,0.36%
+Petição,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,0.36%
+Petição,Expedição de documento + Mero expediente,1,0.36%
+Petição,Remessa,1,0.36%
+Petição,Documento + Conclusão,1,0.36%
+Petição,Expedição de documento + Extinção da execução ou do cumprimento da sentença,1,0.36%
+Petição,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,0.36%
+Petição,Conclusão + Expedição de documento,1,0.36%
+Petição,Conclusão + Documento,1,0.36%
+Petição,Impugnação ao cumprimento de sentença + Conclusão,1,0.36%
+Petição,Conclusão + Petição,1,0.36%
+Petição,Documento,1,0.36%
+Petição + Conclusão,Petição,1,100.00%
+Petição + Expedição de documento,Conclusão,3,75.00%
+Petição + Expedição de documento,Petição,1,25.00%
+Petição + Expedição de documento + Outras Decisões,Conclusão + Remessa,1,100.00%
+Petição + Expedição de documento + Outras Decisões + Conclusão,Remessa,1,100.00%
+Petição + Publicação,Expedição de documento,8,72.73%
+Petição + Publicação,Conclusão,2,18.18%
+Petição + Publicação,Petição,1,9.09%
+Petição + Recebimento,Outras Decisões + Conclusão,1,100.00%
+Petição + Remessa,Publicação,17,100.00%
+Petição + Remessa + Expedição de documento + Mero expediente,Publicação,1,100.00%
+Procedência,Remessa,1,100.00%
+Protocolo de Petição,Expedição de documento,3,100.00%
+Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,Remessa,1,100.00%
+Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,3,100.00%
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,Remessa,3,100.00%
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,4,100.00%
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Outras Decisões + Conclusão,Remessa,1,100.00%
+Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,Publicação,1,100.00%
+Provisório + Expedição de documento,Petição,1,100.00%
+Publicação,Expedição de documento,222,45.59%
+Publicação,Petição,127,26.08%
+Publicação,Ato ordinatório,52,10.68%
+Publicação,Expedição de documento + Ato ordinatório,38,7.80%
+Publicação,Conclusão,11,2.26%
+Publicação,Ato ordinatório + Expedição de documento,9,1.85%
+Publicação,Petição + Expedição de documento,4,0.82%
+Publicação,Conclusão + Expedição de documento,3,0.62%
+Publicação,Expedição de documento + Outras Decisões + Conclusão,2,0.41%
+Publicação,Redistribuição + Remessa,2,0.41%
+Publicação,Outras Decisões + Conclusão + Decurso de Prazo,1,0.21%
+Publicação,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,1,0.21%
+Publicação,Republicação,1,0.21%
+Publicação,Expedição de documento + Remessa,1,0.21%
+Publicação,Recurso Extraordinário com repercussão geral,1,0.21%
+Publicação,Trânsito em julgado,1,0.21%
+Publicação,Recebimento,1,0.21%
+Publicação,Expedição de documento + Por decisão judicial + Conclusão,1,0.21%
+Publicação,Definitivo + Expedição de documento,1,0.21%
+Publicação,Protocolo de Petição,1,0.21%
+Publicação,Outras Decisões + Conclusão,1,0.21%
+Publicação,Remessa + Ato ordinatório,1,0.21%
+Publicação,Outras Decisões,1,0.21%
+Publicação,Remessa,1,0.21%
+Publicação,A depender do julgamento de outra causa, de outro juízo ou declaração incidente,1,0.21%
+Publicação,Expedição de documento + Ato ordinatório + Reativação,1,0.21%
+Publicação,Expedição de documento + Petição,1,0.21%
+Publicação + Expedição de documento + Protocolo de Petição,Expedição de documento + Ato ordinatório,1,100.00%
+Publicação + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,Expedição de documento,1,100.00%
+Publicação + Petição,Recebimento + Conclusão,1,100.00%
+Publicação + Petição + Remessa,Expedição de documento + Outras Decisões + Conclusão,1,50.00%
+Publicação + Petição + Remessa,Expedição de documento,1,50.00%
+Publicação + Recurso Extraordinário com repercussão geral + Remessa,Expedição de documento,2,100.00%
+Publicação + Remessa,Expedição de documento,8,66.67%
+Publicação + Remessa,Ato ordinatório,2,16.67%
+Publicação + Remessa,Petição,1,8.33%
+Publicação + Remessa,Ato ordinatório + Expedição de documento + Publicação,1,8.33%
+Publicação + Remessa + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,Protocolo de Petição,1,100.00%
+Publicação + Remessa + Expedição de documento + Outras Decisões + Conclusão,Expedição de documento,1,100.00%
+Recebimento,Conclusão,17,28.33%
+Recebimento,Remessa + Expedição de documento + Ato ordinatório,7,11.67%
+Recebimento,Expedição de documento + Ato ordinatório,5,8.33%
+Recebimento,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,4,6.67%
+Recebimento,Ato ordinatório,4,6.67%
+Recebimento,Expedição de documento + Outras Decisões + Conclusão,3,5.00%
+Recebimento,Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,3,5.00%
+Recebimento,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,3,5.00%
+Recebimento,Expedição de precatório/rpv + Conclusão,2,3.33%
+Recebimento,Expedição de documento,2,3.33%
+Recebimento,Petição,2,3.33%
+Recebimento,Remessa + Outras Decisões + Conclusão,1,1.67%
+Recebimento,Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,1.67%
+Recebimento,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Outras Decisões + Conclusão,1,1.67%
+Recebimento,Expedição de documento + Expedição de precatório/rpv + Conclusão,1,1.67%
+Recebimento,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,1.67%
+Recebimento,Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Documento,1,1.67%
+Recebimento,Remessa,1,1.67%
+Recebimento,Conclusão + Documento,1,1.67%
+Recebimento + Conclusão,Remessa + Mero expediente,1,100.00%
+Recurso Extraordinário com repercussão geral,Expedição de documento,1,100.00%
+Recurso Extraordinário com repercussão geral + Petição + Remessa,Publicação,1,100.00%
+Recurso Extraordinário com repercussão geral + Remessa,Publicação,2,100.00%
+Redistribuição,Remessa,1,50.00%
+Redistribuição,Conclusão,1,50.00%
+Redistribuição + Remessa,Conclusão,2,28.57%
+Redistribuição + Remessa,Expedição de documento + Outras Decisões + Conclusão,2,28.57%
+Redistribuição + Remessa,Expedição de documento + Outras Decisões + Conclusão + Ato ordinatório,1,14.29%
+Redistribuição + Remessa,Publicação,1,14.29%
+Redistribuição + Remessa,Remessa,1,14.29%
+Redistribuição + Remessa + Outras Decisões + Conclusão,Remessa,2,66.67%
+Redistribuição + Remessa + Outras Decisões + Conclusão,Conclusão + Expedição de documento + Remessa,1,33.33%
+Redistribuição + Remessa + Outras Decisões + Conclusão + Distribuição,Publicação,1,50.00%
+Redistribuição + Remessa + Outras Decisões + Conclusão + Distribuição,A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão + Expedição de documento + Remessa,1,50.00%
+Redistribuição + Remessa + Publicação,Conclusão,1,100.00%
+Remessa,Publicação,369,91.11%
+Remessa,Petição + Publicação,8,1.98%
+Remessa,Expedição de documento + Publicação,5,1.23%
+Remessa,Ato ordinatório + Publicação,5,1.23%
+Remessa,Expedição de documento + Ato ordinatório + Publicação,4,0.99%
+Remessa,Ato ordinatório + Expedição de documento + Publicação,3,0.74%
+Remessa,Redistribuição,2,0.49%
+Remessa,Expedição de documento,2,0.49%
+Remessa,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Publicação,1,0.25%
+Remessa,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,1,0.25%
+Remessa,Remessa + Expedição de documento + Outras Decisões + Conclusão,1,0.25%
+Remessa,Petição + Expedição de documento + Publicação,1,0.25%
+Remessa,Ato ordinatório + Reativação + Publicação,1,0.25%
+Remessa,Petição,1,0.25%
+Remessa,Redistribuição + Remessa + Publicação,1,0.25%
+Remessa + ,Publicação,1,100.00%
+Remessa + A depender do julgamento de outra causa, de outro juízo ou declaração incidente,Publicação,7,100.00%
+Remessa + A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Publicação,Expedição de documento + Ato ordinatório + Publicação,1,100.00%
+Remessa + Ato ordinatório,Publicação,20,100.00%
+Remessa + Ato ordinatório + Distribuição,Publicação,6,100.00%
+Remessa + Desistência,Publicação,1,100.00%
+Remessa + Documento,Conclusão + Expedição de documento + Redistribuição + Remessa,1,100.00%
+Remessa + Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente,Publicação,2,66.67%
+Remessa + Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente,Petição + Publicação,1,33.33%
+Remessa + Expedição de documento + Ato ordinatório,Publicação,30,85.71%
+Remessa + Expedição de documento + Ato ordinatório,Ato ordinatório + Publicação,3,8.57%
+Remessa + Expedição de documento + Ato ordinatório,Petição + Publicação,2,5.71%
+Remessa + Expedição de documento + Ato ordinatório + Distribuição,Publicação,1,100.00%
+Remessa + Expedição de documento + Ato ordinatório + Publicação,Publicação,1,100.00%
+Remessa + Expedição de documento + Ato ordinatório + Recebimento,Publicação,2,100.00%
+Remessa + Expedição de documento + Desistência,Conclusão + Petição,1,50.00%
+Remessa + Expedição de documento + Desistência,Publicação,1,50.00%
+Remessa + Expedição de documento + Expedição de precatório/rpv,Enviada ao Tribunal + Publicação,1,50.00%
+Remessa + Expedição de documento + Expedição de precatório/rpv,Publicação + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,1,50.00%
+Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença,Publicação,1,100.00%
+Remessa + Expedição de documento + Mero expediente,Publicação,3,100.00%
+Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,Publicação,1,100.00%
+Remessa + Expedição de documento + Outras Decisões,Publicação,22,78.57%
+Remessa + Expedição de documento + Outras Decisões,Petição + Publicação,2,7.14%
+Remessa + Expedição de documento + Outras Decisões,Expedição de documento + Remessa + Publicação,1,3.57%
+Remessa + Expedição de documento + Outras Decisões,Ato ordinatório + Redistribuição + Remessa,1,3.57%
+Remessa + Expedição de documento + Outras Decisões,Publicação + Petição,1,3.57%
+Remessa + Expedição de documento + Outras Decisões,Remessa + Publicação,1,3.57%
+Remessa + Expedição de documento + Outras Decisões + Conclusão,Publicação,2,66.67%
+Remessa + Expedição de documento + Outras Decisões + Conclusão,Petição,1,33.33%
+Remessa + Expedição de documento + Outras Decisões + Conclusão + Distribuição,Publicação,2,100.00%
+Remessa + Expedição de documento + Protocolo de Petição,Publicação,2,100.00%
+Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,Publicação,1,100.00%
+Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Documento,Publicação,1,100.00%
+Remessa + Expedição de precatório/rpv,Enviada ao Tribunal + Publicação,2,100.00%
+Remessa + Extinção,Publicação,1,100.00%
+Remessa + Mero expediente,Publicação,4,100.00%
+Remessa + Outras Decisões,Publicação,5,100.00%
+Remessa + Outras Decisões + Conclusão,Publicação,2,66.67%
+Remessa + Outras Decisões + Conclusão,Ato ordinatório + Redistribuição + Publicação,1,33.33%
+Remessa + Protocolo de Petição,Publicação,1,100.00%
+Remessa + Publicação,Remessa + Documento,1,100.00%
+Republicação,Remessa,1,100.00%
+Trânsito em julgado,Definitivo + Expedição de documento,1,50.00%
+Trânsito em julgado,Petição,1,50.00%

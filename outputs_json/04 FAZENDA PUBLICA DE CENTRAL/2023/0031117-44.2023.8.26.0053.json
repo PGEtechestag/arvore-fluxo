@@ -1,0 +1,147 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00311174420238260053",
+    "num_processo": "0031117-44.2023.8.26.0053",
+    "num_processo_sem_formatacao": "00311174420238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+    "codigo_classe": 12078,
+    "assunto": "Multas e demais Sanções",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-09-18T11:17:57.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-05T23:58:12.351Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "23/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "22/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "21/01/2025": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "24/05/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "23/05/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "22/05/2024": [
+      [
+        "Mero expediente",
+        ""
+      ]
+    ],
+    "21/05/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "11/05/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "21/03/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ],
+      [
+        "Recebimento",
+        ""
+      ]
+    ],
+    "24/02/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "22/02/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "21/02/2024": [
+      [
+        "Outras Decisões",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "17/12/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "17/10/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "11/10/2023": [
+      [
+        "Publicação",
+        ""
+      ],
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "10/10/2023": [
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "09/10/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "18/09/2023": [
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

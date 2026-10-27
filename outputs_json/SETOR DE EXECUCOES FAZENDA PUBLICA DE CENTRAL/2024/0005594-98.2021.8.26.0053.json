@@ -1,0 +1,47 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00055949820218260053",
+    "num_processo": "0005594-98.2021.8.26.0053",
+    "num_processo_sem_formatacao": "00055949820218260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Requisição de Pequeno Valor",
+    "codigo_classe": 1266,
+    "assunto": null,
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-08-05T14:51:28.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-10T12:42:32.163Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "09/12/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "28/10/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "09/09/2024": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "05/08/2024": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

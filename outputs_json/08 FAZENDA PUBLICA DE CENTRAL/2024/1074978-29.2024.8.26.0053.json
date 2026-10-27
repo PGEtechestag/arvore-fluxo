@@ -1,0 +1,53 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10749782920248260053",
+    "num_processo": "1074978-29.2024.8.26.0053",
+    "num_processo_sem_formatacao": "10749782920248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Procedimento Comum Cível",
+    "codigo_classe": 7,
+    "assunto": "Gratificações Estaduais Específicas",
+    "outros_assuntos": [
+      "Pagamento"
+    ],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-10-06T20:36:20.000Z",
+    "data_hora_ultima_atualizacao": "2024-11-12T06:14:37.430Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "09/10/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "08/10/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "07/10/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "06/10/2024": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

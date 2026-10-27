@@ -1,0 +1,583 @@
+﻿Movimento,Frequencia_Absoluta,Percentual_%
+Publicação,2358,15.623136553369111
+Expedição de documento,2062,13.661962499171802
+Remessa,1798,11.912807261644472
+Petição,1547,10.249784668389319
+Ato ordinatório,925,6.128668919366594
+Conclusão,896,5.936526866759425
+Expedição de documento + Outras Decisões + Conclusão,467,3.094149605777513
+Expedição de documento + Outras Decisões,380,2.517723447956006
+Distribuição,380,2.517723447956006
+Expedição de documento + Ato ordinatório,247,1.636520241171404
+Recebimento,233,1.543762008878288
+Conclusão + Expedição de documento,225,1.4907573047107932
+Expedição de documento + Remessa,161,1.066719671370834
+Outras Decisões,158,1.0468429073080237
+Execução/Cumprimento de Sentença Iniciada (o),155,1.026966143245213
+Conclusão + Petição,152,1.0070893791824025
+Remessa + Expedição de documento + Outras Decisões,124,0.8215729145961704
+Expedição de documento + Mero expediente,92,0.609554097926191
+Outras Decisões + Conclusão,87,0.5764261578215066
+Petição + Remessa,83,0.5499238057377592
+Petição + Publicação,80,0.5300470416749486
+Conclusão + Expedição de documento + Distribuição,72,0.4770423375074538
+Remessa + Expedição de documento + Ato ordinatório,68,0.4505399854237063
+Remessa + Ato ordinatório,68,0.4505399854237063
+Expedição de documento + Publicação,68,0.4505399854237063
+Publicação + Remessa,57,0.3776585171934009
+Expedição de documento + Mero expediente + Conclusão,48,0.3180282250049692
+Remessa + Expedição de documento,47,0.31140263698403237
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),42,0.278274696879348
+Documento,42,0.278274696879348
+Expedição de documento + Outras Decisões + Conclusão + Distribuição,42,0.278274696879348
+Conclusão + Expedição de documento + Publicação,42,0.278274696879348
+Outras Decisões + Conclusão + Expedição de documento,40,0.2650235208374743
+Remessa + Outras Decisões,36,0.2385211687537269
+Outras Decisões + Conclusão + Petição,34,0.22526999271185316
+Conclusão + Distribuição,29,0.19214205260716888
+Remessa + Expedição de documento + Outras Decisões + Conclusão,27,0.17889087656529518
+Expedição de documento + Remessa + Outras Decisões,27,0.17889087656529518
+Conclusão + Decurso de Prazo,26,0.17226528854435832
+Expedição de precatório/rpv + Conclusão,26,0.17226528854435832
+Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,25,0.16563970052342145
+Expedição de documento + Extinção da execução ou do cumprimento da sentença,25,0.16563970052342145
+Ato ordinatório + Expedição de documento,24,0.1590141125024846
+Mandado + Documento,23,0.15238852448154774
+Petição + Expedição de documento,22,0.14576293646061086
+Mero expediente,21,0.139137348439674
+Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,21,0.139137348439674
+Expedição de documento + Trânsito em julgado,19,0.1258861723978003
+Conclusão + Publicação,17,0.11263499635592658
+Expedição de documento + Outras Decisões + Conclusão + Petição,16,0.10600940833498972
+Expedição de documento + Procedência,16,0.10600940833498972
+Remessa + Expedição de documento + Mero expediente,15,0.09938382031405286
+Redistribuição + Remessa,15,0.09938382031405286
+Publicação + Expedição de documento + Remessa,15,0.09938382031405286
+Definitivo + Expedição de documento,14,0.09275823229311601
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,14,0.09275823229311601
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,14,0.09275823229311601
+Liminar + Conclusão + Expedição de documento,14,0.09275823229311601
+Protocolo de Petição,13,0.08613264427217916
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,13,0.08613264427217916
+Conclusão + Documento,13,0.08613264427217916
+Expedição de documento + Outras Decisões + Conclusão + Documento,13,0.08613264427217916
+Expedição de documento + Protocolo de Petição,12,0.0795070562512423
+Ato ordinatório + Publicação,12,0.0795070562512423
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,12,0.0795070562512423
+Remessa + Petição,12,0.0795070562512423
+Expedição de documento + Ato ordinatório + Publicação,12,0.0795070562512423
+Extinção da execução ou do cumprimento da sentença + Conclusão,11,0.07288146823030543
+"A depender do julgamento de outra causa, de outro juízo ou declaração incidente",11,0.07288146823030543
+Expedição de documento + Ato ordinatório + Petição,11,0.07288146823030543
+Documento + Expedição de documento,11,0.07288146823030543
+Outras Decisões + Conclusão + Distribuição,11,0.07288146823030543
+Expedição de documento + Segurança,11,0.07288146823030543
+Remessa + Mero expediente,10,0.06625588020936858
+Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,10,0.06625588020936858
+Remessa + Outras Decisões + Conclusão,9,0.05963029218843172
+Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,9,0.05963029218843172
+Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,9,0.05963029218843172
+Antecipação de tutela,9,0.05963029218843172
+Expedição de documento + Procedência em Parte,9,0.05963029218843172
+Remessa + Ato ordinatório + Expedição de documento,9,0.05963029218843172
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,8,0.05300470416749486
+Mero expediente + Conclusão,8,0.05300470416749486
+Publicação + Petição,8,0.05300470416749486
+Ato ordinatório + Documento,8,0.05300470416749486
+Conclusão + Expedição de documento + Redistribuição + Remessa,8,0.05300470416749486
+Redistribuição + Remessa + Publicação,8,0.05300470416749486
+Segurança,8,0.05300470416749486
+Outras Decisões + Conclusão + Petição + Remessa,8,0.05300470416749486
+Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),8,0.05300470416749486
+Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,8,0.05300470416749486
+Conclusão + Petição + Publicação,8,0.05300470416749486
+Expedição de documento + Ato ordinatório + Documento,8,0.05300470416749486
+Expedição de documento + Ato ordinatório + Decurso de Prazo,8,0.05300470416749486
+Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,7,0.04637911614655801
+"Remessa + A depender do julgamento de outra causa, de outro juízo ou declaração incidente",7,0.04637911614655801
+Expedição de documento + Improcedência,7,0.04637911614655801
+Petição + Expedição de documento + Ato ordinatório,7,0.04637911614655801
+Emenda à Inicial,7,0.04637911614655801
+Petição + Ato ordinatório,7,0.04637911614655801
+Conclusão + Redistribuição + Remessa,7,0.04637911614655801
+Emenda à Inicial + Conclusão + Expedição de documento,7,0.04637911614655801
+Expedição de documento + Por decisão judicial + Conclusão,7,0.04637911614655801
+Liminar,7,0.04637911614655801
+Definitivo + Expedição de documento + Trânsito em julgado,6,0.03975352812562115
+Extinção da execução ou do cumprimento da sentença,6,0.03975352812562115
+Expedição de documento + Petição,6,0.03975352812562115
+Remessa + Expedição de documento + Ato ordinatório + Documento,6,0.03975352812562115
+Ato ordinatório + Distribuição,6,0.03975352812562115
+Remessa + Ato ordinatório + Distribuição,6,0.03975352812562115
+Petição + Conclusão,6,0.03975352812562115
+Emenda à Inicial + Conclusão,6,0.03975352812562115
+Expedição de documento + Não Acolhimento de Embargos de Declaração,6,0.03975352812562115
+Conclusão + Petição + Remessa,6,0.03975352812562115
+Redistribuição,6,0.03975352812562115
+Conclusão + Petição + Expedição de documento + Ato ordinatório,6,0.03975352812562115
+Petição + Expedição de documento + Publicação,6,0.03975352812562115
+Remessa + Ato ordinatório + Documento,6,0.03975352812562115
+Publicação + Petição + Remessa,6,0.03975352812562115
+Remessa + Liminar,6,0.03975352812562115
+Enviada ao Tribunal + Remessa,6,0.03975352812562115
+Expedição de documento + Documento,5,0.03312794010468429
+Publicação + Expedição de documento,5,0.03312794010468429
+Enviada ao Tribunal + Expedição de precatório/rpv,5,0.03312794010468429
+Conclusão + Recebimento,5,0.03312794010468429
+Expedição de documento + Protocolo de Petição + Remessa,5,0.03312794010468429
+Trânsito em julgado,5,0.03312794010468429
+Expedição de documento + Decisão Interlocutória de Mérito,5,0.03312794010468429
+Expedição de documento + Conclusão,5,0.03312794010468429
+Petição + Expedição de documento + Outras Decisões + Conclusão,5,0.03312794010468429
+Remessa + Expedição de documento + Protocolo de Petição,5,0.03312794010468429
+Remessa + Expedição de documento + Emenda a inicial,5,0.03312794010468429
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,5,0.03312794010468429
+Expedição de documento + Impugnação ao cumprimento de sentença,5,0.03312794010468429
+Expedição de documento + Liminar + Conclusão,5,0.03312794010468429
+Remessa + Outras Decisões + Conclusão + Expedição de documento,5,0.03312794010468429
+Remessa + Publicação,5,0.03312794010468429
+Conclusão + Trânsito em julgado,5,0.03312794010468429
+Expedição de documento + Outras Decisões + Conclusão + Recebimento,5,0.03312794010468429
+Improcedência,5,0.03312794010468429
+Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença,5,0.03312794010468429
+Publicação + Remessa + Ato ordinatório,5,0.03312794010468429
+Enviada ao Tribunal + Publicação,4,0.02650235208374743
+Remessa + Outras Decisões + Conclusão + Petição,4,0.02650235208374743
+Expedição de documento + Antecipação de tutela,4,0.02650235208374743
+Remessa + Expedição de documento + Decisão Interlocutória de Mérito,4,0.02650235208374743
+"Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente",4,0.02650235208374743
+"Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão",4,0.02650235208374743
+Expedição de documento + Outras Decisões + Petição,4,0.02650235208374743
+"A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão + Distribuição",4,0.02650235208374743
+Ato ordinatório + Expedição de documento + Publicação,4,0.02650235208374743
+Redistribuição + Remessa + Outras Decisões + Conclusão,4,0.02650235208374743
+Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,4,0.02650235208374743
+Conclusão + Expedição de documento + Redistribuição,4,0.02650235208374743
+Expedição de documento + Antecipação de tutela + Conclusão,4,0.02650235208374743
+Documento + Remessa,4,0.02650235208374743
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,4,0.02650235208374743
+Ato ordinatório + Petição,4,0.02650235208374743
+Provisório + Expedição de documento,4,0.02650235208374743
+Petição + Expedição de documento + Remessa,4,0.02650235208374743
+Expedição de documento + Remessa + Ato ordinatório,4,0.02650235208374743
+Procedência,4,0.02650235208374743
+Outras Decisões + Conclusão + Expedição de documento + Distribuição,4,0.02650235208374743
+Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,4,0.02650235208374743
+Remessa + Expedição de documento + Ato ordinatório + Recebimento,4,0.02650235208374743
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Expedição de documento,4,0.02650235208374743
+Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,4,0.02650235208374743
+Petição + Expedição de documento + Outras Decisões,4,0.02650235208374743
+Publicação + Remessa + Ato ordinatório + Expedição de documento,4,0.02650235208374743
+Expedição de documento + Mero expediente + Petição + Conclusão,4,0.02650235208374743
+Outras Decisões + Conclusão + Decurso de Prazo,4,0.02650235208374743
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Recebimento,3,0.019876764062810574
+Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,3,0.019876764062810574
+Expedição de documento + Acolhimento de Embargos de Declaração,3,0.019876764062810574
+Petição + Remessa + Expedição de documento + Outras Decisões,3,0.019876764062810574
+Republicação,3,0.019876764062810574
+"Remessa + Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente",3,0.019876764062810574
+Expedição de documento + Emenda à Inicial,3,0.019876764062810574
+Redistribuição + Remessa + Expedição de documento,3,0.019876764062810574
+Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,3,0.019876764062810574
+"A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão + Expedição de documento",3,0.019876764062810574
+Recebimento + Expedição de documento,3,0.019876764062810574
+Expedição de documento + Outras Decisões + Conclusão + Publicação,3,0.019876764062810574
+Petição + Distribuição,3,0.019876764062810574
+Conclusão + Remessa,3,0.019876764062810574
+Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,3,0.019876764062810574
+Decurso de Prazo,3,0.019876764062810574
+Remessa + Documento,3,0.019876764062810574
+Remessa + Expedição de precatório/rpv,3,0.019876764062810574
+Expedição de documento + Desistência,3,0.019876764062810574
+Documento + Mandado,3,0.019876764062810574
+Expedição de documento + Segurança + Conclusão,3,0.019876764062810574
+Petição + Expedição de documento + Mero expediente,3,0.019876764062810574
+Outras Decisões + Conclusão + Documento,3,0.019876764062810574
+Expedição de documento + Outras Decisões + Conclusão + Ato ordinatório,3,0.019876764062810574
+Expedição de documento + Petição + Remessa,3,0.019876764062810574
+Execução/Cumprimento de Sentença Iniciada (o) + Publicação,3,0.019876764062810574
+Conclusão + Petição + Expedição de documento,3,0.019876764062810574
+Expedição de documento + Remessa + Publicação,3,0.019876764062810574
+Expedição de documento + Remessa + Antecipação de tutela,3,0.019876764062810574
+Liminar + Conclusão + Distribuição,3,0.019876764062810574
+Antecipação de tutela + Conclusão + Distribuição,3,0.019876764062810574
+Outras Decisões + Conclusão + Petição + Publicação,3,0.019876764062810574
+Remessa + Ato ordinatório + Publicação,3,0.019876764062810574
+Publicação + Remessa + Expedição de documento + Outras Decisões,3,0.019876764062810574
+Remessa + Expedição de documento + Acolhimento de Embargos de Declaração,3,0.019876764062810574
+Publicação + Expedição de documento + Remessa + Liminar,3,0.019876764062810574
+Expedição de documento + Perda do objeto,3,0.019876764062810574
+Remessa + Expedição de documento + Mero expediente + Conclusão,3,0.019876764062810574
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Publicação,3,0.019876764062810574
+Publicação + Expedição de documento + Protocolo de Petição,3,0.019876764062810574
+Conclusão + Expedição de documento + Documento,2,0.013251176041873714
+Protocolo de Petição + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv,2,0.013251176041873714
+Remessa + Expedição de documento + Expedição de precatório/rpv,2,0.013251176041873714
+Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2,0.013251176041873714
+Protocolo de Petição + Enviada ao Tribunal,2,0.013251176041873714
+Expedição de documento + Remessa + Mero expediente,2,0.013251176041873714
+Mero expediente + Conclusão + Petição,2,0.013251176041873714
+Remessa +,2,0.013251176041873714
+Remessa + Expedição de documento + Impugnação ao cumprimento de sentença,2,0.013251176041873714
+Expedição de documento + Enviada ao Tribunal + Outras Decisões,2,0.013251176041873714
+Remessa + Expedição de documento + Ato ordinatório + Distribuição,2,0.013251176041873714
+Petição + Remessa + Ato ordinatório + Expedição de documento,2,0.013251176041873714
+Remessa + Expedição de documento + Segurança,2,0.013251176041873714
+Decisão Interlocutória de Mérito,2,0.013251176041873714
+Expedição de documento + Mero expediente + Conclusão + Distribuição,2,0.013251176041873714
+Remessa + Expedição de documento + Antecipação de tutela,2,0.013251176041873714
+Expedição de documento + Procedência + Conclusão,2,0.013251176041873714
+Expedição de documento + Mero expediente + Conclusão + Petição,2,0.013251176041873714
+Ato ordinatório + Remessa,2,0.013251176041873714
+Expedição de documento + Liminar,2,0.013251176041873714
+Expedição de documento + Procedência em Parte + Conclusão,2,0.013251176041873714
+Remessa + Expedição de documento + Publicação,2,0.013251176041873714
+Remessa + Expedição de documento + Ato ordinatório + Publicação,2,0.013251176041873714
+Enviada ao Tribunal + Outras Decisões,2,0.013251176041873714
+Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,2,0.013251176041873714
+Remessa + Expedição de documento + Liminar + Conclusão,2,0.013251176041873714
+Redistribuição + Remessa + Outras Decisões + Conclusão + Distribuição,2,0.013251176041873714
+Remessa + Expedição de documento + Liminar,2,0.013251176041873714
+Conclusão + Expedição de documento + Petição,2,0.013251176041873714
+Petição + Publicação + Remessa,2,0.013251176041873714
+Expedição de documento + Liminar + Petição + Conclusão + Publicação,2,0.013251176041873714
+Procedência em Parte,2,0.013251176041873714
+Outras Decisões + Conclusão + Petição + Expedição de documento,2,0.013251176041873714
+Publicação + Recurso Extraordinário com repercussão geral + Remessa,2,0.013251176041873714
+Remessa + Expedição de documento + Desistência,2,0.013251176041873714
+Recurso Extraordinário com repercussão geral + Remessa,2,0.013251176041873714
+Publicação + Petição + Expedição de documento + Remessa,2,0.013251176041873714
+Expedição de documento + Antecipação de tutela + Publicação,2,0.013251176041873714
+Remessa + Expedição de documento + Procedência,2,0.013251176041873714
+Documento + Expedição de documento + Remessa,2,0.013251176041873714
+Remessa + Expedição de documento + Petição,2,0.013251176041873714
+Conclusão + Ato ordinatório,2,0.013251176041873714
+Expedição de documento + Remessa + Improcedência,2,0.013251176041873714
+Expedição de documento + Remessa + Outras Decisões + Conclusão,2,0.013251176041873714
+Outras Decisões + Expedição de documento,2,0.013251176041873714
+Remessa + Extinção,2,0.013251176041873714
+Expedição de documento + Conclusão + Petição + Publicação,2,0.013251176041873714
+Outras Decisões + Petição,2,0.013251176041873714
+Protocolo de Petição + Expedição de documento + Remessa,2,0.013251176041873714
+Protocolo de Petição + Expedição de documento,2,0.013251176041873714
+Expedição de documento + Petição + Publicação,2,0.013251176041873714
+Mandado + Documento + Publicação,2,0.013251176041873714
+Expedição de documento + Publicação + Remessa,2,0.013251176041873714
+Expedição de documento + Ato ordinatório + Recebimento,2,0.013251176041873714
+Outras Decisões + Conclusão + Mandado + Documento + Petição,2,0.013251176041873714
+Remessa + Segurança,2,0.013251176041873714
+Remessa + Ato ordinatório + Petição,2,0.013251176041873714
+Expedição de documento + Ato ordinatório + Petição + Mandado,2,0.013251176041873714
+Remessa + Antecipação de tutela,2,0.013251176041873714
+Liminar + Conclusão,2,0.013251176041873714
+Petição + Recebimento,2,0.013251176041873714
+Remessa + Liminar + Conclusão,2,0.013251176041873714
+Publicação + Remessa + Liminar,2,0.013251176041873714
+Conclusão + Expedição de documento + Redistribuição + Recebimento,2,0.013251176041873714
+Petição + Expedição de documento + Ato ordinatório + Mandado + Documento,2,0.013251176041873714
+Remessa + Liminar + Conclusão + Expedição de documento,2,0.013251176041873714
+Expedição de documento + Ato ordinatório + Petição + Documento,2,0.013251176041873714
+Ato ordinatório + Decurso de Prazo,2,0.013251176041873714
+Mero expediente + Conclusão + Decurso de Prazo,2,0.013251176041873714
+Expedição de documento + Mero expediente + Petição + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),2,0.013251176041873714
+Expedição de documento + Ato ordinatório + Mandado + Documento,2,0.013251176041873714
+Remessa + Expedição de documento + Outras Decisões + Conclusão + Distribuição,2,0.013251176041873714
+Publicação + Remessa + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.006625588020936857
+Enviada ao Tribunal + Expedição de documento + Outras Decisões,1,0.006625588020936857
+Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv + Conclusão,1,0.006625588020936857
+Protocolo de Petição + Remessa,1,0.006625588020936857
+Remessa + Reativação,1,0.006625588020936857
+Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.006625588020936857
+Expedição de documento + deferimento + Conclusão,1,0.006625588020936857
+Retificado + Remessa,1,0.006625588020936857
+Protocolo de Petição + Expedição de documento + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,0.006625588020936857
+Expedição de precatório/rpv + Conclusão + Recebimento,1,0.006625588020936857
+Protocolo de Petição + Enviada ao Tribunal + Expedição de documento,1,0.006625588020936857
+Enviada ao Tribunal + Expedição de documento + Outras Decisões + Conclusão,1,0.006625588020936857
+Reativação,1,0.006625588020936857
+Remessa + deferimento + Conclusão,1,0.006625588020936857
+Ato ordinatório + Trânsito em julgado,1,0.006625588020936857
+Outras Decisões + Petição + Conclusão + Decurso de Prazo + Remessa,1,0.006625588020936857
+Conclusão + Recebimento + Petição + Publicação,1,0.006625588020936857
+Publicação + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,1,0.006625588020936857
+Expedição de documento + Expedição de precatório/rpv + Conclusão,1,0.006625588020936857
+Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Recebimento,1,0.006625588020936857
+Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.006625588020936857
+Definitivo + Expedição de documento + Publicação,1,0.006625588020936857
+Definitivo + Baixa Definitiva,1,0.006625588020936857
+Conclusão + Ato ordinatório + Execução/Cumprimento de Sentença Iniciada (o),1,0.006625588020936857
+Recebimento + Ato ordinatório,1,0.006625588020936857
+Expedição de documento + Mero expediente + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),1,0.006625588020936857
+Expedição de documento + Outras Decisões + Conclusão + Documento + Petição,1,0.006625588020936857
+Remessa + Expedição de documento + Ato ordinatório + Outras Decisões + Conclusão,1,0.006625588020936857
+Expedição de documento + Outras Decisões + Documento,1,0.006625588020936857
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Outras Decisões + Conclusão,1,0.006625588020936857
+Expedição de documento + Documento + Petição,1,0.006625588020936857
+Ato ordinatório + Conclusão,1,0.006625588020936857
+Ato ordinatório + Redistribuição + Remessa,1,0.006625588020936857
+Expedição de documento + Antecipação de tutela + Conclusão + Publicação,1,0.006625588020936857
+Ato ordinatório + Mandado + Documento,1,0.006625588020936857
+Expedição de documento + Sem efeito suspensivo + Conclusão + Ato ordinatório,1,0.006625588020936857
+Conclusão + Documento + Recebimento,1,0.006625588020936857
+Ato ordinatório + Redistribuição + Publicação,1,0.006625588020936857
+Petição + Remessa + Expedição de documento + Mero expediente,1,0.006625588020936857
+Remessa + Desistência,1,0.006625588020936857
+Conclusão + Redistribuição + Remessa + Expedição de documento,1,0.006625588020936857
+Expedição de documento + Ato ordinatório + Petição + Remessa,1,0.006625588020936857
+Remessa + Expedição de documento + Sem efeito suspensivo,1,0.006625588020936857
+Petição + Expedição de documento + Ato ordinatório + Decurso de Prazo,1,0.006625588020936857
+Não Acolhimento de Embargos de Declaração,1,0.006625588020936857
+Expedição de documento + Sem efeito suspensivo,1,0.006625588020936857
+Ato ordinatório + Reativação + Publicação,1,0.006625588020936857
+Expedição de documento + Antecipação de tutela + Conclusão + Distribuição,1,0.006625588020936857
+Remessa + Ato ordinatório + Mandado,1,0.006625588020936857
+Recebimento + Documento,1,0.006625588020936857
+Petição + Expedição de documento + Sem efeito suspensivo + Conclusão,1,0.006625588020936857
+"Expedição de documento + A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão + Distribuição",1,0.006625588020936857
+Expedição de documento + Procedência do Pedido - Reconhecimento pelo réu,1,0.006625588020936857
+Publicação + Remessa + Expedição de documento + Ato ordinatório,1,0.006625588020936857
+Remessa + Expedição de documento + Procedência em Parte,1,0.006625588020936857
+Remessa + Expedição de documento + Mero expediente + Conclusão + Ato ordinatório,1,0.006625588020936857
+Expedição de documento + Não Acolhimento de Embargos de Declaração + Conclusão,1,0.006625588020936857
+Expedição de documento + Perito + Conclusão,1,0.006625588020936857
+Remessa + Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,0.006625588020936857
+Expedição de documento + Ato ordinatório + Conclusão,1,0.006625588020936857
+Expedição de documento + Renúncia ao direito pelo autor,1,0.006625588020936857
+Publicação + Redistribuição + Remessa,1,0.006625588020936857
+Conclusão + Expedição de documento + Remessa,1,0.006625588020936857
+"Remessa + A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Publicação",1,0.006625588020936857
+Expedição de documento + Decisão Interlocutória de Mérito + Petição + Conclusão,1,0.006625588020936857
+Remessa + Expedição de documento + Mero expediente + Conclusão + Publicação,1,0.006625588020936857
+Expedição de documento + Ato ordinatório + Reativação,1,0.006625588020936857
+Outras Decisões + Conclusão + Documento + Petição,1,0.006625588020936857
+Expedição de documento +  + Conclusão,1,0.006625588020936857
+Decisão Interlocutória de Mérito + Conclusão,1,0.006625588020936857
+Documento + Decurso de Prazo,1,0.006625588020936857
+Expedição de precatório/rpv,1,0.006625588020936857
+Expedição de documento + Remessa + Segurança,1,0.006625588020936857
+Expedição de documento + Decisão Interlocutória de Mérito + Publicação + Conclusão,1,0.006625588020936857
+Por decisão judicial + Publicação,1,0.006625588020936857
+Documento + Petição,1,0.006625588020936857
+Outras Decisões + Expedição de documento + Conclusão + Redistribuição,1,0.006625588020936857
+Petição + Conclusão + Expedição de documento + Redistribuição,1,0.006625588020936857
+Redistribuição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1,0.006625588020936857
+Conclusão + Remessa + Expedição de documento,1,0.006625588020936857
+Emenda a inicial + Conclusão + Expedição de documento,1,0.006625588020936857
+Remessa + Protocolo de Petição,1,0.006625588020936857
+Expedição de documento +  + Conclusão + Redistribuição,1,0.006625588020936857
+Mero expediente + Conclusão + Expedição de documento + Redistribuição + Remessa,1,0.006625588020936857
+Conclusão + Redistribuição + Remessa + Expedição de documento + Mero expediente,1,0.006625588020936857
+Acolhimento de Embargos de Declaração + Conclusão,1,0.006625588020936857
+Conclusão + Outras Decisões + Expedição de documento,1,0.006625588020936857
+Redistribuição + Remessa + Expedição de documento + Mero expediente,1,0.006625588020936857
+Documento + Conclusão,1,0.006625588020936857
+Conclusão + Expedição de documento + Redistribuição + Remessa + Publicação,1,0.006625588020936857
+Incompetência + Conclusão,1,0.006625588020936857
+Conclusão + Redistribuição + Recebimento,1,0.006625588020936857
+Conclusão + Redistribuição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1,0.006625588020936857
+Conclusão + Expedição de documento + Documento + Redistribuição + Remessa,1,0.006625588020936857
+Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Documento,1,0.006625588020936857
+Outras Decisões + Conclusão + Expedição de documento + Redistribuição + Recebimento,1,0.006625588020936857
+Petição + Expedição de documento + Segurança + Conclusão,1,0.006625588020936857
+Expedição de documento + Mero expediente + Publicação + Conclusão + Documento,1,0.006625588020936857
+Petição + Remessa + Outras Decisões + Conclusão + Expedição de documento,1,0.006625588020936857
+Conclusão + Petição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1,0.006625588020936857
+Expedição de documento + Remessa + Impugnação ao cumprimento de sentença,1,0.006625588020936857
+Petição + Mandado + Documento,1,0.006625588020936857
+Recebimento + Conclusão,1,0.006625588020936857
+"A depender do julgamento de outra causa, de outro juízo ou declaração incidente + Conclusão + Expedição de documento + Remessa",1,0.006625588020936857
+Remessa + Expedição de documento + Ato ordinatório + Petição,1,0.006625588020936857
+Expedição de documento + Ato ordinatório + Petição + Documento + Mandado,1,0.006625588020936857
+Petição + Expedição de documento + Decisão Interlocutória de Mérito,1,0.006625588020936857
+Documento + Mandado + Petição,1,0.006625588020936857
+Remessa + Republicação,1,0.006625588020936857
+Expedição de documento + Improcedência + Conclusão + Publicação,1,0.006625588020936857
+Improcedência + Conclusão,1,0.006625588020936857
+Petição + Expedição de documento + Trânsito em julgado,1,0.006625588020936857
+Expedição de documento + Outras Decisões + Documento + Conclusão,1,0.006625588020936857
+Outras Decisões + Conclusão + Distribuição + Documento,1,0.006625588020936857
+Outras Decisões + Expedição de documento + Conclusão + Petição + Remessa,1,0.006625588020936857
+Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.006625588020936857
+Petição + Conclusão + Remessa,1,0.006625588020936857
+Remessa + Petição + Expedição de documento + Outras Decisões + Publicação,1,0.006625588020936857
+Outras Decisões + Conclusão + Indeferimento da petição inicial,1,0.006625588020936857
+Ato ordinatório + Antecipação de tutela + Conclusão + Redistribuição + Remessa + Decurso de Prazo,1,0.006625588020936857
+Outras Decisões + Conclusão + Publicação,1,0.006625588020936857
+Recurso Extraordinário com repercussão geral,1,0.006625588020936857
+Expedição de documento + Antecipação de tutela + Conclusão + Redistribuição + Remessa + Publicação,1,0.006625588020936857
+Publicação + Remessa + Improcedência,1,0.006625588020936857
+Antecipação de Tutela,1,0.006625588020936857
+Emenda a inicial + Conclusão + Petição + Remessa,1,0.006625588020936857
+Ato ordinatório + Documento + Publicação,1,0.006625588020936857
+Sem Resolução de Mérito + Conclusão + Expedição de documento,1,0.006625588020936857
+Petição + Decisão Interlocutória de Mérito + Conclusão + Expedição de documento + Distribuição,1,0.006625588020936857
+Remessa + Decisão Interlocutória de Mérito + Conclusão,1,0.006625588020936857
+Expedição de documento + Antecipação de tutela + Conclusão + Redistribuição + Remessa,1,0.006625588020936857
+Expedição de documento + Não Acolhimento de Embargos de Declaração + Conclusão + Petição,1,0.006625588020936857
+Decisão Interlocutória de Mérito + Conclusão + Expedição de documento + Distribuição,1,0.006625588020936857
+Decisão Interlocutória de Mérito + Conclusão + Petição,1,0.006625588020936857
+Conclusão + Documento + Redistribuição + Remessa + Mero expediente,1,0.006625588020936857
+Conclusão + Mandado + Documento,1,0.006625588020936857
+Publicação + Expedição de documento + Ato ordinatório + Documento + Remessa,1,0.006625588020936857
+Documento + Expedição de documento + Ato ordinatório,1,0.006625588020936857
+Outras Decisões + Conclusão + Recebimento,1,0.006625588020936857
+Publicação + Liminar + Conclusão + Petição + Remessa,1,0.006625588020936857
+Recurso Extraordinário com repercussão geral + Petição + Remessa,1,0.006625588020936857
+Publicação + Remessa + Expedição de documento + Outras Decisões + Conclusão,1,0.006625588020936857
+Conclusão + Petição + Expedição de documento + Remessa,1,0.006625588020936857
+Expedição de documento + Decisão de Saneamento e Organização,1,0.006625588020936857
+Documento + Remessa + Expedição de documento + Ato ordinatório,1,0.006625588020936857
+Remessa + Documento + Expedição de documento + Ato ordinatório + Publicação,1,0.006625588020936857
+Conclusão + Petição + Expedição de documento + Publicação,1,0.006625588020936857
+Impugnação ao cumprimento de sentença + Conclusão,1,0.006625588020936857
+Outras Decisões + Expedição de documento + Conclusão,1,0.006625588020936857
+Outras Decisões + Conclusão + Redistribuição + Remessa,1,0.006625588020936857
+Expedição de documento + Improcedência + Conclusão + Petição,1,0.006625588020936857
+Expedição de documento + Remessa + Petição,1,0.006625588020936857
+Documento + Remessa + Expedição de documento + Ato ordinatório + Publicação,1,0.006625588020936857
+Publicação + Remessa + Expedição de documento,1,0.006625588020936857
+Expedição de documento + Remessa + Extinção da execução ou do cumprimento da sentença,1,0.006625588020936857
+Petição + Protocolo de Petição + Expedição de documento + Remessa,1,0.006625588020936857
+Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,0.006625588020936857
+Petição + Remessa + Expedição de documento + Outras Decisões + Conclusão,1,0.006625588020936857
+Enviada ao Tribunal + Expedição de precatório/rpv + Expedição de documento,1,0.006625588020936857
+Remessa + Expedição de documento + Ato ordinatório + Republicação,1,0.006625588020936857
+Remessa + Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,0.006625588020936857
+Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.006625588020936857
+Expedição de documento + Desistência + Conclusão,1,0.006625588020936857
+Antecipação de Tutela + Conclusão,1,0.006625588020936857
+Documento + Expedição de documento + Publicação,1,0.006625588020936857
+Remessa + Expedição de documento + Incompetência + Conclusão,1,0.006625588020936857
+Liminar + Conclusão + Recebimento + Redistribuição,1,0.006625588020936857
+Outras Decisões + Conclusão + Mandado + Petição,1,0.006625588020936857
+Petição + Outras Decisões + Conclusão,1,0.006625588020936857
+Outras Decisões + Remessa,1,0.006625588020936857
+Documento + Publicação,1,0.006625588020936857
+Conclusão + Mandado + Documento + Petição + Expedição de documento + Outras Decisões,1,0.006625588020936857
+Mandado + Documento + Outras Decisões + Remessa,1,0.006625588020936857
+Expedição de documento + Remessa + Ato ordinatório + Publicação,1,0.006625588020936857
+Conclusão + Petição + Remessa + Expedição de documento,1,0.006625588020936857
+Expedição de documento + Outras Decisões + Publicação,1,0.006625588020936857
+Expedição de documento + Outras Decisões + Conclusão + Mandado,1,0.006625588020936857
+Conclusão + Expedição de documento + Ato ordinatório + Petição + Remessa,1,0.006625588020936857
+Remessa + Outras Decisões + Expedição de documento,1,0.006625588020936857
+Expedição de documento + Outras Decisões + Conclusão + Petição + Ato ordinatório,1,0.006625588020936857
+Petição + Expedição de documento + Acolhimento de Embargos de Declaração,1,0.006625588020936857
+Remessa + Conclusão,1,0.006625588020936857
+Conclusão + de Instrução e Julgamento,1,0.006625588020936857
+Expedição de documento + Conclusão + Petição,1,0.006625588020936857
+Expedição de precatório/rpv + Conclusão + Expedição de documento,1,0.006625588020936857
+Enviada ao Tribunal,1,0.006625588020936857
+Antecipação de tutela + Conclusão + Petição,1,0.006625588020936857
+Liminar + Conclusão + Redistribuição + Recebimento,1,0.006625588020936857
+Mandado + Petição,1,0.006625588020936857
+Petição + Conclusão + Expedição de documento,1,0.006625588020936857
+Publicação + Remessa + Expedição de documento + Antecipação de tutela,1,0.006625588020936857
+Outras Decisões + Conclusão + Recebimento + Redistribuição,1,0.006625588020936857
+Expedição de documento + Apensamento + Remessa,1,0.006625588020936857
+Conclusão + Mandado + Documento + Petição,1,0.006625588020936857
+Outras Decisões + Conclusão + Redistribuição,1,0.006625588020936857
+Ato ordinatório + Remessa + Liminar + Publicação,1,0.006625588020936857
+Documento + Ato ordinatório,1,0.006625588020936857
+Conclusão + Redistribuição + Remessa + Expedição de documento + Outras Decisões + Distribuição,1,0.006625588020936857
+Antecipação de tutela + Remessa,1,0.006625588020936857
+Conclusão + Redistribuição + Remessa + Publicação,1,0.006625588020936857
+Conclusão + Redistribuição + Remessa + Expedição de documento + Outras Decisões,1,0.006625588020936857
+Publicação + Remessa + Antecipação de tutela,1,0.006625588020936857
+Remessa + Petição + Ato ordinatório + Publicação,1,0.006625588020936857
+Remessa + Ato ordinatório + Antecipação de tutela,1,0.006625588020936857
+Conclusão + Petição + Remessa + Outras Decisões,1,0.006625588020936857
+Remessa + Antecipação de Tutela + Expedição de documento + Publicação,1,0.006625588020936857
+Petição + Expedição de documento + Outras Decisões + Conclusão + Publicação,1,0.006625588020936857
+Antecipação de tutela + Conclusão,1,0.006625588020936857
+Incompetência + Conclusão + Distribuição + Documento,1,0.006625588020936857
+Conclusão + Petição + Emenda à Inicial,1,0.006625588020936857
+Indeferimento da petição inicial + Remessa,1,0.006625588020936857
+Incompetência,1,0.006625588020936857
+Expedição de documento + Antecipação de tutela + Petição + Conclusão,1,0.006625588020936857
+Petição + Ato ordinatório + Decurso de Prazo,1,0.006625588020936857
+Documento + Expedição de documento + Mero expediente + Conclusão,1,0.006625588020936857
+Petição + Remessa + Expedição de documento + Ato ordinatório,1,0.006625588020936857
+Expedição de documento + Outras Decisões + Publicação + Conclusão,1,0.006625588020936857
+Remessa + Ato ordinatório + Trânsito em julgado,1,0.006625588020936857
+Petição + Outras Decisões + Conclusão + Ato ordinatório + Distribuição,1,0.006625588020936857
+Remessa + Ato ordinatório + Expedição de documento + Documento + Redistribuição + Recebimento,1,0.006625588020936857
+Expedição de documento + Mero expediente + Conclusão + Petição + Publicação,1,0.006625588020936857
+Outras Decisões + Conclusão + Ato ordinatório,1,0.006625588020936857
+Redistribuição + Recebimento,1,0.006625588020936857
+Documento + Redistribuição + Remessa,1,0.006625588020936857
+Remessa + Emenda à Inicial,1,0.006625588020936857
+Remessa + Conclusão + Ato ordinatório,1,0.006625588020936857
+Sem Resolução de Mérito,1,0.006625588020936857
+Expedição de documento + Remessa + Incompetência,1,0.006625588020936857
+Remessa + Ato ordinatório + Petição + Publicação,1,0.006625588020936857
+Petição + Remessa + Emenda à Inicial + Conclusão + Expedição de documento,1,0.006625588020936857
+Antecipação de tutela + Conclusão + Expedição de documento + Distribuição,1,0.006625588020936857
+Mero expediente + Conclusão + Trânsito em julgado,1,0.006625588020936857
+Expedição de documento + Ato ordinatório + Mandado,1,0.006625588020936857
+Conclusão + Petição + Documento,1,0.006625588020936857
+Publicação + Remessa + Outras Decisões + Conclusão + Expedição de documento,1,0.006625588020936857
+Publicação + Petição + Remessa + Ato ordinatório + Expedição de documento,1,0.006625588020936857
+Expedição de documento + Ato ordinatório + Documento + Petição,1,0.006625588020936857
+Julgamento em Diligência,1,0.006625588020936857
+Liminar + Expedição de documento + Conclusão,1,0.006625588020936857
+Publicação + Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.006625588020936857
+Expedição de documento + Decisão de Saneamento e Organização + Conclusão,1,0.006625588020936857
+Expedição de documento + Remessa + Liminar,1,0.006625588020936857
+Publicação + Remessa + Outras Decisões + Conclusão + Expedição de documento + Distribuição,1,0.006625588020936857
+Expedição de documento + Remessa + Liminar + Conclusão + Distribuição,1,0.006625588020936857
+Liminar + Conclusão + Expedição de documento + Distribuição,1,0.006625588020936857
+Petição + Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.006625588020936857
+Expedição de documento + Improcedência + Conclusão,1,0.006625588020936857
+Remessa + Conclusão + Expedição de documento + Ato ordinatório,1,0.006625588020936857
+Petição + Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,1,0.006625588020936857
+Redistribuição + Remessa + Petição,1,0.006625588020936857
+Publicação + Ato ordinatório + Remessa + Liminar,1,0.006625588020936857
+Remessa + Gratuidade da Justiça + Conclusão + Expedição de documento,1,0.006625588020936857
+Petição + Redistribuição + Remessa + Publicação,1,0.006625588020936857
+Expedição de documento + Documento + Remessa,1,0.006625588020936857
+Publicação + Ato ordinatório + Petição + Remessa + Liminar,1,0.006625588020936857
+Expedição de documento + Emenda a inicial + Conclusão + Petição,1,0.006625588020936857
+Ato ordinatório + Petição + Remessa + Mandado + Documento,1,0.006625588020936857
+Petição + Expedição de documento + Ato ordinatório + Documento + Mandado,1,0.006625588020936857
+Redistribuição + Remessa + Decurso de Prazo,1,0.006625588020936857
+Acolhimento em Parte de Embargos de Declaração + Conclusão + Petição + Remessa,1,0.006625588020936857
+Expedição de documento + Outras Decisões + Documento + Conclusão + Petição,1,0.006625588020936857
+Mandado,1,0.006625588020936857
+Remessa + Expedição de documento + Mandado + Documento,1,0.006625588020936857
+Expedição de documento + Outras Decisões + Conclusão + Ato ordinatório + Distribuição,1,0.006625588020936857
+Liminar + Conclusão + Expedição de documento + Redistribuição + Remessa,1,0.006625588020936857
+Remessa + Ato ordinatório + Expedição de documento + Documento,1,0.006625588020936857
+Petição + Conclusão + Expedição de documento + Ato ordinatório + Documento,1,0.006625588020936857
+Remessa + Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,1,0.006625588020936857
+Expedição de documento + Ato ordinatório + Petição + Publicação,1,0.006625588020936857
+Publicação + Expedição de documento + Remessa + Liminar + Conclusão,1,0.006625588020936857
+Conclusão + Documento + Mandado,1,0.006625588020936857
+Petição + Redistribuição + Remessa,1,0.006625588020936857
+Remessa + Ato ordinatório + Execução/Cumprimento de Sentença Iniciada (o),1,0.006625588020936857
+Remessa + Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,1,0.006625588020936857
+Remessa + Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,1,0.006625588020936857
+Remessa + Expedição de precatório/rpv + Conclusão,1,0.006625588020936857
+Expedição de precatório/rpv + Conclusão + Decurso de Prazo,1,0.006625588020936857
+Protocolo de Petição + Enviada ao Tribunal + Remessa,1,0.006625588020936857
+Ato ordinatório + Documento + Petição,1,0.006625588020936857
+Recebimento + Publicação,1,0.006625588020936857
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal,1,0.006625588020936857
+Conclusão + Documento + Petição,1,0.006625588020936857
+Definitivo + Expedição de documento + Decurso de Prazo,1,0.006625588020936857
+Expedição de documento + Outras Decisões + Conclusão + Documento + Publicação,1,0.006625588020936857
+Liminar + Conclusão + Expedição de documento + Publicação,1,0.006625588020936857
+Petição + Remessa + Expedição de documento + Outras Decisões + Conclusão + Redistribuição,1,0.006625588020936857
+Remessa + Emenda à Inicial + Conclusão + Publicação,1,0.006625588020936857
+Conclusão + Decurso de Prazo + Documento,1,0.006625588020936857
+Liminar + Conclusão + Expedição de documento + Documento,1,0.006625588020936857
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa + Expedição de precatório/rpv,1,0.006625588020936857
+Expedição de documento + Outras Decisões + Petição + Conclusão,1,0.006625588020936857
++ Remessa,1,0.006625588020936857
+Conclusão + Expedição de documento + Petição + Remessa + Ato ordinatório,1,0.006625588020936857
+Liminar + Publicação,1,0.006625588020936857
+Ato ordinatório + Expedição de documento + Distribuição,1,0.006625588020936857
+Liminar + Conclusão + Expedição de documento + Petição,1,0.006625588020936857
+Petição + Ato ordinatório + Expedição de documento,1,0.006625588020936857
+Liminar + Conclusão + Expedição de documento + Remessa,1,0.006625588020936857
+Petição + Publicação + Expedição de documento + Remessa,1,0.006625588020936857

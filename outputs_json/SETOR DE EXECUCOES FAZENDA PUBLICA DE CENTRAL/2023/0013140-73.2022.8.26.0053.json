@@ -1,0 +1,133 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00131407320228260053",
+    "num_processo": "0013140-73.2022.8.26.0053",
+    "num_processo_sem_formatacao": "00131407320228260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Precatório",
+    "codigo_classe": 1265,
+    "assunto": "Repetição de indébito",
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-01-13T09:40:53.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-10T01:07:22.761Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "30/12/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "02/11/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "08/05/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "20/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "14/12/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "21/11/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "14/11/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "11/11/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "10/11/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "28/03/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "04/02/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "14/01/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "13/01/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Protocolo de Petição",
+        ""
+      ],
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

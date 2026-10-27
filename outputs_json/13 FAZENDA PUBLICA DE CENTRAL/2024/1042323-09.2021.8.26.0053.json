@@ -1,0 +1,55 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10423230920218260053",
+    "num_processo": "1042323-09.2021.8.26.0053",
+    "num_processo_sem_formatacao": "10423230920218260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Requisição de Pequeno Valor",
+    "codigo_classe": 1266,
+    "assunto": "Causas Supervenientes à Sentença",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-10-09T15:10:18.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-05T23:36:43.635Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "23/01/2025": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "22/01/2025": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "21/01/2025": [
+      [
+        "Emenda à Inicial",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "09/10/2024": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

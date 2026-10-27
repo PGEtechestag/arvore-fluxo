@@ -1,0 +1,109 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10330503520238260053",
+    "num_processo": "1033050-35.2023.8.26.0053",
+    "num_processo_sem_formatacao": "10330503520238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+    "codigo_classe": 12078,
+    "assunto": "Correção Monetária",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-05-31T16:40:42.000Z",
+    "data_hora_ultima_atualizacao": "2024-07-20T02:38:38.135Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "23/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "17/12/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "18/11/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "09/11/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "08/11/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "07/11/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "06/11/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "24/06/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "15/06/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "14/06/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "13/06/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "A depender do julgamento de outra causa, de outro juízo ou declaração incidente",
+        ""
+      ]
+    ],
+    "01/06/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ]
+    ],
+    "31/05/2023": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: dependência"
+      ]
+    ]
+  }
+}

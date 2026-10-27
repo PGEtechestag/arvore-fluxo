@@ -1,0 +1,22 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_12078_G1_10555_00347238020238260053",
+    "num_processo": "0034723-80.2023.8.26.0053",
+    "num_processo_sem_formatacao": "00347238020238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+    "codigo_classe": 12078,
+    "assunto": "Multas e demais Sanções",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-10-23T12:46:46.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:04:13.831Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {}
+}

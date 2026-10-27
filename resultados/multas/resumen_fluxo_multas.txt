@@ -1,0 +1,80 @@
+==============================================================================
+FLUJO MULTAS — EXTRACCIÓN, VALIDACIÓN Y ÁRBOL DE FLUJO
+==============================================================================
+FUENTE: JSON crudos en outputs_json/<sector>/<año>/  (API DataJud/CNJ)
+FILTROS: 4 sectores + año ajuizamiento 2023-2025 + asunto 'Multas e demais Sanções'
+
+--- 1. EXTRACCIÓN ---
+  JSON leídos (4 sectores x 3 años): 3752
+  Errores de lectura: 0
+  Procesos 'Multas e demais Sanções' extraídos: 406
+
+--- 2. CONTEOS por sector x año (procesos extraídos) ---
+  04 FAZENDA PUBLICA DE CENTRAL                  | 2023:18 | 2024:39 | 2025:3  => total 60
+  08 FAZENDA PUBLICA DE CENTRAL                  | 2023:30 | 2024:42 | 2025:7  => total 79
+  13 FAZENDA PUBLICA DE CENTRAL                  | 2023:11 | 2024:253 | 2025:0  => total 264
+  SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL  | 2023:3 | 2024:0 | 2025:0  => total 3
+
+--- 3. VALIDACIÓN ---
+  Procesos duplicados (num_processo): 0   []
+  Procesos sin movimientos/eventos: 2
+  Eventos totales (posiciones): 5705
+  Duplicados intradía (repetición misma fecha): 537
+  Nº medio de movimientos por proceso: 14.05
+  vs. processos_top3_consolidados.csv (Multas): en previo no nuevo=0, en nuevo no previo=406
+      + faltan en nuevo (previo): []
+  vs. tabela_posicao_tempo_processos.csv (Multas): en previo no nuevo=0, en nuevo no previo=406
+      + faltan en nuevo (previo): []
+
+--- 4. ÁRBOL DE FLUJO / TRANSICIONES ---
+  Pares de transición distintos: 827
+  Transiciones totales: 5301
+  TOP 15 transiciones (origen -> destino : n | P(dest|origen)% )
+    Remessa                                              -> Publicação                                           :   654 | 84.8%
+    Publicação                                           -> Expedição de documento                               :   505 | 59.5%
+    Expedição de documento                               -> Petição                                              :   235 | 37.7%
+    Expedição de documento + Outras Decisões + Conclus   -> Remessa                                              :   220 | 89.1%
+    Expedição de documento + Outras Decisões             -> Remessa                                              :   198 | 94.3%
+    Publicação                                           -> Petição                                              :   165 | 19.4%
+    Petição                                              -> Conclusão                                            :   158 | 30.5%
+    Conclusão                                            -> Expedição de documento + Outras Decisões             :    89 | 31.7%
+    Expedição de documento                               -> Expedição de documento                               :    80 | 12.8%
+    Expedição de documento                               -> Ato ordinatório                                      :    79 | 12.7%
+    Petição                                              -> Expedição de documento + Outras Decisões + Conclus   :    78 | 15.1%
+    Petição                                              -> Expedição de documento                               :    73 | 14.1%
+    Distribuição                                         -> Expedição de documento + Outras Decisões + Conclus   :    63 | 37.5%
+    Conclusão + Expedição de documento                   -> Expedição de documento + Outras Decisões             :    56 | 47.5%
+    Petição                                              -> Petição                                              :    55 | 10.6%
+
+--- 5. FUNIL (retención por posición) ---
+  pos  1 | n=404   |  99.5% | Distribuição(168); Execução/Cumprimento de Se(68); Conclusão + Expedição de d(59)
+  pos  2 | n=399   |  98.3% | Expedição de documento + O(96); Conclusão + Expedição de d(54); Conclusão(45)
+  pos  3 | n=395   |  97.3% | Remessa(160); Publicação(72); Expedição de documento + O(46)
+  pos  4 | n=394   |  97.0% | Publicação(133); Remessa(83); Expedição de documento(55)
+  pos  5 | n=384   |  94.6% | Publicação(88); Expedição de documento(76); Petição(64)
+  pos  6 | n=359   |  88.4% | Petição(75); Remessa(62); Expedição de documento(45)
+  pos  7 | n=331   |  81.5% | Publicação(71); Remessa(36); Conclusão(36)
+  pos  8 | n=320   |  78.8% | Remessa(63); Expedição de documento(58); Publicação(51)
+  pos  9 | n=272   |  67.0% | Publicação(76); Remessa(50); Expedição de documento(44)
+  pos 10 | n=251   |  61.8% | Expedição de documento(59); Publicação(55); Petição(35)
+  pos 11 | n=228   |  56.2% | Expedição de documento(54); Petição(46); Publicação(33)
+  pos 12 | n=193   |  47.5% | Petição(44); Expedição de documento(33); Publicação(19)
+
+--- 6. RUTAS COMPLETAS MÁS FRECUENTES (top 10) ---
+  (30 | 7.4%)  Distribuição > Expedição de documento + Outras Decisões + Conclusão > Remessa > Conclusão + Expedição de documento + Publicação > Expedição de documento + Mero 
+  (17 | 4.2%)  Distribuição > Conclusão + Expedição de documento > Expedição de documento + Outras Decisões > Remessa > Publicação > Expedição de documento
+  (12 | 3.0%)  Conclusão + Expedição de documento + Distribuição > Expedição de documento + Outras Decisões > Remessa > Publicação > Expedição de documento
+  (7 | 1.7%)  Distribuição > Expedição de documento + Outras Decisões + Conclusão > Remessa > Publicação > Expedição de documento > Petição > Conclusão > Expedição de documen
+  (5 | 1.2%)  Execução/Cumprimento de Sentença Iniciada (o)
+  (5 | 1.2%)  Expedição de documento + Outras Decisões + Conclusão + Distribuição > Remessa > Publicação > Expedição de documento
+  (4 | 1.0%)  Expedição de documento + Outras Decisões + Conclusão + Distribuição > Remessa > Publicação > Expedição de documento > Petição > Conclusão > Expedição de documen
+  (4 | 1.0%)  Distribuição > Expedição de documento + Outras Decisões + Conclusão > Remessa > Publicação > Expedição de documento
+  (3 | 0.7%)  Execução/Cumprimento de Sentença Iniciada (o) > Expedição de documento + Outras Decisões + Conclusão
+  (3 | 0.7%)  Conclusão + Expedição de documento + Distribuição > Remessa + Expedição de documento + Outras Decisões > Publicação > Expedição de documento > Petição > Conclus
+
+Salidas en: c:\Users\Íris\Desktop\api-cnj - Copia\resultados_fluxo_multas
+
+[RENDER] arbol_fluxo_multas.png y .dot generados OK
+--- 7. ÁRBOL HIERÁRQUICO (trie de prefijos, estilo arvore_fluxo_multas.py) ---
+  Imagem: arvore_fluxo_multas.png / .svg (504 nós, 503 arestas)
+  Dados: arvore_fluxo_multas_dados.csv

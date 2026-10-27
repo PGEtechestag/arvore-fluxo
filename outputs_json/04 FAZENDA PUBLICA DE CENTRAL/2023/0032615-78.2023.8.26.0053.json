@@ -1,0 +1,22 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_12078_G1_10555_00326157820238260053",
+    "num_processo": "0032615-78.2023.8.26.0053",
+    "num_processo_sem_formatacao": "00326157820238260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+    "codigo_classe": 12078,
+    "assunto": "Pagamento Atrasado / Correção Monetária",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-10-02T12:09:28.000Z",
+    "data_hora_ultima_atualizacao": "2024-12-13T03:32:08.725Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {}
+}

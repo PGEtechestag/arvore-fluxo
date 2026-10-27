@@ -1,0 +1,35 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10965963020248260053",
+    "num_processo": "1096596-30.2024.8.26.0053",
+    "num_processo_sem_formatacao": "10965963020248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+    "codigo_classe": 12078,
+    "assunto": "Garantias Constitucionais",
+    "outros_assuntos": [],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-12-10T16:22:04.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-10T11:33:07.472Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "18/12/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "10/12/2024": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: dependência"
+      ]
+    ]
+  }
+}

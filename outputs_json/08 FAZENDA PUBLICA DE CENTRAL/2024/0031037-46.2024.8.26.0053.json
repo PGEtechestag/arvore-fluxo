@@ -1,0 +1,61 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00310374620248260053",
+    "num_processo": "0031037-46.2024.8.26.0053",
+    "num_processo_sem_formatacao": "00310374620248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de sentença",
+    "codigo_classe": 156,
+    "assunto": "Repetição de indébito",
+    "outros_assuntos": [],
+    "orgao_julgador": "08 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10559,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-10-21T09:54:47.000Z",
+    "data_hora_ultima_atualizacao": "2024-12-13T04:39:10.456Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "02/11/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "24/10/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "23/10/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "22/10/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Extinção da execução ou do cumprimento da sentença",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para julgamento"
+      ]
+    ],
+    "21/10/2024": [
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

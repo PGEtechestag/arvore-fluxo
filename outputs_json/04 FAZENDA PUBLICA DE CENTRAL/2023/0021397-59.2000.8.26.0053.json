@@ -1,0 +1,85 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00213975920008260053",
+    "num_processo": "0021397-59.2000.8.26.0053",
+    "num_processo_sem_formatacao": "00213975920008260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Precatório",
+    "codigo_classe": 1265,
+    "assunto": "Anulação de Débito Fiscal",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-02-06T11:09:46.000Z",
+    "data_hora_ultima_atualizacao": "2024-12-13T05:10:28.221Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "07/11/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "25/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "07/12/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "16/05/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "23/03/2023": [
+      [
+        "Protocolo de Petição",
+        ""
+      ],
+      [
+        "Enviada ao Tribunal",
+        ""
+      ]
+    ],
+    "22/03/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "21/03/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ]
+    ],
+    "20/03/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "06/02/2023": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

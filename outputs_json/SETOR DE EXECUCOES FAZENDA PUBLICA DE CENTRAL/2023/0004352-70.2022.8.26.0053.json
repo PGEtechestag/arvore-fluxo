@@ -1,0 +1,123 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00043527020228260053",
+    "num_processo": "0004352-70.2022.8.26.0053",
+    "num_processo_sem_formatacao": "00043527020228260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Precatório",
+    "codigo_classe": 1265,
+    "assunto": "Reajustes de Remuneração, Proventos ou Pensão",
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-06-26T15:48:08.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-09T19:52:33.298Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "17/12/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "30/10/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "05/05/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "17/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "26/01/2024": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "15/12/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "14/12/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "13/12/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "16/07/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "12/07/2023": [
+      [
+        "Petição",
+        "tipo_de_peticao: Petição (outras)"
+      ]
+    ],
+    "06/07/2023": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "05/07/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Outras Decisões",
+        ""
+      ]
+    ],
+    "04/07/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "26/06/2023": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

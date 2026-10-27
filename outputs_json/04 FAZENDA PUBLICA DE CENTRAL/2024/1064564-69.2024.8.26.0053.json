@@ -1,0 +1,81 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10645646920248260053",
+    "num_processo": "1064564-69.2024.8.26.0053",
+    "num_processo_sem_formatacao": "10645646920248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Procedimento Comum Cível",
+    "codigo_classe": 7,
+    "assunto": "Multas e demais Sanções",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-09-02T18:20:21.000Z",
+    "data_hora_ultima_atualizacao": "2024-12-13T04:25:28.864Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "22/11/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "20/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "19/11/2024": [
+      [
+        "Mero expediente",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Decurso de Prazo",
+        ""
+      ]
+    ],
+    "05/09/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "04/09/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "03/09/2024": [
+      [
+        "Emenda à Inicial",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "02/09/2024": [
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

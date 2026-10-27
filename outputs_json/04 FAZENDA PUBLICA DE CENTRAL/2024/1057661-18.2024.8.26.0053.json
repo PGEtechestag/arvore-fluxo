@@ -1,0 +1,69 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_10576611820248260053",
+    "num_processo": "1057661-18.2024.8.26.0053",
+    "num_processo_sem_formatacao": "10576611820248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Mandado de Segurança Cível",
+    "codigo_classe": 120,
+    "assunto": "Suspensão da Exigibilidade",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-08-11T22:23:58.000Z",
+    "data_hora_ultima_atualizacao": "2024-12-13T04:22:23.916Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "23/11/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "22/11/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "21/11/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Decurso de Prazo",
+        ""
+      ]
+    ],
+    "13/08/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "12/08/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Ato ordinatório",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ],
+      [
+        "Distribuição",
+        "tipo_de_distribuicao_redistribuicao: sorteio"
+      ]
+    ]
+  }
+}

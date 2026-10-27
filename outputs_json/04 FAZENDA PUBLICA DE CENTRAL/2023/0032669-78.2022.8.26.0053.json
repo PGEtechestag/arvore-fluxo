@@ -1,0 +1,103 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00326697820228260053",
+    "num_processo": "0032669-78.2022.8.26.0053",
+    "num_processo_sem_formatacao": "00326697820228260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Precatório",
+    "codigo_classe": 1265,
+    "assunto": "Descontos Indevidos",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-03-17T11:20:45.000Z",
+    "data_hora_ultima_atualizacao": "2025-02-06T00:56:39.597Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "04/01/2025": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "11/11/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "14/05/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "26/02/2024": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "19/12/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "28/10/2023": [
+      [
+        "Ato ordinatório",
+        ""
+      ]
+    ],
+    "25/04/2023": [
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Outros documentos"
+      ]
+    ],
+    "25/03/2023": [
+      [
+        "Protocolo de Petição",
+        ""
+      ]
+    ],
+    "24/03/2023": [
+      [
+        "Enviada ao Tribunal",
+        ""
+      ],
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "23/03/2023": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ],
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ]
+    ],
+    "21/03/2023": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "17/03/2023": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}

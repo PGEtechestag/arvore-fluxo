@@ -1,0 +1,33 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00328561820248260053",
+    "num_processo": "0032856-18.2024.8.26.0053",
+    "num_processo_sem_formatacao": "00328561820248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento Provisório de Sentença",
+    "codigo_classe": 157,
+    "assunto": "Voluntária",
+    "outros_assuntos": [],
+    "orgao_julgador": "13 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10564,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-11-05T17:50:11.000Z",
+    "data_hora_ultima_atualizacao": "2024-12-13T04:44:34.067Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "06/11/2024": [
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para despacho"
+      ],
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+ANÁLISE DE BIFURCAÇÕES (Diversidade de Caminhos)
+================================================================================
+
+
+ANULAÇÃO DE DÉBITO FISCAL
+--------------------------------------------------------------------------------
+Comprimento médio: 22.9 movimentos
+
+  Posição  1: 80 opções | Top 1:  14.5% | 🔴 CAÓTICO (muitas opções)
+  Posição  2: 64 opções | Top 1:  33.2% | 🔴 CAÓTICO (muitas opções)
+  Posição  3: 52 opções | Top 1:  40.9% | 🔴 CAÓTICO (muitas opções)
+  Posição  4: 47 opções | Top 1:  18.8% | 🔴 CAÓTICO (muitas opções)
+  Posição  5: 61 opções | Top 1:  17.4% | 🔴 CAÓTICO (muitas opções)
+  Posição  6: 43 opções | Top 1:  17.3% | 🔴 CAÓTICO (muitas opções)
+  Posição  7: 52 opções | Top 1:  16.2% | 🔴 CAÓTICO (muitas opções)
+  Posição  8: 39 opções | Top 1:  17.4% | 🔴 CAÓTICO (muitas opções)
+  Posição  9: 47 opções | Top 1:  17.2% | 🔴 CAÓTICO (muitas opções)
+  Posição 10: 46 opções | Top 1:  16.7% | 🔴 CAÓTICO (muitas opções)
+  Posição 11: 46 opções | Top 1:  18.8% | 🔴 CAÓTICO (muitas opções)
+  Posição 12: 53 opções | Top 1:  15.5% | 🔴 CAÓTICO (muitas opções)
+
+
+MULTAS E DEMAIS SANÇÕES
+--------------------------------------------------------------------------------
+Comprimento médio: 14.1 movimentos
+
+  Posição  1: 54 opções | Top 1:  24.1% | 🔴 CAÓTICO (muitas opções)
+  Posição  2: 41 opções | Top 1:  40.5% | 🔴 CAÓTICO (muitas opções)
+  Posição  3: 45 opções | Top 1:  33.8% | 🔴 CAÓTICO (muitas opções)
+  Posição  4: 52 opções | Top 1:  22.9% | 🔴 CAÓTICO (muitas opções)
+  Posição  5: 50 opções | Top 1:  20.9% | 🔴 CAÓTICO (muitas opções)
+  Posição  6: 54 opções | Top 1:  21.5% | 🔴 CAÓTICO (muitas opções)
+  Posição  7: 38 opções | Top 1:  19.7% | 🔴 CAÓTICO (muitas opções)
+  Posição  8: 33 opções | Top 1:  27.9% | 🔴 CAÓTICO (muitas opções)
+  Posição  9: 38 opções | Top 1:  23.5% | 🔴 CAÓTICO (muitas opções)
+  Posição 10: 36 opções | Top 1:  23.7% | 🔴 CAÓTICO (muitas opções)
+  Posição 11: 34 opções | Top 1:  22.8% | 🔴 CAÓTICO (muitas opções)
+  Posição 12: 34 opções | Top 1:  16.1% | 🔴 CAÓTICO (muitas opções)
+
+
+VALOR DA EXECUÇÃO
+--------------------------------------------------------------------------------
+Comprimento médio: 12.0 movimentos
+
+  Posição  1: 45 opções | Top 1:  17.2% | 🔴 CAÓTICO (muitas opções)
+  Posição  2: 47 opções | Top 1:  36.1% | 🔴 CAÓTICO (muitas opções)
+  Posição  3: 36 opções | Top 1:  40.2% | 🔴 CAÓTICO (muitas opções)
+  Posição  4: 32 opções | Top 1:  22.9% | 🔴 CAÓTICO (muitas opções)
+  Posição  5: 30 opções | Top 1:  21.4% | 🔴 CAÓTICO (muitas opções)
+  Posição  6: 29 opções | Top 1:  23.3% | 🔴 CAÓTICO (muitas opções)
+  Posição  7: 36 opções | Top 1:  20.1% | 🔴 CAÓTICO (muitas opções)
+  Posição  8: 25 opções | Top 1:  23.2% | 🔴 CAÓTICO (muitas opções)
+  Posição  9: 27 opções | Top 1:  26.5% | 🔴 CAÓTICO (muitas opções)
+  Posição 10: 19 opções | Top 1:  27.5% | 🔴 CAÓTICO (muitas opções)
+  Posição 11: 18 opções | Top 1:  22.8% | 🔴 CAÓTICO (muitas opções)
+  Posição 12: 18 opções | Top 1:  18.8% | 🔴 CAÓTICO (muitas opções)
+

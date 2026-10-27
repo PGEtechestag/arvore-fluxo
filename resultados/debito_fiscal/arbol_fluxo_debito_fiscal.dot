@@ -1,0 +1,29 @@
+digraph debito {
+  rankdir=LR;
+  node [shape=box, style="rounded,filled", fillcolor="#e8f6ff"];
+  "Remessa" -> "Publicação" [label="506"];
+  "Publicação" -> "Expedição de documento" [label="416"];
+  "Expedição de documento" -> "Petição" [label="219"];
+  "Publicação" -> "Petição" [label="200"];
+  "Expedição de documento" -> "Expedição de documento" [label="138"];
+  "Petição" -> "Conclusão" [label="123"];
+  "Petição" -> "Expedição de documento" [label="120"];
+  "Expedição de documento" -> "Ato ordinatório" [label="104"];
+  "Expedição de documento + Outras Decisões + Conclusão" -> "Remessa" [label="102"];
+  "Expedição de documento + Remessa" -> "Publicação" [label="86"];
+  "Ato ordinatório" -> "Ato ordinatório" [label="85"];
+  "Expedição de documento + Outras Decisões" -> "Remessa" [label="77"];
+  "Expedição de documento" -> "Conclusão" [label="57"];
+  "Petição" -> "Ato ordinatório" [label="56"];
+  "Conclusão" -> "Expedição de documento + Outras Decisões" [label="56"];
+  "Petição" -> "Expedição de documento + Outras Decisões + Conclusão" [label="54"];
+  "Petição" -> "Petição" [label="50"];
+  "Expedição de documento" -> "Conclusão + Petição" [label="42"];
+  "Ato ordinatório" -> "Remessa" [label="40"];
+  "Publicação" -> "Expedição de documento + Ato ordinatório" [label="40"];
+  "Ato ordinatório" -> "Petição" [label="36"];
+  "Publicação" -> "Ato ordinatório" [label="36"];
+  "Remessa + Expedição de documento + Outras Decisões" -> "Publicação" [label="33"];
+  "Petição + Remessa" -> "Publicação" [label="33"];
+  "Execução/Cumprimento de Sentença Iniciada (o)" -> "Expedição de documento + Outras Decisões + Conclusão" [label="30"];
+}

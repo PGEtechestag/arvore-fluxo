@@ -1,0 +1,135 @@
+ÁRVORE DE PROBABILIDADE - CAMINHO MAIS PROVÁVEL
+================================================================================
+
+
+================================================================================
+ANULAÇÃO DE DÉBITO FISCAL
+================================================================================
+
+Posição 1 (Início):
+  └─ Publicação
+     Frequência: 901x (15.1%)
+
+Posição 2:
+  └─ Expedição de documento
+     P(pos2 | pos1=Publicação): 49.1%
+     Frequência: 416x
+
+Posição 3:
+  └─ Petição
+     P(pos3 | pos2=Expedição de documento): 25.9%
+     Frequência: 219x
+
+Posição 4:
+  └─ Conclusão
+     P(pos4 | pos3=Petição): 20.1%
+     Frequência: 123x
+
+Posição 5:
+  └─ Expedição de documento + Outras Decisões
+     P(pos5 | pos4=Conclusão): 17.3%
+     Frequência: 56x
+
+Posição 6:
+  └─ Remessa
+     P(pos6 | pos5=Expedição de documento + Outras Decisões): 81.9%
+     Frequência: 77x
+
+
+Comprimento típico dos processos: 22.9 movimentos
+Caminho mais provável (até 5 níveis):
+  1. Publicação
+  2. Expedição de documento
+  3. Petição
+  4. Conclusão
+  5. Expedição de documento + Outras Decisões
+  6. Remessa
+
+
+================================================================================
+MULTAS E DEMAIS SANÇÕES
+================================================================================
+
+Posição 1 (Início):
+  └─ Publicação
+     Frequência: 906x (15.9%)
+
+Posição 2:
+  └─ Expedição de documento
+     P(pos2 | pos1=Publicação): 59.5%
+     Frequência: 505x
+
+Posição 3:
+  └─ Petição
+     P(pos3 | pos2=Expedição de documento): 37.7%
+     Frequência: 235x
+
+Posição 4:
+  └─ Conclusão
+     P(pos4 | pos3=Petição): 30.5%
+     Frequência: 158x
+
+Posição 5:
+  └─ Expedição de documento + Outras Decisões
+     P(pos5 | pos4=Conclusão): 31.7%
+     Frequência: 89x
+
+Posição 6:
+  └─ Remessa
+     P(pos6 | pos5=Expedição de documento + Outras Decisões): 94.3%
+     Frequência: 198x
+
+
+Comprimento típico dos processos: 14.1 movimentos
+Caminho mais provável (até 5 níveis):
+  1. Publicação
+  2. Expedição de documento
+  3. Petição
+  4. Conclusão
+  5. Expedição de documento + Outras Decisões
+  6. Remessa
+
+
+================================================================================
+VALOR DA EXECUÇÃO
+================================================================================
+
+Posição 1 (Início):
+  └─ Publicação
+     Frequência: 551x (16.1%)
+
+Posição 2:
+  └─ Expedição de documento
+     P(pos2 | pos1=Publicação): 45.6%
+     Frequência: 222x
+
+Posição 3:
+  └─ Ato ordinatório
+     P(pos3 | pos2=Expedição de documento): 34.6%
+     Frequência: 121x
+
+Posição 4:
+  └─ Ato ordinatório
+     P(pos4 | pos3=Ato ordinatório): 45.5%
+     Frequência: 146x
+
+Posição 5:
+  └─ Ato ordinatório
+     P(pos5 | pos4=Ato ordinatório): 45.5%
+     Frequência: 146x
+
+Posição 6:
+  └─ Ato ordinatório
+     P(pos6 | pos5=Ato ordinatório): 45.5%
+     Frequência: 146x
+
+
+Comprimento típico dos processos: 12.0 movimentos
+Caminho mais provável (até 5 níveis):
+  1. Publicação
+  2. Expedição de documento
+  3. Ato ordinatório
+  4. Ato ordinatório
+  5. Ato ordinatório
+  6. Ato ordinatório
+

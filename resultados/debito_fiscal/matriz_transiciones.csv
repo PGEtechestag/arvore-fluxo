@@ -1,0 +1,1276 @@
+﻿origen,destino,frecuencia,p_ruta_p100,p_global_p100
+Remessa,Publicação,506,84.33,8.843
+Publicação,Expedição de documento,416,49.06,7.27
+Expedição de documento,Petição,219,25.92,3.827
+Publicação,Petição,200,23.58,3.495
+Expedição de documento,Expedição de documento,138,16.33,2.412
+Petição,Conclusão,123,20.1,2.15
+Petição,Expedição de documento,120,19.61,2.097
+Expedição de documento,Ato ordinatório,104,12.31,1.818
+Expedição de documento + Outras Decisões + Conclusão,Remessa,102,75.0,1.783
+Expedição de documento + Remessa,Publicação,86,85.15,1.503
+Ato ordinatório,Ato ordinatório,85,30.36,1.485
+Expedição de documento + Outras Decisões,Remessa,77,81.91,1.346
+Expedição de documento,Conclusão,57,6.75,0.996
+Petição,Ato ordinatório,56,9.15,0.979
+Conclusão,Expedição de documento + Outras Decisões,56,17.34,0.979
+Petição,Expedição de documento + Outras Decisões + Conclusão,54,8.82,0.944
+Petição,Petição,50,8.17,0.874
+Expedição de documento,Conclusão + Petição,42,4.97,0.734
+Ato ordinatório,Remessa,40,14.29,0.699
+Publicação,Expedição de documento + Ato ordinatório,40,4.72,0.699
+Ato ordinatório,Petição,36,12.86,0.629
+Publicação,Ato ordinatório,36,4.25,0.629
+Remessa + Expedição de documento + Outras Decisões,Publicação,33,84.62,0.577
+Petição + Remessa,Publicação,33,78.57,0.577
+Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Outras Decisões + Conclusão,30,43.48,0.524
+Outras Decisões,Remessa,30,44.12,0.524
+Expedição de documento + Ato ordinatório,Remessa,30,30.93,0.524
+Conclusão,Conclusão,30,9.29,0.524
+Expedição de documento + Ato ordinatório,Petição,29,29.9,0.507
+Conclusão + Petição,Outras Decisões,28,29.79,0.489
+Remessa + Ato ordinatório,Publicação,27,87.1,0.472
+Expedição de documento,Conclusão + Expedição de documento,27,3.2,0.472
+Publicação,Conclusão + Petição,25,2.95,0.437
+Remessa,Expedição de documento + Publicação,24,4.0,0.419
+Petição + Publicação,Expedição de documento,24,50.0,0.419
+Outras Decisões,Expedição de documento + Remessa,24,35.29,0.419
+Conclusão,Outras Decisões,23,7.12,0.402
+Petição,Outras Decisões + Conclusão,23,3.76,0.402
+Conclusão,Remessa + Expedição de documento + Outras Decisões,22,6.81,0.384
+Conclusão + Petição,Conclusão,22,23.4,0.384
+Outras Decisões + Conclusão,Remessa,21,44.68,0.367
+Ato ordinatório,Expedição de documento,20,7.14,0.35
+Expedição de documento + Ato ordinatório,Ato ordinatório,20,20.62,0.35
+Petição,Expedição de documento + Ato ordinatório,19,3.1,0.332
+Remessa,Petição + Publicação,19,3.17,0.332
+Ato ordinatório,Conclusão,18,6.43,0.315
+Conclusão,Expedição de documento,18,5.57,0.315
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão,17,2.01,0.297
+Expedição de documento,Expedição de documento + Ato ordinatório,16,1.89,0.28
+Petição,Remessa + Expedição de documento,16,2.61,0.28
+Remessa + Expedição de documento + Ato ordinatório,Publicação,16,72.73,0.28
+Petição,Conclusão + Expedição de documento,16,2.61,0.28
+Expedição de documento,Recebimento,15,1.78,0.262
+Expedição de documento + Publicação,Expedição de documento,15,41.67,0.262
+Expedição de documento + Mero expediente,Remessa,15,75.0,0.262
+Execução/Cumprimento de Sentença Iniciada (o),Conclusão,14,20.29,0.245
+Recebimento,Conclusão,14,15.91,0.245
+Outras Decisões + Conclusão,Expedição de documento + Remessa,14,29.79,0.245
+Expedição de documento,Remessa,14,1.66,0.245
+Recebimento,Expedição de documento,13,14.77,0.227
+Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Remessa,13,76.47,0.227
+Petição,Remessa + Ato ordinatório,13,2.12,0.227
+Expedição de documento,Outras Decisões + Conclusão + Petição,13,1.54,0.227
+Remessa + Expedição de documento + Outras Decisões + Conclusão,Publicação,12,100.0,0.21
+Expedição de documento,Documento,12,1.42,0.21
+Publicação + Remessa,Expedição de documento,12,34.29,0.21
+Remessa,Petição,12,2.0,0.21
+Remessa + Outras Decisões,Publicação,12,66.67,0.21
+Conclusão + Expedição de documento,Conclusão,12,18.46,0.21
+Outras Decisões + Conclusão + Petição,Expedição de documento + Remessa,12,48.0,0.21
+Conclusão,Expedição de documento + Outras Decisões + Conclusão,11,3.41,0.192
+Expedição de documento,Definitivo + Expedição de documento,11,1.3,0.192
+Expedição de documento + Ato ordinatório,Expedição de documento,11,11.34,0.192
+Documento,Petição,11,33.33,0.192
+Expedição de documento + Outras Decisões + Conclusão,Petição + Remessa,11,8.09,0.192
+Publicação,Recebimento,11,1.3,0.192
+Outras Decisões + Conclusão + Petição,Remessa,11,44.0,0.192
+Conclusão,Expedição de documento + Mero expediente,11,3.41,0.192
+Recebimento,Ato ordinatório,10,11.36,0.175
+Expedição de documento + Mero expediente + Conclusão,Remessa,10,71.43,0.175
+Conclusão,Expedição de documento + Procedência,10,3.1,0.175
+Expedição de documento + Remessa + Outras Decisões,Publicação,10,76.92,0.175
+Expedição de documento + Outras Decisões + Conclusão,Expedição de documento,9,6.62,0.157
+Ato ordinatório,Expedição de documento + Ato ordinatório,9,3.21,0.157
+Expedição de documento,Remessa + Expedição de documento,9,1.07,0.157
+Petição,Documento,9,1.47,0.157
+Expedição de documento + Remessa,Petição + Publicação,9,8.91,0.157
+Expedição de documento,Publicação,9,1.07,0.157
+Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,Remessa,9,100.0,0.157
+Publicação + Remessa,Petição,8,22.86,0.14
+Conclusão,Expedição de documento + Extinção da execução ou do cumprimento da sentença,8,2.48,0.14
+Conclusão,Petição,8,2.48,0.14
+Distribuição,Conclusão + Expedição de documento,8,11.59,0.14
+Expedição de documento + Procedência,Remessa,8,66.67,0.14
+Conclusão + Petição,Expedição de documento + Outras Decisões,8,8.51,0.14
+Recebimento,Expedição de precatório/rpv + Conclusão,8,9.09,0.14
+Outras Decisões + Conclusão + Expedição de documento,Remessa,8,42.11,0.14
+Conclusão + Expedição de documento,Expedição de documento + Outras Decisões,8,12.31,0.14
+Expedição de documento + Outras Decisões + Conclusão + Petição,Remessa,8,80.0,0.14
+Conclusão + Petição,Expedição de documento,8,8.51,0.14
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão,7,2.5,0.122
+Expedição de documento + Extinção da execução ou do cumprimento da sentença,Remessa,7,87.5,0.122
+Petição + Publicação,Conclusão,7,14.58,0.122
+Mero expediente,Remessa,7,87.5,0.122
+Expedição de documento,Mandado + Documento,7,0.83,0.122
+Expedição de documento + Publicação,Petição,7,19.44,0.122
+Expedição de documento + Outras Decisões + Conclusão,Publicação + Remessa,7,5.15,0.122
+Distribuição,Liminar + Conclusão + Expedição de documento,7,10.14,0.122
+Documento,Expedição de documento,7,21.21,0.122
+Remessa,Expedição de documento,7,1.17,0.122
+Conclusão,Remessa + Outras Decisões,7,2.17,0.122
+Recebimento,Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,7,7.95,0.122
+Petição,Conclusão + Petição,7,1.14,0.122
+Publicação,Documento + Expedição de documento,7,0.83,0.122
+Petição,Remessa + Expedição de documento + Outras Decisões + Conclusão,6,0.98,0.105
+Ato ordinatório,Publicação + Remessa,6,2.14,0.105
+Expedição de documento + Outras Decisões + Conclusão + Documento,Remessa,6,85.71,0.105
+Execução/Cumprimento de Sentença Iniciada (o),Outras Decisões + Conclusão,6,8.7,0.105
+Distribuição,Remessa + Ato ordinatório + Expedição de documento,6,8.7,0.105
+Remessa + Ato ordinatório + Expedição de documento,Publicação,6,75.0,0.105
+Remessa + Ato ordinatório + Documento,Publicação,6,100.0,0.105
+Expedição de documento,Conclusão + Decurso de Prazo,6,0.71,0.105
+Extinção da execução ou do cumprimento da sentença + Conclusão,Expedição de documento + Remessa,6,100.0,0.105
+Remessa + Petição,Publicação,6,100.0,0.105
+Publicação,Conclusão,6,0.71,0.105
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,6,100.0,0.105
+Remessa + Expedição de documento + Outras Decisões,Petição + Publicação,6,15.38,0.105
+Expedição de documento,Expedição de documento + Outras Decisões,6,0.71,0.105
+Conclusão + Petição,Remessa + Outras Decisões,6,6.38,0.105
+Conclusão + Expedição de documento,Outras Decisões,6,9.23,0.105
+Publicação,Remessa + Ato ordinatório,5,0.59,0.087
+Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,Remessa,5,100.0,0.087
+Petição,Conclusão + Decurso de Prazo,5,0.82,0.087
+Conclusão,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,5,1.55,0.087
+Publicação + Expedição de documento + Remessa,Petição,5,41.67,0.087
+Ato ordinatório,Conclusão + Expedição de documento,5,1.79,0.087
+Expedição de documento,Remessa + Expedição de documento + Ato ordinatório,5,0.59,0.087
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Petição,5,0.59,0.087
+Expedição de documento + Segurança,Remessa,5,62.5,0.087
+Expedição de precatório/rpv + Conclusão,Remessa,5,41.67,0.087
+Petição,Expedição de documento + Mero expediente + Conclusão,5,0.82,0.087
+Publicação,Expedição de documento + Outras Decisões + Conclusão,5,0.59,0.087
+Expedição de precatório/rpv + Conclusão,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,5,41.67,0.087
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Remessa,Publicação,5,100.0,0.087
+Recebimento,Remessa + Expedição de documento + Ato ordinatório,5,5.68,0.087
+Expedição de documento + Outras Decisões,Petição + Remessa,5,5.32,0.087
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Outras Decisões,5,7.69,0.087
+Expedição de documento + Outras Decisões + Conclusão + Recebimento,Remessa,5,100.0,0.087
+Expedição de documento + Outras Decisões,Publicação + Remessa,5,5.32,0.087
+Extinção da execução ou do cumprimento da sentença,Expedição de documento + Remessa,5,100.0,0.087
+Distribuição,Conclusão,5,7.25,0.087
+Publicação,Petição + Expedição de documento,5,0.59,0.087
+Protocolo de Petição,Expedição de documento,5,62.5,0.087
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Conclusão,5,27.78,0.087
+Expedição de documento + Mero expediente,Petição + Remessa,5,25.0,0.087
+Remessa,Expedição de documento + Ato ordinatório,5,0.83,0.087
+Petição,Remessa + Expedição de documento + Ato ordinatório,4,0.65,0.07
+Expedição de documento + Decisão Interlocutória de Mérito,Remessa,4,100.0,0.07
+Publicação,Documento,4,0.47,0.07
+Expedição de documento,Conclusão + Documento,4,0.47,0.07
+Segurança,Remessa,4,100.0,0.07
+Petição,Expedição de documento + Outras Decisões,4,0.65,0.07
+Petição,Remessa,4,0.65,0.07
+Remessa,Conclusão + Publicação,4,0.67,0.07
+Publicação + Expedição de documento + Remessa,Expedição de documento,4,33.33,0.07
+Conclusão,Expedição de documento + Remessa + Outras Decisões,4,1.24,0.07
+Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,Remessa,4,100.0,0.07
+Execução/Cumprimento de Sentença Iniciada (o),Ato ordinatório,4,5.8,0.07
+Recebimento,Petição,4,4.55,0.07
+Petição + Publicação,Petição,4,8.33,0.07
+Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Mero expediente + Petição + Conclusão,4,5.8,0.07
+Expedição de documento + Mero expediente + Petição + Conclusão,Remessa,4,100.0,0.07
+Liminar + Conclusão + Expedição de documento,Remessa,4,36.36,0.07
+Conclusão,Expedição de documento + Segurança,4,1.24,0.07
+Remessa + Outras Decisões + Conclusão,Publicação,4,80.0,0.07
+Ato ordinatório,Expedição de documento + Trânsito em julgado,4,1.43,0.07
+Conclusão,Extinção da execução ou do cumprimento da sentença + Conclusão,4,1.24,0.07
+Publicação,Conclusão + Expedição de documento,4,0.47,0.07
+Conclusão,Improcedência,4,1.24,0.07
+Conclusão,Extinção da execução ou do cumprimento da sentença,4,1.24,0.07
+Expedição de documento,Expedição de documento + Trânsito em julgado,4,0.47,0.07
+Recebimento,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,4,4.55,0.07
+Outras Decisões,Expedição de documento,4,5.88,0.07
+Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença,Publicação,4,100.0,0.07
+Remessa + Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Recebimento,4,22.22,0.07
+Publicação,Outras Decisões + Conclusão + Expedição de documento,4,0.47,0.07
+Conclusão + Distribuição,Antecipação de tutela,4,40.0,0.07
+Expedição de documento + Ato ordinatório + Documento,Remessa,4,57.14,0.07
+Remessa + Outras Decisões + Conclusão + Petição,Publicação,4,100.0,0.07
+Mandado + Documento,Outras Decisões + Conclusão + Expedição de documento,4,28.57,0.07
+Publicação,Outras Decisões + Conclusão + Petição,4,0.47,0.07
+Expedição de documento + Antecipação de tutela,Remessa,4,100.0,0.07
+Antecipação de tutela,Expedição de documento + Remessa,4,57.14,0.07
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Mero expediente,4,22.22,0.07
+Remessa + Expedição de documento + Decisão Interlocutória de Mérito,Publicação,4,100.0,0.07
+Distribuição,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,4,5.8,0.07
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Mero expediente,4,22.22,0.07
+Conclusão,Publicação + Remessa + Expedição de documento + Outras Decisões,3,0.93,0.052
+Ato ordinatório,Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,3,1.07,0.052
+Recebimento,Expedição de documento + Mero expediente + Conclusão,3,3.41,0.052
+Expedição de documento + Ato ordinatório + Decurso de Prazo,Petição,3,60.0,0.052
+Expedição de documento + Liminar + Conclusão,Remessa,3,60.0,0.052
+Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,Publicação,3,100.0,0.052
+Petição,Expedição de documento + Liminar + Conclusão,3,0.49,0.052
+Expedição de documento + Não Acolhimento de Embargos de Declaração,Remessa,3,100.0,0.052
+Conclusão + Petição,Petição,3,3.19,0.052
+Expedição de documento + Perda do objeto,Remessa,3,100.0,0.052
+Petição,Publicação,3,0.49,0.052
+Expedição de documento,Remessa + Ato ordinatório,3,0.36,0.052
+Petição,Liminar + Conclusão + Expedição de documento,3,0.49,0.052
+Conclusão + Petição + Remessa,Publicação,3,60.0,0.052
+Publicação + Petição,Expedição de documento,3,50.0,0.052
+Conclusão + Expedição de documento,Liminar,3,4.62,0.052
+Expedição de documento,Remessa + Expedição de documento + Outras Decisões,3,0.36,0.052
+Petição,Remessa + Ato ordinatório + Documento,3,0.49,0.052
+Distribuição,Outras Decisões + Conclusão + Expedição de documento,3,4.35,0.052
+Execução/Cumprimento de Sentença Iniciada (o),Remessa + Ato ordinatório,3,4.35,0.052
+Execução/Cumprimento de Sentença Iniciada (o),Emenda à Inicial + Conclusão,3,4.35,0.052
+Emenda à Inicial + Conclusão,Remessa,3,100.0,0.052
+Conclusão,Expedição de documento + Outras Decisões + Conclusão + Documento,3,0.93,0.052
+Petição + Remessa,Conclusão + Publicação,3,7.14,0.052
+Ato ordinatório + Expedição de documento,Remessa,3,50.0,0.052
+Conclusão,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,3,0.93,0.052
+Outras Decisões,Publicação + Expedição de documento + Remessa,3,4.41,0.052
+Ato ordinatório,Outras Decisões + Conclusão + Expedição de documento,3,1.07,0.052
+Expedição de documento,Outras Decisões + Conclusão,3,0.36,0.052
+Remessa + Outras Decisões,Petição + Expedição de documento + Publicação,3,16.67,0.052
+Remessa + Expedição de documento + Ato ordinatório,Petição + Publicação,3,13.64,0.052
+Ato ordinatório,Conclusão + Petição,3,1.07,0.052
+Expedição de documento,Outras Decisões + Conclusão + Expedição de documento,3,0.36,0.052
+Ato ordinatório,Recebimento,3,1.07,0.052
+Recebimento,Expedição de documento + Outras Decisões + Conclusão,3,3.41,0.052
+Outras Decisões + Conclusão + Expedição de documento,Expedição de documento + Remessa,3,15.79,0.052
+Conclusão,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,3,0.93,0.052
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv,Remessa,3,100.0,0.052
+Ato ordinatório,Outras Decisões + Conclusão,3,1.07,0.052
+Publicação,Expedição de documento + Ato ordinatório + Documento,3,0.35,0.052
+Conclusão,Procedência,3,0.93,0.052
+Procedência,Expedição de documento + Remessa,3,100.0,0.052
+Remessa + Expedição de documento,Expedição de documento,3,16.67,0.052
+Expedição de documento + Remessa + Antecipação de tutela,Publicação,3,100.0,0.052
+Expedição de documento + Remessa,Expedição de documento + Publicação,3,2.97,0.052
+Expedição de documento,Conclusão + Petição + Expedição de documento + Ato ordinatório,3,0.36,0.052
+Expedição de documento + Ato ordinatório + Petição,Conclusão + Petição,3,50.0,0.052
+Recebimento,Outras Decisões + Conclusão,3,3.41,0.052
+Expedição de documento + Publicação,Conclusão + Petição,3,8.33,0.052
+Ato ordinatório,Ato ordinatório + Expedição de documento,3,1.07,0.052
+Documento + Expedição de documento,Expedição de documento,3,33.33,0.052
+Conclusão + Expedição de documento,Petição,3,4.62,0.052
+Publicação,Remessa + Expedição de documento + Ato ordinatório,3,0.35,0.052
+Publicação,Expedição de documento + Petição,3,0.35,0.052
+Conclusão + Petição,Expedição de documento + Remessa + Outras Decisões,3,3.19,0.052
+Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,Publicação,3,100.0,0.052
+Expedição de documento,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,3,0.36,0.052
+Remessa + Expedição de documento + Ato ordinatório + Documento,Publicação,3,60.0,0.052
+Publicação,Expedição de documento + Ato ordinatório + Petição,3,0.35,0.052
+Remessa + Expedição de documento + Mero expediente,Publicação,3,75.0,0.052
+Expedição de documento,Protocolo de Petição,3,0.36,0.052
+Remessa + Expedição de documento,Publicação,3,16.67,0.052
+Expedição de documento,Expedição de documento + Mero expediente + Conclusão,3,0.36,0.052
+Expedição de documento + Mero expediente + Conclusão,Petição + Remessa,3,21.43,0.052
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,3,42.86,0.052
+Publicação,Protocolo de Petição,3,0.35,0.052
+Petição + Expedição de documento + Ato ordinatório,Expedição de documento,2,50.0,0.035
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Documento,2,0.24,0.035
+Protocolo de Petição + Enviada ao Tribunal,Expedição de documento,2,100.0,0.035
+Outras Decisões + Conclusão,Publicação + Remessa,2,4.26,0.035
+Expedição de documento + Outras Decisões + Conclusão,Petição,2,1.47,0.035
+Ato ordinatório,Expedição de documento + Ato ordinatório + Decurso de Prazo,2,0.71,0.035
+Distribuição,Petição + Remessa + Ato ordinatório + Expedição de documento,2,2.9,0.035
+Conclusão + Decurso de Prazo,Expedição de documento + Outras Decisões,2,18.18,0.035
+Remessa + Liminar + Conclusão,Publicação,2,100.0,0.035
+Distribuição,Outras Decisões + Conclusão,2,2.9,0.035
+Publicação + Remessa + Ato ordinatório,Petição,2,100.0,0.035
+Remessa + Expedição de documento + Procedência,Publicação,2,100.0,0.035
+Ato ordinatório,Remessa + Expedição de documento + Outras Decisões + Conclusão,2,0.71,0.035
+Mandado + Documento,Expedição de documento,2,14.29,0.035
+Expedição de documento + Ato ordinatório,Conclusão + Petição,2,2.06,0.035
+Publicação + Expedição de documento + Remessa + Liminar,Petição,2,66.67,0.035
+Expedição de documento,Expedição de documento + Ato ordinatório + Decurso de Prazo,2,0.24,0.035
+Conclusão,Expedição de documento + Perda do objeto,2,0.62,0.035
+Remessa + Expedição de documento + Mero expediente + Conclusão,Publicação,2,100.0,0.035
+Remessa + Outras Decisões,Expedição de documento + Publicação,2,11.11,0.035
+Conclusão,Expedição de documento + Decisão Interlocutória de Mérito,2,0.62,0.035
+Conclusão,Expedição de documento + Não Acolhimento de Embargos de Declaração,2,0.62,0.035
+Liminar + Conclusão + Expedição de documento,Publicação + Expedição de documento + Remessa,2,18.18,0.035
+Conclusão,Expedição de documento + Procedência + Conclusão,2,0.62,0.035
+Expedição de documento + Procedência + Conclusão,Remessa,2,100.0,0.035
+Petição + Publicação,Ato ordinatório,2,4.17,0.035
+Conclusão + Expedição de documento,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,2,3.08,0.035
+Publicação,Conclusão + Decurso de Prazo,2,0.24,0.035
+Petição,Conclusão + Documento,2,0.33,0.035
+Conclusão + Documento,Expedição de documento + Outras Decisões,2,25.0,0.035
+Petição,Ato ordinatório + Documento,2,0.33,0.035
+Remessa + Expedição de documento + Ato ordinatório,Publicação + Petição,2,9.09,0.035
+Petição + Conclusão,Expedição de documento,2,66.67,0.035
+Liminar + Conclusão + Expedição de documento,Expedição de documento + Remessa,2,18.18,0.035
+Remessa + Liminar + Conclusão + Expedição de documento,Expedição de documento + Publicação,2,100.0,0.035
+Expedição de documento + Publicação,Documento,2,5.56,0.035
+Expedição de documento + Segurança,Petição + Remessa,2,25.0,0.035
+Publicação,Remessa + Expedição de documento,2,0.24,0.035
+Conclusão + Decurso de Prazo,Petição,2,18.18,0.035
+Ato ordinatório + Documento,Remessa,2,50.0,0.035
+Petição,Expedição de documento + Outras Decisões + Conclusão + Publicação,2,0.33,0.035
+Expedição de documento + Outras Decisões + Conclusão + Publicação,Expedição de documento,2,66.67,0.035
+Expedição de precatório/rpv + Conclusão,Enviada ao Tribunal + Remessa,2,16.67,0.035
+Enviada ao Tribunal + Remessa,Publicação,2,100.0,0.035
+Publicação,Expedição de documento + Protocolo de Petição,2,0.24,0.035
+Expedição de documento + Protocolo de Petição,Expedição de documento + Ato ordinatório,2,100.0,0.035
+Petição,Expedição de precatório/rpv + Conclusão,2,0.33,0.035
+Expedição de documento,Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,2,0.24,0.035
+Remessa,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Publicação,2,0.33,0.035
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Publicação,Expedição de documento + Ato ordinatório,2,100.0,0.035
+Petição + Ato ordinatório,Remessa,2,100.0,0.035
+Expedição de documento + Mero expediente + Petição + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa,2,100.0,0.035
+Publicação,Outras Decisões + Conclusão + Decurso de Prazo,2,0.24,0.035
+Outras Decisões + Conclusão + Decurso de Prazo,Remessa,2,100.0,0.035
+Publicação,Expedição de documento + Outras Decisões + Conclusão + Documento,2,0.24,0.035
+Conclusão + Publicação,Expedição de documento,2,20.0,0.035
+Remessa + Ato ordinatório + Publicação,Publicação,2,100.0,0.035
+Expedição de documento + Petição + Remessa,Publicação,2,100.0,0.035
+Publicação,Outras Decisões + Conclusão,2,0.24,0.035
+Expedição de documento + Ato ordinatório + Mandado + Documento,Petição,2,100.0,0.035
+Distribuição,Ato ordinatório + Expedição de documento,2,2.9,0.035
+Expedição de documento + Trânsito em julgado,Remessa + Ato ordinatório,2,100.0,0.035
+Remessa + Ato ordinatório,Petição + Publicação,2,6.45,0.035
+Conclusão,Ato ordinatório,2,0.62,0.035
+Conclusão + Publicação,Expedição de documento + Outras Decisões,2,20.0,0.035
+Ato ordinatório,Conclusão + Trânsito em julgado,2,0.71,0.035
+Conclusão + Trânsito em julgado,Expedição de documento + Outras Decisões,2,50.0,0.035
+Expedição de documento + Outras Decisões,Remessa + Petição,2,2.13,0.035
+Outras Decisões + Conclusão,Remessa + Petição,2,4.26,0.035
+Outras Decisões,Publicação + Remessa,2,2.94,0.035
+Conclusão,Outras Decisões + Conclusão,2,0.62,0.035
+Publicação,Petição + Expedição de documento + Ato ordinatório,2,0.24,0.035
+Conclusão,Procedência em Parte,2,0.62,0.035
+Publicação + Remessa,Expedição de documento + Publicação,2,5.71,0.035
+Expedição de documento,Definitivo + Expedição de documento + Trânsito em julgado,2,0.24,0.035
+Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa,2,66.67,0.035
+Expedição de documento,Expedição de documento + Conclusão,2,0.24,0.035
+Expedição de documento + Conclusão,Expedição de documento,2,50.0,0.035
+Conclusão + Petição + Publicação,Expedição de documento + Outras Decisões,2,40.0,0.035
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,2,0.71,0.035
+Expedição de documento + Outras Decisões + Conclusão + Trânsito em julgado,Remessa,2,100.0,0.035
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença,2,3.08,0.035
+Expedição de documento + Publicação,Ato ordinatório,2,5.56,0.035
+Conclusão + Trânsito em julgado,Remessa + Expedição de documento + Outras Decisões,2,50.0,0.035
+Expedição de documento,Execução/Cumprimento de Sentença Iniciada (o),2,0.24,0.035
+Publicação,Ato ordinatório + Petição,2,0.24,0.035
+Improcedência,Remessa,2,50.0,0.035
+Remessa,Execução/Cumprimento de Sentença Iniciada (o) + Publicação,2,0.33,0.035
+Execução/Cumprimento de Sentença Iniciada (o) + Publicação,Expedição de documento,2,100.0,0.035
+Expedição de documento,Outras Decisões + Conclusão + Petição + Expedição de documento,2,0.24,0.035
+Publicação + Expedição de documento + Remessa,Outras Decisões + Conclusão + Petição,2,16.67,0.035
+Remessa + Expedição de documento,Recebimento,2,11.11,0.035
+Expedição de documento,Outras Decisões,2,0.24,0.035
+Publicação,Expedição de documento + Outras Decisões + Conclusão + Petição,2,0.24,0.035
+Documento + Remessa,Publicação,2,66.67,0.035
+Expedição de documento,Expedição de documento + Remessa + Outras Decisões,2,0.24,0.035
+Conclusão + Petição,Expedição de documento + Outras Decisões + Conclusão,2,2.13,0.035
+Documento,Outras Decisões + Conclusão + Petição,2,6.06,0.035
+Documento + Expedição de documento,Remessa + Outras Decisões + Conclusão + Petição,2,22.22,0.035
+Conclusão + Expedição de documento,Expedição de documento + Remessa + Outras Decisões,2,3.08,0.035
+Documento + Expedição de documento + Remessa,Publicação,2,100.0,0.035
+Expedição de documento,Expedição de documento + Ato ordinatório + Petição,2,0.24,0.035
+Conclusão,Segurança,2,0.62,0.035
+Petição,Conclusão + Petição + Expedição de documento,2,0.33,0.035
+Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,Remessa,2,50.0,0.035
+Outras Decisões + Conclusão + Petição + Publicação,Expedição de documento + Remessa,2,66.67,0.035
+Outras Decisões + Conclusão + Distribuição,Remessa,2,33.33,0.035
+Expedição de documento + Petição,Expedição de documento,2,40.0,0.035
+Petição + Expedição de documento,Expedição de documento,2,25.0,0.035
+Conclusão,Outras Decisões + Petição,2,0.62,0.035
+Outras Decisões + Petição,Remessa,2,100.0,0.035
+Conclusão,Expedição de documento + Improcedência,2,0.62,0.035
+Expedição de documento + Improcedência,Expedição de documento + Remessa,2,66.67,0.035
+Trânsito em julgado,Conclusão,2,66.67,0.035
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Petição,2,0.71,0.035
+Expedição de documento + Outras Decisões + Conclusão,Remessa + Petição,2,1.47,0.035
+Remessa + Expedição de documento + Protocolo de Petição,Publicação,2,100.0,0.035
+Petição + Expedição de documento,Conclusão,2,25.0,0.035
+Conclusão,Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença,2,0.62,0.035
+Expedição de documento,Conclusão + Trânsito em julgado,2,0.24,0.035
+Expedição de documento,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2,0.24,0.035
+Expedição de documento,Remessa + Expedição de documento + Ato ordinatório + Documento,2,0.24,0.035
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Protocolo de Petição + Expedição de documento + Remessa,2,28.57,0.035
+Protocolo de Petição + Expedição de documento + Remessa,Publicação,2,100.0,0.035
+Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,Remessa,2,100.0,0.035
+Recebimento,Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2,2.27,0.035
+Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Publicação,2,100.0,0.035
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão + Recebimento,Remessa,2,100.0,0.035
+Remessa,Mandado + Documento + Publicação,2,0.33,0.035
+Mandado + Documento + Publicação,Expedição de documento,2,100.0,0.035
+Conclusão,Antecipação de tutela,2,0.62,0.035
+Expedição de documento + Publicação + Remessa,Publicação,2,100.0,0.035
+Documento + Expedição de documento,Petição,2,22.22,0.035
+Conclusão + Distribuição,Liminar,2,20.0,0.035
+Liminar,Remessa + Ato ordinatório,2,40.0,0.035
+Distribuição,Emenda à Inicial + Conclusão + Expedição de documento,2,2.9,0.035
+Emenda à Inicial + Conclusão + Expedição de documento,Remessa,2,100.0,0.035
+Conclusão,Remessa + Expedição de documento + Mero expediente,2,0.62,0.035
+Recebimento,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,2,2.27,0.035
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa,2,100.0,0.035
+Ato ordinatório,Expedição de documento + Documento,2,0.71,0.035
+Expedição de documento + Documento,Conclusão,2,50.0,0.035
+Documento,Conclusão,2,6.06,0.035
+Protocolo de Petição,Remessa,2,25.0,0.035
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa + Expedição de documento + Mero expediente,2,11.11,0.035
+Conclusão,Remessa + Expedição de documento + Ato ordinatório + Documento,2,0.62,0.035
+Petição + Publicação,Expedição de documento + Ato ordinatório,2,4.17,0.035
+Petição,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,2,0.33,0.035
+Remessa + Expedição de documento + Segurança,Publicação,2,100.0,0.035
+Conclusão + Expedição de documento,Expedição de documento + Antecipação de tutela,2,3.08,0.035
+Remessa,Publicação + Petição,2,0.33,0.035
+Conclusão,Remessa + Expedição de documento + Decisão Interlocutória de Mérito,2,0.62,0.035
+Conclusão,Remessa + Mero expediente,2,0.62,0.035
+Conclusão,Mero expediente,2,0.62,0.035
+Conclusão,Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,2,0.62,0.035
+Conclusão + Expedição de documento,Expedição de documento + Mero expediente,2,3.08,0.035
+Conclusão + Petição + Expedição de documento + Ato ordinatório,Conclusão,2,33.33,0.035
+Distribuição,Remessa + Expedição de documento + Liminar + Conclusão,2,2.9,0.035
+Remessa + Expedição de documento + Liminar + Conclusão,Publicação,2,100.0,0.035
+Recebimento,Conclusão + Expedição de documento + Documento,2,2.27,0.035
+Conclusão + Expedição de documento + Documento,Protocolo de Petição + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv,2,100.0,0.035
+Protocolo de Petição + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv,Remessa,2,100.0,0.035
+Remessa,Ato ordinatório + Publicação,2,0.33,0.035
+Ato ordinatório + Publicação,Expedição de documento,2,66.67,0.035
+Expedição de documento,Mero expediente + Conclusão + Petição,2,0.24,0.035
+Publicação + Remessa + Expedição de documento + Outras Decisões,Petição,1,33.33,0.017
+Expedição de documento + Outras Decisões,Expedição de documento,1,1.06,0.017
+Publicação + Remessa + Expedição de documento + Outras Decisões,Recebimento,1,33.33,0.017
+Documento,Petição + Expedição de documento + Ato ordinatório,1,3.03,0.017
+Conclusão,Remessa + Expedição de precatório/rpv,1,0.31,0.017
+Remessa + Expedição de precatório/rpv,Publicação,1,100.0,0.017
+Publicação,Protocolo de Petição + Enviada ao Tribunal,1,0.12,0.017
+Expedição de documento,Petição + Ato ordinatório + Decurso de Prazo,1,0.12,0.017
+Petição + Ato ordinatório + Decurso de Prazo,Remessa,1,100.0,0.017
+Expedição de documento + Outras Decisões + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Petição,1,33.33,0.017
+Petição,Recebimento,1,0.16,0.017
+Ato ordinatório,Expedição de documento + Mero expediente + Conclusão,1,0.36,0.017
+Petição,Petição + Remessa + Expedição de documento + Ato ordinatório,1,0.16,0.017
+Petição + Remessa + Expedição de documento + Ato ordinatório,Expedição de documento + Outras Decisões + Publicação + Conclusão,1,100.0,0.017
+Expedição de documento + Outras Decisões + Publicação + Conclusão,Remessa,1,100.0,0.017
+Expedição de documento,Remessa + Ato ordinatório + Trânsito em julgado,1,0.12,0.017
+Remessa + Ato ordinatório + Trânsito em julgado,Publicação,1,100.0,0.017
+Conclusão,Expedição de documento + Ato ordinatório + Documento,1,0.31,0.017
+Expedição de documento + Ato ordinatório + Documento,Petição + Remessa,1,14.29,0.017
+Petição + Remessa + Ato ordinatório + Expedição de documento,Publicação,1,50.0,0.017
+Publicação,Expedição de documento + Remessa + Outras Decisões + Conclusão,1,0.12,0.017
+Expedição de documento + Remessa + Outras Decisões + Conclusão,Publicação,1,50.0,0.017
+Petição,Remessa + Expedição de documento + Acolhimento de Embargos de Declaração,1,0.16,0.017
+Remessa + Expedição de documento + Acolhimento de Embargos de Declaração,Publicação,1,100.0,0.017
+Petição,Petição + Expedição de documento + Ato ordinatório,1,0.16,0.017
+Outras Decisões + Conclusão + Expedição de documento + Distribuição,Remessa,1,100.0,0.017
+Publicação,Redistribuição + Remessa,1,0.12,0.017
+Redistribuição + Remessa,Remessa + Ato ordinatório + Expedição de documento,1,100.0,0.017
+Remessa + Ato ordinatório + Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,1,12.5,0.017
+Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,Petição + Remessa,1,25.0,0.017
+Petição + Remessa,Expedição de documento + Liminar + Petição + Conclusão + Publicação,1,2.38,0.017
+Expedição de documento + Liminar + Petição + Conclusão + Publicação,Publicação + Remessa,1,50.0,0.017
+Conclusão,Remessa + Liminar + Conclusão,1,0.31,0.017
+Publicação,Documento + Redistribuição + Remessa,1,0.12,0.017
+Documento + Redistribuição + Remessa,Expedição de documento + Liminar + Conclusão,1,100.0,0.017
+Petição,Publicação + Remessa + Ato ordinatório,1,0.16,0.017
+Conclusão,Documento,1,0.31,0.017
+Documento,Remessa + Expedição de documento + Procedência,1,3.03,0.017
+Conclusão,Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,1,0.31,0.017
+Remessa + Ato ordinatório + Expedição de documento,Petição + Publicação,1,12.5,0.017
+Conclusão,Remessa + Expedição de documento + Liminar,1,0.31,0.017
+Remessa + Expedição de documento + Liminar,Publicação,1,50.0,0.017
+Conclusão,Remessa + Emenda à Inicial,1,0.31,0.017
+Remessa + Emenda à Inicial,Publicação,1,100.0,0.017
+Publicação + Remessa + Expedição de documento + Outras Decisões,Expedição de documento,1,33.33,0.017
+Petição,Remessa + Conclusão + Ato ordinatório,1,0.16,0.017
+Remessa + Conclusão + Ato ordinatório,Publicação,1,100.0,0.017
+Ato ordinatório,Mero expediente,1,0.36,0.017
+Conclusão,Sem Resolução de Mérito,1,0.31,0.017
+Sem Resolução de Mérito,Expedição de documento + Remessa,1,100.0,0.017
+Distribuição,Publicação + Remessa + Ato ordinatório + Expedição de documento,1,1.45,0.017
+Publicação + Remessa + Ato ordinatório + Expedição de documento,Petição,1,100.0,0.017
+Petição,Mero expediente + Conclusão,1,0.16,0.017
+Mero expediente + Conclusão,Remessa,1,50.0,0.017
+Conclusão,Publicação,1,0.31,0.017
+Publicação,Publicação + Remessa + Liminar,1,0.12,0.017
+Publicação + Remessa + Liminar,Expedição de documento,1,100.0,0.017
+Conclusão + Petição,Expedição de documento + Segurança + Conclusão,1,1.06,0.017
+Expedição de documento + Segurança + Conclusão,Publicação + Remessa,1,33.33,0.017
+Ato ordinatório,Conclusão + Decurso de Prazo,1,0.36,0.017
+Conclusão + Decurso de Prazo,Expedição de documento + Não Acolhimento de Embargos de Declaração,1,9.09,0.017
+Distribuição,Petição + Remessa + Emenda à Inicial + Conclusão + Expedição de documento,1,1.45,0.017
+Petição + Remessa + Emenda à Inicial + Conclusão + Expedição de documento,Publicação,1,100.0,0.017
+Petição,Publicação + Expedição de documento + Remessa + Liminar,1,0.16,0.017
+Antecipação de tutela + Conclusão + Expedição de documento + Distribuição,Publicação + Remessa,1,100.0,0.017
+Ato ordinatório,Mero expediente + Conclusão + Trânsito em julgado,1,0.36,0.017
+Mero expediente + Conclusão + Trânsito em julgado,Remessa,1,100.0,0.017
+Distribuição,Remessa + Expedição de documento + Mero expediente + Conclusão,1,1.45,0.017
+Remessa + Expedição de documento,Conclusão + Expedição de documento + Redistribuição + Recebimento,1,5.56,0.017
+Conclusão + Expedição de documento + Redistribuição + Recebimento,Remessa + Outras Decisões,1,100.0,0.017
+Petição,Expedição de documento + Ato ordinatório + Mandado,1,0.16,0.017
+Expedição de documento + Ato ordinatório + Mandado,Petição,1,100.0,0.017
+Petição,Conclusão + Petição + Documento,1,0.16,0.017
+Conclusão + Petição + Documento,Conclusão,1,100.0,0.017
+Distribuição,Conclusão + Expedição de documento + Petição,1,1.45,0.017
+Conclusão + Expedição de documento + Petição,Remessa + Outras Decisões,1,100.0,0.017
+Conclusão + Decurso de Prazo,Expedição de documento + Decisão Interlocutória de Mérito,1,9.09,0.017
+Liminar + Conclusão + Expedição de documento,Ato ordinatório + Remessa,1,9.09,0.017
+Ato ordinatório + Remessa,Expedição de documento + Publicação,1,100.0,0.017
+Distribuição,Publicação + Remessa + Outras Decisões + Conclusão + Expedição de documento,1,1.45,0.017
+Publicação + Remessa + Outras Decisões + Conclusão + Expedição de documento,Remessa,1,100.0,0.017
+Remessa,Redistribuição,1,0.17,0.017
+Redistribuição,Conclusão + Expedição de documento,1,100.0,0.017
+Conclusão + Expedição de documento,Publicação + Expedição de documento + Remessa + Liminar,1,1.54,0.017
+Documento,Remessa + Expedição de documento + Outras Decisões,1,3.03,0.017
+Publicação,Publicação + Remessa + Ato ordinatório,1,0.12,0.017
+Expedição de documento + Procedência,Petição + Remessa,1,8.33,0.017
+Petição + Remessa,Ato ordinatório + Publicação,1,2.38,0.017
+Ato ordinatório + Publicação,Remessa,1,33.33,0.017
+Expedição de documento + Ato ordinatório + Decurso de Prazo,Remessa,1,20.0,0.017
+Distribuição,Publicação + Petição + Remessa + Ato ordinatório + Expedição de documento,1,1.45,0.017
+Publicação + Petição + Remessa + Ato ordinatório + Expedição de documento,Conclusão,1,100.0,0.017
+Conclusão,Remessa + Liminar,1,0.31,0.017
+Remessa + Liminar,Publicação,1,100.0,0.017
+Petição,Conclusão + Ato ordinatório,1,0.16,0.017
+Conclusão + Ato ordinatório,Publicação + Expedição de documento + Remessa + Liminar,1,100.0,0.017
+Publicação + Expedição de documento + Remessa + Liminar,Documento + Mandado,1,33.33,0.017
+Documento + Mandado,Expedição de documento + Ato ordinatório + Documento + Petição,1,33.33,0.017
+Expedição de documento + Ato ordinatório + Documento + Petição,Petição,1,100.0,0.017
+Documento,Julgamento em Diligência,1,3.03,0.017
+Julgamento em Diligência,Remessa,1,100.0,0.017
+Expedição de documento + Publicação,Mandado + Documento,1,2.78,0.017
+Mandado + Documento,Ato ordinatório,1,7.14,0.017
+Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Expedição de documento + Remessa,1,5.88,0.017
+Petição + Publicação,Mandado + Documento,1,2.08,0.017
+Mandado + Documento,Petição,1,7.14,0.017
+Mandado + Documento,Expedição de documento + Ato ordinatório,1,7.14,0.017
+Distribuição,Liminar + Expedição de documento + Conclusão,1,1.45,0.017
+Liminar + Expedição de documento + Conclusão,Expedição de documento + Remessa,1,100.0,0.017
+Petição,Publicação + Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.16,0.017
+Publicação + Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,Petição,1,100.0,0.017
+Conclusão,Expedição de documento + Decisão de Saneamento e Organização + Conclusão,1,0.31,0.017
+Expedição de documento + Decisão de Saneamento e Organização + Conclusão,Remessa,1,100.0,0.017
+Conclusão + Expedição de documento,Expedição de documento + Remessa + Liminar,1,1.54,0.017
+Expedição de documento + Remessa + Liminar,Publicação,1,100.0,0.017
+Conclusão + Documento,Remessa + Expedição de documento + Outras Decisões,1,12.5,0.017
+Expedição de documento + Remessa + Liminar + Conclusão + Distribuição,Publicação,1,100.0,0.017
+Liminar + Conclusão + Expedição de documento + Distribuição,Expedição de documento + Remessa,1,100.0,0.017
+Publicação + Remessa,Documento,1,2.86,0.017
+Petição,Petição + Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.16,0.017
+Petição + Expedição de documento + Outras Decisões + Conclusão + Documento,Remessa,1,100.0,0.017
+Conclusão,Expedição de documento + Improcedência + Conclusão,1,0.31,0.017
+Expedição de documento + Improcedência + Conclusão,Remessa,1,100.0,0.017
+Petição,Outras Decisões,1,0.16,0.017
+Petição,Remessa + Conclusão + Expedição de documento + Ato ordinatório,1,0.16,0.017
+Remessa + Conclusão + Expedição de documento + Ato ordinatório,Petição + Publicação,1,100.0,0.017
+Expedição de documento,Petição + Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,1,0.12,0.017
+Petição + Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,Publicação,1,100.0,0.017
+Outras Decisões + Conclusão + Distribuição,Redistribuição + Remessa + Petição,1,16.67,0.017
+Redistribuição + Remessa + Petição,Conclusão + Expedição de documento,1,100.0,0.017
+Conclusão + Expedição de documento,Publicação + Ato ordinatório + Remessa + Liminar,1,1.54,0.017
+Publicação + Ato ordinatório + Remessa + Liminar,Remessa,1,100.0,0.017
+Ato ordinatório + Documento,Expedição de documento,1,25.0,0.017
+Ato ordinatório,Remessa + Ato ordinatório,1,0.36,0.017
+Distribuição,Remessa + Gratuidade da Justiça + Conclusão + Expedição de documento,1,1.45,0.017
+Remessa + Gratuidade da Justiça + Conclusão + Expedição de documento,Publicação,1,100.0,0.017
+Liminar + Conclusão + Expedição de documento,Publicação + Remessa,1,9.09,0.017
+Publicação + Remessa,Conclusão + Petição,1,2.86,0.017
+Expedição de documento + Outras Decisões,Conclusão + Petição + Remessa,1,1.06,0.017
+Publicação,Expedição de documento + Procedência,1,0.12,0.017
+Liminar,Publicação + Remessa,1,20.0,0.017
+Petição,Petição + Expedição de documento + Ato ordinatório + Mandado + Documento,1,0.16,0.017
+Petição + Expedição de documento + Ato ordinatório + Mandado + Documento,Conclusão + Documento,1,50.0,0.017
+Conclusão + Documento,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,12.5,0.017
+Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Expedição de documento + Documento + Remessa,1,5.88,0.017
+Expedição de documento + Documento + Remessa,Publicação,1,100.0,0.017
+Publicação,Remessa + Ato ordinatório + Documento,1,0.12,0.017
+Conclusão + Documento,Documento,1,12.5,0.017
+Documento,Segurança,1,3.03,0.017
+Expedição de documento + Ato ordinatório,Remessa + Ato ordinatório + Petição,1,1.03,0.017
+Remessa + Ato ordinatório + Petição,Publicação,1,100.0,0.017
+Conclusão + Expedição de documento,Publicação + Ato ordinatório + Petição + Remessa + Liminar,1,1.54,0.017
+Publicação + Ato ordinatório + Petição + Remessa + Liminar,Expedição de documento,1,100.0,0.017
+Petição,Expedição de documento + Emenda a inicial + Conclusão + Petição,1,0.16,0.017
+Expedição de documento + Emenda a inicial + Conclusão + Petição,Ato ordinatório + Petição + Remessa + Mandado + Documento,1,100.0,0.017
+Ato ordinatório + Petição + Remessa + Mandado + Documento,Publicação,1,100.0,0.017
+Expedição de documento + Outras Decisões + Conclusão + Petição,Publicação + Petição + Remessa,1,10.0,0.017
+Publicação + Petição + Remessa,Petição + Expedição de documento,1,50.0,0.017
+Petição + Expedição de documento,Petição + Conclusão,1,12.5,0.017
+Expedição de documento,Petição + Expedição de documento + Ato ordinatório + Documento + Mandado,1,0.12,0.017
+Petição + Expedição de documento + Ato ordinatório + Documento + Mandado,Conclusão,1,100.0,0.017
+Petição,Expedição de documento + Segurança,1,0.16,0.017
+Remessa + Expedição de documento,Petição,1,5.56,0.017
+Petição + Publicação,Outras Decisões + Conclusão,1,2.08,0.017
+Outras Decisões + Conclusão,Acolhimento em Parte de Embargos de Declaração + Conclusão + Petição + Remessa,1,2.13,0.017
+Acolhimento em Parte de Embargos de Declaração + Conclusão + Petição + Remessa,Publicação,1,100.0,0.017
+Publicação,Expedição de documento + Remessa,1,0.12,0.017
+Conclusão + Decurso de Prazo,Expedição de documento + Procedência em Parte + Conclusão,1,9.09,0.017
+Expedição de documento + Procedência em Parte + Conclusão,Petição + Remessa,1,50.0,0.017
+Publicação,Expedição de documento + Outras Decisões + Documento + Conclusão + Petição,1,0.12,0.017
+Expedição de documento + Outras Decisões + Documento + Conclusão + Petição,Petição + Remessa,1,100.0,0.017
+Petição + Distribuição,Remessa + Liminar + Conclusão + Expedição de documento,1,33.33,0.017
+Distribuição,Remessa + Liminar + Conclusão + Expedição de documento,1,1.45,0.017
+Petição,Mandado + Documento,1,0.16,0.017
+Mandado + Documento,Petição + Conclusão + Expedição de documento + Ato ordinatório + Documento,1,7.14,0.017
+Petição + Conclusão + Expedição de documento + Ato ordinatório + Documento,Remessa + Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,1,100.0,0.017
+Remessa + Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,Conclusão,1,100.0,0.017
+Publicação,Expedição de documento + Segurança,1,0.12,0.017
+Remessa,Expedição de documento + Ato ordinatório + Petição + Publicação,1,0.17,0.017
+Expedição de documento + Ato ordinatório + Petição + Publicação,Petição,1,100.0,0.017
+Distribuição,Publicação + Expedição de documento + Remessa + Liminar + Conclusão,1,1.45,0.017
+Publicação + Expedição de documento + Remessa + Liminar + Conclusão,Expedição de documento,1,100.0,0.017
+Expedição de documento + Ato ordinatório + Decurso de Prazo,Expedição de documento,1,20.0,0.017
+Expedição de documento + Liminar + Conclusão,Publicação + Petição + Expedição de documento + Remessa,1,20.0,0.017
+Publicação + Petição + Expedição de documento + Remessa,Expedição de documento + Ato ordinatório,1,50.0,0.017
+Petição,Conclusão + Documento + Mandado,1,0.16,0.017
+Conclusão + Documento + Mandado,Expedição de documento + Segurança,1,100.0,0.017
+Expedição de documento + Segurança,Petição,1,12.5,0.017
+Conclusão + Publicação,Outras Decisões,1,10.0,0.017
+Outras Decisões + Conclusão + Expedição de documento,Petição + Redistribuição + Remessa,1,5.26,0.017
+Petição + Redistribuição + Remessa,Liminar + Conclusão + Expedição de documento,1,100.0,0.017
+Liminar + Conclusão + Expedição de documento,Expedição de documento + Remessa + Ato ordinatório,1,9.09,0.017
+Expedição de documento + Remessa + Ato ordinatório,Expedição de documento + Documento,1,33.33,0.017
+Expedição de documento + Documento,Publicação,1,25.0,0.017
+Liminar,Publicação + Expedição de documento + Remessa,1,20.0,0.017
+Conclusão,Expedição de precatório/rpv + Conclusão,1,0.31,0.017
+Remessa,Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,1,0.17,0.017
+Expedição de documento + Protocolo de Petição + Enviada ao Tribunal,Publicação,1,100.0,0.017
+Remessa + Ato ordinatório + Execução/Cumprimento de Sentença Iniciada (o),Publicação,1,100.0,0.017
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,1,0.12,0.017
+Publicação,Expedição de precatório/rpv + Conclusão,1,0.12,0.017
+Expedição de documento,Mero expediente + Conclusão + Decurso de Prazo,1,0.12,0.017
+Mero expediente + Conclusão + Decurso de Prazo,Expedição de documento + Remessa,1,100.0,0.017
+Expedição de documento,Remessa + Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,1,0.12,0.017
+Remessa + Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,Publicação,1,100.0,0.017
+Expedição de documento,Remessa + Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,1,0.12,0.017
+Remessa + Expedição de documento + Mero expediente + Conclusão + Decurso de Prazo,Publicação,1,100.0,0.017
+Recebimento,Remessa + Expedição de documento + Mero expediente + Conclusão,1,1.14,0.017
+Execução/Cumprimento de Sentença Iniciada (o),Petição + Ato ordinatório,1,1.45,0.017
+Expedição de documento,Expedição de precatório/rpv + Conclusão + Decurso de Prazo,1,0.12,0.017
+Expedição de precatório/rpv + Conclusão + Decurso de Prazo,Protocolo de Petição + Enviada ao Tribunal + Remessa,1,100.0,0.017
+Protocolo de Petição + Enviada ao Tribunal + Remessa,Publicação,1,100.0,0.017
+Publicação,Expedição de documento + Ato ordinatório + Decurso de Prazo,1,0.12,0.017
+Publicação,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal,1,0.12,0.017
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal,Expedição de documento + Ato ordinatório,1,100.0,0.017
+Remessa + Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Documento + Publicação,1,3.23,0.017
+Expedição de documento + Outras Decisões + Conclusão + Documento + Publicação,Remessa,1,100.0,0.017
+Remessa,Redistribuição + Remessa + Publicação,1,0.17,0.017
+Redistribuição + Remessa + Publicação,Conclusão + Expedição de documento,1,100.0,0.017
+Liminar,Expedição de documento + Remessa,1,20.0,0.017
+Expedição de documento + Outras Decisões + Conclusão + Documento,Petição + Remessa,1,14.29,0.017
+Petição + Remessa,Petição + Publicação,1,2.38,0.017
+Petição + Publicação,Remessa + Ato ordinatório,1,2.08,0.017
+Conclusão + Documento,Expedição de documento + Perda do objeto,1,12.5,0.017
+Distribuição,Liminar + Conclusão + Expedição de documento + Documento,1,1.45,0.017
+Liminar + Conclusão + Expedição de documento + Documento,Remessa,1,100.0,0.017
+Expedição de documento,,1,0.12,0.017
+,Petição,1,50.0,0.017
+Publicação,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,1,0.12,0.017
+Petição,Expedição de documento + Outras Decisões + Petição + Conclusão,1,0.16,0.017
+Expedição de documento + Outras Decisões + Petição + Conclusão, + Remessa,1,100.0,0.017
+ + Remessa,Remessa + Ato ordinatório + Publicação,1,100.0,0.017
+Expedição de documento + Publicação,Remessa + Ato ordinatório + Documento,1,2.78,0.017
+Distribuição,Conclusão + Expedição de documento + Petição + Remessa + Ato ordinatório,1,1.45,0.017
+Conclusão + Expedição de documento + Petição + Remessa + Ato ordinatório,Liminar + Publicação,1,100.0,0.017
+Liminar + Publicação,Expedição de documento + Remessa,1,100.0,0.017
+Expedição de documento + Liminar + Conclusão,Expedição de documento + Petição + Remessa,1,20.0,0.017
+Expedição de documento,Petição + Expedição de documento + Ato ordinatório + Mandado + Documento,1,0.12,0.017
+Petição + Expedição de documento + Ato ordinatório + Mandado + Documento,Conclusão,1,50.0,0.017
+Expedição de documento,Remessa + Liminar + Conclusão,1,0.12,0.017
+Petição,Expedição de documento + Ato ordinatório + Mandado + Documento,1,0.16,0.017
+Ato ordinatório + Expedição de documento + Distribuição,Remessa,1,100.0,0.017
+Publicação,Liminar + Conclusão + Expedição de documento + Petição,1,0.12,0.017
+Liminar + Conclusão + Expedição de documento + Petição,Remessa,1,100.0,0.017
+Distribuição,Petição + Ato ordinatório + Expedição de documento,1,1.45,0.017
+Petição + Ato ordinatório + Expedição de documento,Liminar + Conclusão + Expedição de documento + Remessa,1,100.0,0.017
+Liminar + Conclusão + Expedição de documento + Remessa,Petição + Publicação + Expedição de documento + Remessa,1,100.0,0.017
+Petição + Publicação + Expedição de documento + Remessa,Publicação,1,100.0,0.017
+Expedição de documento,Expedição de documento + Ato ordinatório + Mandado + Documento,1,0.12,0.017
+Distribuição,Remessa + Outras Decisões + Conclusão,1,1.45,0.017
+Petição + Publicação,Expedição de documento + Outras Decisões + Conclusão,1,2.08,0.017
+Expedição de documento + Outras Decisões + Conclusão,Remessa + Republicação,1,0.74,0.017
+Remessa + Republicação,Publicação,1,100.0,0.017
+Expedição de documento,Republicação,1,0.12,0.017
+Republicação,Remessa,1,100.0,0.017
+Conclusão,Expedição de documento + Impugnação ao cumprimento de sentença,1,0.31,0.017
+Expedição de documento + Impugnação ao cumprimento de sentença,Publicação + Remessa,1,100.0,0.017
+Publicação + Remessa,Remessa + Expedição de documento + Ato ordinatório,1,2.86,0.017
+Remessa,Expedição de documento + Improcedência + Conclusão + Publicação,1,0.17,0.017
+Expedição de documento + Improcedência + Conclusão + Publicação,Expedição de documento + Remessa,1,100.0,0.017
+Publicação,Execução/Cumprimento de Sentença Iniciada (o),1,0.12,0.017
+Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento,1,1.45,0.017
+Publicação + Remessa,Outras Decisões + Conclusão,1,2.86,0.017
+Petição + Publicação,Improcedência + Conclusão,1,2.08,0.017
+Improcedência + Conclusão,Expedição de documento + Remessa,1,100.0,0.017
+Ato ordinatório,Petição + Expedição de documento + Trânsito em julgado,1,0.36,0.017
+Petição + Expedição de documento + Trânsito em julgado,Conclusão,1,100.0,0.017
+Conclusão,Outras Decisões + Conclusão + Documento,1,0.31,0.017
+Outras Decisões + Conclusão + Documento,Remessa,1,50.0,0.017
+Improcedência,Expedição de documento + Remessa,1,25.0,0.017
+Ato ordinatório,Trânsito em julgado,1,0.36,0.017
+Trânsito em julgado,Outras Decisões + Conclusão,1,33.33,0.017
+Expedição de documento + Ato ordinatório,Expedição de documento + Outras Decisões + Documento + Conclusão,1,1.03,0.017
+Expedição de documento + Outras Decisões + Documento + Conclusão,Remessa,1,100.0,0.017
+Petição + Expedição de documento + Publicação,Conclusão,1,20.0,0.017
+Petição,Petição + Publicação,1,0.16,0.017
+Petição + Expedição de documento + Ato ordinatório,Remessa,1,25.0,0.017
+Conclusão,Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.31,0.017
+Protocolo de Petição + Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,Remessa,1,100.0,0.017
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Expedição de documento + Protocolo de Petição + Remessa,1,14.29,0.017
+Expedição de documento + Protocolo de Petição + Remessa,Publicação,1,100.0,0.017
+Conclusão + Petição,Remessa + Expedição de documento + Outras Decisões + Conclusão,1,1.06,0.017
+Outras Decisões + Conclusão + Distribuição + Documento,Publicação + Expedição de documento + Remessa,1,100.0,0.017
+Procedência em Parte,Outras Decisões + Expedição de documento + Conclusão + Petição + Remessa,1,50.0,0.017
+Outras Decisões + Expedição de documento + Conclusão + Petição + Remessa,Publicação + Remessa,1,100.0,0.017
+Outras Decisões + Conclusão + Expedição de documento,Petição + Remessa,1,5.26,0.017
+Ato ordinatório,Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.36,0.017
+Remessa + Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,Publicação,1,100.0,0.017
+Ato ordinatório,Provisório + Expedição de documento,1,0.36,0.017
+Provisório + Expedição de documento,Recebimento,1,50.0,0.017
+Outras Decisões + Conclusão + Expedição de documento,Petição + Expedição de documento + Remessa,1,5.26,0.017
+Petição + Expedição de documento + Remessa,Publicação,1,33.33,0.017
+Expedição de documento,Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,1,0.12,0.017
+Remessa + Expedição de documento + Outras Decisões + Conclusão + Documento,Conclusão + Petição + Publicação,1,100.0,0.017
+Publicação,Provisório + Expedição de documento,1,0.12,0.017
+Provisório + Expedição de documento,Petição,1,50.0,0.017
+Petição,Petição + Conclusão,1,0.16,0.017
+Expedição de documento + Outras Decisões + Conclusão,Petição + Conclusão + Remessa,1,0.74,0.017
+Petição + Conclusão + Remessa,Remessa + Petição + Expedição de documento + Outras Decisões + Publicação,1,100.0,0.017
+Remessa + Petição + Expedição de documento + Outras Decisões + Publicação,Publicação,1,100.0,0.017
+Ato ordinatório,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.36,0.017
+Outras Decisões + Conclusão,Expedição de documento,1,2.13,0.017
+Expedição de documento,Expedição de documento + Remessa + Ato ordinatório,1,0.12,0.017
+Expedição de documento + Remessa + Ato ordinatório,Publicação,1,33.33,0.017
+Distribuição,Outras Decisões + Conclusão + Indeferimento da petição inicial,1,1.45,0.017
+Outras Decisões + Conclusão + Indeferimento da petição inicial,Remessa,1,100.0,0.017
+Expedição de documento + Ato ordinatório + Documento,Expedição de documento + Remessa,1,14.29,0.017
+Conclusão + Expedição de documento,Decisão Interlocutória de Mérito,1,1.54,0.017
+Decisão Interlocutória de Mérito,Remessa,1,100.0,0.017
+Publicação,Ato ordinatório + Antecipação de tutela + Conclusão + Redistribuição + Remessa + Decurso de Prazo,1,0.12,0.017
+Ato ordinatório + Antecipação de tutela + Conclusão + Redistribuição + Remessa + Decurso de Prazo,Remessa,1,100.0,0.017
+Ato ordinatório + Petição,Expedição de documento,1,50.0,0.017
+Petição,Expedição de documento + Conclusão,1,0.16,0.017
+Expedição de documento + Conclusão,Expedição de documento + Outras Decisões,1,25.0,0.017
+Antecipação de tutela,Petição + Expedição de documento + Remessa,1,14.29,0.017
+Petição + Expedição de documento + Remessa,Outras Decisões + Conclusão + Publicação,1,33.33,0.017
+Outras Decisões + Conclusão + Publicação,Remessa,1,100.0,0.017
+Outras Decisões + Conclusão + Petição + Expedição de documento,Remessa + Expedição de documento + Ato ordinatório,1,50.0,0.017
+Publicação,Mandado + Documento,1,0.12,0.017
+Mandado + Documento,Expedição de documento + Outras Decisões + Conclusão + Petição,1,7.14,0.017
+Expedição de documento,Petição + Expedição de documento + Outras Decisões + Conclusão,1,0.12,0.017
+Petição + Expedição de documento + Outras Decisões + Conclusão,Petição + Remessa,1,50.0,0.017
+Improcedência,Publicação + Expedição de documento + Remessa,1,25.0,0.017
+Publicação + Expedição de documento + Remessa,Outras Decisões + Conclusão + Documento,1,8.33,0.017
+Outras Decisões + Conclusão + Documento,Expedição de documento,1,50.0,0.017
+Expedição de documento,Publicação + Expedição de documento + Remessa,1,0.12,0.017
+Publicação,Conclusão + Petição + Expedição de documento,1,0.12,0.017
+Conclusão + Petição + Expedição de documento,Outras Decisões,1,33.33,0.017
+Documento,Recebimento,1,3.03,0.017
+Conclusão + Distribuição,Antecipação de Tutela,1,10.0,0.017
+Antecipação de Tutela,Emenda a inicial + Conclusão + Petição + Remessa,1,100.0,0.017
+Emenda a inicial + Conclusão + Petição + Remessa,Remessa + Publicação,1,100.0,0.017
+Remessa + Publicação,Ato ordinatório + Documento + Publicação,1,100.0,0.017
+Ato ordinatório + Documento + Publicação,Remessa,1,100.0,0.017
+Publicação,Sem Resolução de Mérito + Conclusão + Expedição de documento,1,0.12,0.017
+Sem Resolução de Mérito + Conclusão + Expedição de documento,Publicação + Expedição de documento + Remessa,1,100.0,0.017
+Outras Decisões + Conclusão + Petição,Outras Decisões + Conclusão + Petição + Remessa,1,4.0,0.017
+Outras Decisões + Conclusão + Petição + Remessa,Expedição de documento + Remessa + Publicação,1,25.0,0.017
+Expedição de documento + Remessa + Publicação,Expedição de documento,1,100.0,0.017
+Petição + Decisão Interlocutória de Mérito + Conclusão + Expedição de documento + Distribuição,Remessa,1,100.0,0.017
+Conclusão + Publicação,Remessa + Decisão Interlocutória de Mérito + Conclusão,1,10.0,0.017
+Remessa + Decisão Interlocutória de Mérito + Conclusão,Publicação,1,100.0,0.017
+Publicação,Expedição de documento + Antecipação de tutela + Conclusão + Redistribuição + Remessa,1,0.12,0.017
+Expedição de documento + Antecipação de tutela + Conclusão + Redistribuição + Remessa,Expedição de documento + Remessa,1,100.0,0.017
+Outras Decisões,Publicação + Petição + Expedição de documento + Remessa,1,1.47,0.017
+Publicação + Petição + Expedição de documento + Remessa,Expedição de documento,1,50.0,0.017
+Expedição de documento,Expedição de documento + Não Acolhimento de Embargos de Declaração + Conclusão + Petição,1,0.12,0.017
+Expedição de documento + Não Acolhimento de Embargos de Declaração + Conclusão + Petição,Remessa,1,100.0,0.017
+Expedição de documento + Procedência,Expedição de documento + Remessa,1,8.33,0.017
+Decisão Interlocutória de Mérito + Conclusão + Expedição de documento + Distribuição,Remessa,1,100.0,0.017
+Publicação,Decisão Interlocutória de Mérito + Conclusão + Petição,1,0.12,0.017
+Decisão Interlocutória de Mérito + Conclusão + Petição,Conclusão + Petição + Remessa,1,100.0,0.017
+Publicação,Conclusão + Documento + Redistribuição + Remessa + Mero expediente,1,0.12,0.017
+Conclusão + Documento + Redistribuição + Remessa + Mero expediente,Expedição de documento + Antecipação de tutela + Publicação,1,100.0,0.017
+Expedição de documento + Antecipação de tutela + Publicação,Expedição de documento + Remessa,1,100.0,0.017
+Expedição de documento + Outras Decisões + Conclusão + Petição,Documento + Remessa,1,10.0,0.017
+Ato ordinatório,Remessa + Expedição de documento + Procedência,1,0.36,0.017
+Conclusão,Expedição de documento + Remessa + Antecipação de tutela,1,0.31,0.017
+Expedição de documento + Outras Decisões,Expedição de documento + Remessa,1,1.06,0.017
+Publicação + Remessa,Expedição de documento + Ato ordinatório + Documento,1,2.86,0.017
+Conclusão + Petição,Remessa + Expedição de documento + Outras Decisões,1,1.06,0.017
+Expedição de documento + Ato ordinatório + Documento,Expedição de documento,1,14.29,0.017
+Documento,Conclusão + Petição,1,3.03,0.017
+Petição + Expedição de documento + Publicação,Outras Decisões + Conclusão + Petição,1,20.0,0.017
+Expedição de documento + Remessa,Conclusão + Petição + Publicação,1,0.99,0.017
+Expedição de documento,Remessa + Outras Decisões + Conclusão + Petição,1,0.12,0.017
+Expedição de documento + Remessa + Outras Decisões,Conclusão + Petição + Publicação,1,7.69,0.017
+Conclusão + Petição + Publicação,Outras Decisões,1,20.0,0.017
+Liminar + Conclusão + Distribuição,Remessa,1,50.0,0.017
+Petição,Expedição de documento + Petição,1,0.16,0.017
+Expedição de documento + Petição,Petição,1,20.0,0.017
+Petição,Conclusão + Mandado + Documento,1,0.16,0.017
+Conclusão + Mandado + Documento,Outras Decisões,1,100.0,0.017
+Outras Decisões + Conclusão,Publicação + Expedição de documento + Ato ordinatório + Documento + Remessa,1,2.13,0.017
+Publicação + Expedição de documento + Ato ordinatório + Documento + Remessa,Publicação + Remessa,1,100.0,0.017
+Publicação + Remessa,Outras Decisões + Conclusão + Petição,1,2.86,0.017
+Outras Decisões + Conclusão + Expedição de documento,Publicação + Expedição de documento + Remessa,1,5.26,0.017
+Expedição de documento,Documento + Expedição de documento + Ato ordinatório,1,0.12,0.017
+Documento + Expedição de documento + Ato ordinatório,Publicação + Remessa,1,100.0,0.017
+Publicação + Remessa,Mandado + Documento,1,2.86,0.017
+Conclusão + Petição + Expedição de documento + Ato ordinatório,Outras Decisões,1,16.67,0.017
+Ato ordinatório,Mandado + Documento,1,0.36,0.017
+Outras Decisões + Conclusão + Expedição de documento,Expedição de documento + Remessa + Outras Decisões,1,5.26,0.017
+Conclusão + Expedição de documento,Segurança,1,1.54,0.017
+Expedição de documento + Ato ordinatório,Remessa + Expedição de documento,1,1.03,0.017
+Remessa + Expedição de documento,Outras Decisões + Conclusão + Recebimento,1,5.56,0.017
+Outras Decisões + Conclusão + Recebimento,Remessa,1,100.0,0.017
+Outras Decisões + Conclusão + Distribuição,Publicação + Remessa,1,16.67,0.017
+Publicação + Remessa,Outras Decisões + Conclusão + Expedição de documento,1,2.86,0.017
+Outras Decisões + Conclusão + Expedição de documento,Publicação + Liminar + Conclusão + Petição + Remessa,1,5.26,0.017
+Publicação + Liminar + Conclusão + Petição + Remessa,Documento + Expedição de documento + Remessa,1,100.0,0.017
+Expedição de documento,Remessa + Ato ordinatório + Documento,1,0.12,0.017
+Petição,Remessa + Expedição de documento + Petição,1,0.16,0.017
+Remessa + Expedição de documento + Petição,Recebimento,1,50.0,0.017
+Petição + Expedição de documento,Conclusão + Petição,1,12.5,0.017
+Distribuição,Conclusão + Petição,1,1.45,0.017
+Conclusão + Petição,Expedição de documento + Antecipação de tutela,1,1.06,0.017
+Procedência em Parte,Expedição de documento + Remessa,1,50.0,0.017
+Antecipação de tutela + Conclusão + Distribuição,Publicação + Expedição de documento + Remessa,1,50.0,0.017
+Outras Decisões,Petição + Expedição de documento + Remessa,1,1.47,0.017
+Petição + Expedição de documento + Remessa,Conclusão + Publicação,1,33.33,0.017
+Publicação,Expedição de documento + Conclusão,1,0.12,0.017
+Expedição de documento + Conclusão,Expedição de documento + Outras Decisões + Conclusão,1,25.0,0.017
+Expedição de documento,Outras Decisões + Conclusão + Petição + Remessa,1,0.12,0.017
+Outras Decisões + Conclusão + Petição + Remessa,Petição + Expedição de documento + Publicação,1,25.0,0.017
+Petição + Expedição de documento + Publicação,Conclusão + Petição,1,20.0,0.017
+Expedição de documento + Publicação,Remessa + Expedição de documento + Petição,1,2.78,0.017
+Remessa + Expedição de documento + Petição,Expedição de documento,1,50.0,0.017
+Antecipação de tutela + Conclusão + Distribuição,Expedição de documento + Remessa,1,50.0,0.017
+Outras Decisões + Conclusão,Conclusão + Petição + Expedição de documento + Remessa,1,2.13,0.017
+Conclusão + Petição + Expedição de documento + Remessa,Petição + Publicação,1,100.0,0.017
+Expedição de documento + Outras Decisões,Publicação + Petição + Remessa,1,1.06,0.017
+Publicação + Petição + Remessa,Expedição de documento,1,50.0,0.017
+Conclusão,Expedição de documento + Decisão de Saneamento e Organização,1,0.31,0.017
+Expedição de documento + Decisão de Saneamento e Organização,Remessa,1,100.0,0.017
+Expedição de documento,Expedição de documento + Ato ordinatório + Documento,1,0.12,0.017
+Expedição de documento,Documento + Remessa + Expedição de documento + Ato ordinatório,1,0.12,0.017
+Documento + Remessa + Expedição de documento + Ato ordinatório,Publicação,1,100.0,0.017
+Outras Decisões,Conclusão + Petição,1,1.47,0.017
+Conclusão + Petição,Remessa,1,1.06,0.017
+Expedição de documento + Publicação,Outras Decisões,1,2.78,0.017
+Conclusão + Petição + Expedição de documento,Expedição de documento + Outras Decisões,1,33.33,0.017
+Expedição de documento + Remessa,Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,1,0.99,0.017
+Outras Decisões + Conclusão + Petição + Expedição de documento,Remessa,1,50.0,0.017
+Expedição de documento,Remessa + Outras Decisões + Conclusão,1,0.12,0.017
+Remessa + Outras Decisões + Conclusão,Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,1,20.0,0.017
+Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,Expedição de documento + Remessa,1,25.0,0.017
+Petição,Remessa + Outras Decisões,1,0.16,0.017
+Outras Decisões + Conclusão + Expedição de documento,Documento + Expedição de documento + Remessa,1,5.26,0.017
+Petição,Expedição de documento + Remessa + Outras Decisões + Conclusão,1,0.16,0.017
+Expedição de documento + Remessa + Outras Decisões + Conclusão,Remessa + Documento + Expedição de documento + Ato ordinatório + Publicação,1,50.0,0.017
+Remessa + Documento + Expedição de documento + Ato ordinatório + Publicação,Publicação,1,100.0,0.017
+Conclusão + Petição,Conclusão + Petição,1,1.06,0.017
+Conclusão + Expedição de documento,Expedição de documento,1,1.54,0.017
+Outras Decisões + Conclusão + Petição,Expedição de documento,1,4.0,0.017
+Expedição de documento,Documento + Expedição de documento,1,0.12,0.017
+Documento + Expedição de documento,Conclusão + Expedição de documento,1,11.11,0.017
+Liminar + Conclusão + Distribuição,Expedição de documento + Remessa,1,50.0,0.017
+Expedição de documento,Expedição de documento + Outras Decisões + Petição,1,0.12,0.017
+Expedição de documento + Outras Decisões + Petição,Documento + Remessa,1,50.0,0.017
+Documento + Remessa,Outras Decisões + Conclusão + Petição + Publicação,1,33.33,0.017
+Outras Decisões,Expedição de documento + Remessa + Petição,1,1.47,0.017
+Expedição de documento + Remessa + Petição,Publicação,1,100.0,0.017
+Outras Decisões + Conclusão + Distribuição,Expedição de documento,1,16.67,0.017
+Petição,Remessa + Outras Decisões + Conclusão,1,0.16,0.017
+Expedição de documento,Remessa + Outras Decisões + Conclusão + Expedição de documento,1,0.12,0.017
+Remessa + Outras Decisões + Conclusão + Expedição de documento,Publicação,1,100.0,0.017
+Expedição de documento + Remessa + Outras Decisões,Documento + Remessa + Expedição de documento + Ato ordinatório + Publicação,1,7.69,0.017
+Documento + Remessa + Expedição de documento + Ato ordinatório + Publicação,Publicação,1,100.0,0.017
+Outras Decisões + Conclusão,Publicação + Remessa + Expedição de documento,1,2.13,0.017
+Publicação + Remessa + Expedição de documento,Expedição de documento,1,100.0,0.017
+Conclusão + Expedição de documento,Remessa + Outras Decisões,1,1.54,0.017
+Remessa + Outras Decisões,Expedição de documento,1,5.56,0.017
+Expedição de documento,Trânsito em julgado,1,0.12,0.017
+Conclusão + Expedição de documento,Expedição de documento + Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv,1,1.54,0.017
+Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Remessa + Expedição de documento + Protocolo de Petição,1,14.29,0.017
+Ato ordinatório,Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.36,0.017
+Conclusão + Expedição de documento,Expedição de documento + Outras Decisões + Conclusão,1,1.54,0.017
+Remessa + Expedição de documento + Ato ordinatório + Recebimento,Publicação,1,100.0,0.017
+Expedição de documento + Outras Decisões,Expedição de documento + Petição + Remessa,1,1.06,0.017
+Expedição de documento,Expedição de documento + Improcedência,1,0.12,0.017
+Conclusão + Documento,Conclusão,1,12.5,0.017
+Conclusão,Expedição de documento + Remessa + Improcedência,1,0.31,0.017
+Expedição de documento + Remessa + Improcedência,Publicação,1,100.0,0.017
+Conclusão + Recebimento,Remessa + Expedição de documento + Outras Decisões,1,33.33,0.017
+Expedição de documento,Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,1,0.12,0.017
+Conclusão,Remessa + Extinção,1,0.31,0.017
+Remessa + Extinção,Expedição de documento + Publicação,1,100.0,0.017
+Execução/Cumprimento de Sentença Iniciada (o),Remessa + Outras Decisões + Conclusão,1,1.45,0.017
+Expedição de documento + Ato ordinatório,Petição + Remessa,1,1.03,0.017
+Conclusão,Conclusão + Documento,1,0.31,0.017
+Conclusão + Documento,Outras Decisões,1,12.5,0.017
+Petição,Petição + Remessa + Expedição de documento + Outras Decisões + Conclusão,1,0.16,0.017
+Petição + Remessa + Expedição de documento + Outras Decisões + Conclusão,Publicação,1,100.0,0.017
+Publicação,Expedição de documento + Remessa + Ato ordinatório,1,0.12,0.017
+Expedição de documento + Remessa + Ato ordinatório,Expedição de documento + Publicação,1,33.33,0.017
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Outras Decisões,1,5.56,0.017
+Distribuição,Remessa + Expedição de documento + Incompetência + Conclusão,1,1.45,0.017
+Remessa + Expedição de documento + Incompetência + Conclusão,Publicação,1,100.0,0.017
+Publicação,Remessa + Documento,1,0.12,0.017
+Remessa + Documento,Liminar + Conclusão + Recebimento + Redistribuição,1,50.0,0.017
+Liminar + Conclusão + Recebimento + Redistribuição,Remessa,1,100.0,0.017
+Remessa,Remessa + Ato ordinatório + Publicação,1,0.17,0.017
+Expedição de documento,Outras Decisões + Conclusão + Mandado + Petição,1,0.12,0.017
+Outras Decisões + Conclusão + Mandado + Petição,Remessa,1,100.0,0.017
+Remessa,Expedição de documento + Outras Decisões + Conclusão + Petição + Publicação,1,0.17,0.017
+Expedição de documento,Expedição de documento + Segurança + Conclusão,1,0.12,0.017
+Expedição de documento + Segurança + Conclusão,Remessa,1,33.33,0.017
+Expedição de documento,Petição + Outras Decisões + Conclusão,1,0.12,0.017
+Petição + Outras Decisões + Conclusão,Conclusão,1,100.0,0.017
+Conclusão,Outras Decisões + Remessa,1,0.31,0.017
+Outras Decisões + Remessa,Expedição de documento + Publicação + Remessa,1,100.0,0.017
+Petição,Remessa + Expedição de documento + Ato ordinatório + Documento,1,0.16,0.017
+Remessa + Expedição de documento + Ato ordinatório + Documento,Documento + Publicação,1,20.0,0.017
+Documento + Publicação,Expedição de documento,1,100.0,0.017
+Outras Decisões + Conclusão,Expedição de documento + Publicação + Remessa,1,2.13,0.017
+Expedição de documento + Petição,Outras Decisões + Conclusão + Petição,1,20.0,0.017
+Conclusão + Petição + Expedição de documento + Ato ordinatório,Conclusão + Mandado + Documento + Petição + Expedição de documento + Outras Decisões,1,16.67,0.017
+Conclusão + Mandado + Documento + Petição + Expedição de documento + Outras Decisões,Mandado + Documento + Outras Decisões + Remessa,1,100.0,0.017
+Mandado + Documento + Outras Decisões + Remessa,Expedição de documento + Remessa + Ato ordinatório + Publicação,1,100.0,0.017
+Expedição de documento + Remessa + Ato ordinatório + Publicação,Petição + Publicação,1,100.0,0.017
+Expedição de documento,Conclusão + Petição + Remessa + Expedição de documento,1,0.12,0.017
+Conclusão + Petição + Remessa + Expedição de documento,Expedição de documento + Outras Decisões + Publicação,1,100.0,0.017
+Expedição de documento + Outras Decisões + Publicação,Remessa,1,100.0,0.017
+Expedição de documento + Publicação,Outras Decisões + Conclusão + Petição,1,2.78,0.017
+Expedição de documento,Expedição de documento + Outras Decisões + Conclusão + Mandado,1,0.12,0.017
+Expedição de documento + Outras Decisões + Conclusão + Mandado,Conclusão + Expedição de documento + Ato ordinatório + Petição + Remessa,1,100.0,0.017
+Conclusão + Expedição de documento + Ato ordinatório + Petição + Remessa,Publicação,1,100.0,0.017
+Publicação,Remessa + Outras Decisões + Expedição de documento,1,0.12,0.017
+Remessa + Outras Decisões + Expedição de documento,Petição + Expedição de documento + Publicação,1,100.0,0.017
+Petição + Expedição de documento + Publicação,Expedição de documento + Outras Decisões + Conclusão + Petição + Ato ordinatório,1,20.0,0.017
+Expedição de documento + Outras Decisões + Conclusão + Petição + Ato ordinatório,Petição + Remessa,1,100.0,0.017
+Petição + Remessa,Outras Decisões + Conclusão + Petição + Publicação,1,2.38,0.017
+Expedição de documento + Publicação,Outras Decisões + Conclusão + Petição + Remessa,1,2.78,0.017
+Outras Decisões + Conclusão + Petição + Remessa,Publicação + Expedição de documento,1,25.0,0.017
+Publicação + Expedição de documento,Expedição de documento,1,33.33,0.017
+Conclusão + Petição,Petição + Expedição de documento,1,1.06,0.017
+Conclusão + Petição,Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,1,1.06,0.017
+Ato ordinatório,Expedição de documento + Ato ordinatório + Documento,1,0.36,0.017
+Expedição de documento + Improcedência,Remessa,1,33.33,0.017
+Remessa,Outras Decisões + Conclusão + Petição + Publicação,1,0.17,0.017
+Outras Decisões + Conclusão + Petição + Publicação,Remessa,1,33.33,0.017
+Expedição de documento,Petição + Expedição de documento + Acolhimento de Embargos de Declaração,1,0.12,0.017
+Petição + Expedição de documento + Acolhimento de Embargos de Declaração,Remessa + Conclusão,1,100.0,0.017
+Remessa + Conclusão,Publicação,1,100.0,0.017
+Publicação,Expedição de documento + Remessa + Outras Decisões,1,0.12,0.017
+Recebimento,Expedição de documento + Ato ordinatório,1,1.14,0.017
+Expedição de documento,Expedição de precatório/rpv + Conclusão + Expedição de documento,1,0.12,0.017
+Expedição de precatório/rpv + Conclusão + Expedição de documento,Enviada ao Tribunal,1,100.0,0.017
+Enviada ao Tribunal,Protocolo de Petição + Expedição de documento,1,100.0,0.017
+Protocolo de Petição + Expedição de documento,Expedição de documento + Ato ordinatório,1,100.0,0.017
+Publicação,Antecipação de tutela + Conclusão + Petição,1,0.12,0.017
+Antecipação de tutela + Conclusão + Petição,Expedição de documento + Remessa,1,100.0,0.017
+Petição + Expedição de documento + Publicação,Expedição de documento,1,20.0,0.017
+Conclusão + Petição,Expedição de documento + Procedência,1,1.06,0.017
+Distribuição,Petição + Conclusão + Expedição de documento,1,1.45,0.017
+Petição + Conclusão + Expedição de documento,Petição,1,100.0,0.017
+Petição,Publicação + Remessa + Expedição de documento + Antecipação de tutela,1,0.16,0.017
+Publicação + Remessa + Expedição de documento + Antecipação de tutela,Expedição de documento,1,100.0,0.017
+Remessa,Outras Decisões + Conclusão + Recebimento + Redistribuição,1,0.17,0.017
+Outras Decisões + Conclusão + Recebimento + Redistribuição,Expedição de documento + Apensamento + Remessa,1,100.0,0.017
+Expedição de documento + Apensamento + Remessa,Publicação,1,100.0,0.017
+Expedição de documento + Publicação,,1,2.78,0.017
+,Conclusão,1,50.0,0.017
+Expedição de documento,Outras Decisões + Conclusão + Mandado + Documento + Petição,1,0.12,0.017
+Outras Decisões + Conclusão + Mandado + Documento + Petição,Remessa,1,100.0,0.017
+Expedição de documento,Petição + Conclusão,1,0.12,0.017
+Petição + Conclusão,Remessa + Outras Decisões,1,33.33,0.017
+Conclusão + Petição + Expedição de documento,Conclusão,1,33.33,0.017
+Documento + Expedição de documento,Expedição de documento + Ato ordinatório + Petição,1,11.11,0.017
+Expedição de documento + Ato ordinatório + Petição,Conclusão + Mandado + Documento + Petição,1,16.67,0.017
+Conclusão + Mandado + Documento + Petição,Expedição de documento + Outras Decisões + Conclusão,1,100.0,0.017
+Remessa,Conclusão + Petição + Publicação,1,0.17,0.017
+Conclusão + Petição + Publicação,Expedição de documento,1,20.0,0.017
+Conclusão + Distribuição,Emenda à Inicial,1,10.0,0.017
+Emenda à Inicial,Conclusão + Petição + Remessa,1,100.0,0.017
+Conclusão + Petição + Remessa,Ato ordinatório + Remessa + Liminar + Publicação,1,20.0,0.017
+Ato ordinatório + Remessa + Liminar + Publicação,Publicação,1,100.0,0.017
+Publicação,Remessa,1,0.12,0.017
+Petição,Documento + Ato ordinatório,1,0.16,0.017
+Documento + Ato ordinatório,Expedição de documento + Ato ordinatório + Petição,1,100.0,0.017
+Conclusão,Remessa + Segurança,1,0.31,0.017
+Remessa + Segurança,Publicação,1,100.0,0.017
+Conclusão + Redistribuição + Remessa + Expedição de documento + Outras Decisões + Distribuição,Antecipação de tutela + Remessa,1,100.0,0.017
+Antecipação de tutela + Remessa,Publicação + Remessa,1,100.0,0.017
+Petição + Publicação,Conclusão + Petição,1,2.08,0.017
+Expedição de documento + Procedência,Conclusão + Petição + Remessa,1,8.33,0.017
+Publicação,Remessa + Expedição de documento + Não Acolhimento de Embargos de Declaração,1,0.12,0.017
+Conclusão + Distribuição,Remessa + Ato ordinatório + Antecipação de tutela,1,10.0,0.017
+Remessa + Ato ordinatório + Antecipação de tutela,Expedição de documento + Petição + Publicação,1,100.0,0.017
+Expedição de documento + Petição + Publicação,Ato ordinatório,1,100.0,0.017
+Outras Decisões + Conclusão,Conclusão + Redistribuição + Remessa,1,2.13,0.017
+Conclusão + Redistribuição + Remessa,Expedição de documento + Remessa + Antecipação de tutela,1,100.0,0.017
+Conclusão,Conclusão + Petição + Remessa + Outras Decisões,1,0.31,0.017
+Conclusão + Petição + Remessa + Outras Decisões,Remessa + Antecipação de Tutela + Expedição de documento + Publicação,1,100.0,0.017
+Remessa + Antecipação de Tutela + Expedição de documento + Publicação,Publicação,1,100.0,0.017
+Expedição de documento + Remessa + Outras Decisões,Petição + Expedição de documento + Outras Decisões + Conclusão + Publicação,1,7.69,0.017
+Petição + Expedição de documento + Outras Decisões + Conclusão + Publicação,Remessa,1,100.0,0.017
+Distribuição,Antecipação de tutela + Conclusão,1,1.45,0.017
+Antecipação de tutela + Conclusão,Remessa + Expedição de documento + Ato ordinatório,1,100.0,0.017
+Remessa + Expedição de documento + Ato ordinatório,Conclusão + Petição + Publicação,1,4.55,0.017
+Conclusão + Petição + Publicação,Remessa + Antecipação de tutela,1,20.0,0.017
+Remessa + Antecipação de tutela,Remessa + Expedição de documento + Ato ordinatório + Publicação,1,100.0,0.017
+Remessa + Expedição de documento + Ato ordinatório + Publicação,Publicação,1,100.0,0.017
+Conclusão + Petição,Expedição de documento + Remessa + Antecipação de tutela,1,1.06,0.017
+Antecipação de tutela,Remessa + Ato ordinatório,1,14.29,0.017
+Conclusão + Distribuição,Incompetência,1,10.0,0.017
+Incompetência,Remessa,1,100.0,0.017
+Distribuição,Expedição de documento + Antecipação de tutela + Petição + Conclusão,1,1.45,0.017
+Expedição de documento + Antecipação de tutela + Petição + Conclusão,Remessa,1,100.0,0.017
+Expedição de documento + Mero expediente + Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa,1,100.0,0.017
+Conclusão,Remessa + Expedição de documento + Impugnação ao cumprimento de sentença,1,0.31,0.017
+Remessa + Expedição de documento + Impugnação ao cumprimento de sentença,Publicação,1,100.0,0.017
+Conclusão + Petição,Expedição de documento + Mero expediente,1,1.06,0.017
+Conclusão,Expedição de documento + Acolhimento de Embargos de Declaração,1,0.31,0.017
+Expedição de documento + Acolhimento de Embargos de Declaração,Remessa,1,100.0,0.017
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Documento + Petição,1,0.36,0.017
+Expedição de documento + Outras Decisões + Conclusão + Documento + Petição,Petição + Remessa,1,100.0,0.017
+Publicação,Remessa + Expedição de documento + Ato ordinatório + Outras Decisões + Conclusão,1,0.12,0.017
+Remessa + Expedição de documento + Ato ordinatório + Outras Decisões + Conclusão,Publicação + Petição,1,100.0,0.017
+Expedição de documento,Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.12,0.017
+Ato ordinatório,Definitivo + Expedição de documento + Trânsito em julgado,1,0.36,0.017
+Conclusão + Recebimento,Expedição de documento + Enviada ao Tribunal + Outras Decisões,1,33.33,0.017
+Expedição de documento + Enviada ao Tribunal + Outras Decisões,Remessa,1,50.0,0.017
+Ato ordinatório,Documento,1,0.36,0.017
+Conclusão,Expedição de documento + Enviada ao Tribunal + Outras Decisões,1,0.31,0.017
+Expedição de documento + Enviada ao Tribunal + Outras Decisões,Protocolo de Petição,1,50.0,0.017
+Remessa + Expedição de documento + Ato ordinatório + Documento,Publicação + Petição,1,20.0,0.017
+Publicação + Petição,Expedição de documento + Outras Decisões + Conclusão,1,16.67,0.017
+Documento,Remessa + Expedição de documento + Ato ordinatório,1,3.03,0.017
+Publicação,Expedição de documento + Documento + Petição,1,0.12,0.017
+Expedição de documento + Documento + Petição,Expedição de documento + Ato ordinatório,1,100.0,0.017
+Recebimento,Recebimento,1,1.14,0.017
+Petição + Remessa + Ato ordinatório + Expedição de documento,Expedição de documento + Antecipação de tutela + Conclusão + Publicação,1,50.0,0.017
+Expedição de documento + Antecipação de tutela + Conclusão + Publicação,Remessa,1,100.0,0.017
+Petição,Ato ordinatório + Mandado + Documento,1,0.16,0.017
+Ato ordinatório + Mandado + Documento,Petição,1,100.0,0.017
+Petição,Expedição de documento + Sem efeito suspensivo + Conclusão + Ato ordinatório,1,0.16,0.017
+Expedição de documento + Sem efeito suspensivo + Conclusão + Ato ordinatório,Petição + Remessa,1,100.0,0.017
+Conclusão + Publicação,Remessa + Expedição de documento + Segurança,1,10.0,0.017
+Remessa + Expedição de documento,Conclusão + Documento + Recebimento,1,5.56,0.017
+Conclusão + Documento + Recebimento,Expedição de documento + Mero expediente,1,100.0,0.017
+Mandado + Documento,Conclusão + Petição,1,7.14,0.017
+Conclusão + Petição,Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1,1.06,0.017
+Expedição de documento,Petição + Expedição de documento + Ato ordinatório + Decurso de Prazo,1,0.12,0.017
+Petição + Expedição de documento + Ato ordinatório + Decurso de Prazo,Conclusão,1,100.0,0.017
+Conclusão,Remessa + Expedição de documento + Segurança,1,0.31,0.017
+Expedição de documento + Ato ordinatório + Petição,Remessa,1,16.67,0.017
+Documento,Conclusão + Decurso de Prazo,1,3.03,0.017
+Conclusão + Decurso de Prazo,Não Acolhimento de Embargos de Declaração,1,9.09,0.017
+Não Acolhimento de Embargos de Declaração,Remessa,1,100.0,0.017
+Conclusão + Expedição de documento,Expedição de documento + Sem efeito suspensivo,1,1.54,0.017
+Expedição de documento + Sem efeito suspensivo,Remessa,1,100.0,0.017
+Petição,Petição + Expedição de documento + Sem efeito suspensivo + Conclusão,1,0.16,0.017
+Petição + Expedição de documento + Sem efeito suspensivo + Conclusão,Remessa,1,100.0,0.017
+Expedição de documento,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,0.12,0.017
+Publicação,Ato ordinatório + Documento,1,0.12,0.017
+Ato ordinatório + Documento,Documento + Expedição de documento,1,25.0,0.017
+Remessa + Expedição de documento + Ato ordinatório + Distribuição,Publicação,1,100.0,0.017
+Conclusão,Expedição de documento + Antecipação de tutela,1,0.31,0.017
+Petição,Publicação + Remessa + Expedição de documento + Ato ordinatório,1,0.16,0.017
+Publicação + Remessa + Expedição de documento + Ato ordinatório,Expedição de documento,1,100.0,0.017
+Conclusão,Remessa + Expedição de documento + Procedência em Parte,1,0.31,0.017
+Remessa + Expedição de documento + Procedência em Parte,Publicação,1,100.0,0.017
+Outras Decisões + Conclusão,Remessa + Expedição de documento,1,2.13,0.017
+Distribuição,Expedição de documento + Outras Decisões + Conclusão,1,1.45,0.017
+Petição,Remessa + Expedição de documento + Mero expediente + Conclusão + Ato ordinatório,1,0.16,0.017
+Remessa + Expedição de documento + Mero expediente + Conclusão + Ato ordinatório,Publicação,1,100.0,0.017
+Conclusão + Expedição de documento,Expedição de documento + Decisão Interlocutória de Mérito,1,1.54,0.017
+Publicação,Expedição de documento + Mero expediente + Conclusão + Petição,1,0.12,0.017
+Expedição de documento + Mero expediente + Conclusão + Petição,Remessa,1,100.0,0.017
+Petição,Expedição de documento + Não Acolhimento de Embargos de Declaração + Conclusão,1,0.16,0.017
+Expedição de documento + Não Acolhimento de Embargos de Declaração + Conclusão,Remessa,1,100.0,0.017
+Conclusão,Expedição de documento + Outras Decisões + Petição,1,0.31,0.017
+Expedição de documento + Outras Decisões + Petição,Remessa,1,50.0,0.017
+Conclusão + Expedição de documento,Expedição de documento + Perito + Conclusão,1,1.54,0.017
+Expedição de documento + Perito + Conclusão,Remessa,1,100.0,0.017
+Publicação + Petição,Remessa + Expedição de documento + Ato ordinatório,1,16.67,0.017
+Conclusão + Expedição de documento,Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,1,1.54,0.017
+Expedição de documento + Acolhimento de Embargos de Declaração + Conclusão,Remessa,1,100.0,0.017
+Distribuição,Remessa + Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,1.45,0.017
+Remessa + Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Publicação,1,100.0,0.017
+Expedição de documento + Procedência,Petição,1,8.33,0.017
+Publicação,Expedição de documento + Mero expediente + Conclusão,1,0.12,0.017
+Petição + Expedição de documento,Expedição de documento + Ato ordinatório + Conclusão,1,12.5,0.017
+Expedição de documento + Ato ordinatório + Conclusão,Expedição de documento,1,100.0,0.017
+Conclusão,Expedição de documento + Renúncia ao direito pelo autor,1,0.31,0.017
+Expedição de documento + Renúncia ao direito pelo autor,Remessa,1,100.0,0.017
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Antecipação de tutela,1,1.54,0.017
+Remessa + Expedição de documento + Antecipação de tutela,Publicação,1,100.0,0.017
+Conclusão + Petição,Documento,1,1.06,0.017
+Petição,Remessa + Expedição de documento + Outras Decisões,1,0.16,0.017
+Conclusão + Decurso de Prazo,Expedição de documento + Outras Decisões + Conclusão,1,9.09,0.017
+Documento,Conclusão + Expedição de documento,1,3.03,0.017
+Distribuição,Expedição de documento + Decisão Interlocutória de Mérito + Petição + Conclusão,1,1.45,0.017
+Expedição de documento + Decisão Interlocutória de Mérito + Petição + Conclusão,Remessa,1,100.0,0.017
+Petição,Petição + Expedição de documento + Outras Decisões + Conclusão,1,0.16,0.017
+Petição + Expedição de documento + Outras Decisões + Conclusão,Remessa,1,50.0,0.017
+Remessa,Remessa + Expedição de documento + Mero expediente + Conclusão + Publicação,1,0.17,0.017
+Remessa + Expedição de documento + Mero expediente + Conclusão + Publicação,Publicação,1,100.0,0.017
+Publicação + Petição,Execução/Cumprimento de Sentença Iniciada (o),1,16.67,0.017
+Conclusão + Expedição de documento,Antecipação de tutela,1,1.54,0.017
+Antecipação de tutela,Remessa,1,14.29,0.017
+Conclusão + Decurso de Prazo,Conclusão,1,9.09,0.017
+Conclusão + Expedição de documento,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1,1.54,0.017
+Expedição de documento,Ato ordinatório + Documento,1,0.12,0.017
+Conclusão,Enviada ao Tribunal + Expedição de precatório/rpv,1,0.31,0.017
+Enviada ao Tribunal + Expedição de precatório/rpv,Remessa + Expedição de documento + Protocolo de Petição,1,100.0,0.017
+Remessa + Mero expediente,Publicação,1,50.0,0.017
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Remessa + Expedição de documento + Outras Decisões,1,5.56,0.017
+Petição,Expedição de documento + Mero expediente,1,0.16,0.017
+Expedição de documento,Decisão Interlocutória de Mérito + Conclusão,1,0.12,0.017
+Decisão Interlocutória de Mérito + Conclusão,Remessa + Expedição de documento,1,100.0,0.017
+Expedição de documento + Extinção da execução ou do cumprimento da sentença,Petição + Remessa,1,12.5,0.017
+Publicação,Trânsito em julgado,1,0.12,0.017
+Conclusão,Petição + Remessa + Expedição de documento + Outras Decisões,1,0.31,0.017
+Petição + Remessa + Expedição de documento + Outras Decisões,Conclusão + Publicação,1,100.0,0.017
+Conclusão + Publicação,Remessa + Expedição de documento + Outras Decisões,1,10.0,0.017
+Publicação,Documento + Decurso de Prazo,1,0.12,0.017
+Documento + Decurso de Prazo,Expedição de documento + Documento,1,100.0,0.017
+Expedição de documento + Documento,Expedição de documento + Ato ordinatório,1,25.0,0.017
+Conclusão + Execução/Cumprimento de Sentença Iniciada (o),Expedição de documento + Mero expediente + Conclusão,1,5.56,0.017
+Remessa + Expedição de documento + Mero expediente,Petição + Publicação,1,25.0,0.017
+Petição,Petição + Expedição de documento,1,0.16,0.017
+Petição,Expedição de documento + Impugnação ao cumprimento de sentença + Conclusão,1,0.16,0.017
+Petição + Remessa,Expedição de documento + Outras Decisões + Conclusão + Publicação,1,2.38,0.017
+Expedição de documento + Outras Decisões + Conclusão + Publicação,Remessa,1,33.33,0.017
+Conclusão + Recebimento,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,33.33,0.017
+Expedição de documento,Petição + Ato ordinatório,1,0.12,0.017
+Conclusão + Publicação,Conclusão,1,10.0,0.017
+Petição + Distribuição,Conclusão + Expedição de documento,1,33.33,0.017
+Outras Decisões,Petição + Remessa,1,1.47,0.017
+Petição,Expedição de documento + Liminar,1,0.16,0.017
+Expedição de documento + Liminar,Remessa,1,100.0,0.017
+Remessa,Expedição de documento + Ato ordinatório + Publicação,1,0.17,0.017
+Expedição de documento + Ato ordinatório + Publicação,Remessa,1,100.0,0.017
+Expedição de documento + Ato ordinatório + Petição,Expedição de documento,1,16.67,0.017
+Conclusão + Petição,Expedição de documento + Remessa + Segurança,1,1.06,0.017
+Expedição de documento + Remessa + Segurança,Petição + Publicação,1,100.0,0.017
+Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Conclusão + Petição + Remessa,1,5.88,0.017
+Conclusão + Petição + Remessa,Expedição de documento + Decisão Interlocutória de Mérito + Publicação + Conclusão,1,20.0,0.017
+Expedição de documento + Decisão Interlocutória de Mérito + Publicação + Conclusão,Remessa,1,100.0,0.017
+Conclusão,Expedição de documento + Procedência em Parte + Conclusão,1,0.31,0.017
+Expedição de documento + Procedência em Parte + Conclusão,Remessa,1,50.0,0.017
+Distribuição,Expedição de documento + Liminar + Conclusão,1,1.45,0.017
+Expedição de documento + Mero expediente + Conclusão,Remessa + Documento,1,7.14,0.017
+Remessa + Documento,Publicação,1,50.0,0.017
+Conclusão,Decurso de Prazo,1,0.31,0.017
+Decurso de Prazo,Acolhimento de Embargos de Declaração + Conclusão,1,100.0,0.017
+Acolhimento de Embargos de Declaração + Conclusão,Remessa + Expedição de documento,1,100.0,0.017
+Ato ordinatório + Expedição de documento,Expedição de documento + Remessa,1,16.67,0.017
+Distribuição,Incompetência + Conclusão,1,1.45,0.017
+Incompetência + Conclusão,Remessa + Expedição de documento,1,100.0,0.017
+Remessa + Expedição de documento,Conclusão + Redistribuição + Recebimento,1,5.56,0.017
+Conclusão + Redistribuição + Recebimento,Expedição de documento + Antecipação de tutela + Conclusão,1,100.0,0.017
+Expedição de documento + Antecipação de tutela + Conclusão,Petição + Remessa,1,50.0,0.017
+Petição + Remessa,Expedição de documento + Publicação,1,2.38,0.017
+Petição,Conclusão + Petição + Expedição de documento + Ato ordinatório,1,0.16,0.017
+Conclusão + Petição + Expedição de documento + Ato ordinatório,Mandado + Documento,1,16.67,0.017
+Mandado + Documento,Conclusão,1,7.14,0.017
+Ato ordinatório,Expedição de documento + Segurança,1,0.36,0.017
+Outras Decisões + Conclusão + Distribuição,Remessa + Expedição de documento,1,16.67,0.017
+Remessa + Expedição de documento,Outras Decisões + Conclusão + Expedição de documento + Redistribuição + Recebimento,1,5.56,0.017
+Outras Decisões + Conclusão + Expedição de documento + Redistribuição + Recebimento,Remessa,1,100.0,0.017
+Ato ordinatório + Petição,Remessa,1,50.0,0.017
+Petição,Expedição de documento + Antecipação de tutela + Conclusão,1,0.16,0.017
+Expedição de documento + Antecipação de tutela + Conclusão,Remessa,1,50.0,0.017
+Mandado + Documento,Conclusão + Petição + Expedição de documento + Ato ordinatório,1,7.14,0.017
+Conclusão + Expedição de documento + Distribuição,Remessa + Outras Decisões,1,50.0,0.017
+Conclusão,Expedição de documento + Desistência,1,0.31,0.017
+Expedição de documento + Desistência,Remessa,1,100.0,0.017
+Remessa + Ato ordinatório,Publicação + Expedição de documento,1,3.23,0.017
+Publicação + Expedição de documento,Petição,1,33.33,0.017
+Expedição de documento + Ato ordinatório,Documento + Mandado,1,1.03,0.017
+Documento + Mandado,Documento,1,33.33,0.017
+Documento,Expedição de documento + Ato ordinatório,1,3.03,0.017
+Conclusão,Petição + Expedição de documento + Segurança + Conclusão,1,0.31,0.017
+Petição + Expedição de documento + Segurança + Conclusão,Expedição de documento + Remessa,1,100.0,0.017
+Expedição de documento + Remessa,Expedição de documento + Mero expediente + Publicação + Conclusão + Documento,1,0.99,0.017
+Expedição de documento + Mero expediente + Publicação + Conclusão + Documento,Remessa,1,100.0,0.017
+Distribuição,Petição + Remessa + Outras Decisões + Conclusão + Expedição de documento,1,1.45,0.017
+Petição + Remessa + Outras Decisões + Conclusão + Expedição de documento,Publicação,1,100.0,0.017
+Publicação,Conclusão + Petição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1,0.12,0.017
+Conclusão + Petição + Remessa + Expedição de documento + Decisão Interlocutória de Mérito,Conclusão + Publicação,1,100.0,0.017
+Conclusão + Publicação,Remessa + Expedição de documento + Decisão Interlocutória de Mérito,1,10.0,0.017
+Petição + Distribuição,Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,1,33.33,0.017
+Petição + Publicação,Conclusão + Petição + Expedição de documento + Ato ordinatório,1,2.08,0.017
+Conclusão + Petição + Expedição de documento + Ato ordinatório,Expedição de documento + Segurança + Conclusão,1,16.67,0.017
+Expedição de documento + Segurança + Conclusão,Petição + Remessa,1,33.33,0.017
+Expedição de documento + Outras Decisões + Conclusão,Documento + Remessa,1,0.74,0.017
+Conclusão + Expedição de documento,Remessa + Expedição de documento + Liminar,1,1.54,0.017
+Remessa + Expedição de documento + Liminar,Petição + Publicação,1,50.0,0.017
+Petição + Publicação,Petição + Expedição de documento + Ato ordinatório,1,2.08,0.017
+Petição + Expedição de documento + Ato ordinatório,Conclusão,1,25.0,0.017
+Conclusão + Expedição de documento + Distribuição,Outras Decisões,1,50.0,0.017
+Petição + Publicação,Remessa + Ato ordinatório + Expedição de documento,1,2.08,0.017
+Petição,Outras Decisões + Conclusão + Expedição de documento,1,0.16,0.017
+Outras Decisões + Conclusão + Expedição de documento,Petição + Publicação + Remessa,1,5.26,0.017
+Petição + Publicação + Remessa,Expedição de documento + Liminar + Petição + Conclusão + Publicação,1,50.0,0.017
+Expedição de documento + Liminar + Petição + Conclusão + Publicação,Remessa,1,50.0,0.017
+Expedição de documento,Documento + Mandado,1,0.12,0.017
+Documento + Mandado,Expedição de documento,1,33.33,0.017
+Conclusão,Petição + Expedição de documento + Decisão Interlocutória de Mérito,1,0.31,0.017
+Petição + Expedição de documento + Decisão Interlocutória de Mérito,Outras Decisões + Conclusão + Petição + Remessa,1,100.0,0.017
+Outras Decisões + Conclusão + Petição + Remessa,Petição + Publicação + Remessa,1,25.0,0.017
+Petição + Publicação + Remessa,Petição,1,50.0,0.017
+Expedição de documento + Decisão Interlocutória de Mérito + Conclusão,Publicação + Remessa,1,5.88,0.017
+Publicação + Remessa,Publicação,1,2.86,0.017
+Conclusão,Enviada ao Tribunal + Expedição de documento + Outras Decisões,1,0.31,0.017
+Enviada ao Tribunal + Expedição de documento + Outras Decisões,Protocolo de Petição,1,100.0,0.017
+Recebimento,Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv + Conclusão,1,1.14,0.017
+Protocolo de Petição + Remessa + Enviada ao Tribunal + Expedição de documento + Expedição de precatório/rpv + Conclusão,Publicação,1,100.0,0.017
+Recebimento,Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,1.14,0.017
+Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Protocolo de Petição + Remessa,1,100.0,0.017
+Protocolo de Petição + Remessa,Publicação,1,100.0,0.017
+Recebimento,Conclusão + Expedição de documento,1,1.14,0.017
+Publicação + Remessa,Ato ordinatório,1,2.86,0.017
+Definitivo + Expedição de documento + Trânsito em julgado,Remessa + Reativação,1,100.0,0.017
+Conclusão,Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,1,0.31,0.017
+Expedição de documento + Enviada ao Tribunal + Expedição de precatório/rpv,Remessa,1,100.0,0.017
+Protocolo de Petição,Petição,1,12.5,0.017
+Petição,Expedição de documento + deferimento + Conclusão,1,0.16,0.017
+Expedição de documento + deferimento + Conclusão,Retificado + Remessa,1,100.0,0.017
+Retificado + Remessa,Publicação,1,100.0,0.017
+Recebimento,Remessa + Outras Decisões + Conclusão,1,1.14,0.017
+Conclusão,Protocolo de Petição + Expedição de documento + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,1,0.31,0.017
+Protocolo de Petição + Expedição de documento + Remessa + Enviada ao Tribunal + Expedição de precatório/rpv + Conclusão,Publicação,1,100.0,0.017
+Expedição de precatório/rpv + Conclusão + Recebimento,Remessa,1,100.0,0.017
+Publicação,Protocolo de Petição + Enviada ao Tribunal + Expedição de documento,1,0.12,0.017
+Protocolo de Petição + Enviada ao Tribunal + Expedição de documento,Expedição de documento,1,100.0,0.017
+Ato ordinatório + Expedição de documento,Petição + Expedição de documento,1,16.67,0.017
+Petição + Expedição de documento,Ato ordinatório,1,12.5,0.017
+Recebimento,Enviada ao Tribunal + Expedição de documento + Outras Decisões + Conclusão,1,1.14,0.017
+Enviada ao Tribunal + Expedição de documento + Outras Decisões + Conclusão,Remessa,1,100.0,0.017
+Expedição de documento,Reativação,1,0.12,0.017
+Reativação,Ato ordinatório,1,100.0,0.017
+Expedição de documento,Ato ordinatório + Expedição de documento,1,0.12,0.017
+Ato ordinatório + Expedição de documento,Expedição de documento,1,16.67,0.017
+Expedição de documento,Protocolo de Petição + Enviada ao Tribunal,1,0.12,0.017
+Publicação + Remessa,Recebimento,1,2.86,0.017
+Expedição de documento,Extinção da execução ou do cumprimento da sentença,1,0.12,0.017
+Ato ordinatório,Ato ordinatório + Trânsito em julgado,1,0.36,0.017
+Ato ordinatório + Trânsito em julgado,Remessa,1,100.0,0.017
+Execução/Cumprimento de Sentença Iniciada (o),Remessa + Expedição de documento + Outras Decisões + Conclusão,1,1.45,0.017
+Ato ordinatório,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,1,0.36,0.017
+Expedição de documento,Remessa + Expedição de documento + Outras Decisões + Conclusão,1,0.12,0.017
+Petição,Expedição de documento + Outras Decisões + Conclusão + Decurso de Prazo,1,0.16,0.017
+Publicação,Publicação,1,0.12,0.017
+Conclusão + Decurso de Prazo,Remessa + Expedição de documento + Outras Decisões + Conclusão,1,9.09,0.017
+Petição,Expedição de documento + Extinção da execução ou do cumprimento da sentença + Conclusão,1,0.16,0.017
+Publicação + Remessa,Expedição de documento + Petição,1,2.86,0.017
+Expedição de documento + Petição,Conclusão,1,20.0,0.017
+Execução/Cumprimento de Sentença Iniciada (o),Mero expediente + Conclusão,1,1.45,0.017
+Mero expediente + Conclusão,Expedição de documento + Remessa,1,50.0,0.017
+Conclusão,Expedição de documento + Remessa + Mero expediente,1,0.31,0.017
+Expedição de documento + Remessa + Mero expediente,Publicação,1,100.0,0.017
+Mero expediente + Conclusão + Petição,Outras Decisões + Petição + Conclusão + Decurso de Prazo + Remessa,1,50.0,0.017
+Outras Decisões + Petição + Conclusão + Decurso de Prazo + Remessa,Publicação + Remessa,1,100.0,0.017
+Publicação + Remessa,Conclusão + Recebimento + Petição + Publicação,1,2.86,0.017
+Conclusão + Recebimento + Petição + Publicação,Mero expediente,1,100.0,0.017
+Mero expediente,Expedição de documento,1,12.5,0.017
+Petição,Remessa + Outras Decisões + Conclusão + Petição,1,0.16,0.017
+Remessa + Mero expediente,Publicação + Expedição de documento,1,50.0,0.017
+Publicação + Expedição de documento,Ato ordinatório,1,33.33,0.017
+Mero expediente + Conclusão + Petição,Remessa,1,50.0,0.017
+Remessa,Definitivo + Expedição de documento + Publicação,1,0.17,0.017
+Definitivo + Expedição de documento + Publicação,Definitivo + Baixa Definitiva,1,100.0,0.017

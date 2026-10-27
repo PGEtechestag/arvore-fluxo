@@ -1,0 +1,29 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00379747220248260053",
+    "num_processo": "0037974-72.2024.8.26.0053",
+    "num_processo_sem_formatacao": "00379747220248260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Cumprimento de sentença",
+    "codigo_classe": 156,
+    "assunto": "Anulação de Débito Fiscal",
+    "outros_assuntos": [],
+    "orgao_julgador": "04 FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 10555,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2024-12-19T13:25:52.000Z",
+    "data_hora_ultima_atualizacao": "2025-01-10T10:49:17.588Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "19/12/2024": [
+      [
+        "Execução/Cumprimento de Sentença Iniciada (o)",
+        ""
+      ]
+    ]
+  }
+}

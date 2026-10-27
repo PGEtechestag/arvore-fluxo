@@ -1,0 +1,102 @@
+==============================================================================
+ASSUNTOS MAIS COMUNS — base: JSONs de processos (outputs_json)
+JSONs lidos: 3752 (com erro: 0) | processos distintos: 3750 | assuntos distintos: 279
+Anos: [2023, 2024, 2025] | Órgãos: 4
+==============================================================================
+
+  #  ASSUNTO                                                PROCS       %
+------------------------------------------------------------------------------
+  1  Multas e demais Sanções                                  421   11.2%
+  2  Valor da Execução / Cálculo / Atualização                285    7.6%
+  3  Anulação de Débito Fiscal                                267    7.1%
+  4  Garantias Constitucionais                                243    6.5%
+  5  Suspensão da Exigibilidade                               198    5.3%
+------------------------------------------------------------------------------
+
+POR ÓRGÃO JULGADOR (top 10 assuntos de cada)
+
+### 04 FAZENDA PUBLICA DE CENTRAL
+        93  Anulação de Débito Fiscal
+        77  Suspensão da Exigibilidade
+        70  Multas e demais Sanções
+        63  Valor da Execução / Cálculo / Atualização
+        60  Fazenda Pública
+        34  Concurso Público / Edital
+        29  Garantias Constitucionais
+        28  Repetição de indébito
+        23  Tratamento da Própria Saúde
+        22  Anulação
+
+### 08 FAZENDA PUBLICA DE CENTRAL
+        94  Anulação de Débito Fiscal
+        80  Multas e demais Sanções
+        69  Suspensão da Exigibilidade
+        60  Valor da Execução / Cálculo / Atualização
+        49  Garantias Constitucionais
+        47  DIREITO CIVIL
+        38  Obrigação de Fazer / Não Fazer
+        37  Repetição de indébito
+        34  Anulação
+        22  Pagamento
+
+### 13 FAZENDA PUBLICA DE CENTRAL
+       268  Multas e demais Sanções
+       164  Garantias Constitucionais
+       150  Valor da Execução / Cálculo / Atualização
+       110  Obrigação de Fazer / Não Fazer
+        59  Anulação de Débito Fiscal
+        51  Suspensão da Exigibilidade
+        39  Correção Monetária
+        36  Gratificação Incorporada / Quintos e Décimos / VPNI
+        30  Fazenda Pública
+        23  Pagamento
+
+### SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL
+        37  Pagamento
+        23  Obrigação de Fazer / Não Fazer
+        21  Anulação de Débito Fiscal
+        14  (sem assunto)
+        12  Valor da Execução / Cálculo / Atualização
+         9  Repetição de indébito
+         8  Adicional de Insalubridade
+         7  Licença-Prêmio
+         6  Adicional por Tempo de Serviço
+         6  Aposentadoria
+
+POR ANO (top 10 assuntos de cada)
+
+### 2023
+       133  Garantias Constitucionais
+       124  Anulação de Débito Fiscal
+       100  Valor da Execução / Cálculo / Atualização
+        70  Obrigação de Fazer / Não Fazer
+        66  Multas e demais Sanções
+        48  Repetição de indébito
+        46  Correção Monetária
+        45  Suspensão da Exigibilidade
+        36  Pagamento
+        32  Fazenda Pública
+
+### 2024
+       344  Multas e demais Sanções
+       137  Suspensão da Exigibilidade
+       135  Anulação de Débito Fiscal
+       123  Valor da Execução / Cálculo / Atualização
+        94  Garantias Constitucionais
+        89  Obrigação de Fazer / Não Fazer
+        69  Fazenda Pública
+        64  Pagamento
+        41  Anulação
+        39  Repetição de indébito
+
+### 2025
+        62  Valor da Execução / Cálculo / Atualização
+        18  Obrigação de Fazer / Não Fazer
+        16  Suspensão da Exigibilidade
+        16  Garantias Constitucionais
+        11  Multas e demais Sanções
+         8  Anulação de Débito Fiscal
+         8  Fazenda Pública
+         8  Obrigações
+         6  CNH - Carteira Nacional de Habilitação
+         5  Repetição de indébito

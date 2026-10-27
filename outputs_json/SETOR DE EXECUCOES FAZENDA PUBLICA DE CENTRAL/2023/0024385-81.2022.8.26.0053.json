@@ -1,0 +1,101 @@
+{
+  "dados": {
+    "id_datajud": "TJSP_G1_00243858120228260053",
+    "num_processo": "0024385-81.2022.8.26.0053",
+    "num_processo_sem_formatacao": "00243858120228260053",
+    "tribunal": "TJSP",
+    "grau": "G1",
+    "classe": "Precatório",
+    "codigo_classe": 1265,
+    "assunto": null,
+    "outros_assuntos": [],
+    "orgao_julgador": "SETOR DE EXECUCOES FAZENDA PUBLICA DE CENTRAL",
+    "codigo_orgao_julgador": 11647,
+    "codigo_municipio_ibge": null,
+    "sistema": "SAJ",
+    "formato": "Eletrônico",
+    "data_ajuizamento": "2023-12-07T11:11:08.000Z",
+    "data_hora_ultima_atualizacao": "2024-12-13T05:46:53.796Z",
+    "nivel_sigilo": 0
+  },
+  "movimentacoes": {
+    "04/11/2024": [
+      [
+        "Definitivo",
+        ""
+      ],
+      [
+        "Expedição de documento",
+        "tipo_de_documento: Certidão"
+      ]
+    ],
+    "22/05/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "21/05/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "20/05/2024": [
+      [
+        "Decisão Interlocutória de Mérito",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "15/04/2024": [
+      [
+        "Protocolo de Petição",
+        ""
+      ]
+    ],
+    "22/02/2024": [
+      [
+        "Protocolo de Petição",
+        ""
+      ]
+    ],
+    "17/02/2024": [
+      [
+        "Publicação",
+        ""
+      ]
+    ],
+    "16/02/2024": [
+      [
+        "Enviada ao Tribunal",
+        ""
+      ]
+    ],
+    "15/02/2024": [
+      [
+        "Remessa",
+        "motivo_da_remessa: outros motivos"
+      ]
+    ],
+    "14/02/2024": [
+      [
+        "Expedição de precatório/rpv",
+        ""
+      ],
+      [
+        "Conclusão",
+        "tipo_de_conclusao: para decisão"
+      ]
+    ],
+    "07/12/2023": [
+      [
+        "Recebimento",
+        ""
+      ]
+    ]
+  }
+}
